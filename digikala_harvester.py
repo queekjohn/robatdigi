@@ -16,7 +16,7 @@ if hasattr(sys.stdout, 'reconfigure'):
 
 # =========================================================
 # Evazar Industrial Harvester - Digikala to WP Queue
-# Version: 1.3.0 (Smart Price Slicing & Pre-flight Deduplication)
+# Version: 1.3.1 (Authenticated Queue Ingestion & Fail-Fast Error Handling)
 # Author: Moblak / Antigravity
 # =========================================================
 
@@ -37,6 +37,19 @@ SESSION.mount("https://", _adapter)
 SESSION.mount("http://", _adapter)
 SESSION.headers.update(HEADERS)
 
+# Internal EVazar queue authentication.
+# Never hard-code this secret in source code or repository.
+INTERNAL_TOKEN_ENV = "EVAZAR_INTERNAL_TOKEN"
+
+def configure_evazar_auth():
+    token = os.environ.get(INTERNAL_TOKEN_ENV, "").strip()
+    if not token:
+        print(f"[-] Authentication Error: environment variable {INTERNAL_TOKEN_ENV} is not set.")
+        print("[!] Set the same internal token configured in EVazar before running the harvester.")
+        return False
+    SESSION.headers.update({"X-Evazar-Internal-Token": token})
+    return True
+
 EXISTING_DKPS = set()
 
 def fetch_existing_dkps(wp_base_url):
@@ -44,16 +57,27 @@ def fetch_existing_dkps(wp_base_url):
     try:
         print(f"[*] Pre-flight Check: Fetching existing DKPs from {endpoint} ...")
         resp = SESSION.get(endpoint, timeout=30)
+
         if resp.status_code == 200:
             data = resp.json()
             if data.get('success'):
                 dkps = data.get('dkps', [])
                 EXISTING_DKPS.update(str(d) for d in dkps)
                 print(f"[+] Loaded {len(EXISTING_DKPS)} existing DKPs. They will be skipped automatically.")
-                return
-        print(f"[-] Pre-flight warning: Endpoint returned {resp.status_code}")
+                return True
+            print("[-] Pre-flight Error: WordPress returned an unsuccessful response.")
+            return False
+
+        if resp.status_code in (401, 403):
+            print(f"[-] Authentication Error: existing-dkps returned HTTP {resp.status_code}.")
+            print("[!] Check that EVAZAR_INTERNAL_TOKEN matches the token configured in EVazar.")
+            return False
+
+        print(f"[-] Pre-flight Error: Endpoint returned HTTP {resp.status_code}")
+        return False
     except Exception as e:
-        print(f"[-] Failed to fetch existing DKPs (Continuing without local deduplication): {e}")
+        print(f"[-] Pre-flight Error: Failed to fetch existing DKPs: {e}")
+        return False
 
 def parse_digikala_url(url, only_available=False):
     url = url.strip()
@@ -210,13 +234,19 @@ def recursive_scan(base_url, p_min, p_max, all_extracted_items, min_price_toman,
 def push_to_wordpress(items, wp_api_url):
     try:
         payload = {"items": items}
-        resp = requests.post(wp_api_url, json=payload, timeout=20)
+        resp = SESSION.post(wp_api_url, json=payload, timeout=20)
+
         if resp.status_code == 200:
             res_data = resp.json()
             print(f"[+] Successfully Sent | Inserted: {res_data.get('inserted')} | Skipped: {res_data.get('skipped')}")
             return True
-        else:
-            print(f"[-] WP Error: Code {resp.status_code} - {resp.text}")
+
+        if resp.status_code in (401, 403):
+            print(f"[-] Authentication Error: WordPress queue returned HTTP {resp.status_code}.")
+            print("[!] Check that EVAZAR_INTERNAL_TOKEN matches the token configured in EVazar.")
+            return False
+
+        print(f"[-] WP Error: Code {resp.status_code} - {resp.text}")
     except Exception as e:
         print(f"[-] Connection to WP Failed: {e}")
     return False
@@ -236,6 +266,9 @@ def main():
     
     args = parser.parse_args()
     
+    if not configure_evazar_auth():
+        sys.exit(2)
+
     api_base_url = parse_digikala_url(args.url, only_available=args.only_available)
     print(f"[*] Extracted API: {api_base_url}")
     print(f"[*] WP Endpoint: {args.wp}")
@@ -244,7 +277,9 @@ def main():
     print("-" * 50)
     
     # Pre-flight duplicate prevention
-    fetch_existing_dkps(args.wp)
+    if not fetch_existing_dkps(args.wp):
+        print("[-] Harvester stopped before scanning because WordPress authentication failed.")
+        sys.exit(3)
     print("-" * 50)
     
     all_valid_items = []
