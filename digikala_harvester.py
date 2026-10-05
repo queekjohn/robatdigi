@@ -306,10 +306,13 @@ def main():
     for i in range(0, len(all_valid_items), BATCH_SIZE):
         batch = all_valid_items[i:i + BATCH_SIZE]
         print(f"[*] Sending Package {i//BATCH_SIZE + 1} ({len(batch)} items)...")
-        push_to_wordpress(batch, args.wp)
+        if not push_to_wordpress(batch, args.wp):
+            print(f"[-] Harvester stopped: Package {i//BATCH_SIZE + 1} was not accepted by WordPress.")
+            print("[!] No further batches will be sent.")
+            sys.exit(4)
         time.sleep(1)
-        
-    print("\n[+] Operation finished successfully! WordPress Background Cron will start processing them.")
+
+    print("\n[+] Operation finished successfully! All batches were accepted by WordPress. Background Cron will start processing them.")
 
 if __name__ == "__main__":
     main()
