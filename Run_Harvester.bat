@@ -31,6 +31,13 @@ if /I "%ONLY_AVAIL%"=="Y" (
 )
 
 echo.
+if "%EVAZAR_INTERNAL_TOKEN%"=="" (
+    echo [X] EVAZAR_INTERNAL_TOKEN is not set!
+    echo [!] Set the same internal token configured in EVazar, then run again.
+    pause
+    exit /b 2
+)
+
 echo =========================================================
 echo [*] Starting Harvester... Please wait...
 echo =========================================================
