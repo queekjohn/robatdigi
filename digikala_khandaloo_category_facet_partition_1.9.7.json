@@ -1,0 +1,4828 @@
+{
+  "version": "1.9.7",
+  "read_only": true,
+  "no_evazar_upload": true,
+  "target": {
+    "category_id": 6484,
+    "category_code": "brush-and-makeup-accesories",
+    "brand_id": 30353,
+    "brand_code": "khandaloo",
+    "price_rial": 1590000,
+    "price_toman": 159000
+  },
+  "source_facet_count": 474,
+  "baseline": {
+    "total_items": 20465,
+    "total_pages": 500
+  },
+  "results": [
+    {
+      "id": 18,
+      "code": "notebook-netbook-ultrabook",
+      "title_fa": "لپ تاپ و الترابوک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 25,
+      "code": "speaker",
+      "title_fa": "اسپیکر (بلندگو)",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 26,
+      "code": "mouse",
+      "title_fa": "ماوس (موشواره)",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 27,
+      "code": "keyboard",
+      "title_fa": "کیبورد (صفحه کلید)",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 64,
+      "code": "usb-flash-memory",
+      "title_fa": "فلش مموری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 76,
+      "code": "cell-phone-screen-guard",
+      "title_fa": "محافظ صفحه نمایش گوشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 77,
+      "code": "cell-phone-pouch-cover",
+      "title_fa": "کیف و کاور گوشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 79,
+      "code": "cell-phone-battery",
+      "title_fa": "باتری گوشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 80,
+      "code": "cell-phone-data-cable",
+      "title_fa": "کابل شارژ و مبدل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 81,
+      "code": "cell-phone-holder",
+      "title_fa": "پایه نگهدارنده گوشی و تبلت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 82,
+      "code": "mobile-phones-tablets-and-headphones-accessories",
+      "title_fa": "قطعات جانبی موبایل و تبلت و هدفون",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 86,
+      "code": "tablet-screen-guard",
+      "title_fa": "محافظ صفحه نمایش تبلت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 87,
+      "code": "tablet-bag-and-cover",
+      "title_fa": "کیف و کاور تبلت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 97,
+      "code": "laptop-bag",
+      "title_fa": "کیف و کاور لپ تاپ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 100,
+      "code": "mouse-pad",
+      "title_fa": "ماوس پد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 156,
+      "code": "clocks",
+      "title_fa": "ساعت دیواری و ایستاده",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 204,
+      "code": "network-cam",
+      "title_fa": "دوربین های امنیتی و نظارتی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 211,
+      "code": "headphone",
+      "title_fa": "هدفون، هدست و هندزفری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 219,
+      "code": "gaming-console-accessories",
+      "title_fa": "لوازم جانبی کنسول بازی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 1271,
+      "code": "car-charger",
+      "title_fa": "شارژر تبلت و موبایل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 1272,
+      "code": "power-bank",
+      "title_fa": "پاوربانک (شارژر همراه)",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 1289,
+      "code": "power-strip",
+      "title_fa": "چندراهی برق و محافظ ولتاژ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 2400,
+      "code": "brush",
+      "title_fa": "برس مو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 2401,
+      "code": "hair-drier",
+      "title_fa": "سشوار",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 2403,
+      "code": "water-filters",
+      "title_fa": "تصفیه کننده آب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5585,
+      "code": "network-video-recorder",
+      "title_fa": "ضبط‌کننده ویدئویی دوربین‌های امنیتی و نظارتی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5604,
+      "code": "audio-and-video-accessories",
+      "title_fa": "سایر لوازم جانبی صوتی و تصویری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5725,
+      "code": "manicure-pedicure",
+      "title_fa": "مانیکور، پدیکور",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5751,
+      "code": "car-player",
+      "title_fa": "دستگاه پخش خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5752,
+      "code": "car-speaker",
+      "title_fa": "بلندگوی خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5812,
+      "code": "tv-tables",
+      "title_fa": "میز تلویزیون",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5848,
+      "code": "smart-watch",
+      "title_fa": "ساعت هوشمند",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5857,
+      "code": "in-car-accessories",
+      "title_fa": "سایر لوازم خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5865,
+      "code": "beauty-accesories",
+      "title_fa": "سایر تجهیزات زیبایی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5871,
+      "code": "accessory",
+      "title_fa": "لوازم جانبی قطعات کامپیوتر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5880,
+      "code": "standard-batteries",
+      "title_fa": "باتری استاندارد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5919,
+      "code": "magazine",
+      "title_fa": "مجلات خارجی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5928,
+      "code": "incar-accessories",
+      "title_fa": "لوازم جانبی صوتی و تصویری خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5962,
+      "code": "stationerybundles",
+      "title_fa": "بسته های لوازم تحریر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5979,
+      "code": "marker",
+      "title_fa": "ماژیک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5980,
+      "code": "pen",
+      "title_fa": "خودکار و روان نویس",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5982,
+      "code": "pencil",
+      "title_fa": "مداد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5983,
+      "code": "mechanical-pencils",
+      "title_fa": "مداد نوکی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5986,
+      "code": "sharpener",
+      "title_fa": "تراش",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5987,
+      "code": "cleaners",
+      "title_fa": "پاک کن و غلط گیر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5988,
+      "code": "glue",
+      "title_fa": "چسب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5992,
+      "code": "stamp",
+      "title_fa": "مهر و استامپ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 5993,
+      "code": "ruler",
+      "title_fa": "خط کش",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6000,
+      "code": "pencilcase",
+      "title_fa": "جامدادی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6004,
+      "code": "notebook",
+      "title_fa": "دفتر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6005,
+      "code": "paper",
+      "title_fa": "کاغذ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6014,
+      "code": "desktop-office-products",
+      "title_fa": "لوازم اداری رومیزی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6017,
+      "code": "bags",
+      "title_fa": "کیف و کوله مدرسه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6021,
+      "code": "trolley-case-and-luggage",
+      "title_fa": "چمدان",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6023,
+      "code": "bag-and-backpack",
+      "title_fa": "کیف و کوله سفری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6024,
+      "code": "whiteboard",
+      "title_fa": "تخته",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6029,
+      "code": "intellectual-game",
+      "title_fa": "بازی فکری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6030,
+      "code": "educational-game",
+      "title_fa": "بازی آموزشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6033,
+      "code": "building",
+      "title_fa": "ساختنی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6035,
+      "code": "puzzle",
+      "title_fa": "پازل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6042,
+      "code": "doll",
+      "title_fa": "عروسک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6044,
+      "code": "doll-house",
+      "title_fa": "آشنایی با فنون",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6048,
+      "code": "spray",
+      "title_fa": "اسپری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6051,
+      "code": "gun",
+      "title_fa": "تفنگ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6055,
+      "code": "car",
+      "title_fa": "ماشین بازی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6059,
+      "code": "characters",
+      "title_fa": "ایفای نقش",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6083,
+      "code": "humor-toy",
+      "title_fa": "ابزار شوخی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6094,
+      "code": "ball",
+      "title_fa": "توپ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6099,
+      "code": "flashlight",
+      "title_fa": "چراغ قوه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6100,
+      "code": "camping-stove",
+      "title_fa": "اجاق و شعله افکن سفری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6102,
+      "code": "flask",
+      "title_fa": "قمقمه، فلاسک و کلمن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6105,
+      "code": "camping-knife",
+      "title_fa": "چاقوی سفر و ابزار چند کاره",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6116,
+      "code": "stretching-tools",
+      "title_fa": "تجهیزات جانبی ایروبیک و تناسب اندام",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6129,
+      "code": "travel-accessories",
+      "title_fa": "تجهیزات جانبی سفر و کمپینگ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6133,
+      "code": "decorative-toys",
+      "title_fa": "اسباب بازی زینتی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6139,
+      "code": "perfume",
+      "title_fa": "عطر و ادکلن مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6141,
+      "code": "archivetolols",
+      "title_fa": "ابزار بایگانی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6148,
+      "code": "industrial-glue",
+      "title_fa": "چسب صنعتی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6149,
+      "code": "drillbit",
+      "title_fa": "مته و سری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6151,
+      "code": "grinding-disc",
+      "title_fa": "صفحه فرز و پولیش",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6165,
+      "code": "wrench",
+      "title_fa": "آچار",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6166,
+      "code": "scissors",
+      "title_fa": "قیچی‌، چاقو و ابزار باغبانی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6167,
+      "code": "tool-box",
+      "title_fa": "جعبه و کیف ابزار",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6168,
+      "code": "pliers",
+      "title_fa": "انبر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6173,
+      "code": "screwdriver",
+      "title_fa": "پیچ گوشتی و فازمتر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6176,
+      "code": "anglegrinder",
+      "title_fa": "فرز و سنگ رومیزی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6178,
+      "code": "drill",
+      "title_fa": "دریل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6221,
+      "code": "cable-voice-video",
+      "title_fa": "کابل صوتی و تصویری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6228,
+      "code": "cookware",
+      "title_fa": "ظروف پخت و پز",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6238,
+      "code": "calendar",
+      "title_fa": "سالنامه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6243,
+      "code": "water-pump",
+      "title_fa": "پمپ سیالات",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6247,
+      "code": "cookingtools",
+      "title_fa": "ابزار آشپزی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6255,
+      "code": "cookwareset",
+      "title_fa": "سرویس پخت و پز",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6258,
+      "code": "teasets",
+      "title_fa": "سرویس چای خوری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6261,
+      "code": "teapot",
+      "title_fa": "قوری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6265,
+      "code": "cushion",
+      "title_fa": "کوسن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6266,
+      "code": "blankets",
+      "title_fa": "پتو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6268,
+      "code": "tray",
+      "title_fa": "سینی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6269,
+      "code": "towel",
+      "title_fa": "حوله",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6270,
+      "code": "kettlteapot",
+      "title_fa": "کتری و قوری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6272,
+      "code": "forkandspoonnandknife",
+      "title_fa": "قاشق، چنگال و کارد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6275,
+      "code": "hand-kerchief",
+      "title_fa": "دستگیره",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6276,
+      "code": "apron",
+      "title_fa": "پیش بند",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6280,
+      "code": "sleepset",
+      "title_fa": "سرویس خواب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6282,
+      "code": "pastryform",
+      "title_fa": "قالب کیک، شیرینی و دسر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6283,
+      "code": "pastrytools",
+      "title_fa": "ابزار تهیه کیک و دسر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6289,
+      "code": "cupandmug",
+      "title_fa": "لیوان و فنجان",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6294,
+      "code": "handkerchief",
+      "title_fa": "دستمال نظافت یکبار مصرف",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6295,
+      "code": "door-mat",
+      "title_fa": "پادری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6297,
+      "code": "tablecloths",
+      "title_fa": "رومیزی و رانر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6299,
+      "code": "panmate",
+      "title_fa": "زیر قابلمه‌ای و زیربشقابی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6301,
+      "code": "container",
+      "title_fa": "ظرف نگهدارنده",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6302,
+      "code": "plate",
+      "title_fa": "بشقاب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6304,
+      "code": "breadandvegetablebag",
+      "title_fa": "کیسه نان و سبزی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6305,
+      "code": "bowl",
+      "title_fa": "کاسه و پیاله",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6307,
+      "code": "statue",
+      "title_fa": "مجسمه و تندیس",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6311,
+      "code": "candle",
+      "title_fa": "شمع",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6312,
+      "code": "candlestick",
+      "title_fa": "شمعدان",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6316,
+      "code": "legumecontainer",
+      "title_fa": "بانکه و ظروف بنشن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6318,
+      "code": "bucket",
+      "title_fa": "سطل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6319,
+      "code": "spice-shaker",
+      "title_fa": "جای ادویه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6321,
+      "code": "sausedish",
+      "title_fa": "سس خوری و آبلیمو خوری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6323,
+      "code": "slippers",
+      "title_fa": "دمپایی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6327,
+      "code": "pillow",
+      "title_fa": "بالش",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6328,
+      "code": "sheet",
+      "title_fa": "ملحفه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6329,
+      "code": "dinnerware-sets",
+      "title_fa": "سرویس غذاخوری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6330,
+      "code": "flower-pot",
+      "title_fa": "گل و گلدان",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6331,
+      "code": "ashtray",
+      "title_fa": "زیر سیگاری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6332,
+      "code": "coasters",
+      "title_fa": "زیر لیوانی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6335,
+      "code": "pillowscover",
+      "title_fa": "رو بالشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6336,
+      "code": "servingware",
+      "title_fa": "ظروف سرو و پذیرایی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6345,
+      "code": "soapdispenser",
+      "title_fa": "مخزن مایع دستشویی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6347,
+      "code": "kitchenbasket",
+      "title_fa": "سبد آشپزخانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6352,
+      "code": "mattress",
+      "title_fa": "تشک خوشخواب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6354,
+      "code": "color-of-painting",
+      "title_fa": "انواع رنگ‌های نقاشی و سایر ملزومات",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6356,
+      "code": "toiletset",
+      "title_fa": "ست سرویس بهداشتی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6367,
+      "code": "organizer",
+      "title_fa": "ارگانایزر آشپزخانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6368,
+      "code": "postcard",
+      "title_fa": "کارت پستال",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6395,
+      "code": "lamp",
+      "title_fa": "لامپ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6400,
+      "code": "headandneckscarves",
+      "title_fa": "دستمال سر و گردن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6413,
+      "code": "other-decorative",
+      "title_fa": "سایر لوازم تزئینی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6424,
+      "code": "washingmitt",
+      "title_fa": "لیف",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6426,
+      "code": "scouringpad",
+      "title_fa": "اسکاچ و سیم ظرفشویی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6441,
+      "code": "decorativelamp",
+      "title_fa": "چراغ خواب و آباژور",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6452,
+      "code": "clay-and-ceramic",
+      "title_fa": "سفال، سرامیک و چینی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6454,
+      "code": "sketch-board",
+      "title_fa": "تخته شاسی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6457,
+      "code": "wallpaper",
+      "title_fa": "کاغذ دیواری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6459,
+      "code": "flasks",
+      "title_fa": "کلمن و فلاسک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6462,
+      "code": "foundation",
+      "title_fa": "کرم پودر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6463,
+      "code": "lipstick",
+      "title_fa": "رژ لب جامد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6467,
+      "code": "handicraft-bag",
+      "title_fa": "کیف دست دوز پارچه ای",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6472,
+      "code": "lip-gloss",
+      "title_fa": "رژ لب مایع و لیپ گلاس",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6480,
+      "code": "powder",
+      "title_fa": "پنکیک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6483,
+      "code": "makeup-remover",
+      "title_fa": "پاک کننده صورت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6484,
+      "code": "brush-and-makeup-accesories",
+      "title_fa": "ابزار آرایش صورت",
+      "status": 200,
+      "total_items": 20465,
+      "total_pages": 500,
+      "page1_ids": [
+        11661705,
+        11661682,
+        11613512,
+        11661698,
+        11663956,
+        11661634,
+        11661210,
+        11658217,
+        11661724,
+        11676251,
+        11659989,
+        11645941,
+        11661723,
+        11661088,
+        11661696,
+        11661226,
+        11663960,
+        11681262,
+        11555638,
+        11546008
+      ],
+      "error_message": ""
+    },
+    {
+      "id": 6489,
+      "code": "moisturizing-cream",
+      "title_fa": "کرم آبرسان و مرطوب کننده",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6490,
+      "code": "panel",
+      "title_fa": "تابلو صنایع دستی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6497,
+      "code": "enamels",
+      "title_fa": "میناکاری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6498,
+      "code": "inlay",
+      "title_fa": "خاتم کاری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6505,
+      "code": "eyeshadow",
+      "title_fa": "سایه چشم",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6509,
+      "code": "lashes",
+      "title_fa": "مژه مصنوعی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6512,
+      "code": "hair-color-kit",
+      "title_fa": "رنگ مو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6518,
+      "code": "hair-shampoo",
+      "title_fa": "شامپو مو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6534,
+      "code": "airfreshener",
+      "title_fa": "بوگیر و خوشبو کننده هوا",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6537,
+      "code": "body-oil-and-lotion",
+      "title_fa": "لوسیون و روغن بدن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6574,
+      "code": "gift-paper",
+      "title_fa": "کاغذ کادو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6578,
+      "code": "nail-polish",
+      "title_fa": "لاک ناخن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6584,
+      "code": "nail-tips",
+      "title_fa": "لوازم طراحی ناخن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6595,
+      "code": "hair-mask",
+      "title_fa": "ماسک و مراقبت مو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6596,
+      "code": "bathtools",
+      "title_fa": "ابزار حمام",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6604,
+      "code": "soap",
+      "title_fa": "صابون شستشو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6610,
+      "code": "disposablecontainer",
+      "title_fa": "لوازم یکبار مصرف آشپزخانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6613,
+      "code": "gift-bag",
+      "title_fa": "پاکت هدیه و ساک خرید",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6617,
+      "code": "face-masque",
+      "title_fa": "ماسک صورت و بدن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6618,
+      "code": "bicycles",
+      "title_fa": "دوچرخه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6623,
+      "code": "book-point",
+      "title_fa": "نشانگر کتاب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6625,
+      "code": "storagedresser",
+      "title_fa": "کمد لباس و ارگانایزر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6658,
+      "code": "apple-watch-cover",
+      "title_fa": "لوازم جانبی اپل واچ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6659,
+      "code": "files",
+      "title_fa": "سوهان و سنباده",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6662,
+      "code": "screwandnutsanchoranstrud",
+      "title_fa": "پیچ و مهره، رول پلاک، میخ و پرچ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6670,
+      "code": "pocket-perfumes",
+      "title_fa": "عطر جیبی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6675,
+      "code": "party-tools",
+      "title_fa": "ابزار مهمانی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6724,
+      "code": "copper-products",
+      "title_fa": "محصولات مسی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6726,
+      "code": "musical-globe-and-box",
+      "title_fa": "جعبه و گوی موزیکال",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6748,
+      "code": "watering-accessories",
+      "title_fa": "لوازم آبیاری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6750,
+      "code": "spoon-forks-and-dishes",
+      "title_fa": "قاشق، چنگال و ظروف کودک و نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6757,
+      "code": "accessories-packing",
+      "title_fa": "لوازم بسته بندی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6790,
+      "code": "baby-decorative-lamp",
+      "title_fa": "چراغ خواب کودک و نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6810,
+      "code": "sticker",
+      "title_fa": "استیکر و تابلو کودک و نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6813,
+      "code": "termeh",
+      "title_fa": "ترمه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6823,
+      "code": "woodturning",
+      "title_fa": "خراطی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6838,
+      "code": "bed-set",
+      "title_fa": "سرویس خواب کودک و نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6839,
+      "code": "baby-towel",
+      "title_fa": "حوله کودک و نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6852,
+      "code": "tot-water-bag",
+      "title_fa": "پد و کیسه آب گرم",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6853,
+      "code": "baby-thermos-flask",
+      "title_fa": "قمقمه و فلاسک کودک و نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6867,
+      "code": "medical-insoles",
+      "title_fa": "کفی طبی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6887,
+      "code": "coffee-and-herbal-tea-maker",
+      "title_fa": "قهوه ساز و دمنوش ساز",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6906,
+      "code": "figure",
+      "title_fa": "فیگور",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6910,
+      "code": "candle-holder-and-ood-holder",
+      "title_fa": "جاشمعی، جاعودی و آباژور",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6911,
+      "code": "key-holder",
+      "title_fa": "جاکلیدی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6916,
+      "code": "decorative-mirror",
+      "title_fa": "آینه دکوراتیو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6918,
+      "code": "textural",
+      "title_fa": "بافتنی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6934,
+      "code": "collage",
+      "title_fa": "کلاژ، پوست و فرش رنگ شده",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6944,
+      "code": "watch-band",
+      "title_fa": "بند ساعت و مچ‌ بند",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6946,
+      "code": "decorative-board",
+      "title_fa": "تابلو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6949,
+      "code": "handmade-carpet",
+      "title_fa": "فرش دستبافت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6950,
+      "code": "gabbeh",
+      "title_fa": "گبه دستبافت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6951,
+      "code": "pictorial-carpet",
+      "title_fa": "تابلو فرش",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6960,
+      "code": "condom",
+      "title_fa": "کاندوم",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6961,
+      "code": "hanging-lamps",
+      "title_fa": "لوستر و دیوارکوب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6974,
+      "code": "needle-sewing",
+      "title_fa": "سوزن دوزی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6975,
+      "code": "light-accessories",
+      "title_fa": "لوازم جانبی نور و روشنایی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 6977,
+      "code": "curtain",
+      "title_fa": "پرده",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8101,
+      "code": "lock",
+      "title_fa": "قفل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8157,
+      "code": "soils-and-fertilizers",
+      "title_fa": "خاک و کود",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8161,
+      "code": "flower-pots",
+      "title_fa": "گلدان باغبانی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8170,
+      "code": "plants-grain-and-seeds",
+      "title_fa": "بذر و تخم گیاهان",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8177,
+      "code": "nail-extension",
+      "title_fa": "ناخن مصنوعی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8183,
+      "code": "wiper-blade",
+      "title_fa": "تیغه برف پاک کن",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8184,
+      "code": "brake-pad",
+      "title_fa": "لنت ترمز خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8185,
+      "code": "car-chair-covers",
+      "title_fa": "روکش صندلی خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8264,
+      "code": "automotive-lighting",
+      "title_fa": "چراغ خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8265,
+      "code": "color",
+      "title_fa": "رنگ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8270,
+      "code": "car-coating",
+      "title_fa": "کفپوش خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8273,
+      "code": "head-gear",
+      "title_fa": "سر دنده",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8280,
+      "code": "car-lamp",
+      "title_fa": "لامپ خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8286,
+      "code": "car-keyring",
+      "title_fa": "جاسوئیچی وسایل نقلیه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8298,
+      "code": "doorknob",
+      "title_fa": "دستگیره در",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8301,
+      "code": "front-furniture-table",
+      "title_fa": "میز پذیرایی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8302,
+      "code": "wall-shelf",
+      "title_fa": "شلف و طبقه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8306,
+      "code": "bicycle-parts",
+      "title_fa": "قطعات دوچرخه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8331,
+      "code": "car-dashboard-cover",
+      "title_fa": "روکش و تزئینات داشبورد خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8341,
+      "code": "burner-and-lighter",
+      "title_fa": "فندک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8347,
+      "code": "car-air-freshener-air-purifier",
+      "title_fa": "خوشبوکننده و تصفیه کننده هوای خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8349,
+      "code": "tissue-paper",
+      "title_fa": "دستمال کاغذی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8355,
+      "code": "car-wash-spray-polish-and-wax",
+      "title_fa": "واکس، پولیش و تمیزکننده خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8368,
+      "code": "counter-chair",
+      "title_fa": "صندلی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8382,
+      "code": "ha-photo-frame",
+      "title_fa": "قاب عکس",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8387,
+      "code": "machine-made-carpet",
+      "title_fa": "فرش ماشینی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8393,
+      "code": "faucets",
+      "title_fa": "سایر شیرآلات و اتصالات",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8397,
+      "code": "tools-and-accessories-visual-arts",
+      "title_fa": "ابزار و ملزومات هنرهای تجسمی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8399,
+      "code": "engine-belt",
+      "title_fa": "تسمه خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8406,
+      "code": "car-cover",
+      "title_fa": "چادر خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8413,
+      "code": "hand-knitted-kilim",
+      "title_fa": "گلیم دستبافت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8416,
+      "code": "bed",
+      "title_fa": "تخت خواب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8422,
+      "code": "handicraft-gift-box",
+      "title_fa": "جعبه هدیه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8431,
+      "code": "sticker-and-poster",
+      "title_fa": "استیکر و پوستر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8432,
+      "code": "chassis",
+      "title_fa": "تابلو شاسی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8483,
+      "code": "sofa",
+      "title_fa": "مبل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8488,
+      "code": "art-tiling",
+      "title_fa": "کاشی کاری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8557,
+      "code": "suspension-systems-and-component",
+      "title_fa": "جلوبندی و تعلیق",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8588,
+      "code": "tire",
+      "title_fa": "لاستیک خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8640,
+      "code": "textile",
+      "title_fa": "پارچه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8666,
+      "code": "switches-and-sockets",
+      "title_fa": "کلید و پریز",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8686,
+      "code": "tissue-holder",
+      "title_fa": "نگهدارنده و جای دستمال کاغذی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8687,
+      "code": "fidget-and-spinner",
+      "title_fa": "فیجت و اسپینر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8693,
+      "code": "flag",
+      "title_fa": "پرچم",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8720,
+      "code": "pet-food-and-nutritional-supplement",
+      "title_fa": "تشویقی سگ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8721,
+      "code": "health-and-care",
+      "title_fa": "بهداشت، مراقبت و نگهداری حیوانات",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8726,
+      "code": "knitting-accessories",
+      "title_fa": "ملزومات بافتنی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8728,
+      "code": "outdoor-lights",
+      "title_fa": "پروژکتور و چراغ فضای باز",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8733,
+      "code": "coat-hanger",
+      "title_fa": "جالباسی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 8996,
+      "code": "sewing-accessories",
+      "title_fa": "چرخ خیاطی دستی و ملزومات خیاطی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9001,
+      "code": "roof-ground-coating",
+      "title_fa": "پوشش کف و سقف",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9004,
+      "code": "fixing-tools",
+      "title_fa": "تجهیزات تعمیرگاهی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9005,
+      "code": "home-electric-accessories",
+      "title_fa": "لوازم یدکی خانگی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9083,
+      "code": "fishing-equipment",
+      "title_fa": "لوازم ماهیگیری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9096,
+      "code": "electronic-component",
+      "title_fa": "قطعات الکترونیکی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9194,
+      "code": "pipe-and-extensions",
+      "title_fa": "لوله و اتصالات",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9227,
+      "code": "bullion",
+      "title_fa": "شمش طلا",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9257,
+      "code": "motorbike-parts-hw",
+      "title_fa": "سایر لوازم یدکی موتور سیکلت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9258,
+      "code": "laptop-other-accessories",
+      "title_fa": "سایر لوازم جانبی لپ تاپ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9279,
+      "code": "table-cloth",
+      "title_fa": "سفره",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9280,
+      "code": "motorcycle-accessories",
+      "title_fa": "سایر لوازم جانبی موتور سیکلت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9284,
+      "code": "manteau-and-poncho",
+      "title_fa": "مانتو، پانچو و رویه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9294,
+      "code": "women-dresses",
+      "title_fa": "پیراهن زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9297,
+      "code": "women-homewear-sets",
+      "title_fa": "ست لباس راحتی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9299,
+      "code": "women-homewear-bottom",
+      "title_fa": "شلوار راحتی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9303,
+      "code": "women-jeans",
+      "title_fa": "شلوار جین زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9304,
+      "code": "women-knitwear",
+      "title_fa": "ژاکت و پلیور زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9316,
+      "code": "women-coat-",
+      "title_fa": "پالتو زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9323,
+      "code": "women-blouse",
+      "title_fa": "بلوز زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9324,
+      "code": "women-underwear-set-",
+      "title_fa": "ست لباس زیر زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9325,
+      "code": "women-shirt",
+      "title_fa": "شومیز زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9326,
+      "code": "women-tops-and-croptops",
+      "title_fa": "تاپ و نیم تنه زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9330,
+      "code": "women-skirts",
+      "title_fa": "دامن زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9335,
+      "code": "women-hoodies-collection",
+      "title_fa": "مجموعه هودی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9340,
+      "code": "women-bra",
+      "title_fa": "سوتین زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9345,
+      "code": "women-underwear-bottom",
+      "title_fa": "شورت زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9346,
+      "code": "women-trousers",
+      "title_fa": "شلوار زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9347,
+      "code": "women-tee-shirts",
+      "title_fa": "تی شرت زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9348,
+      "code": "women-swimwear",
+      "title_fa": "لباس شنا زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9358,
+      "code": "women-sport-tops",
+      "title_fa": "تاپ و نیم تنه ورزشی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9363,
+      "code": "women-tracksuits-and-sets",
+      "title_fa": "گرمکن و ست ورزشی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9366,
+      "code": "women-ankle-boots",
+      "title_fa": "نیم بوت زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9369,
+      "code": "women-flat-shoes",
+      "title_fa": "کفش تخت زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9371,
+      "code": "women-heeled-shoes",
+      "title_fa": "کفش پاشنه دار زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9373,
+      "code": "women-sandals",
+      "title_fa": "صندل زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9376,
+      "code": "women-slippers",
+      "title_fa": "دمپایی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9378,
+      "code": "women-sport-shoes-",
+      "title_fa": "کفش ورزشی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9379,
+      "code": "women-backpacks",
+      "title_fa": "کوله پشتی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9381,
+      "code": "women-bags",
+      "title_fa": "کیف زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9382,
+      "code": "women-belts",
+      "title_fa": "کمربند زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9383,
+      "code": "women-eyewear",
+      "title_fa": "عینک آفتابی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9388,
+      "code": "women-gold-bracelet",
+      "title_fa": "دستبند طلا زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9391,
+      "code": "women-gold-earrings",
+      "title_fa": "گوشواره طلا زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9392,
+      "code": "women-gold-jewelry-sets",
+      "title_fa": "سرویس طلا زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9393,
+      "code": "women-gold-necklace",
+      "title_fa": "گردنبند طلا زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9394,
+      "code": "women-gold-pendants",
+      "title_fa": "آویز طلا زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9396,
+      "code": "women-gold-ring",
+      "title_fa": "انگشتر طلا زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9397,
+      "code": "gold-watch-pendant",
+      "title_fa": "آویز ساعت طلا",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9398,
+      "code": "women-hair-accessories",
+      "title_fa": "اکسسوری مو زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9399,
+      "code": "women-headwear",
+      "title_fa": "سرپوش زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9401,
+      "code": "women-anklet",
+      "title_fa": "پابند زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9402,
+      "code": "women-bracelet",
+      "title_fa": "دستبند زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9403,
+      "code": "women-brooch",
+      "title_fa": "گل سینه زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9405,
+      "code": "women-earrings",
+      "title_fa": "گوشواره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9407,
+      "code": "women-jewelry-sets",
+      "title_fa": "ست زیورآلات زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9409,
+      "code": "women-necklace",
+      "title_fa": "گردنبند زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9411,
+      "code": "women-piercing",
+      "title_fa": "پیرسینگ زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9412,
+      "code": "women-ring",
+      "title_fa": "انگشتر زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9415,
+      "code": "women-scarves",
+      "title_fa": "شال و روسری زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9418,
+      "code": "women-silver-bracelet",
+      "title_fa": "دستبند نقره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9421,
+      "code": "women-silver-earrings",
+      "title_fa": "گوشواره نقره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9422,
+      "code": "women-silver-jewelry-sets",
+      "title_fa": "سرویس نقره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9423,
+      "code": "women-silver-necklace",
+      "title_fa": "گردنبند نقره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9424,
+      "code": "women-silver-pendants",
+      "title_fa": "آویز نقره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9426,
+      "code": "women-silver-ring",
+      "title_fa": "انگشتر نقره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9431,
+      "code": "women-wallets-and-cosmetic-bags",
+      "title_fa": "کیف پول و کیف لوازم آرایش زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9433,
+      "code": "women-analouge-watches",
+      "title_fa": "ساعت عقربه ای زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9443,
+      "code": "men-homewear-sets",
+      "title_fa": "ست لباس راحتی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9445,
+      "code": "men-homewear-bottom",
+      "title_fa": "شلوار راحتی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9447,
+      "code": "men-jeans",
+      "title_fa": "شلوار جین مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9448,
+      "code": "men-knitwear",
+      "title_fa": "ژاکت و پلیور مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9453,
+      "code": "men-warm-jacket",
+      "title_fa": "کاپشن مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9454,
+      "code": "men-shirts",
+      "title_fa": "پیراهن مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9456,
+      "code": "men-socks-tights",
+      "title_fa": "جوراب مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9459,
+      "code": "men-sport-trousers-jumpsuits",
+      "title_fa": "شلوار ورزشی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9460,
+      "code": "men-sport-t-shirts-polos",
+      "title_fa": "تی شرت ورزشی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9462,
+      "code": "men-sport-shorts",
+      "title_fa": "شلوارک ورزشی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9464,
+      "code": "men-tracksuits-sets",
+      "title_fa": "گرمکن و ست ورزشی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9465,
+      "code": "men-hoodies-collection",
+      "title_fa": "مجموعه هودی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9470,
+      "code": "men-tee-shirts",
+      "title_fa": "تی شرت مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9471,
+      "code": "men-tops",
+      "title_fa": "تاپ مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9472,
+      "code": "men-trousers",
+      "title_fa": "شلوار مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9473,
+      "code": "men-undergarments",
+      "title_fa": "زیرپوش مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9474,
+      "code": "men-underwear-bottom",
+      "title_fa": "شورت مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9477,
+      "code": "men-ankle-boots",
+      "title_fa": "نیم بوت مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9481,
+      "code": "men-formal-shoes",
+      "title_fa": "کفش رسمی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9482,
+      "code": "men-sandals",
+      "title_fa": "صندل مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9484,
+      "code": "men-slippers",
+      "title_fa": "دمپایی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9486,
+      "code": "men-sport-shoes-",
+      "title_fa": "کفش ورزشی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9489,
+      "code": "men-bags",
+      "title_fa": "کیف مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9490,
+      "code": "men-belts",
+      "title_fa": "کمربند و ساسبند مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9491,
+      "code": "men-eyewear",
+      "title_fa": "عینک آفتابی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9495,
+      "code": "men-gold-bracelet",
+      "title_fa": "دستبند طلا مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9496,
+      "code": "women-homewear-sets-",
+      "title_fa": "لباس خواب زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9504,
+      "code": "men-headwear",
+      "title_fa": "سرپوش مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9506,
+      "code": "men-bracelet",
+      "title_fa": "دستبند مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9509,
+      "code": "men-necklace",
+      "title_fa": "گردنبند مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9511,
+      "code": "men-ring",
+      "title_fa": "انگشتر مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9516,
+      "code": "men-silver-bracelet",
+      "title_fa": "دستبند نقره مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9521,
+      "code": "men-silver-ring",
+      "title_fa": "انگشتر نقره مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9525,
+      "code": "men-ties",
+      "title_fa": "کراوات و پاپیون مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9527,
+      "code": "men-wallets-bags",
+      "title_fa": "کیف پول مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9529,
+      "code": "men-analouge-watches",
+      "title_fa": "ساعت عقربه ای مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9569,
+      "code": "kids-homewear-sets",
+      "title_fa": "ست لباس راحتی نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9573,
+      "code": "kids-kids-suits",
+      "title_fa": "ست نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9588,
+      "code": "kids-socks-",
+      "title_fa": "جوراب نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9605,
+      "code": "kids-tee-shirts",
+      "title_fa": "تی شرت نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9607,
+      "code": "kids-jumpsuits",
+      "title_fa": "سرهمی نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9609,
+      "code": "kids-bodysuit",
+      "title_fa": "بادی نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9623,
+      "code": "kids-headwear",
+      "title_fa": "سرپوش نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9624,
+      "code": "kids-napkin-and-apron",
+      "title_fa": "پیش بند نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9631,
+      "code": "girls-dresses",
+      "title_fa": "پیراهن دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9633,
+      "code": "girls-homewear-sets",
+      "title_fa": "ست لباس راحتی دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9635,
+      "code": "girls-homewear-bottom",
+      "title_fa": "شلوار و شلوارک راحتی دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9638,
+      "code": "girls-girls-suits",
+      "title_fa": "ست لباس دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9654,
+      "code": "girls-socks",
+      "title_fa": "جوراب دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9666,
+      "code": "girls-hoodies",
+      "title_fa": "سویشرت و هودی دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9672,
+      "code": "girls-tee-shirts",
+      "title_fa": "تی شرت دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9679,
+      "code": "girls-underwear-bottom",
+      "title_fa": "شورت دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9694,
+      "code": "girls-bags",
+      "title_fa": "کیف دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9711,
+      "code": "girls-hair-accessories",
+      "title_fa": "زیور آلات مو دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9712,
+      "code": "girls-headwear",
+      "title_fa": "سرپوش دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9744,
+      "code": "girls-wallets-and-cosmetic-bags",
+      "title_fa": "کیف پول و کیف لوازم آرایش دخترانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9754,
+      "code": "boys-homewear-sets",
+      "title_fa": "ست لباس راحتی پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9757,
+      "code": "boys-homewear-bottom",
+      "title_fa": "شلوار و شلوارک راحتی پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9760,
+      "code": "boys-suits",
+      "title_fa": "ست لباس پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9770,
+      "code": "boys-socks-tights",
+      "title_fa": "جوراب و ساق پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9779,
+      "code": "boys-hoodies",
+      "title_fa": "سویشرت و هودی پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9783,
+      "code": "boys-tee-shirts",
+      "title_fa": "تی شرت پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9788,
+      "code": "boys-underwear-bottom",
+      "title_fa": "شورت پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9799,
+      "code": "boys-sport-shoes",
+      "title_fa": "کفش ورزشی پسرانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9841,
+      "code": "women-socks-",
+      "title_fa": "جوراب زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9865,
+      "code": "handicraft-accessories",
+      "title_fa": "لوازم مصرفی هنرهای دستی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9878,
+      "code": "fabric-carpet",
+      "title_fa": "فرش پارچه‌ای",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9880,
+      "code": "baby-cushion",
+      "title_fa": "کوسن کودک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9888,
+      "code": "leatherbag",
+      "title_fa": "کیف چرمی دست دوز",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9906,
+      "code": "casual-shoes-for-men",
+      "title_fa": "کفش روزمره مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9908,
+      "code": "casual-shoes-for-women",
+      "title_fa": "کفش روزمره زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9912,
+      "code": "postage-stamps",
+      "title_fa": "تمبر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 9963,
+      "code": "kids-gold-bracelet",
+      "title_fa": "دستبند طلا بچگانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10011,
+      "code": "safety-sign",
+      "title_fa": "تابلو و برچسب ایمنی و راهنما",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10043,
+      "code": "brass-products",
+      "title_fa": "محصولات برنجی و برنزی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10057,
+      "code": "rough-rock",
+      "title_fa": "سنگ راف",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10072,
+      "code": "mobile-lens-screen-protector",
+      "title_fa": "محافظ لنز گوشی موبایل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10073,
+      "code": "mobile-and-tablet-spare-parts",
+      "title_fa": "قطعات یدکی موبایل و تبلت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10097,
+      "code": "women-legging",
+      "title_fa": "لگینگ زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10116,
+      "code": "cover-sticker",
+      "title_fa": "برچسب پوششی گوشی موبایل",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10140,
+      "code": "sink-cover",
+      "title_fa": "محافظ و آبگیر کنار سینک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10143,
+      "code": "foreign-printed-book",
+      "title_fa": "کتاب چاپی غیر فارسی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10287,
+      "code": "women-tunic",
+      "title_fa": "تونیک زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10288,
+      "code": "men-polo-shirt",
+      "title_fa": "پولوشرت مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10305,
+      "code": "men-sweatshirts-collection",
+      "title_fa": "مجموعه سویشرت مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10306,
+      "code": "women-sweatshirts-collection",
+      "title_fa": "مجموعه سویشرت زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10309,
+      "code": "cloth-face-mask",
+      "title_fa": "ماسک پارچه‌ای زنانه و مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10311,
+      "code": "clamps-and-magnets",
+      "title_fa": "گیره و مگنت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10313,
+      "code": "wall-decor",
+      "title_fa": "دیوارکوب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10334,
+      "code": "organic-cereals",
+      "title_fa": "غلات ارگانیک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10335,
+      "code": "rural-flavors-and-spices",
+      "title_fa": "ادویه‌های ارگانیک",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10353,
+      "code": "rural-distillates-and-rosewater",
+      "title_fa": "عرقیات سنتی و شربت خانگی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10354,
+      "code": "rural-herbal-tea",
+      "title_fa": "دمنوش گیاهی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10355,
+      "code": "rural-nuts",
+      "title_fa": "آجیل سنتی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10490,
+      "code": "children-book",
+      "title_fa": "کتاب کودک و نوجوان",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10498,
+      "code": "home-console-games",
+      "title_fa": "بازی های کنسول خانگی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10553,
+      "code": "printed-book-of-biography-and-encyclopedia",
+      "title_fa": "کتاب دانش نامه و دایره المعارف",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10554,
+      "code": "applied-sciences-technology-and-engineering",
+      "title_fa": "کتاب ریاضیات و علوم پایه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10556,
+      "code": "printed-history-and-geography-book",
+      "title_fa": "کتاب تاریخ و جغرافیا",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10557,
+      "code": "printed-book-of-philosophy-and-psychology",
+      "title_fa": "کتاب روانشناسی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10558,
+      "code": "textbook-tutorials-and-tests",
+      "title_fa": "کتاب کمک درسی و کنکور",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10559,
+      "code": "language-books",
+      "title_fa": "کتاب زبان خارجی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10560,
+      "code": "printed-book-of-art-and-entertainment",
+      "title_fa": "کتاب هنرهای دستی و سرگرمی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10561,
+      "code": "religious-printed-book",
+      "title_fa": "کتاب دینی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10562,
+      "code": "printed-book-of-social-sciences",
+      "title_fa": "کتاب سیاسی و علوم اجتماعی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10563,
+      "code": "printed-book-of-poetry-and-literature",
+      "title_fa": "کتاب رمان و ادبیات داستانی و نمایشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10567,
+      "code": "incense-",
+      "title_fa": "عود",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10632,
+      "code": "balloon",
+      "title_fa": "بادکنک و لوازم جانبی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10638,
+      "code": "pots-pans",
+      "title_fa": "قابلمه و تابه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10704,
+      "code": "car-logo-sticker",
+      "title_fa": "آرم و برچسب خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10707,
+      "code": "mug",
+      "title_fa": "ماگ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10711,
+      "code": "color-pencil",
+      "title_fa": "مداد رنگی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10941,
+      "code": "women-perfume",
+      "title_fa": "عطر و ادکلن زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10942,
+      "code": "body-splash",
+      "title_fa": "بادی اسپلش",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10965,
+      "code": "desk-clock",
+      "title_fa": "ساعت رومیزی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10987,
+      "code": "cooking-knife",
+      "title_fa": "چاقو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10988,
+      "code": "ornamental-stone",
+      "title_fa": "سنگ زینتی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10990,
+      "code": "womens-comfort-shorts",
+      "title_fa": "شلوارک راحتی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 10991,
+      "code": "mens-comfort-shorts",
+      "title_fa": "شلوارک راحتی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11059,
+      "code": "skin-care-oils",
+      "title_fa": "روغن های مراقبت پوست",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11091,
+      "code": "cat-wet-food-pouch",
+      "title_fa": "غذای مرطوب، کنسرو و پوچ گربه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11121,
+      "code": "women-eyewear-frames",
+      "title_fa": "فریم عینک طبی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11123,
+      "code": "unisex-eyewear-frames",
+      "title_fa": "فریم عینک طبی زنانه و مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11127,
+      "code": "headphone-cover",
+      "title_fa": "کیف و کاور هدفون",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11150,
+      "code": "women-sport-leggings",
+      "title_fa": "لگینگ ورزشی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11171,
+      "code": "duffles-and-gym-bags",
+      "title_fa": "ساک سفری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11181,
+      "code": "sport-water-bottle-and-shaker",
+      "title_fa": "قمقمه و شیکر ورزشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11240,
+      "code": "paper-sticker",
+      "title_fa": "برچسب",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11331,
+      "code": "academic-book",
+      "title_fa": "کتاب دانشگاهی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11333,
+      "code": "kitchen-tap",
+      "title_fa": "شیر ظرفشویی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11336,
+      "code": "bathroom-faucet",
+      "title_fa": "شیرآلات حمام",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11339,
+      "code": "makeup-mirrors",
+      "title_fa": "آینه های آرایشی",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11340,
+      "code": "toilet-faucet",
+      "title_fa": "شیر توالت",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11341,
+      "code": "faucet-set",
+      "title_fa": "ست شیرآلات",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11358,
+      "code": "car-frame-trim-bumper",
+      "title_fa": "قاب، زه و ضربه‌گیر خودرو",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11384,
+      "code": "men-print-hoodie",
+      "title_fa": "هودی چاپی مردانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11395,
+      "code": "women-print-sweatshirt",
+      "title_fa": "سویشرت چاپی زنانه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11426,
+      "code": "chocolate-dish",
+      "title_fa": "شکلات خوری",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11452,
+      "code": "lights",
+      "title_fa": "چراغ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11519,
+      "code": "child-and-baby-pillow",
+      "title_fa": "بالش کودک و نوزاد",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11560,
+      "code": "dog-collar",
+      "title_fa": "قلاده سگ",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11587,
+      "code": "book-of-poem",
+      "title_fa": "کتاب شعر",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11598,
+      "code": "philosophy-book",
+      "title_fa": "کتاب فلسفه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    },
+    {
+      "id": 11621,
+      "code": "dog-and-cat-clothing",
+      "title_fa": "پوشاک سگ و گربه",
+      "status": 200,
+      "total_items": 0,
+      "total_pages": 0,
+      "page1_ids": [],
+      "error_message": ""
+    }
+  ],
+  "summary": {
+    "tested_categories": 474,
+    "nonzero_categories": 1,
+    "errors": 0,
+    "cap_limited_categories": 1,
+    "sum_nonzero_counts": 20465,
+    "sum_minus_baseline": 0,
+    "page1_overlap_ids_across_category_branches": 0,
+    "relevant_nonzero_categories": [
+      {
+        "id": 6484,
+        "code": "brush-and-makeup-accesories",
+        "title_fa": "ابزار آرایش صورت",
+        "status": 200,
+        "total_items": 20465,
+        "total_pages": 500,
+        "page1_ids": [
+          11661705,
+          11661682,
+          11613512,
+          11661698,
+          11663956,
+          11661634,
+          11661210,
+          11658217,
+          11661724,
+          11676251,
+          11659989,
+          11645941,
+          11661723,
+          11661088,
+          11661696,
+          11661226,
+          11663960,
+          11681262,
+          11555638,
+          11546008
+        ],
+        "error_message": ""
+      }
+    ],
+    "candidate_by_count": false
+  },
+  "conclusion": {
+    "candidate_partition": false,
+    "reason": "Count equality alone is insufficient. Accept only after nonzero category branches are complete (<=100 pages), counts sum to baseline, and full-DKP overlap across all branches is zero."
+  }
+}
