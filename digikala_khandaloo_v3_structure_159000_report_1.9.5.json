@@ -1,0 +1,1331 @@
+{
+  "version": "1.9.5",
+  "read_only": true,
+  "no_evazar_upload": true,
+  "target": {
+    "category_id": 6484,
+    "category_code": "brush-and-makeup-accesories",
+    "brand_id": 30353,
+    "brand_code": "khandaloo",
+    "price_rial": 1590000,
+    "price_toman": 159000
+  },
+  "goal": "Identify canonical V3 listing products and pager context without assuming data.products.",
+  "pages": [
+    {
+      "page": 1,
+      "status": 200,
+      "ok": true,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=1",
+      "recursive_unique_product_ids": 350,
+      "recursive_sample_ids": [
+        11662297,
+        11676833,
+        11645840,
+        11613689,
+        11680043,
+        11656880,
+        11655416,
+        11692109,
+        11555126,
+        11555939,
+        11418269,
+        11614517,
+        11647010,
+        11544917,
+        11599592,
+        11555585,
+        11646359,
+        11613326,
+        11599646,
+        11555471
+      ],
+      "product_bearing_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 21,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11662297,
+            11676833,
+            11645840,
+            11613689,
+            11680043,
+            11656880,
+            11655416,
+            11692109,
+            11555126,
+            11555939
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ],
+      "pager_contexts": [
+        {
+          "pager_path": "$.data.widgets[0].data.pager",
+          "pager": {
+            "total_items": 20465,
+            "total_pages": 100,
+            "current_page": 1
+          },
+          "context_path": "$.data.widgets[0].data",
+          "context_keys": [
+            "result_type",
+            "search_phase",
+            "total_hits",
+            "search_version",
+            "is_text_lenz_eligible",
+            "text_lenz_eligibility",
+            "pager",
+            "sort",
+            "sort_options",
+            "search_method",
+            "intrack",
+            "widgets",
+            "filters"
+          ]
+        }
+      ],
+      "top_level_data_keys": [
+        "widgets",
+        "event_data"
+      ],
+      "top_level_keys": [
+        "status",
+        "data"
+      ],
+      "message": ""
+    },
+    {
+      "page": 2,
+      "status": 200,
+      "ok": true,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=2",
+      "recursive_unique_product_ids": 350,
+      "recursive_sample_ids": [
+        11693482,
+        11651841,
+        11664588,
+        11656978,
+        11679999,
+        11651764,
+        11655364,
+        11695272,
+        11693641,
+        11693883,
+        11645664,
+        11693076,
+        11647950,
+        11677939,
+        11679157,
+        11646717,
+        11652349,
+        11692477,
+        11658786,
+        11676423
+      ],
+      "product_bearing_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11693482,
+            11651841,
+            11664588,
+            11656978,
+            11679999,
+            11651764,
+            11655364,
+            11695272,
+            11693641,
+            11693883
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ],
+      "pager_contexts": [
+        {
+          "pager_path": "$.data.widgets[0].data.pager",
+          "pager": {
+            "total_items": 20465,
+            "total_pages": 100,
+            "current_page": 2
+          },
+          "context_path": "$.data.widgets[0].data",
+          "context_keys": [
+            "result_type",
+            "search_phase",
+            "total_hits",
+            "search_version",
+            "is_text_lenz_eligible",
+            "text_lenz_eligibility",
+            "pager",
+            "sort",
+            "sort_options",
+            "search_method",
+            "intrack",
+            "widgets",
+            "filters"
+          ]
+        }
+      ],
+      "top_level_data_keys": [
+        "widgets",
+        "event_data"
+      ],
+      "top_level_keys": [
+        "status",
+        "data"
+      ],
+      "message": ""
+    },
+    {
+      "page": 99,
+      "status": 200,
+      "ok": true,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=99",
+      "recursive_unique_product_ids": 350,
+      "recursive_sample_ids": [
+        11656025,
+        11678879,
+        11664926,
+        11661983,
+        11664227,
+        11545331,
+        11658431,
+        11661707,
+        11662859,
+        11599718,
+        11654462,
+        11613782,
+        11664320,
+        11654954,
+        11647793,
+        11416022,
+        11691986,
+        11655242,
+        11654936,
+        11676608
+      ],
+      "product_bearing_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11656025,
+            11678879,
+            11664926,
+            11661983,
+            11664227,
+            11545331,
+            11658431,
+            11661707,
+            11662859,
+            11599718
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ],
+      "pager_contexts": [
+        {
+          "pager_path": "$.data.widgets[0].data.pager",
+          "pager": {
+            "total_items": 20465,
+            "total_pages": 100,
+            "current_page": 99
+          },
+          "context_path": "$.data.widgets[0].data",
+          "context_keys": [
+            "result_type",
+            "search_phase",
+            "total_hits",
+            "search_version",
+            "is_text_lenz_eligible",
+            "text_lenz_eligibility",
+            "pager",
+            "sort",
+            "sort_options",
+            "search_method",
+            "intrack",
+            "widgets",
+            "filters"
+          ]
+        }
+      ],
+      "top_level_data_keys": [
+        "widgets",
+        "event_data"
+      ],
+      "top_level_keys": [
+        "status",
+        "data"
+      ],
+      "message": ""
+    },
+    {
+      "page": 100,
+      "status": 200,
+      "ok": true,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=100",
+      "recursive_unique_product_ids": 350,
+      "recursive_sample_ids": [
+        11660395,
+        11656369,
+        11647740,
+        11400914,
+        11657494,
+        11660272,
+        11544910,
+        11664099,
+        11555112,
+        11612890,
+        11646182,
+        11614022,
+        11675366,
+        11694260,
+        11680697,
+        11658416,
+        11692337,
+        11678492,
+        11676800,
+        11678150
+      ],
+      "product_bearing_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11660395,
+            11656369,
+            11647740,
+            11400914,
+            11657494,
+            11660272,
+            11544910,
+            11664099,
+            11555112,
+            11612890
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ],
+      "pager_contexts": [
+        {
+          "pager_path": "$.data.widgets[0].data.pager",
+          "pager": {
+            "total_items": 20465,
+            "total_pages": 100,
+            "current_page": 100
+          },
+          "context_path": "$.data.widgets[0].data",
+          "context_keys": [
+            "result_type",
+            "search_phase",
+            "total_hits",
+            "search_version",
+            "is_text_lenz_eligible",
+            "text_lenz_eligibility",
+            "pager",
+            "sort",
+            "sort_options",
+            "search_method",
+            "intrack",
+            "widgets",
+            "filters"
+          ]
+        }
+      ],
+      "top_level_data_keys": [
+        "widgets",
+        "event_data"
+      ],
+      "top_level_keys": [
+        "status",
+        "data"
+      ],
+      "message": ""
+    },
+    {
+      "page": 101,
+      "status": 200,
+      "ok": true,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=101",
+      "recursive_unique_product_ids": 350,
+      "recursive_sample_ids": [
+        11545734,
+        11612733,
+        11614807,
+        11555328,
+        11615167,
+        11546250,
+        11619523,
+        11678089,
+        11613097,
+        11615406,
+        11652127,
+        11652325,
+        11613766,
+        11614362,
+        11599690,
+        11556075,
+        11404411,
+        11616252,
+        11614867,
+        11679172
+      ],
+      "product_bearing_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11545734,
+            11612733,
+            11614807,
+            11555328,
+            11615167,
+            11546250,
+            11619523,
+            11678089,
+            11613097,
+            11615406
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ],
+      "pager_contexts": [
+        {
+          "pager_path": "$.data.widgets[0].data.pager",
+          "pager": {
+            "total_items": 20465,
+            "total_pages": 100,
+            "current_page": 101
+          },
+          "context_path": "$.data.widgets[0].data",
+          "context_keys": [
+            "result_type",
+            "search_phase",
+            "total_hits",
+            "search_version",
+            "is_text_lenz_eligible",
+            "text_lenz_eligibility",
+            "pager",
+            "sort",
+            "sort_options",
+            "search_method",
+            "intrack",
+            "widgets",
+            "filters"
+          ]
+        }
+      ],
+      "top_level_data_keys": [
+        "widgets",
+        "event_data"
+      ],
+      "top_level_keys": [
+        "status",
+        "data"
+      ],
+      "message": ""
+    },
+    {
+      "page": 200,
+      "status": 200,
+      "ok": true,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=200",
+      "recursive_unique_product_ids": 350,
+      "recursive_sample_ids": [
+        11660249,
+        11661431,
+        11619320,
+        11660009,
+        11661029,
+        11600306,
+        11614494,
+        11661302,
+        11693266,
+        11658006,
+        11646374,
+        11677763,
+        11663969,
+        11660436,
+        11646560,
+        11657994,
+        11658213,
+        11555393,
+        11657909,
+        11613525
+      ],
+      "product_bearing_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11660249,
+            11661431,
+            11619320,
+            11660009,
+            11661029,
+            11600306,
+            11614494,
+            11661302,
+            11693266,
+            11658006
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ],
+      "pager_contexts": [
+        {
+          "pager_path": "$.data.widgets[0].data.pager",
+          "pager": {
+            "total_items": 20465,
+            "total_pages": 100,
+            "current_page": 200
+          },
+          "context_path": "$.data.widgets[0].data",
+          "context_keys": [
+            "result_type",
+            "search_phase",
+            "total_hits",
+            "search_version",
+            "is_text_lenz_eligible",
+            "text_lenz_eligibility",
+            "pager",
+            "sort",
+            "sort_options",
+            "search_method",
+            "intrack",
+            "widgets",
+            "filters"
+          ]
+        }
+      ],
+      "top_level_data_keys": [
+        "widgets",
+        "event_data"
+      ],
+      "top_level_keys": [
+        "status",
+        "data"
+      ],
+      "message": ""
+    },
+    {
+      "page": 500,
+      "status": 200,
+      "ok": true,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=500",
+      "recursive_unique_product_ids": 350,
+      "recursive_sample_ids": [
+        11676416,
+        11651132,
+        11657123,
+        11404550,
+        11658836,
+        11601140,
+        11615039,
+        11652050,
+        11416007,
+        11676263,
+        11615414,
+        11614967,
+        11658476,
+        11547611,
+        11665298,
+        11679422,
+        11619428,
+        11694269,
+        11658566,
+        11615165
+      ],
+      "product_bearing_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11676416,
+            11651132,
+            11657123,
+            11404550,
+            11658836,
+            11601140,
+            11615039,
+            11652050,
+            11416007,
+            11676263
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ],
+      "pager_contexts": [
+        {
+          "pager_path": "$.data.widgets[0].data.pager",
+          "pager": {
+            "total_items": 20465,
+            "total_pages": 100,
+            "current_page": 500
+          },
+          "context_path": "$.data.widgets[0].data",
+          "context_keys": [
+            "result_type",
+            "search_phase",
+            "total_hits",
+            "search_version",
+            "is_text_lenz_eligible",
+            "text_lenz_eligibility",
+            "pager",
+            "sort",
+            "sort_options",
+            "search_method",
+            "intrack",
+            "widgets",
+            "filters"
+          ]
+        }
+      ],
+      "top_level_data_keys": [
+        "widgets",
+        "event_data"
+      ],
+      "top_level_keys": [
+        "status",
+        "data"
+      ],
+      "message": ""
+    },
+    {
+      "page": 501,
+      "status": 400,
+      "ok": false,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&rows=20&page=501",
+      "recursive_unique_product_ids": 0,
+      "recursive_sample_ids": [],
+      "product_bearing_arrays": [],
+      "pager_contexts": [],
+      "top_level_data_keys": null,
+      "top_level_keys": [
+        "status",
+        "message"
+      ],
+      "message": "جست‌وجو حداکثر در 500 صفحه امکان‌پذیر است."
+    }
+  ],
+  "conclusion": {
+    "v3_acceptance": false,
+    "page1_recursive_unique": 350,
+    "page2_recursive_unique": 350,
+    "page100_recursive_unique": 350,
+    "page101_recursive_unique": 350,
+    "page500_recursive_unique": 350,
+    "page501_status": 400,
+    "max_recursive_products_observed": 350,
+    "candidate_recurring_arrays": [
+      {
+        "path": "$.data.widgets[0].data.filters.brands.options",
+        "pages": [
+          1,
+          2,
+          99,
+          100,
+          101,
+          200,
+          500
+        ],
+        "counts": [
+          330,
+          330,
+          330,
+          330,
+          330,
+          330,
+          330
+        ]
+      },
+      {
+        "path": "$.data.widgets[0].data.widgets",
+        "pages": [
+          1,
+          2,
+          99,
+          100,
+          101,
+          200,
+          500
+        ],
+        "counts": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ]
+      }
+    ],
+    "reason": "Diagnostic only. The previous 1.9.4 data.products assumption was invalid. Acceptance requires identifying the main listing array in the pager context and proving page-to-page distinctness and compatibility with total_items."
+  },
+  "page1_raw_file": "digikala_khandaloo_v3_page1_raw_1.9.5.json",
+  "page1_schema_file": "digikala_khandaloo_v3_page1_schema_1.9.5.json",
+  "v1_control": {
+    "status": 200,
+    "ok": true,
+    "direct_products": 20,
+    "ids": [
+      11661705,
+      11661682,
+      11613512,
+      11661698,
+      11663956,
+      11661634,
+      11661210,
+      11658217,
+      11661724,
+      11676251,
+      11659989,
+      11645941,
+      11661723,
+      11661088,
+      11661696,
+      11661226,
+      11663960,
+      11681262,
+      11555638,
+      11546008
+    ]
+  },
+  "recurring_product_array_paths": [
+    {
+      "path": "$.data.widgets[0].data.filters.brands.options",
+      "pages": [
+        1,
+        2,
+        99,
+        100,
+        101,
+        200,
+        500
+      ],
+      "counts": [
+        330,
+        330,
+        330,
+        330,
+        330,
+        330,
+        330
+      ]
+    },
+    {
+      "path": "$.data.widgets[0].data.widgets",
+      "pages": [
+        1,
+        2,
+        99,
+        100,
+        101,
+        200,
+        500
+      ],
+      "counts": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ]
+    }
+  ],
+  "pager_listing_evidence": [
+    {
+      "page": 1,
+      "pager_context": {
+        "pager_path": "$.data.widgets[0].data.pager",
+        "pager": {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 1
+        },
+        "context_path": "$.data.widgets[0].data",
+        "context_keys": [
+          "result_type",
+          "search_phase",
+          "total_hits",
+          "search_version",
+          "is_text_lenz_eligible",
+          "text_lenz_eligibility",
+          "pager",
+          "sort",
+          "sort_options",
+          "search_method",
+          "intrack",
+          "widgets",
+          "filters"
+        ]
+      },
+      "related_product_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 21,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11662297,
+            11676833,
+            11645840,
+            11613689,
+            11680043,
+            11656880,
+            11655416,
+            11692109,
+            11555126,
+            11555939
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "pager_context": {
+        "pager_path": "$.data.widgets[0].data.pager",
+        "pager": {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 2
+        },
+        "context_path": "$.data.widgets[0].data",
+        "context_keys": [
+          "result_type",
+          "search_phase",
+          "total_hits",
+          "search_version",
+          "is_text_lenz_eligible",
+          "text_lenz_eligibility",
+          "pager",
+          "sort",
+          "sort_options",
+          "search_method",
+          "intrack",
+          "widgets",
+          "filters"
+        ]
+      },
+      "related_product_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11693482,
+            11651841,
+            11664588,
+            11656978,
+            11679999,
+            11651764,
+            11655364,
+            11695272,
+            11693641,
+            11693883
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "page": 99,
+      "pager_context": {
+        "pager_path": "$.data.widgets[0].data.pager",
+        "pager": {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 99
+        },
+        "context_path": "$.data.widgets[0].data",
+        "context_keys": [
+          "result_type",
+          "search_phase",
+          "total_hits",
+          "search_version",
+          "is_text_lenz_eligible",
+          "text_lenz_eligibility",
+          "pager",
+          "sort",
+          "sort_options",
+          "search_method",
+          "intrack",
+          "widgets",
+          "filters"
+        ]
+      },
+      "related_product_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11656025,
+            11678879,
+            11664926,
+            11661983,
+            11664227,
+            11545331,
+            11658431,
+            11661707,
+            11662859,
+            11599718
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "page": 100,
+      "pager_context": {
+        "pager_path": "$.data.widgets[0].data.pager",
+        "pager": {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 100
+        },
+        "context_path": "$.data.widgets[0].data",
+        "context_keys": [
+          "result_type",
+          "search_phase",
+          "total_hits",
+          "search_version",
+          "is_text_lenz_eligible",
+          "text_lenz_eligibility",
+          "pager",
+          "sort",
+          "sort_options",
+          "search_method",
+          "intrack",
+          "widgets",
+          "filters"
+        ]
+      },
+      "related_product_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11660395,
+            11656369,
+            11647740,
+            11400914,
+            11657494,
+            11660272,
+            11544910,
+            11664099,
+            11555112,
+            11612890
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "page": 101,
+      "pager_context": {
+        "pager_path": "$.data.widgets[0].data.pager",
+        "pager": {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 101
+        },
+        "context_path": "$.data.widgets[0].data",
+        "context_keys": [
+          "result_type",
+          "search_phase",
+          "total_hits",
+          "search_version",
+          "is_text_lenz_eligible",
+          "text_lenz_eligibility",
+          "pager",
+          "sort",
+          "sort_options",
+          "search_method",
+          "intrack",
+          "widgets",
+          "filters"
+        ]
+      },
+      "related_product_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11545734,
+            11612733,
+            11614807,
+            11555328,
+            11615167,
+            11546250,
+            11619523,
+            11678089,
+            11613097,
+            11615406
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "page": 200,
+      "pager_context": {
+        "pager_path": "$.data.widgets[0].data.pager",
+        "pager": {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 200
+        },
+        "context_path": "$.data.widgets[0].data",
+        "context_keys": [
+          "result_type",
+          "search_phase",
+          "total_hits",
+          "search_version",
+          "is_text_lenz_eligible",
+          "text_lenz_eligibility",
+          "pager",
+          "sort",
+          "sort_options",
+          "search_method",
+          "intrack",
+          "widgets",
+          "filters"
+        ]
+      },
+      "related_product_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11660249,
+            11661431,
+            11619320,
+            11660009,
+            11661029,
+            11600306,
+            11614494,
+            11661302,
+            11693266,
+            11658006
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "page": 500,
+      "pager_context": {
+        "pager_path": "$.data.widgets[0].data.pager",
+        "pager": {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 500
+        },
+        "context_path": "$.data.widgets[0].data",
+        "context_keys": [
+          "result_type",
+          "search_phase",
+          "total_hits",
+          "search_version",
+          "is_text_lenz_eligible",
+          "text_lenz_eligibility",
+          "pager",
+          "sort",
+          "sort_options",
+          "search_method",
+          "intrack",
+          "widgets",
+          "filters"
+        ]
+      },
+      "related_product_arrays": [
+        {
+          "path": "$.data.widgets[0].data.widgets",
+          "length": 20,
+          "product_like_count": 20,
+          "unique_product_ids": 20,
+          "sample_ids": [
+            11676416,
+            11651132,
+            11657123,
+            11404550,
+            11658836,
+            11601140,
+            11615039,
+            11652050,
+            11416007,
+            11676263
+          ]
+        },
+        {
+          "path": "$.data.widgets[0].data.filters.brands.options",
+          "length": 330,
+          "product_like_count": 330,
+          "unique_product_ids": 330,
+          "sample_ids": [
+            186,
+            62,
+            396,
+            156,
+            472,
+            80,
+            106,
+            496,
+            203,
+            8
+          ]
+        }
+      ]
+    }
+  ]
+}
