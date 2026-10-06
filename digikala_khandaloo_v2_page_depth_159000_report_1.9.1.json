@@ -1,0 +1,959 @@
+{
+  "version": "1.9.1",
+  "endpoint": "https://api.digikala.com/v2/category/6484/",
+  "query": {
+    "category_id": 6484,
+    "brand_id": 30353,
+    "price_rial": 1590000,
+    "has_selling_stock": 1
+  },
+  "pages": [
+    {
+      "page": 1,
+      "status": 200,
+      "ok": true,
+      "elapsed": 0.893,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=1",
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 1
+        }
+      ],
+      "all_product_widgets": 20,
+      "unique_product_ids": 20,
+      "first_20_ids": [
+        11661705,
+        11661682,
+        11613512,
+        11661698,
+        11663956,
+        11661634,
+        11661210,
+        11658217,
+        11661724,
+        11676251,
+        11659989,
+        11645941,
+        11661723,
+        11661088,
+        11661696,
+        11661226,
+        11663960,
+        11681262,
+        11555638,
+        11546008
+      ],
+      "last_20_ids": [
+        11661705,
+        11661682,
+        11613512,
+        11661698,
+        11663956,
+        11661634,
+        11661210,
+        11658217,
+        11661724,
+        11676251,
+        11659989,
+        11645941,
+        11661723,
+        11661088,
+        11661696,
+        11661226,
+        11663960,
+        11681262,
+        11555638,
+        11546008
+      ],
+      "top_widget_types": [
+        "vertical_product_listing"
+      ],
+      "type_counts": {
+        "vertical_product_listing": 1,
+        "product": 20,
+        "colored": 20,
+        "digikala": 20,
+        "seller": 20,
+        "action_button": 1,
+        "checkbox": 6,
+        "switch": 4,
+        "slider": 1,
+        "nested_list": 1
+      },
+      "sample_product_contexts": [
+        {
+          "id": 11661705,
+          "path": "data.widgets.0.data.widgets.0",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11661682,
+          "path": "data.widgets.0.data.widgets.1",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11613512,
+          "path": "data.widgets.0.data.widgets.2",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11661698,
+          "path": "data.widgets.0.data.widgets.3",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11663956,
+          "path": "data.widgets.0.data.widgets.4",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11661634,
+          "path": "data.widgets.0.data.widgets.5",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11661210,
+          "path": "data.widgets.0.data.widgets.6",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11658217,
+          "path": "data.widgets.0.data.widgets.7",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "status": 200,
+      "ok": true,
+      "elapsed": 1.264,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=2",
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 2
+        }
+      ],
+      "all_product_widgets": 20,
+      "unique_product_ids": 20,
+      "first_20_ids": [
+        11676565,
+        11675905,
+        11545835,
+        11546582,
+        11676449,
+        11545217,
+        11545930,
+        11681258,
+        11612830,
+        11681255,
+        11676365,
+        11545233,
+        11654883,
+        11545245,
+        11676362,
+        11676619,
+        11676570,
+        11654871,
+        11548107,
+        11546157
+      ],
+      "last_20_ids": [
+        11676565,
+        11675905,
+        11545835,
+        11546582,
+        11676449,
+        11545217,
+        11545930,
+        11681258,
+        11612830,
+        11681255,
+        11676365,
+        11545233,
+        11654883,
+        11545245,
+        11676362,
+        11676619,
+        11676570,
+        11654871,
+        11548107,
+        11546157
+      ],
+      "top_widget_types": [
+        "vertical_product_listing"
+      ],
+      "type_counts": {
+        "vertical_product_listing": 1,
+        "product": 20,
+        "colored": 20,
+        "digikala": 20,
+        "seller": 20,
+        "checkbox": 6,
+        "switch": 4,
+        "slider": 1,
+        "nested_list": 1
+      },
+      "sample_product_contexts": [
+        {
+          "id": 11676565,
+          "path": "data.widgets.0.data.widgets.0",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11675905,
+          "path": "data.widgets.0.data.widgets.1",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11545835,
+          "path": "data.widgets.0.data.widgets.2",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11546582,
+          "path": "data.widgets.0.data.widgets.3",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11676449,
+          "path": "data.widgets.0.data.widgets.4",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11545217,
+          "path": "data.widgets.0.data.widgets.5",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11545930,
+          "path": "data.widgets.0.data.widgets.6",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11681258,
+          "path": "data.widgets.0.data.widgets.7",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "status": 200,
+      "ok": true,
+      "elapsed": 0.966,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=50",
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 50
+        }
+      ],
+      "all_product_widgets": 20,
+      "unique_product_ids": 20,
+      "first_20_ids": [
+        11691890,
+        11678297,
+        11654822,
+        11692763,
+        11675965,
+        11681475,
+        11645810,
+        11677310,
+        11692250,
+        11691857,
+        11694098,
+        11691554,
+        11680184,
+        11599583,
+        11651612,
+        11675441,
+        11661659,
+        11692289,
+        11692714,
+        11678119
+      ],
+      "last_20_ids": [
+        11691890,
+        11678297,
+        11654822,
+        11692763,
+        11675965,
+        11681475,
+        11645810,
+        11677310,
+        11692250,
+        11691857,
+        11694098,
+        11691554,
+        11680184,
+        11599583,
+        11651612,
+        11675441,
+        11661659,
+        11692289,
+        11692714,
+        11678119
+      ],
+      "top_widget_types": [
+        "vertical_product_listing"
+      ],
+      "type_counts": {
+        "vertical_product_listing": 1,
+        "product": 20,
+        "colored": 20,
+        "digikala": 20,
+        "seller": 20,
+        "checkbox": 6,
+        "switch": 4,
+        "slider": 1,
+        "nested_list": 1
+      },
+      "sample_product_contexts": [
+        {
+          "id": 11691890,
+          "path": "data.widgets.0.data.widgets.0",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11678297,
+          "path": "data.widgets.0.data.widgets.1",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11654822,
+          "path": "data.widgets.0.data.widgets.2",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11692763,
+          "path": "data.widgets.0.data.widgets.3",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11675965,
+          "path": "data.widgets.0.data.widgets.4",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11681475,
+          "path": "data.widgets.0.data.widgets.5",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11645810,
+          "path": "data.widgets.0.data.widgets.6",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11677310,
+          "path": "data.widgets.0.data.widgets.7",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 99,
+      "status": 200,
+      "ok": true,
+      "elapsed": 1.647,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=99",
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 99
+        }
+      ],
+      "all_product_widgets": 20,
+      "unique_product_ids": 20,
+      "first_20_ids": [
+        11647804,
+        11601385,
+        11652174,
+        11616277,
+        11415352,
+        11657046,
+        11600068,
+        11645667,
+        11651367,
+        11601006,
+        11618853,
+        11639742,
+        11613346,
+        11614699,
+        11662171,
+        11601033,
+        11612893,
+        11652112,
+        11659974,
+        11654568
+      ],
+      "last_20_ids": [
+        11647804,
+        11601385,
+        11652174,
+        11616277,
+        11415352,
+        11657046,
+        11600068,
+        11645667,
+        11651367,
+        11601006,
+        11618853,
+        11639742,
+        11613346,
+        11614699,
+        11662171,
+        11601033,
+        11612893,
+        11652112,
+        11659974,
+        11654568
+      ],
+      "top_widget_types": [
+        "vertical_product_listing"
+      ],
+      "type_counts": {
+        "vertical_product_listing": 1,
+        "product": 20,
+        "colored": 20,
+        "digikala": 20,
+        "seller": 20,
+        "checkbox": 6,
+        "switch": 4,
+        "slider": 1,
+        "nested_list": 1
+      },
+      "sample_product_contexts": [
+        {
+          "id": 11647804,
+          "path": "data.widgets.0.data.widgets.0",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11601385,
+          "path": "data.widgets.0.data.widgets.1",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11652174,
+          "path": "data.widgets.0.data.widgets.2",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11616277,
+          "path": "data.widgets.0.data.widgets.3",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11415352,
+          "path": "data.widgets.0.data.widgets.4",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11657046,
+          "path": "data.widgets.0.data.widgets.5",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11600068,
+          "path": "data.widgets.0.data.widgets.6",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11645667,
+          "path": "data.widgets.0.data.widgets.7",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 100,
+      "status": 200,
+      "ok": true,
+      "elapsed": 1.806,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=100",
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 100
+        }
+      ],
+      "all_product_widgets": 20,
+      "unique_product_ids": 20,
+      "first_20_ids": [
+        11694202,
+        11680836,
+        11658954,
+        11655337,
+        11692224,
+        11678655,
+        11679249,
+        11600296,
+        11414503,
+        11657562,
+        11646601,
+        11656860,
+        11657845,
+        11656785,
+        11677519,
+        11681172,
+        11598747,
+        11600842,
+        11544715,
+        11600437
+      ],
+      "last_20_ids": [
+        11694202,
+        11680836,
+        11658954,
+        11655337,
+        11692224,
+        11678655,
+        11679249,
+        11600296,
+        11414503,
+        11657562,
+        11646601,
+        11656860,
+        11657845,
+        11656785,
+        11677519,
+        11681172,
+        11598747,
+        11600842,
+        11544715,
+        11600437
+      ],
+      "top_widget_types": [
+        "vertical_product_listing"
+      ],
+      "type_counts": {
+        "vertical_product_listing": 1,
+        "product": 20,
+        "colored": 20,
+        "digikala": 20,
+        "seller": 20,
+        "checkbox": 6,
+        "switch": 4,
+        "slider": 1,
+        "nested_list": 1
+      },
+      "sample_product_contexts": [
+        {
+          "id": 11694202,
+          "path": "data.widgets.0.data.widgets.0",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11680836,
+          "path": "data.widgets.0.data.widgets.1",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11658954,
+          "path": "data.widgets.0.data.widgets.2",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11655337,
+          "path": "data.widgets.0.data.widgets.3",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11692224,
+          "path": "data.widgets.0.data.widgets.4",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11678655,
+          "path": "data.widgets.0.data.widgets.5",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11679249,
+          "path": "data.widgets.0.data.widgets.6",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        },
+        {
+          "id": 11600296,
+          "path": "data.widgets.0.data.widgets.7",
+          "parent_keys": [
+            "data",
+            "widgets",
+            "data",
+            "widgets"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 101,
+      "status": 200,
+      "ok": true,
+      "elapsed": 1.204,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=101",
+      "pager_candidates": [],
+      "all_product_widgets": 0,
+      "unique_product_ids": 0,
+      "first_20_ids": [],
+      "last_20_ids": [],
+      "top_widget_types": [],
+      "type_counts": {},
+      "sample_product_contexts": []
+    }
+  ],
+  "comparisons": {
+    "pairwise_overlaps": [
+      {
+        "page_a": 1,
+        "page_b": 2,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 1,
+        "page_b": 50,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 1,
+        "page_b": 99,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 1,
+        "page_b": 100,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 1,
+        "page_b": 101,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 2,
+        "page_b": 50,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 2,
+        "page_b": 99,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 2,
+        "page_b": 100,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 2,
+        "page_b": 101,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 50,
+        "page_b": 99,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 50,
+        "page_b": 100,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 50,
+        "page_b": 101,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 99,
+        "page_b": 100,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 99,
+        "page_b": 101,
+        "overlap_unique_ids": 0
+      },
+      {
+        "page_a": 100,
+        "page_b": 101,
+        "overlap_unique_ids": 0
+      }
+    ],
+    "sample_union_unique_ids": 100
+  },
+  "conclusion": {
+    "v2_is_still_viable_for_exhaustive_test": false,
+    "rule": "V2 is only promising if sampled pages contain a stable main-list product set with low/zero overlap and enough unique IDs to approach the 20,465 baseline across the 100-page window.",
+    "do_not_upload": true
+  },
+  "row_tests": [
+    {
+      "rows": 15,
+      "status": 200,
+      "ok": true,
+      "elapsed": 0.957,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=1&rows=15",
+      "all_product_widgets": 15,
+      "unique_product_ids": 15,
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 1
+        }
+      ]
+    },
+    {
+      "rows": 16,
+      "status": 200,
+      "ok": true,
+      "elapsed": 0.898,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=1&rows=16",
+      "all_product_widgets": 16,
+      "unique_product_ids": 16,
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 1
+        }
+      ]
+    },
+    {
+      "rows": 18,
+      "status": 200,
+      "ok": true,
+      "elapsed": 0.853,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=1&rows=18",
+      "all_product_widgets": 18,
+      "unique_product_ids": 18,
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 1
+        }
+      ]
+    },
+    {
+      "rows": 20,
+      "status": 200,
+      "ok": true,
+      "elapsed": 0.992,
+      "url": "https://api.digikala.com/v2/category/6484/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=1&rows=20",
+      "all_product_widgets": 20,
+      "unique_product_ids": 20,
+      "pager_candidates": [
+        {
+          "total_items": 20465,
+          "total_pages": 100,
+          "current_page": 1
+        }
+      ]
+    }
+  ]
+}
