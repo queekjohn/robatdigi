@@ -1,0 +1,646 @@
+{
+  "version": "1.9.6",
+  "read_only": true,
+  "no_evazar_upload": true,
+  "target": {
+    "category_id": 6484,
+    "category_code": "brush-and-makeup-accesories",
+    "brand_id": 30353,
+    "brand_code": "khandaloo",
+    "price_rial": 1590000,
+    "price_toman": 159000
+  },
+  "canonical_path": "$.data.widgets[0].data.widgets[type=product].data",
+  "tests": [
+    {
+      "page": 1,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11661399,
+        11693438,
+        11662452,
+        11662759,
+        11660556,
+        11661942,
+        11662022,
+        11664440,
+        11661419,
+        11663375,
+        11662013,
+        11662553,
+        11662400,
+        11662430,
+        11665103,
+        11663369,
+        11662160,
+        11664464,
+        11661485,
+        11661767
+      ],
+      "pager": {
+        "current_page": 1,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 24
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 21,
+        "product_count": 20,
+        "action_button_count": 1,
+        "widget_type_counts": {
+          "action_button": 1,
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=1&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 2,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11662452,
+        11664464,
+        11662959,
+        11662440,
+        11662759,
+        11660556,
+        11661419,
+        11665103,
+        11662022,
+        11664440,
+        11692156,
+        11691606,
+        11680615,
+        11677761,
+        11680194,
+        11694207,
+        11661700,
+        11678437,
+        11555593,
+        11677350
+      ],
+      "pager": {
+        "current_page": 2,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=2&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 99,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11546014,
+        11659873,
+        11619501,
+        11661939,
+        11681557,
+        11692456,
+        11544702,
+        11655175,
+        11555044,
+        11691988,
+        11555754,
+        11598858,
+        11548027,
+        11614320,
+        11599698,
+        11680891,
+        11677977,
+        11619325,
+        11555015,
+        11679629
+      ],
+      "pager": {
+        "current_page": 99,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=99&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 100,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11660395,
+        11656369,
+        11647740,
+        11400914,
+        11657494,
+        11660272,
+        11544910,
+        11664099,
+        11555112,
+        11612890,
+        11646182,
+        11614022,
+        11675366,
+        11694260,
+        11680697,
+        11658416,
+        11692337,
+        11678492,
+        11676800,
+        11678150
+      ],
+      "pager": {
+        "current_page": 100,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=100&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 101,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11663480,
+        11662439,
+        11662253,
+        11679812,
+        11661629,
+        11658131,
+        11660519,
+        11658032,
+        11639843,
+        11655098,
+        11639744,
+        11647532,
+        11658902,
+        11679353,
+        11679281,
+        11664878,
+        11598998,
+        11545130,
+        11646149,
+        11647019
+      ],
+      "pager": {
+        "current_page": 101,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=101&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 102,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11693790,
+        11598730,
+        11600091,
+        11680327,
+        11692018,
+        11601180,
+        11615008,
+        11660224,
+        11655417,
+        11654610,
+        11658717,
+        11657697,
+        11600569,
+        11654931,
+        11693554,
+        11658161,
+        11692922,
+        11655193,
+        11658091,
+        11679357
+      ],
+      "pager": {
+        "current_page": 102,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=102&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 200,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11555833,
+        11658407,
+        11656793,
+        11651546,
+        11658818,
+        11665157,
+        11661932,
+        11547140,
+        11417258,
+        11547269,
+        11694129,
+        11681185,
+        11661594,
+        11654625,
+        11677314,
+        11614494,
+        11661302,
+        11693266,
+        11658006,
+        11661603
+      ],
+      "pager": {
+        "current_page": 200,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=200&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 300,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11646546,
+        11691667,
+        11675373,
+        11658523,
+        11647393,
+        11660394,
+        11676160,
+        11691468,
+        11639712,
+        11679624,
+        11660866,
+        11678782,
+        11693229,
+        11681143,
+        11646645,
+        11662233,
+        11678968,
+        11691873,
+        11678322,
+        11658214
+      ],
+      "pager": {
+        "current_page": 300,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=300&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 400,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11657828,
+        11681516,
+        11651588,
+        11657807,
+        11647076,
+        11691419,
+        11664299,
+        11665121,
+        11658839,
+        11677745,
+        11680313,
+        11663948,
+        11664290,
+        11660162,
+        11680793,
+        11661185,
+        11645999,
+        11655197,
+        11659478,
+        11665193
+      ],
+      "pager": {
+        "current_page": 400,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=400&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 499,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11646932,
+        11661323,
+        11681005,
+        11662888,
+        11546193,
+        11555579,
+        11694032,
+        11695228,
+        11661395,
+        11692144,
+        11679026,
+        11661631,
+        11661519,
+        11680569,
+        11691578,
+        11657734,
+        11680686,
+        11691471,
+        11545459,
+        11678460
+      ],
+      "pager": {
+        "current_page": 499,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=499&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 500,
+      "status": 200,
+      "ok": true,
+      "canonical_product_count": 20,
+      "unique_ids": 20,
+      "ids": [
+        11660007,
+        11645868,
+        11619487,
+        11619223,
+        11639694,
+        11619397,
+        11663451,
+        11598867,
+        11652555,
+        11639910,
+        11676456,
+        11619237,
+        11615286,
+        11664288,
+        11647207,
+        11660622,
+        11646501,
+        11654854,
+        11645895,
+        11618790
+      ],
+      "pager": {
+        "current_page": 500,
+        "total_pages": 100,
+        "total_items": 20465,
+        "total_slots": 20
+      },
+      "meta": {
+        "top_type": "vertical_product_listing",
+        "widget_count": 20,
+        "product_count": 20,
+        "action_button_count": 0,
+        "widget_type_counts": {
+          "product": 20
+        }
+      },
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=500&rows=20",
+      "error_message": ""
+    },
+    {
+      "page": 501,
+      "status": 400,
+      "ok": false,
+      "canonical_product_count": 0,
+      "unique_ids": 0,
+      "ids": [],
+      "pager": null,
+      "meta": null,
+      "url": "https://api.digikala.com/v3/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&categories%5B%5D=6484&page=501&rows=20",
+      "error_message": "جست‌وجو حداکثر در 500 صفحه امکان‌پذیر است."
+    }
+  ],
+  "comparisons": [
+    {
+      "page_a": 1,
+      "page_b": 2,
+      "overlap": 8,
+      "a_only": 12,
+      "b_only": 12,
+      "same_set": false
+    },
+    {
+      "page_a": 2,
+      "page_b": 99,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 99,
+      "page_b": 100,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 100,
+      "page_b": 101,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 101,
+      "page_b": 102,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 102,
+      "page_b": 200,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 200,
+      "page_b": 300,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 300,
+      "page_b": 400,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 400,
+      "page_b": 499,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    },
+    {
+      "page_a": 499,
+      "page_b": 500,
+      "overlap": 0,
+      "a_only": 20,
+      "b_only": 20,
+      "same_set": false
+    }
+  ],
+  "summary": {
+    "baseline_total_items": 20465,
+    "reported_total_pages": 100,
+    "sample_union_unique_ids": 212,
+    "valid_sample_pages": [
+      1,
+      2,
+      99,
+      100,
+      101,
+      102,
+      200,
+      300,
+      400,
+      499,
+      500
+    ],
+    "page100_product_count": 20,
+    "page101_product_count": 20,
+    "page500_product_count": 20,
+    "page501_status": 400,
+    "hard_ceiling_message_observed": true,
+    "page100_101_distinct": true,
+    "sample_union_vs_baseline_pct": 1.036
+  },
+  "conclusion": {
+    "accept_v3": false,
+    "reason": "Recursive product counts from 1.9.3/1.9.5 were contaminated by filter objects. This version counts only product widgets in the main vertical_product_listing."
+  }
+}
