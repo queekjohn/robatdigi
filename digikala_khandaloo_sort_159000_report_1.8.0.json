@@ -1,0 +1,646 @@
+{
+  "version": "1.8.0",
+  "api_root": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/",
+  "category": {
+    "id": 6484,
+    "code": "brush-and-makeup-accesories"
+  },
+  "price_toman": 159000,
+  "price_rial": 1590000,
+  "brand": {
+    "id": 30353,
+    "code": "khandaloo"
+  },
+  "page_limit": 100,
+  "sort_catalog": [
+    {
+      "id": 22,
+      "name": "relevance",
+      "title_fa": "مرتبط‌ترین"
+    },
+    {
+      "id": 4,
+      "name": "most_viewed",
+      "title_fa": "پربازدیدترین"
+    },
+    {
+      "id": 1,
+      "name": "newest",
+      "title_fa": "جدیدترین"
+    },
+    {
+      "id": 7,
+      "name": "best_selling",
+      "title_fa": "پرفروش‌ترین"
+    },
+    {
+      "id": 20,
+      "name": "cheapest",
+      "title_fa": "ارزان‌ترین"
+    },
+    {
+      "id": 21,
+      "name": "most_expensive",
+      "title_fa": "گران‌ترین"
+    },
+    {
+      "id": 25,
+      "name": "fastest_delivery",
+      "title_fa": "سریع‌ترین ارسال"
+    },
+    {
+      "id": 27,
+      "name": "buyers_choice",
+      "title_fa": "منتخب خریداران"
+    },
+    {
+      "id": 29,
+      "name": "featured",
+      "title_fa": "منتخب"
+    }
+  ],
+  "sorts_scanned": [
+    {
+      "id": 22,
+      "name": "relevance",
+      "title_fa": "مرتبط‌ترین",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1572,
+      "first_page_dkps": [
+        11694207,
+        11661700,
+        11678437,
+        11555593,
+        11677350,
+        11680318,
+        11639602,
+        11691670,
+        11659021,
+        11691705,
+        11647306,
+        11546706,
+        11692252,
+        11694270,
+        11677596,
+        11656458,
+        11676348,
+        11691822,
+        11660185,
+        11676328
+      ],
+      "page_100_first_last": {
+        "first": [
+          11556106,
+          11547360,
+          11655015,
+          11676319,
+          11598855
+        ],
+        "last": [
+          11656824,
+          11615407,
+          11694174,
+          11544570,
+          11658771
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 22,
+        "status": 400,
+        "ok": false,
+        "elapsed": 0.907,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=22&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 64.073
+    },
+    {
+      "id": 4,
+      "name": "most_viewed",
+      "title_fa": "پربازدیدترین",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1649,
+      "first_page_dkps": [
+        11661682,
+        11613990,
+        11661724,
+        11661226,
+        11661210,
+        11657719,
+        11661634,
+        11680746,
+        11613975,
+        11661698,
+        11658217,
+        11663960,
+        11681262,
+        11656509,
+        11676619,
+        11545930,
+        11675905,
+        11418714,
+        11659989,
+        11545934
+      ],
+      "page_100_first_last": {
+        "first": [
+          11654462,
+          11613782,
+          11664320,
+          11654954,
+          11647793
+        ],
+        "last": [
+          11639660,
+          11600795,
+          11660156,
+          11614598,
+          11676731
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 4,
+        "status": 400,
+        "ok": false,
+        "elapsed": 1.235,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=4&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 75.165
+    },
+    {
+      "id": 1,
+      "name": "newest",
+      "title_fa": "جدیدترین",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1997,
+      "first_page_dkps": [
+        11695274,
+        11695273,
+        11695272,
+        11695271,
+        11695269,
+        11695268,
+        11695265,
+        11695266,
+        11695264,
+        11695262,
+        11695261,
+        11695260,
+        11695259,
+        11695257,
+        11695256,
+        11695255,
+        11695254,
+        11695253,
+        11695252,
+        11695251
+      ],
+      "page_100_first_last": {
+        "first": [
+          11691765,
+          11691764,
+          11691763,
+          11691760,
+          11691759
+        ],
+        "last": [
+          11691746,
+          11691743,
+          11691742,
+          11691741,
+          11691740
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 1,
+        "status": 400,
+        "ok": false,
+        "elapsed": 0.829,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=1&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 96.343
+    },
+    {
+      "id": 7,
+      "name": "best_selling",
+      "title_fa": "پرفروش‌ترین",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1473,
+      "first_page_dkps": [
+        11661705,
+        11661698,
+        11647697,
+        11661644,
+        11658217,
+        11640046,
+        11658219,
+        11555393,
+        11663969,
+        11660568,
+        11693535,
+        11617242,
+        11661634,
+        11657516,
+        11676840,
+        11555075,
+        11658112,
+        11639572,
+        11662630,
+        11662876
+      ],
+      "page_100_first_last": {
+        "first": [
+          11676348,
+          11691822,
+          11660185,
+          11676328,
+          11693482
+        ],
+        "last": [
+          11693076,
+          11647950,
+          11677939,
+          11679157,
+          11646717
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 7,
+        "status": 400,
+        "ok": false,
+        "elapsed": 0.931,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=7&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 69.155
+    },
+    {
+      "id": 20,
+      "name": "cheapest",
+      "title_fa": "ارزان‌ترین",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1561,
+      "first_page_dkps": [
+        11661399,
+        11693438,
+        11646893,
+        11676328,
+        11693482,
+        11651841,
+        11664588,
+        11656978,
+        11679999,
+        11651764,
+        11655364,
+        11695272,
+        11693641,
+        11693883,
+        11680194,
+        11645664,
+        11693076,
+        11692754,
+        11639825,
+        11554955
+      ],
+      "page_100_first_last": {
+        "first": [
+          11556106,
+          11547360,
+          11655015,
+          11676319,
+          11598855
+        ],
+        "last": [
+          11656824,
+          11615407,
+          11694174,
+          11544570,
+          11658771
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 20,
+        "status": 400,
+        "ok": false,
+        "elapsed": 0.773,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=20&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 77.487
+    },
+    {
+      "id": 21,
+      "name": "most_expensive",
+      "title_fa": "گران‌ترین",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1472,
+      "first_page_dkps": [
+        11414028,
+        11663369,
+        11661485,
+        11663375,
+        11662013,
+        11661767,
+        11662160,
+        11662430,
+        11662553,
+        11662400,
+        11664540,
+        11665527,
+        11662947,
+        11662830,
+        11664780,
+        11661942,
+        11665057,
+        11664844,
+        11662305,
+        11661727
+      ],
+      "page_100_first_last": {
+        "first": [
+          11652479,
+          11618939,
+          11654654,
+          11647289,
+          11599760
+        ],
+        "last": [
+          11655329,
+          11651798,
+          11654480,
+          11651195,
+          11647025
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 21,
+        "status": 400,
+        "ok": false,
+        "elapsed": 0.943,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=21&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 67.953
+    },
+    {
+      "id": 25,
+      "name": "fastest_delivery",
+      "title_fa": "سریع‌ترین ارسال",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1515,
+      "first_page_dkps": [
+        11652487,
+        11657766,
+        11545442,
+        11691687,
+        11694293,
+        11658154,
+        11659779,
+        11692391,
+        11693175,
+        11548087,
+        11615371,
+        11658155,
+        11414028,
+        11663369,
+        11661485,
+        11663375,
+        11662013,
+        11661767,
+        11662160,
+        11662430
+      ],
+      "page_100_first_last": {
+        "first": [
+          11639722,
+          11679300,
+          11664816,
+          11678589,
+          11660400
+        ],
+        "last": [
+          11615307,
+          11614801,
+          11598523,
+          11601232,
+          11675449
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 25,
+        "status": 400,
+        "ok": false,
+        "elapsed": 0.847,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=25&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 81.537
+    },
+    {
+      "id": 27,
+      "name": "buyers_choice",
+      "title_fa": "منتخب خریداران",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1590,
+      "first_page_dkps": [
+        11646893,
+        11657905,
+        11658210,
+        11418935,
+        11677158,
+        11599753,
+        11619365,
+        11664176,
+        11680677,
+        11600472,
+        11659031,
+        11656371,
+        11664328,
+        11598667,
+        11615267,
+        11676995,
+        11692865,
+        11656331,
+        11555429,
+        11555142
+      ],
+      "page_100_first_last": {
+        "first": [
+          11662022,
+          11664440,
+          11663369,
+          11659487,
+          11598971
+        ],
+        "last": [
+          11692235,
+          11677142,
+          11665097,
+          11555015,
+          11679629
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 27,
+        "status": 400,
+        "ok": false,
+        "elapsed": 0.727,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=27&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 77.404
+    },
+    {
+      "id": 29,
+      "name": "featured",
+      "title_fa": "منتخب",
+      "pages_requested": 100,
+      "pages_successful": 100,
+      "pages_failed": 0,
+      "page_1_total_items": 20465,
+      "page_1_total_pages": 500,
+      "unique_dkps_across_scanned_pages": 1619,
+      "first_page_dkps": [
+        11661705,
+        11661682,
+        11613512,
+        11661698,
+        11663956,
+        11661634,
+        11661210,
+        11658217,
+        11661724,
+        11676251,
+        11659989,
+        11645941,
+        11661723,
+        11661088,
+        11661696,
+        11661226,
+        11663960,
+        11681262,
+        11555638,
+        11546008
+      ],
+      "page_100_first_last": {
+        "first": [
+          11598638,
+          11613365,
+          11547503,
+          11613734,
+          11556017
+        ],
+        "last": [
+          11692394,
+          11664755,
+          11639726,
+          11398319,
+          11419577
+        ]
+      },
+      "page_101": {
+        "page": 101,
+        "sort_id": 29,
+        "status": 400,
+        "ok": false,
+        "elapsed": 1.019,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&sort=29&page=101",
+        "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است.",
+        "error_body": "{\"status\":400,\"message\":\"\\u062c\\u0633\\u062a\\u200c\\u0648\\u062c\\u0648 \\u062d\\u062f\\u0627\\u06a9\\u062b\\u0631 \\u062f\\u0631 100 \\u0635\\u0641\\u062d\\u0647 \\u0627\\u0645\\u06a9\\u0627\\u0646\\u200c\\u067e\\u0630\\u06cc\\u0631 \\u0627\\u0633\\u062a.\"}",
+        "exception": null
+      },
+      "failed_pages": [],
+      "elapsed_total": 61.393
+    }
+  ],
+  "union": {
+    "scanned_sort_count": 9,
+    "unique_dkps_union_across_all_scanned_pages": 5830,
+    "page_limit_per_sort": 100,
+    "baseline_total_items": 20465,
+    "difference_union_minus_baseline": -14635,
+    "coverage_pct_vs_baseline": 28.488,
+    "sort_unique_counts": {
+      "22": 1572,
+      "4": 1649,
+      "1": 1997,
+      "7": 1473,
+      "20": 1561,
+      "21": 1472,
+      "25": 1515,
+      "27": 1590,
+      "29": 1619
+    }
+  },
+  "conclusion": {
+    "candidate_partition": false,
+    "reason": "Different sort orders are orderings, not proven disjoint partitions. Even if their union exceeds the 100-page window, completeness is not established without exhaustive set validation against the true result set.",
+    "next_step": "If union coverage is materially larger than 2,000, investigate a stable range/cursor or another independent server-side partition dimension. If union remains near 2,000, abandon sort as a coverage strategy."
+  }
+}
