@@ -1,0 +1,539 @@
+{
+  "version": "1.5.3",
+  "category": {
+    "id": 6484,
+    "code": "brush-and-makeup-accesories"
+  },
+  "price_toman": 159000,
+  "price_rial": 1590000,
+  "raw_source": "local",
+  "raw_file": "F:\\MBL\\Robat Moblak\\antigravity build\\ikea\\ربات دیجی کالا\\digikala_brand_partition_tester_1.5.1\\digikala_api_page1_raw_1.2.0.json",
+  "raw_url": "https://raw.githubusercontent.com/queekjohn/robatdigi/refs/heads/main/digikala_api_page1_raw_1.2.0.json",
+  "baseline": {
+    "total_items": 0,
+    "total_pages": 500,
+    "sample_dkps": [
+      17307325,
+      11661705,
+      8426416,
+      11661682,
+      11613512,
+      15149106,
+      11900088,
+      7277579,
+      11661698,
+      2191449,
+      1539957,
+      2060681,
+      11663956,
+      11661634,
+      11661210,
+      11658217,
+      11661724,
+      5927891,
+      11676251,
+      11659989
+    ]
+  },
+  "product_brand_discovery": [
+    {
+      "dkp": 17307325,
+      "brand": {
+        "id": 719,
+        "code": "miscellaneous",
+        "title_fa": "متفرقه",
+        "title_en": "Miscellaneous"
+      },
+      "source_url": "https://api.digikala.com/v2/product/17307325/",
+      "attempts": [
+        {
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.605,
+          "url": "https://api.digikala.com/v2/product/17307325/",
+          "exception": null,
+          "error_body": ""
+        }
+      ]
+    },
+    {
+      "dkp": 11661705,
+      "brand": {
+        "id": 30353,
+        "code": "khandaloo",
+        "title_fa": "خندالو",
+        "title_en": "Khandaloo"
+      },
+      "source_url": "https://api.digikala.com/v2/product/11661705/",
+      "attempts": [
+        {
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.38,
+          "url": "https://api.digikala.com/v2/product/11661705/",
+          "exception": null,
+          "error_body": ""
+        }
+      ]
+    },
+    {
+      "dkp": 8426416,
+      "brand": {
+        "id": 719,
+        "code": "miscellaneous",
+        "title_fa": "متفرقه",
+        "title_en": "Miscellaneous"
+      },
+      "source_url": "https://api.digikala.com/v2/product/8426416/",
+      "attempts": [
+        {
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.392,
+          "url": "https://api.digikala.com/v2/product/8426416/",
+          "exception": null,
+          "error_body": ""
+        }
+      ]
+    },
+    {
+      "dkp": 11661682,
+      "brand": {
+        "id": 30353,
+        "code": "khandaloo",
+        "title_fa": "خندالو",
+        "title_en": "Khandaloo"
+      },
+      "source_url": "https://api.digikala.com/v2/product/11661682/",
+      "attempts": [
+        {
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.384,
+          "url": "https://api.digikala.com/v2/product/11661682/",
+          "exception": null,
+          "error_body": ""
+        }
+      ]
+    },
+    {
+      "dkp": 11613512,
+      "brand": {
+        "id": 30353,
+        "code": "khandaloo",
+        "title_fa": "خندالو",
+        "title_en": "Khandaloo"
+      },
+      "source_url": "https://api.digikala.com/v2/product/11613512/",
+      "attempts": [
+        {
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.327,
+          "url": "https://api.digikala.com/v2/product/11613512/",
+          "exception": null,
+          "error_body": ""
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "brand": {
+        "id": 719,
+        "code": "miscellaneous",
+        "title_fa": "متفرقه",
+        "title_en": "Miscellaneous"
+      },
+      "variants": {
+        "brands_empty_brackets": {
+          "page": 1,
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.855,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=719&page=1",
+          "error_message": "",
+          "error_body": "",
+          "exception": null,
+          "current_page": 1,
+          "total_pages": 1,
+          "total_items": 10,
+          "items": 10,
+          "dkps": [
+            17307325,
+            8426416,
+            15149106,
+            11900088,
+            7277579,
+            2191449,
+            1539957,
+            2060681,
+            5927891,
+            18753302
+          ],
+          "first_dkps": [
+            17307325,
+            8426416,
+            15149106,
+            11900088,
+            7277579
+          ]
+        },
+        "brands_index_0": {
+          "page": 1,
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.804,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=719&page=1",
+          "error_message": "",
+          "error_body": "",
+          "exception": null,
+          "current_page": 1,
+          "total_pages": 1,
+          "total_items": 10,
+          "items": 10,
+          "dkps": [
+            17307325,
+            8426416,
+            15149106,
+            11900088,
+            7277579,
+            2191449,
+            1539957,
+            2060681,
+            5927891,
+            18753302
+          ],
+          "first_dkps": [
+            17307325,
+            8426416,
+            15149106,
+            11900088,
+            7277579
+          ]
+        },
+        "brands_index_1": {
+          "page": 1,
+          "status": 200,
+          "ok": true,
+          "elapsed": 0.873,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B1%5D=719&page=1",
+          "error_message": "",
+          "error_body": "",
+          "exception": null,
+          "current_page": 1,
+          "total_pages": 1,
+          "total_items": 10,
+          "items": 10,
+          "dkps": [
+            17307325,
+            8426416,
+            15149106,
+            11900088,
+            7277579,
+            2191449,
+            1539957,
+            2060681,
+            5927891,
+            18753302
+          ],
+          "first_dkps": [
+            17307325,
+            8426416,
+            15149106,
+            11900088,
+            7277579
+          ]
+        },
+        "brand_scalar": {
+          "page": 1,
+          "status": 400,
+          "ok": false,
+          "elapsed": 0.217,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brand=719&page=1",
+          "error_message": "Value \"719\" is not an array.",
+          "error_body": "{\"status\":400,\"message\":\"Value \\u0022719\\u0022 is not an array.\"}",
+          "exception": null
+        }
+      },
+      "nested": {
+        "page": 1,
+        "status": 200,
+        "ok": true,
+        "elapsed": 0.839,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/brands/miscellaneous/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&page=1",
+        "error_message": "",
+        "error_body": "",
+        "exception": null,
+        "current_page": 1,
+        "total_pages": 1,
+        "total_items": 10,
+        "items": 10,
+        "dkps": [
+          7277579,
+          17307325,
+          15149106,
+          8426416,
+          11900088,
+          2191449,
+          5927891,
+          2060681,
+          1539957,
+          18753302
+        ],
+        "first_dkps": [
+          7277579,
+          17307325,
+          15149106,
+          8426416,
+          11900088
+        ]
+      }
+    },
+    {
+      "brand": {
+        "id": 30353,
+        "code": "khandaloo",
+        "title_fa": "خندالو",
+        "title_en": "Khandaloo"
+      },
+      "variants": {
+        "brands_empty_brackets": {
+          "page": 1,
+          "status": 200,
+          "ok": true,
+          "elapsed": 1.156,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B%5D=30353&page=1",
+          "error_message": "",
+          "error_body": "",
+          "exception": null,
+          "current_page": 1,
+          "total_pages": 500,
+          "total_items": 20465,
+          "items": 20,
+          "dkps": [
+            11661705,
+            11661682,
+            11613512,
+            11661698,
+            11663956,
+            11661634,
+            11661210,
+            11658217,
+            11661724,
+            11676251,
+            11659989,
+            11645941,
+            11661723,
+            11661088,
+            11661696,
+            11661226,
+            11663960,
+            11681262,
+            11555638,
+            11546008
+          ],
+          "first_dkps": [
+            11661705,
+            11661682,
+            11613512,
+            11661698,
+            11663956
+          ],
+          "page_100": {
+            "status": 200,
+            "ok": true,
+            "error_message": ""
+          },
+          "page_101": {
+            "status": 400,
+            "ok": false,
+            "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است."
+          }
+        },
+        "brands_index_0": {
+          "page": 1,
+          "status": 200,
+          "ok": true,
+          "elapsed": 1.567,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B0%5D=30353&page=1",
+          "error_message": "",
+          "error_body": "",
+          "exception": null,
+          "current_page": 1,
+          "total_pages": 500,
+          "total_items": 20465,
+          "items": 20,
+          "dkps": [
+            11661705,
+            11661682,
+            11613512,
+            11661698,
+            11663956,
+            11661634,
+            11661210,
+            11658217,
+            11661724,
+            11676251,
+            11659989,
+            11645941,
+            11661723,
+            11661088,
+            11661696,
+            11661226,
+            11663960,
+            11681262,
+            11555638,
+            11546008
+          ],
+          "first_dkps": [
+            11661705,
+            11661682,
+            11613512,
+            11661698,
+            11663956
+          ],
+          "page_100": {
+            "status": 200,
+            "ok": true,
+            "error_message": ""
+          },
+          "page_101": {
+            "status": 400,
+            "ok": false,
+            "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است."
+          }
+        },
+        "brands_index_1": {
+          "page": 1,
+          "status": 200,
+          "ok": true,
+          "elapsed": 1.229,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brands%5B1%5D=30353&page=1",
+          "error_message": "",
+          "error_body": "",
+          "exception": null,
+          "current_page": 1,
+          "total_pages": 500,
+          "total_items": 20465,
+          "items": 20,
+          "dkps": [
+            11661705,
+            11661682,
+            11613512,
+            11661698,
+            11663956,
+            11661634,
+            11661210,
+            11658217,
+            11661724,
+            11676251,
+            11659989,
+            11645941,
+            11661723,
+            11661088,
+            11661696,
+            11661226,
+            11663960,
+            11681262,
+            11555638,
+            11546008
+          ],
+          "first_dkps": [
+            11661705,
+            11661682,
+            11613512,
+            11661698,
+            11663956
+          ],
+          "page_100": {
+            "status": 200,
+            "ok": true,
+            "error_message": ""
+          },
+          "page_101": {
+            "status": 400,
+            "ok": false,
+            "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است."
+          }
+        },
+        "brand_scalar": {
+          "page": 1,
+          "status": 400,
+          "ok": false,
+          "elapsed": 0.265,
+          "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&brand=30353&page=1",
+          "error_message": "Value \"30353\" is not an array.",
+          "error_body": "{\"status\":400,\"message\":\"Value \\u002230353\\u0022 is not an array.\"}",
+          "exception": null
+        }
+      },
+      "nested": {
+        "page": 1,
+        "status": 200,
+        "ok": true,
+        "elapsed": 1.263,
+        "url": "https://api.digikala.com/v1/categories/brush-and-makeup-accesories/brands/khandaloo/search/?price%5Bmin%5D=1590000&price%5Bmax%5D=1590000&has_selling_stock=1&page=1",
+        "error_message": "",
+        "error_body": "",
+        "exception": null,
+        "current_page": 1,
+        "total_pages": 500,
+        "total_items": 20465,
+        "items": 20,
+        "dkps": [
+          11661682,
+          11613990,
+          11661724,
+          11661226,
+          11661210,
+          11657719,
+          11661634,
+          11680746,
+          11613975,
+          11661698,
+          11658217,
+          11663960,
+          11681262,
+          11656509,
+          11545930,
+          11676619,
+          11675905,
+          11418714,
+          11659989,
+          11545934
+        ],
+        "first_dkps": [
+          11661682,
+          11613990,
+          11661724,
+          11661226,
+          11661210
+        ],
+        "page_100": {
+          "status": 200,
+          "ok": true,
+          "error_message": ""
+        },
+        "page_101": {
+          "status": 400,
+          "ok": false,
+          "error_message": "جست‌وجو حداکثر در 100 صفحه امکان‌پذیر است."
+        }
+      }
+    }
+  ],
+  "summary": {
+    "actual_brands": 2,
+    "brands_empty_brackets_nonzero": 2,
+    "brands_index_0_nonzero": 2,
+    "brands_index_1_nonzero": 2,
+    "brand_scalar_nonzero": 0,
+    "nested_nonzero": 2,
+    "working_variants": [
+      "brands_empty_brackets",
+      "brands_index_0",
+      "brands_index_1"
+    ]
+  }
+}
