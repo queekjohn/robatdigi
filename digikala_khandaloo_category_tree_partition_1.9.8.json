@@ -1,0 +1,89 @@
+{
+  "version": "1.9.8",
+  "read_only": true,
+  "no_evazar_upload": true,
+  "goal": "adaptive category-tree partition for exhaustive Digikala scan",
+  "target": {
+    "root_category_id": 6484,
+    "root_category_code": "brush-and-makeup-accesories",
+    "root_category_title": "ابزار آرایش صورت",
+    "brand_id": 30353,
+    "brand_code": "khandaloo",
+    "price_rial": 1590000,
+    "price_toman": 159000,
+    "has_selling_stock": 1
+  },
+  "limits": {
+    "max_v1_pages_per_branch": 100,
+    "rows_expected": 20
+  },
+  "tree": {
+    "endpoint": "/v1/category-tree/",
+    "nodes_loaded": 3198,
+    "root": {
+      "id": 6484,
+      "code": "brush-and-makeup-accesories",
+      "title_fa": "ابزار آرایش صورت",
+      "parent_id": 6470
+    },
+    "direct_children": []
+  },
+  "control": {
+    "id": 6484,
+    "code": "brush-and-makeup-accesories",
+    "title_fa": "ابزار آرایش صورت",
+    "status": 200,
+    "total_items": 20465,
+    "total_pages": 500,
+    "page1_raw_products": 20,
+    "page1_exact_products": 20,
+    "error_message": ""
+  },
+  "adaptive_probes": [
+    {
+      "id": 6484,
+      "code": "brush-and-makeup-accesories",
+      "title_fa": "ابزار آرایش صورت",
+      "status": 200,
+      "total_items": 20465,
+      "total_pages": 500,
+      "page1_raw_products": 20,
+      "page1_exact_products": 20,
+      "error_message": ""
+    }
+  ],
+  "expanded_nodes": [],
+  "selected_branches": [],
+  "stranded": [
+    {
+      "id": 6484,
+      "code": "brush-and-makeup-accesories",
+      "title_fa": "ابزار آرایش صورت",
+      "status": 200,
+      "total_items": 20465,
+      "total_pages": 500,
+      "page1_raw_products": 20,
+      "page1_exact_products": 20,
+      "error_message": "",
+      "reason": "pagination_cap_at_leaf"
+    }
+  ],
+  "exhaustive_scans": [],
+  "verification": {
+    "count_gate": false,
+    "full_scan_gate": false,
+    "branch_count_sum": 0,
+    "root_baseline": 20465,
+    "sum_minus_baseline": -20465,
+    "scanned_raw_rows": 0,
+    "union_unique_dkps": 0,
+    "overlap_dkp_count": 0,
+    "failed_pages": 0,
+    "non_exact_rows": 0,
+    "sample_overlap": []
+  },
+  "conclusion": {
+    "candidate_partition": false,
+    "reason": "PASS only when adaptive branches all fit <=100 pages, branch counts equal the root baseline, all branch pages scan successfully, every scanned row matches the exact target, there are no within-branch duplicates, there is zero cross-branch DKP overlap, and the union contains exactly the root baseline number of unique DKPs."
+  }
+}
