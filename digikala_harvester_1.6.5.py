@@ -693,6 +693,30 @@ def build_api_url_with_brand(base_url, brand_id):
     """Apply one Digikala brand facet as an upstream filter."""
     return add_query_params(base_url, **{"brands[0]": str(brand_id)})
 
+def get_price_bounds_from_url(url):
+    """Read existing Digikala price bounds from a query URL."""
+    parsed = urllib.parse.urlparse(url)
+    query = urllib.parse.parse_qs(parsed.query)
+
+    def first_int(keys):
+        for key in keys:
+            values = query.get(key)
+            if not values:
+                continue
+            try:
+                return int(values[0])
+            except (TypeError, ValueError):
+                continue
+        return None
+
+    return (
+        first_int(("price[min]", "price_min")),
+        first_int(("price[max]", "price_max")),
+    )
+
+
+
+
 
 def print_scan_diagnostics():
     """Print the most important scan-unit coverage diagnostics."""
@@ -1421,10 +1445,19 @@ def scan_brand_partitions(
                                 p, brand_url, f"Brand partition error: {exc}"
                             )
         else:
+            # Preserve the exact price-range of the stubborn cluster. Do not
+            # replace it with price=0..0, otherwise the fallback would scan the
+            # entire brand instead of only the unresolved dense cluster.
+            existing_p_min, existing_p_max = get_price_bounds_from_url(brand_url)
+            if existing_p_min is None:
+                existing_p_min = 0
+            if existing_p_max is None:
+                existing_p_max = 0
+
             scan_price_range(
                 base_url=brand_url,
-                p_min=0,
-                p_max=0,
+                p_min=existing_p_min,
+                p_max=existing_p_max,
                 all_extracted_items=all_extracted_items,
                 min_price_toman=min_price_toman,
                 threads=threads,
@@ -1433,9 +1466,15 @@ def scan_brand_partitions(
                 depth=1,
                 allow_brand_fallback=False,
             )
-            brand_dkps.update(
-                get_eligible_dkps(fetch_page(brand_url, 1), min_price_toman)
-            )
+
+            # The recursive scan above owns the detailed page harvesting.
+            # Refresh only page 1 here to collect the brand's local DKP sample
+            # for the fallback union; global/leaf audit is already populated.
+            brand_page = fetch_page(brand_url, 1)
+            if brand_page:
+                brand_dkps.update(
+                    get_eligible_dkps(brand_page, min_price_toman)
+                )
 
         seen_union.update(brand_dkps)
 
