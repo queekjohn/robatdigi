@@ -137,6 +137,7 @@ class ScanStats:
         self.root_reported_pages = None
         self.scan_audits = []
         self.coverage_recovery_attempts = 0
+        self.coverage_unresolved = False
 
     def add_failed_page(self, page, url, reason):
         with stats_lock:
@@ -888,8 +889,10 @@ def print_coverage_report():
         )
 
     if warning_count:
+        STATS.coverage_unresolved = True
         print(f"[!] Coverage review needed for {warning_count} leaf target(s).")
     else:
+        STATS.coverage_unresolved = False
         print("[+] All leaf targets are within the reference coverage threshold.")
 
     print("=" * 65)
@@ -1461,6 +1464,7 @@ def scan_brand_partitions(
         f"across {processed:,} non-empty brands."
     )
     if coverage < 99.5:
+        STATS.coverage_unresolved = True
         print(
             "    [WARNING] Brand fallback did not reach the reference threshold. "
             "The cluster remains unresolved and must not be called complete."
@@ -1760,7 +1764,14 @@ def print_final_report(all_valid_items, subcategories_count):
         if len(STATS.failed_pages) > 20:
             print(f"  ... and {len(STATS.failed_pages) - 20} more")
 
-    print("\nOVERALL STATUS: COMPLETE")
+    if STATS.failed_pages:
+        overall_status = "NOT VERIFIED - API PAGE FAILURES"
+    elif STATS.coverage_unresolved:
+        overall_status = "COMPLETE WITH COVERAGE WARNINGS"
+    else:
+        overall_status = "COMPLETE"
+
+    print(f"\nOVERALL STATUS: {overall_status}")
     print("=" * 65)
 
 
