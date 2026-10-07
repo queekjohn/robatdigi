@@ -1150,7 +1150,7 @@ def process_target_subcategory(
         )
     
     
-        finally:
+    finally:
         CURRENT_AUDIT = None
 
 def push_to_wordpress(items, wp_api_url):
