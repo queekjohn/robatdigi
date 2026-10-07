@@ -1094,61 +1094,61 @@ def process_target_subcategory(
             print("    [!] No items available in this subcategory. Continuing.")
             return True
 
-        # 1. Mode: Direct High-Speed (< 100 pages and <= 2000 items)
-    if total_pages <= args.page_cap and total_items <= args.slice_threshold:
-        return scan_direct_subcategory(
-            api_url=probe_url,
-            total_pages=total_pages,
-            total_items=total_items,
-            all_extracted_items=all_extracted_items,
-            min_price_toman=args.min_price,
-            threads=args.threads,
-        )
-
-    # 2. Mode: Deep Recursive Price Slicing (Uncapped for any volume > 100 pages)
-    print(f"    [*] Mode: Deep Recursive Price Slicing ({total_pages:,} pages, ~{total_items:,} items)")
-
-    # Read dynamic price min & max from Digikala API filters
-    price_filter = data.get("data", {}).get("filters", {}).get("price", {}).get("options", {})
-    api_min_rial = price_filter.get("min")
-    api_max_rial = price_filter.get("max")
-
-    user_min_rial = args.min_price * 10
-    if api_min_rial is not None:
-        try:
-            initial_min = max(user_min_rial, int(api_min_rial))
-        except (TypeError, ValueError):
+            # 1. Mode: Direct High-Speed (< 100 pages and <= 2000 items)
+        if total_pages <= args.page_cap and total_items <= args.slice_threshold:
+            return scan_direct_subcategory(
+                api_url=probe_url,
+                total_pages=total_pages,
+                total_items=total_items,
+                all_extracted_items=all_extracted_items,
+                min_price_toman=args.min_price,
+                threads=args.threads,
+            )
+    
+        # 2. Mode: Deep Recursive Price Slicing (Uncapped for any volume > 100 pages)
+        print(f"    [*] Mode: Deep Recursive Price Slicing ({total_pages:,} pages, ~{total_items:,} items)")
+    
+        # Read dynamic price min & max from Digikala API filters
+        price_filter = data.get("data", {}).get("filters", {}).get("price", {}).get("options", {})
+        api_min_rial = price_filter.get("min")
+        api_max_rial = price_filter.get("max")
+    
+        user_min_rial = args.min_price * 10
+        if api_min_rial is not None:
+            try:
+                initial_min = max(user_min_rial, int(api_min_rial))
+            except (TypeError, ValueError):
+                initial_min = user_min_rial
+        else:
             initial_min = user_min_rial
-    else:
-        initial_min = user_min_rial
-
-    if args.max_price > 0:
-        initial_max = args.max_price * 10
-    elif api_max_rial is not None:
-        try:
-            initial_max = int(api_max_rial)
-        except (TypeError, ValueError):
-            initial_max = 5000000000  # 500M Toman in Rials safety fallback
-    else:
-        initial_max = 5000000000      # 500M Toman in Rials safety fallback
-
-    # Ensure max > min
-    if initial_max <= initial_min:
-        initial_max = initial_min + 1000000000
-
-    print(f"    [*] Dynamic Price Range: {initial_min / 10:,.0f} to {initial_max / 10:,.0f} Toman")
-
-        return scan_price_range(
-            base_url=probe_url,
-            p_min=initial_min,
-            p_max=initial_max,
-            all_extracted_items=all_extracted_items,
-            min_price_toman=args.min_price,
-            threads=args.threads,
-            slice_threshold=args.slice_threshold,
-            page_cap=args.page_cap,
-        )
-    finally:
+    
+        if args.max_price > 0:
+            initial_max = args.max_price * 10
+        elif api_max_rial is not None:
+            try:
+                initial_max = int(api_max_rial)
+            except (TypeError, ValueError):
+                initial_max = 5000000000  # 500M Toman in Rials safety fallback
+        else:
+            initial_max = 5000000000      # 500M Toman in Rials safety fallback
+    
+        # Ensure max > min
+        if initial_max <= initial_min:
+            initial_max = initial_min + 1000000000
+    
+        print(f"    [*] Dynamic Price Range: {initial_min / 10:,.0f} to {initial_max / 10:,.0f} Toman")
+    
+            return scan_price_range(
+                base_url=probe_url,
+                p_min=initial_min,
+                p_max=initial_max,
+                all_extracted_items=all_extracted_items,
+                min_price_toman=args.min_price,
+                threads=args.threads,
+                slice_threshold=args.slice_threshold,
+                page_cap=args.page_cap,
+            )
+        finally:
         CURRENT_AUDIT = None
 
 
@@ -1200,7 +1200,7 @@ def run_single_product_mode(product_url, wp_api_url, duplicate_test=False):
     canonical_url = product["url"]
 
     print("\n" + "=" * 65)
-    print(" EVazar Harvester 1.6.1 - SINGLE PRODUCT TEST")
+    print(" EVazar Harvester 1.6.3 - SINGLE PRODUCT TEST")
     print("=" * 65)
     print(f"DKP             : {dkp}")
     print(f"Product URL     : {canonical_url}")
