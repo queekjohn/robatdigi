@@ -873,7 +873,7 @@ def print_coverage_report():
         if status != "OK":
             warning_count += 1
 
-        gap_text = f"{gap:,}" if gap >= 0 else f"+{abs(gap):,}"
+        gap_text = f"{gap:,}" if gap >= 0 else f"-{abs(gap):,}"
         print(
             f"    Reported eligible: {expected:,} | Unique seen: {seen:,} | "
             f"Coverage: {coverage:.2f}% | Gap: {gap_text} | {status}"
@@ -1377,6 +1377,16 @@ def scan_brand_partitions(
 
         if total_items <= 0:
             continue
+
+        # Safety: if the brand filter does not narrow the upstream result at all,
+        # do not repeat the same huge scan once per facet.
+        if total_items >= expected_items and expected_items > 0:
+            print(
+                f"    [!] Brand filter '{brand['title']}' did not narrow the "
+                f"reference set ({total_items:,} items). Assuming this facet "
+                "is not an effective upstream partition and stopping fallback."
+            )
+            break
 
         processed += 1
         brand_dkps = set()
