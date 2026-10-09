@@ -64,6 +64,7 @@ DEFAULT_INGEST_RETRIES = 5
 DEFAULT_INGEST_TIMEOUT = 60
 DEFAULT_SLICE_THRESHOLD = 2000
 DEFAULT_PAGE_CAP = 100
+ACTIVE_PAGE_CAP = DEFAULT_PAGE_CAP
 DEFAULT_MAX_PRICE_TOMAN = 0
 MAX_PRICE_RECURSION_DEPTH = 25
 
@@ -629,10 +630,10 @@ def record_scan_audit(
     }
     if isinstance(extra, dict):
         audit.update(extra)
-    audit.setdefault("page_cap", DEFAULT_PAGE_CAP)
+    audit.setdefault("page_cap", ACTIVE_PAGE_CAP)
     try:
         audit["page_cap_hit"] = bool(
-            audit.get("page_cap_hit", int(reported_pages or 0) >= int(audit["page_cap"] or DEFAULT_PAGE_CAP))
+            audit.get("page_cap_hit", int(reported_pages or 0) >= int(audit["page_cap"] or ACTIVE_PAGE_CAP))
         )
     except (TypeError, ValueError):
         audit["page_cap_hit"] = False
@@ -920,6 +921,8 @@ def print_coverage_report():
         else:
             status = "WARNING"
 
+        if int(audit.get("api_failures", 0) or 0) > 0 and status == "OK":
+            status = "CHECK_API_ERRORS"
         if status != "OK":
             warning_count += 1
 
@@ -2081,7 +2084,13 @@ def push_to_wordpress(
                 uncertain = True
             elif response.status_code == 413:
                 last_error = f"HTTP 413 Payload Too Large: {response.text[:300]}"
-                uncertain = False
+                LAST_INGEST_ERROR = last_error
+                LAST_INGEST_UNCERTAIN = False
+                print(
+                    f"[-] Explicit payload-size rejection{label} | HTTP 413 | "
+                    f"items={len(pending_items)} | {response.text[:300]}"
+                )
+                return False
             else:
                 last_error = f"HTTP {response.status_code}: {response.text[:300]}"
                 LAST_INGEST_ERROR = last_error
@@ -2751,6 +2760,8 @@ def main():
     parser.add_argument("--fail_on_page_error", action="store_true", help="Cancel upload if any API page fails")
 
     args = parser.parse_args()
+    global ACTIVE_PAGE_CAP
+    ACTIVE_PAGE_CAP = max(1, int(args.page_cap))
 
     if not args.url and not args.resume_upload and not args.resume_csv:
         print("[-] URL is required unless --resume_upload or --resume_csv is selected.")
