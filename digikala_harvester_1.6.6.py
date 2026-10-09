@@ -2148,44 +2148,69 @@ def push_batch_adaptive(
     requeued_total = 0
     reconciled_any = False
 
-    first_result = push_to_wordpress(
-        original, wp_api_url, retries=retries, timeout=timeout,
-        reconcile_first=reconcile_first, batch_label=label,
-    )
-    if first_result:
-        first_result["batch_size_used"] = current_size
-        return first_result
-    if LAST_INGEST_FATAL:
-        return False
-
-    if LAST_INGEST_UNCERTAIN:
+    # A resumed uncertain parent batch may be larger than the persisted safe
+    # size. Reconcile it first, then chunk the missing items directly at that
+    # size instead of blindly POSTing the full parent batch again.
+    chunk_without_full_post = bool(reconcile_first and len(original) > current_size)
+    if chunk_without_full_post:
         reserved = fetch_reserved_dkps(wp_api_url, timeout=timeout)
         if reserved is None:
             LAST_INGEST_UNCERTAIN = True
-            print(f"[-] Cannot safely retry batch {label}: EVazar queue status is unavailable.")
+            LAST_INGEST_ERROR = "Could not reconcile interrupted parent batch before resuming."
+            print(f"[-] Cannot safely resume batch {label}: EVazar queue status is unavailable.")
             return False
         pending = [item for item in original if str(item.get("dkp", "")) not in reserved]
         already = len(original) - len(pending)
         if already:
             skipped_total += already
             reconciled_any = True
-            print(f"[+] Reconciliation batch {label} | already reserved={already} | still missing={len(pending)}")
+            print(
+                f"[+] Resume reconciliation batch {label} | already reserved={already} | "
+                f"remaining={len(pending)} | chunk size={current_size}"
+            )
         if not pending:
             LAST_INGEST_UNCERTAIN = False
             return {"success": True, "inserted": 0, "skipped": skipped_total,
                     "requeued": 0, "reconciled": True, "batch_size_used": current_size}
     else:
-        pending = list(original)
+        first_result = push_to_wordpress(
+            original, wp_api_url, retries=retries, timeout=timeout,
+            reconcile_first=reconcile_first, batch_label=label,
+        )
+        if first_result:
+            first_result["batch_size_used"] = current_size
+            return first_result
+        if LAST_INGEST_FATAL:
+            return False
 
-    smaller = next_smaller_batch_size(current_size)
-    if smaller is None:
-        LAST_INGEST_UNCERTAIN = bool(reconciled_any)
-        print(f"[-] Batch {label} failed at minimum size {current_size}.")
-        return False
+        if LAST_INGEST_UNCERTAIN:
+            reserved = fetch_reserved_dkps(wp_api_url, timeout=timeout)
+            if reserved is None:
+                LAST_INGEST_UNCERTAIN = True
+                print(f"[-] Cannot safely retry batch {label}: EVazar queue status is unavailable.")
+                return False
+            pending = [item for item in original if str(item.get("dkp", "")) not in reserved]
+            already = len(original) - len(pending)
+            if already:
+                skipped_total += already
+                reconciled_any = True
+                print(f"[+] Reconciliation batch {label} | already reserved={already} | still missing={len(pending)}")
+            if not pending:
+                LAST_INGEST_UNCERTAIN = False
+                return {"success": True, "inserted": 0, "skipped": skipped_total,
+                        "requeued": 0, "reconciled": True, "batch_size_used": current_size}
+        else:
+            pending = list(original)
 
-    current_size = smaller
-    LAST_ADAPTIVE_BATCH_SIZE = current_size
-    print(f"[!] Adaptive batch fallback | parent={label} | new size={current_size} | remaining={len(pending)}")
+        smaller = next_smaller_batch_size(current_size)
+        if smaller is None:
+            LAST_INGEST_UNCERTAIN = bool(reconciled_any)
+            print(f"[-] Batch {label} failed at minimum size {current_size}.")
+            return False
+
+        current_size = smaller
+        LAST_ADAPTIVE_BATCH_SIZE = current_size
+        print(f"[!] Adaptive batch fallback | parent={label} | new size={current_size} | remaining={len(pending)}")
 
     while pending:
         chunk = pending[:current_size]
@@ -2481,7 +2506,13 @@ def upload_items_with_checkpoint(
         )
 
     while next_index < len(upload_items):
-        batch = upload_items[next_index:next_index + batch_size]
+        active_size = batch_size
+        if state.get("uncertain") and int(state.get("active_batch_start", -1) or -1) == next_index:
+            active_size = max(
+                batch_size,
+                int(state.get("active_batch_size", batch_size) or batch_size),
+            )
+        batch = upload_items[next_index:next_index + active_size]
         batch_num = int(state.get("completed_batches", 0) or 0) + 1
         total_batches = (len(upload_items) + batch_size - 1) // batch_size
         reconcile_before = bool(state.get("uncertain", False))
@@ -2490,6 +2521,7 @@ def upload_items_with_checkpoint(
         # exits mid-request, resume will query EVazar before sending this batch.
         state["uncertain"] = True
         state["active_batch_start"] = next_index
+        state["active_batch_size"] = len(batch)
         state["updated_at"] = time.time()
         atomic_write_json(state_path, state)
 
@@ -2544,6 +2576,7 @@ def upload_items_with_checkpoint(
             print(f"[*] Persisting adaptive batch size: {batch_size}")
         state["uncertain"] = False
         state.pop("active_batch_start", None)
+        state.pop("active_batch_size", None)
         state.pop("last_error", None)
         state["updated_at"] = time.time()
         atomic_write_json(state_path, state)
