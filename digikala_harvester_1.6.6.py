@@ -1764,7 +1764,7 @@ def run_single_product_mode(product_url, wp_api_url, duplicate_test=False):
     canonical_url = product["url"]
 
     print("\n" + "=" * 65)
-    print(" EVazar Harvester 1.6.5 - SINGLE PRODUCT TEST")
+    print(" EVazar Harvester 1.6.6 - SINGLE PRODUCT TEST")
     print("=" * 65)
     print(f"DKP             : {dkp}")
     print(f"Product URL     : {canonical_url}")
@@ -1833,7 +1833,7 @@ def print_final_report(all_valid_items, subcategories_count):
     STATS.products_completed_only = len(STATS.completed_only_dkp_hits)
 
     print("\n" + "=" * 65)
-    print(" EVazar Harvester 1.6.5 - FINAL AUDIT REPORT")
+    print(" EVazar Harvester 1.6.6 - FINAL AUDIT REPORT")
     print("=" * 65)
     print(f"Subcategories resolved : {subcategories_count}")
     print(f"API pages requested   : {STATS.api_pages_requested:,}")
@@ -2039,6 +2039,8 @@ def main():
         print(f"[*] Sending Batch {batch_num}/{total_batches} ({len(batch)} items) ...")
         if not push_to_wordpress(batch, args.wp):
             print(f"[-] WordPress rejected Batch {batch_num}. Halting remaining batches.")
+            elapsed = time.time() - datetime.fromisoformat(RUN_STARTED_AT).timestamp()
+            save_run_reports(args, all_valid_items, targets, "UPLOAD_FAILED_BATCH_" + str(batch_num), elapsed)
             sys.exit(4)
         time.sleep(1)
 
