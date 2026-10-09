@@ -27,13 +27,15 @@ if not exist "%~dp0digikala_harvester_1.6.6.py" (
 echo [1] Run mode
 echo     1 = Category / brand / search
 echo     2 = Single product URL
-echo     3 = Resume interrupted queue upload (no Digikala rescan)
+echo     3 = Resume interrupted 1.6.6 queue upload (no Digikala rescan)
+echo     4 = Recover products from an existing products CSV (no Digikala rescan)
 set "MODE=1"
 set /p "MODE_INPUT=Mode [1]: "
 if defined MODE_INPUT set "MODE=%MODE_INPUT%"
 
 if "%MODE%"=="2" goto SINGLE_PRODUCT_MODE
 if "%MODE%"=="3" goto RESUME_UPLOAD_MODE
+if "%MODE%"=="4" goto RESUME_CSV_MODE
 
 echo.
 echo [2] Digikala category / brand / search URL
@@ -57,6 +59,25 @@ echo.
 echo [*] Existing checkpoint will be reconciled with EVazar before retrying
 echo     any batch whose delivery status was uncertain.
 python "%~dp0digikala_harvester_1.6.6.py" --resume_upload
+set "EXIT_CODE=%ERRORLEVEL%"
+goto FINISH
+
+:RESUME_CSV_MODE
+echo.
+echo ===================================================================
+echo  RECOVER PRODUCTS FROM AN EXISTING HARVESTER CSV
+echo ===================================================================
+echo.
+echo Paste the full path to the previous run's products CSV.
+echo Example: F:\MBL\Robat Moblak\antigravity build\ikea\ربات دیجی کالا\digikala_harvester_reports\digikala_harvester_products_20261009_070354.csv
+set "CSV_PATH="
+set /p "CSV_PATH=CSV path: "
+if not defined CSV_PATH (
+    echo [ERROR] CSV path cannot be empty.
+    pause
+    exit /b 2
+)
+python "%~dp0digikala_harvester_1.6.6.py" --resume_csv "%CSV_PATH%"
 set "EXIT_CODE=%ERRORLEVEL%"
 goto FINISH
 
