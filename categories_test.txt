@@ -1,0 +1,4 @@
+# One Digikala category/search URL per line
+# Example:
+# https://www.digikala.com/search/category-...
+https://www.digikala.com/search/category-mens-apparel/
