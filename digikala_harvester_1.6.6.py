@@ -629,6 +629,13 @@ def record_scan_audit(
     }
     if isinstance(extra, dict):
         audit.update(extra)
+    audit.setdefault("page_cap", DEFAULT_PAGE_CAP)
+    try:
+        audit["page_cap_hit"] = bool(
+            audit.get("page_cap_hit", int(reported_pages or 0) >= int(audit["page_cap"] or DEFAULT_PAGE_CAP))
+        )
+    except (TypeError, ValueError):
+        audit["page_cap_hit"] = False
 
     with stats_lock:
         STATS.scan_audits.append(audit)
@@ -745,7 +752,9 @@ def print_scan_diagnostics():
     print(" SCAN-UNIT DIAGNOSTICS")
     print("=" * 65)
     print(f"Scan units recorded : {len(audits):,}")
+    cap_hits = sum(1 for audit in audits if audit.get("page_cap_hit"))
     print(f"Coverage issues     : {len(suspicious):,}")
+    print(f"Scan-unit page-cap hits: {cap_hits:,}")
 
     for idx, audit in enumerate(suspicious[:20], 1):
         print(
@@ -753,7 +762,8 @@ def print_scan_diagnostics():
             f"Reported: {audit.get('reported_items'):,} | "
             f"Unique: {audit.get('unique_count'):,} | "
             f"Coverage: {audit.get('coverage', 0):.2f}% | "
-            f"Pages: {audit.get('fetched_pages'):,}/{audit.get('reported_pages'):,} | "
+            f"Pages fetched/reported: {audit.get('fetched_pages'):,}/{audit.get('reported_pages'):,} | "
+            f"Cap hit: {'YES' if audit.get('page_cap_hit') else 'NO'} | "
             f"Duplicates: {audit.get('duplicate_occurrences', 0):,}"
         )
         if audit.get("sort_id") is not None:
@@ -876,6 +886,12 @@ def print_coverage_report():
         title = audit.get("title", "Unknown")
         code = audit.get("code", "")
         print(f"[{idx}/{len(STATS.target_audits)}] {title} ({code})")
+        print(
+            f"    Raw pages: {audit.get('reported_raw_pages', 'N/A')} | "
+            f"Price-filter pages: {audit.get('reported_eligible_pages', 'N/A')} | "
+            f"Page-cap strategy triggered: {'YES' if audit.get('category_page_cap_triggered') else 'NO'} | "
+            f"API requests/errors: {audit.get('api_requests', 0)}/{audit.get('api_failures', 0)}"
+        )
 
         if expected is None:
             print(
@@ -931,6 +947,208 @@ def print_coverage_report():
     print("=" * 65)
 
     print_scan_diagnostics()
+
+
+def write_csv_report(path, rows, fieldnames):
+    """Write a UTF-8 CSV report with stable columns."""
+    with open(path, "w", encoding="utf-8-sig", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(row)
+
+
+def save_detailed_reports(all_valid_items, input_url, report_dir="digikala_harvester_reports", page_cap=DEFAULT_PAGE_CAP):
+    """
+    Persist a machine-readable and human-readable audit before queue uploading.
+    Reports distinguish products discovered from new products prepared for enqueue.
+    """
+    output_dir = os.path.abspath(os.path.expanduser(report_dir))
+    os.makedirs(output_dir, exist_ok=True)
+    stamp = datetime.now().astimezone().strftime("%Y%m%d_%H%M%S")
+
+    target_rows = []
+    membership = {}
+    for audit in STATS.target_audits:
+        dkps = sorted(str(dkp) for dkp in audit.get("eligible_dkps", set()))
+        for dkp in dkps:
+            membership.setdefault(dkp, []).append(
+                f"{audit.get('title', audit.get('code', 'Target'))} ({audit.get('code', '')})"
+            )
+
+        expected = audit.get("reported_eligible_items")
+        seen = len(dkps)
+        coverage = audit.get("coverage")
+        if coverage is None and expected is not None and int(expected or 0) > 0:
+            coverage = seen / int(expected) * 100
+
+        target_rows.append({
+            "title": audit.get("title", ""),
+            "code": audit.get("code", ""),
+            "url": audit.get("url", ""),
+            "reported_raw_items": audit.get("reported_raw_items"),
+            "reported_raw_pages": audit.get("reported_raw_pages"),
+            "reported_eligible_items": expected,
+            "reported_eligible_pages": audit.get("reported_eligible_pages"),
+            "unique_eligible_seen": seen,
+            "coverage_percent": round(coverage, 2) if coverage is not None else None,
+            "coverage_gap": (int(expected) - seen) if expected is not None else None,
+            "page_cap": audit.get("page_cap", page_cap),
+            "category_page_cap_triggered": bool(audit.get("category_page_cap_triggered", False)),
+            "scan_unit_cap_hits": audit.get("scan_unit_cap_hits", 0),
+            "api_requests": audit.get("api_requests", 0),
+            "api_failures": audit.get("api_failures", 0),
+            "scan_status": audit.get("scan_status", "COVERAGE_UNKNOWN"),
+        })
+
+    global_dkp_set = set(STATS.unique_eligible_dkps)
+    product_rows = []
+    for item in all_valid_items:
+        dkp = str(item.get("dkp", ""))
+        cats = sorted(set(membership.get(dkp, [])))
+        product_rows.append({
+            "dkp": dkp,
+            "title": item.get("title", ""),
+            "price_toman": item.get("price_toman", ""),
+            "url": item.get("url", ""),
+            "category_count": len(cats),
+            "categories": " | ".join(cats),
+        })
+
+    scan_rows = []
+    for audit in STATS.scan_audits:
+        scan_rows.append({
+            "kind": audit.get("kind", ""),
+            "label": audit.get("label", ""),
+            "url": audit.get("url", ""),
+            "reported_items": audit.get("reported_items", 0),
+            "reported_pages": audit.get("reported_pages", 0),
+            "fetched_pages": audit.get("fetched_pages", 0),
+            "unique_count": audit.get("unique_count", len(audit.get("unique_dkps", set()))),
+            "coverage_percent": round(audit.get("coverage"), 2) if audit.get("coverage") is not None else None,
+            "duplicate_occurrences": audit.get("duplicate_occurrences", 0),
+            "page_cap": audit.get("page_cap", page_cap),
+            "page_cap_hit": bool(audit.get("page_cap_hit", False)),
+            "sort_id": audit.get("sort_id", ""),
+            "brand_id": audit.get("brand_id", ""),
+            "depth": audit.get("depth", ""),
+            "p_min": audit.get("p_min", ""),
+            "p_max": audit.get("p_max", ""),
+        })
+
+    target_status_counts = {}
+    for row in target_rows:
+        status = row["scan_status"]
+        target_status_counts[status] = target_status_counts.get(status, 0) + 1
+
+    scan_unit_cap_hits = sum(1 for row in scan_rows if row["page_cap_hit"])
+    category_cap_triggers = sum(1 for row in target_rows if row["category_page_cap_triggered"])
+    incomplete_targets = sum(
+        1 for row in target_rows
+        if row["scan_status"] not in ("COMPLETE", "EMPTY")
+    )
+    overlap_products = sum(1 for dkp, cats in membership.items() if len(set(cats)) > 1)
+    summary = {
+        "generated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+        "input_url": input_url,
+        "targets_scanned": len(target_rows),
+        "target_status_counts": target_status_counts,
+        "targets_requiring_review": incomplete_targets,
+        "category_page_cap_triggers": category_cap_triggers,
+        "scan_unit_page_cap_hits": scan_unit_cap_hits,
+        "globally_unique_eligible_products_seen": len(global_dkp_set),
+        "unique_new_products_ready_for_queue": len(product_rows),
+        "new_products_in_multiple_targets": overlap_products,
+        "api_pages_requested": STATS.api_pages_requested,
+        "api_pages_successful": STATS.api_pages_success,
+        "api_pages_failed": STATS.api_pages_failed,
+        "retry_recovery_attempts": STATS.coverage_recovery_attempts,
+        "products_below_min_price": STATS.products_below_min_price,
+        "products_already_imported_seen": len(STATS.existing_dkp_hits),
+        "products_already_queued_seen": len(STATS.queued_dkp_hits),
+        "page_cap": page_cap,
+        "batch_size": BATCH_SIZE,
+        "evazar_queue_upload_enabled": True,
+        "note": (
+            "A category reaching its page cap means the partition/sort fallback was triggered, "
+            "not automatically that the category is incomplete. Per-target coverage and scan-unit "
+            "cap flags must be read together. Category totals can overlap; global unique IDs are a union."
+        ),
+    }
+
+    report = {
+        "summary": summary,
+        "targets": target_rows,
+        "scan_units": scan_rows,
+        "products_ready_for_queue": product_rows,
+        "api_failures": STATS.failed_pages,
+    }
+
+    json_path = os.path.join(output_dir, f"digikala_harvester_report_{stamp}.json")
+    summary_path = os.path.join(output_dir, f"digikala_harvester_summary_{stamp}.txt")
+    products_path = os.path.join(output_dir, f"digikala_harvester_products_{stamp}.csv")
+    targets_path = os.path.join(output_dir, f"digikala_harvester_targets_{stamp}.csv")
+    audits_path = os.path.join(output_dir, f"digikala_harvester_audits_{stamp}.csv")
+    failures_path = os.path.join(output_dir, f"digikala_harvester_failures_{stamp}.csv")
+
+    write_csv_report(products_path, product_rows, [
+        "dkp", "url", "title", "price_toman", "category_count", "categories"
+    ])
+    write_csv_report(targets_path, target_rows, [
+        "title", "code", "url", "reported_raw_items", "reported_raw_pages",
+        "reported_eligible_items", "reported_eligible_pages", "unique_eligible_seen",
+        "coverage_percent", "coverage_gap", "page_cap", "category_page_cap_triggered",
+        "scan_unit_cap_hits", "api_requests", "api_failures", "scan_status"
+    ])
+    write_csv_report(audits_path, scan_rows, [
+        "kind", "label", "url", "reported_items", "reported_pages", "fetched_pages",
+        "unique_count", "coverage_percent", "duplicate_occurrences", "page_cap",
+        "page_cap_hit", "sort_id", "brand_id", "depth", "p_min", "p_max"
+    ])
+    write_csv_report(failures_path, STATS.failed_pages, ["page", "url", "reason"])
+    with open(json_path, "w", encoding="utf-8") as handle:
+        json.dump(report, handle, ensure_ascii=False, indent=2)
+
+    summary_lines = [
+        "EVazar Digikala Harvester — Coverage and Queue-Preparation Audit",
+        "=" * 68,
+        f"Generated: {summary['generated_at']}",
+        f"Input URL: {input_url}",
+        f"Targets scanned: {summary['targets_scanned']}",
+        f"Targets requiring review: {summary['targets_requiring_review']}",
+        f"Target status counts: {json.dumps(target_status_counts, ensure_ascii=False)}",
+        f"Category page-cap strategy triggered: {category_cap_triggers}",
+        f"Scan-unit page-cap hits: {scan_unit_cap_hits}",
+        f"Globally unique eligible products observed: {len(global_dkp_set):,}",
+        f"Unique new products ready for queue: {len(product_rows):,}",
+        f"New products found in multiple targets: {overlap_products:,}",
+        f"API requests / successful / failed: {STATS.api_pages_requested:,} / {STATS.api_pages_success:,} / {STATS.api_pages_failed:,}",
+        "",
+        "FILES:",
+        json_path, summary_path, products_path, targets_path, audits_path, failures_path,
+        "",
+        "Status guide: COMPLETE means the leaf coverage ratio reached 99.5% or better without failed API pages.",
+        "EMPTY means the target reported no eligible products. INCOMPLETE_* or COVERAGE_UNKNOWN must be reviewed.",
+        "A category page-cap trigger can be handled by recursive price slicing/multi-sort; inspect scan-unit audits and per-target coverage to know whether recovery was sufficient."
+    ]
+    with open(summary_path, "w", encoding="utf-8") as handle:
+        handle.write("\n".join(summary_lines) + "\n")
+
+    print("\n[*] Detailed audit files saved:")
+    print(f"    json: {json_path}")
+    print(f"    summary: {summary_path}")
+    print(f"    products_csv: {products_path}")
+    print(f"    targets_csv: {targets_path}")
+    print(f"    audits_csv: {audits_path}")
+    print(f"    failures_csv: {failures_path}")
+    return {
+        "json": json_path,
+        "summary": summary_path,
+        "products_csv": products_path,
+        "targets_csv": targets_path,
+        "audits_csv": audits_path,
+        "failures_csv": failures_path,
+    }
 
 
 def resolve_leaf_subcategories(cat_code, visited=None, depth=1, max_depth=4):
@@ -1295,9 +1513,10 @@ def scan_multi_sort_subcategory(
         pager = get_pager(data_p1)
         try:
             reported_items = int(pager.get("total_items", 0) or 0)
-            total_pages = min(int(pager.get("total_pages", 1) or 1), page_cap)
+            reported_pages = max(1, int(pager.get("total_pages", 1) or 1))
+            total_pages = min(reported_pages, page_cap)
         except (TypeError, ValueError):
-            reported_items, total_pages = 0, 1
+            reported_items, reported_pages, total_pages = 0, 1, 1
 
         sort_dkps = set(get_eligible_dkps(data_p1, min_price_toman))
         sort_union.update(sort_dkps)
@@ -1332,11 +1551,15 @@ def scan_multi_sort_subcategory(
             label=sort_name,
             url=sorted_url,
             reported_items=reported_items,
-            reported_pages=total_pages,
+            reported_pages=reported_pages,
             fetched_pages=fetched_pages,
             unique_dkps=sort_dkps,
             duplicate_occurrences=max(0, fetched_pages * 20 - len(sort_dkps)),
-            extra={"sort_id": sort_id},
+            extra={
+                "sort_id": sort_id,
+                "page_cap": page_cap,
+                "page_cap_hit": reported_pages >= page_cap,
+            },
         )
 
     overall_expected = int(expected_items or 0)
@@ -1540,6 +1763,9 @@ def process_target_subcategory(
     title = subcat_info["title"]
     code = subcat_info["code"]
     base_url = subcat_info["url"]
+    target_request_start = STATS.api_pages_requested
+    target_failure_start = STATS.api_pages_failed
+    target_scan_audit_start = len(STATS.scan_audits)
 
     print(f"\n[{index}/{total_count}] Processing Subcategory: '{title}' ({code})")
 
@@ -1551,6 +1777,25 @@ def process_target_subcategory(
     data = fetch_page(probe_url, 1)
     if not data:
         print(f"    [-] Failed to probe subcategory '{title}'. Skipping.")
+        failed_audit = {
+            "title": title,
+            "code": code,
+            "url": probe_url,
+            "reported_raw_items": None,
+            "reported_raw_pages": None,
+            "reported_eligible_items": None,
+            "reported_eligible_pages": None,
+            "eligible_dkps": set(),
+            "page_cap": args.page_cap,
+            "category_page_cap_triggered": False,
+            "api_requests": STATS.api_pages_requested - target_request_start,
+            "api_failures": STATS.api_pages_failed - target_failure_start,
+            "scan_unit_cap_hits": 0,
+            "scan_status": "PROBE_FAILED",
+            "coverage": None,
+        }
+        with stats_lock:
+            STATS.target_audits.append(failed_audit)
         return False
 
     pager = get_pager(data)
@@ -1588,6 +1833,7 @@ def process_target_subcategory(
     audit = {
         "title": title,
         "code": code,
+        "url": probe_url,
         "reported_raw_items": total_items,
         "reported_raw_pages": total_pages,
         "reported_eligible_items": (
@@ -1597,6 +1843,13 @@ def process_target_subcategory(
             coverage_report["reported_pages"] if coverage_report else None
         ),
         "eligible_dkps": set(),
+        "page_cap": args.page_cap,
+        "category_page_cap_triggered": total_pages >= args.page_cap,
+        "api_requests": 0,
+        "api_failures": 0,
+        "scan_unit_cap_hits": 0,
+        "scan_status": "SCANNING",
+        "coverage": None,
     }
 
     with stats_lock:
@@ -1667,6 +1920,28 @@ def process_target_subcategory(
     
     
     finally:
+        audit["api_requests"] = STATS.api_pages_requested - target_request_start
+        audit["api_failures"] = STATS.api_pages_failed - target_failure_start
+        new_scan_audits = STATS.scan_audits[target_scan_audit_start:]
+        audit["scan_unit_cap_hits"] = sum(1 for entry in new_scan_audits if entry.get("page_cap_hit"))
+        expected = audit.get("reported_eligible_items")
+        seen = len(audit.get("eligible_dkps", set()))
+        if expected is not None and int(expected or 0) > 0:
+            audit["coverage"] = seen / int(expected) * 100
+            if audit["api_failures"]:
+                audit["scan_status"] = (
+                    "COMPLETE_WITH_API_ERRORS" if audit["coverage"] >= 99.5
+                    else "INCOMPLETE_WITH_API_ERRORS"
+                )
+            elif audit["coverage"] >= 99.5:
+                audit["scan_status"] = "COMPLETE"
+            else:
+                audit["scan_status"] = "INCOMPLETE_COVERAGE"
+        elif int(audit.get("reported_raw_items") or 0) == 0 and expected == 0:
+            audit["coverage"] = 100.0
+            audit["scan_status"] = "EMPTY"
+        else:
+            audit["scan_status"] = "COVERAGE_UNKNOWN"
         CURRENT_AUDIT = None
 
 def fetch_reserved_dkps(wp_api_url, timeout=DEFAULT_INGEST_TIMEOUT):
@@ -2435,6 +2710,7 @@ def main():
     parser.add_argument("--ingest_timeout", type=int, default=DEFAULT_INGEST_TIMEOUT, help="Timeout for each queue request, in seconds")
     parser.add_argument("--resume_upload", action="store_true", help="Resume an interrupted upload checkpoint without rescanning Digikala")
     parser.add_argument("--resume_csv", help="Upload unique products from an existing harvester products CSV without rescanning Digikala")
+    parser.add_argument("--report_dir", default="digikala_harvester_reports", help="Folder for timestamped JSON/CSV audit reports")
     parser.add_argument("--slice_threshold", type=int, default=DEFAULT_SLICE_THRESHOLD, help="Items threshold to trigger slicing")
     parser.add_argument("--page_cap", type=int, default=DEFAULT_PAGE_CAP, help="Digikala pagination cap (default 100)")
     parser.add_argument("--only_available", action="store_true", help="Only products with selling stock")
@@ -2631,6 +2907,17 @@ def main():
     # 4. Print Audit Report
     print_final_report(all_valid_items, len(targets))
     print_coverage_report()
+    try:
+        save_detailed_reports(
+            all_valid_items=all_valid_items,
+            input_url=args.url,
+            report_dir=args.report_dir,
+            page_cap=args.page_cap,
+        )
+    except (OSError, ValueError, TypeError) as exc:
+        print(f"[!] Detailed report could not be saved: {exc}")
+        print("[!] Queue uploading will not begin without the product/recovery report.")
+        sys.exit(7)
 
     if args.fail_on_page_error and STATS.failed_pages:
         print("[-] Upload cancelled because --fail_on_page_error was set and some pages failed.")
