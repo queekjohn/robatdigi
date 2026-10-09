@@ -1,0 +1,50 @@
+name: Harvester validation
+
+on:
+  push:
+    branches:
+      - fix/harvester-1.6.6-batch100-resume
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate-python:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install runtime dependency
+        run: python -m pip install requests
+      - name: Compile harvester
+        run: python -m py_compile digikala_harvester_1.6.6.py
+      - name: Validate downloadable package archive
+        run: unzip -t evazar-harvester-1.6.6-package.zip
+      - name: Unit-test adaptive retries, reconciliation and reports
+        run: python -m unittest discover -s tests -v
+      - name: Smoke-test batching and parsing helpers
+        run: |
+          python - <<'PY'
+          import importlib.util
+          from pathlib import Path
+
+          path = Path("digikala_harvester_1.6.6.py")
+          spec = importlib.util.spec_from_file_location("harvester", path)
+          module = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(module)
+
+          assert module.BATCH_SIZE == 100, module.BATCH_SIZE
+          assert [module.next_smaller_batch_size(n) for n in (100, 50, 25, 10)] == [50, 25, 10, None]
+          assert module.parse_digikala_product_url("https://www.digikala.com/product/dkp-12345/")["dkp"] == "12345"
+          required = ("push_batch_adaptive", "save_detailed_reports", "load_items_from_csv", "upload_items_with_checkpoint")
+          for name in required:
+              assert callable(getattr(module, name, None)), name
+          print("PASS: syntax, default batch size, fallback sequence, DKP parsing, and required functions")
+          PY
