@@ -7,6 +7,7 @@ import re
 import argparse
 import csv
 import urllib.parse
+from datetime import datetime
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -161,6 +162,10 @@ RESERVED_DKPS = set()
 STATUS_API_DETAILED = False
 CURRENT_AUDIT = None
 LAST_INGEST_UNCERTAIN = False
+LAST_INGEST_FATAL = False
+LAST_INGEST_HTTP_STATUS = None
+LAST_INGEST_ERROR = ""
+LAST_ADAPTIVE_BATCH_SIZE = BATCH_SIZE
 
 
 def configure_evazar_auth():
@@ -1696,17 +1701,16 @@ def push_to_wordpress(
     retries=DEFAULT_INGEST_RETRIES,
     timeout=DEFAULT_INGEST_TIMEOUT,
     reconcile_first=False,
+    batch_label=None,
 ):
-    """
-    Send one EVazar queue batch.
+    """Send one EVazar batch with retry/backoff and safe queue reconciliation."""
+    global LAST_INGEST_UNCERTAIN, LAST_INGEST_FATAL
+    global LAST_INGEST_HTTP_STATUS, LAST_INGEST_ERROR
 
-    A lost connection does not prove that EVazar rejected the request. Before
-    retrying an ambiguous request, query /existing-dkps and resend only DKPs
-    that are still absent. This avoids duplicate queue rows if the server
-    accepted the POST but its response was lost.
-    """
-    global LAST_INGEST_UNCERTAIN
     LAST_INGEST_UNCERTAIN = False
+    LAST_INGEST_FATAL = False
+    LAST_INGEST_HTTP_STATUS = None
+    LAST_INGEST_ERROR = ""
 
     original_items = list(items or [])
     if not original_items:
@@ -1718,15 +1722,18 @@ def push_to_wordpress(
     reconciled_count = 0
     last_error = "unknown error"
     response = None
+    label = f" | Batch {batch_label}" if batch_label is not None else ""
 
     for attempt in range(1, max_attempts + 1):
         if uncertain:
             reserved = fetch_reserved_dkps(wp_api_url, timeout=timeout)
             if reserved is None:
                 last_error = "delivery status is unknown and EVazar queue status could not be fetched"
+                LAST_INGEST_ERROR = last_error
                 print(
-                    f"[!] Batch status is uncertain. Could not reconcile with EVazar "
-                    f"(attempt {attempt}/{max_attempts}); will not blindly resend."
+                    f"[!] Queue reconciliation unavailable{label} | "
+                    f"items={len(original_items)} | attempt={attempt}/{max_attempts}; "
+                    "the request will not be blindly resent."
                 )
                 if attempt < max_attempts:
                     time.sleep(get_retry_delay(None, attempt))
@@ -1741,44 +1748,41 @@ def push_to_wordpress(
 
             if not pending_items:
                 print(
-                    f"[+] EVazar confirmed all {len(original_items)} items in this batch "
-                    f"were already queued/imported; no duplicate POST needed."
+                    f"[+] EVazar reconciliation{label} | all {len(original_items)} items "
+                    "already queued/imported; no duplicate POST needed."
                 )
                 return {
-                    "success": True,
-                    "inserted": 0,
-                    "skipped": len(original_items),
-                    "requeued": 0,
-                    "reconciled": True,
+                    "success": True, "inserted": 0, "skipped": len(original_items),
+                    "requeued": 0, "reconciled": True,
                 }
 
             if reconciled_count:
                 print(
-                    f"[!] Reconciled uncertain batch: {reconciled_count} already reserved; "
-                    f"retrying only {len(pending_items)} missing items."
+                    f"[!] Reconciled uncertain request{label} | "
+                    f"already reserved={reconciled_count} | retrying missing={len(pending_items)}"
                 )
 
         response = None
         try:
-            response = SESSION.post(
-                wp_api_url,
-                json={"items": pending_items},
-                timeout=timeout,
+            print(
+                f"[*] Queue POST{label} | items={len(pending_items)} | "
+                f"attempt={attempt}/{max_attempts}"
             )
+            response = SESSION.post(wp_api_url, json={"items": pending_items}, timeout=timeout)
+            LAST_INGEST_HTTP_STATUS = response.status_code
 
             if response.status_code == 200:
                 try:
                     res_data = response.json()
                 except ValueError as exc:
-                    last_error = f"HTTP 200 returned invalid JSON: {exc}"
+                    last_error = f"HTTP 200 with invalid JSON: {exc}; body={response.text[:300]}"
                     uncertain = True
                 else:
                     if not isinstance(res_data, dict) or res_data.get("success") is False:
-                        print(
-                            f"[-] Ingest Error: EVazar rejected request | "
-                            f"Response: {response.text[:300]}"
-                        )
-                        LAST_INGEST_UNCERTAIN = False
+                        last_error = f"EVazar rejected payload at HTTP 200; body={response.text[:300]}"
+                        LAST_INGEST_ERROR = last_error
+                        LAST_INGEST_FATAL = True
+                        print(f"[-] Explicit ingest rejection{label} | HTTP 200 | items={len(pending_items)} | {last_error}")
                         return False
 
                     if reconciled_count:
@@ -1788,51 +1792,187 @@ def push_to_wordpress(
                             pass
 
                     print(
-                        f"[+] Successfully Sent | "
+                        f"[+] Successfully Sent{label} | items={len(pending_items)} | "
                         f"Inserted: {res_data.get('inserted', 0)} | "
                         f"Skipped: {res_data.get('skipped', 0)} | "
                         f"Requeued: {res_data.get('requeued', 0)}"
                     )
                     LAST_INGEST_UNCERTAIN = False
+                    LAST_INGEST_ERROR = ""
                     return res_data
 
             elif response.status_code in (408, 429, 500, 502, 503, 504):
-                last_error = f"HTTP {response.status_code}: {response.text[:160]}"
+                last_error = f"HTTP {response.status_code}: {response.text[:300]}"
                 uncertain = True
-            elif response.status_code in (401, 403):
-                print(
-                    f"[-] Authentication Error: endpoint returned "
-                    f"HTTP {response.status_code}."
-                )
-                print("[!] Verify EVAZAR_INTERNAL_TOKEN.")
-                LAST_INGEST_UNCERTAIN = False
-                return False
+            elif response.status_code == 413:
+                last_error = f"HTTP 413 Payload Too Large: {response.text[:300]}"
+                uncertain = False
             else:
-                print(
-                    f"[-] Ingest Error: HTTP {response.status_code} | "
-                    f"Response: {response.text[:300]}"
-                )
+                last_error = f"HTTP {response.status_code}: {response.text[:300]}"
+                LAST_INGEST_ERROR = last_error
+                LAST_INGEST_FATAL = response.status_code in (400, 401, 403, 404, 405, 422)
                 LAST_INGEST_UNCERTAIN = False
+                print(
+                    f"[-] Explicit ingest rejection{label} | HTTP {response.status_code} | "
+                    f"items={len(pending_items)} | {response.text[:300]}"
+                )
                 return False
 
         except requests.RequestException as exc:
-            last_error = f"Connection failed: {exc}"
+            last_error = f"Connection failed without a confirmed HTTP response: {exc}"
             uncertain = True
 
+        LAST_INGEST_ERROR = last_error
         if attempt < max_attempts:
             delay = get_retry_delay(response, attempt)
             print(
-                f"[!] Queue-ingest attempt {attempt}/{max_attempts} failed: {last_error}. "
-                f"Rechecking queue state before retry in {delay:.1f}s..."
+                f"[!] Temporary/ambiguous ingest error{label} | items={len(pending_items)} | "
+                f"HTTP={LAST_INGEST_HTTP_STATUS or 'no response'} | "
+                f"attempt={attempt}/{max_attempts} | delay={delay:.1f}s | {last_error}"
             )
             time.sleep(delay)
 
     LAST_INGEST_UNCERTAIN = uncertain
+    LAST_INGEST_ERROR = last_error
     print(
-        f"[-] Ingest Error after {max_attempts} attempts: {last_error}. "
-        f"{'Delivery may have succeeded; queue reconciliation is required.' if uncertain else 'Request was not accepted.'}"
+        f"[-] Ingest retries exhausted{label} | items={len(pending_items)} | "
+        f"HTTP={LAST_INGEST_HTTP_STATUS or 'no response'} | attempts={max_attempts} | "
+        f"classification={'AMBIGUOUS: reconcile queue before retry' if uncertain else 'EXPLICIT REJECTION'} | "
+        f"error={last_error}"
     )
     return False
+
+
+def next_smaller_batch_size(current_size):
+    """Fallback sizes for repeatedly failing requests."""
+    current_size = max(1, int(current_size or 1))
+    for candidate in (50, 25, 10):
+        if candidate < current_size:
+            return candidate
+    return None
+
+
+def push_batch_adaptive(
+    items, wp_api_url, initial_batch_size, retries, timeout,
+    batch_num, total_batches, reconcile_first=False,
+):
+    """Retry a batch, shrinking 100 -> 50 -> 25 -> 10 only when safe to do so."""
+    global LAST_INGEST_UNCERTAIN, LAST_INGEST_FATAL, LAST_INGEST_ERROR
+    global LAST_ADAPTIVE_BATCH_SIZE
+
+    original = list(items or [])
+    current_size = max(1, min(100, int(initial_batch_size or BATCH_SIZE)))
+    LAST_ADAPTIVE_BATCH_SIZE = current_size
+    if not original:
+        return {"success": True, "inserted": 0, "skipped": 0, "requeued": 0,
+                "batch_size_used": current_size}
+
+    label = f"{batch_num}/{total_batches}"
+    inserted_total = 0
+    skipped_total = 0
+    requeued_total = 0
+    reconciled_any = False
+
+    first_result = push_to_wordpress(
+        original, wp_api_url, retries=retries, timeout=timeout,
+        reconcile_first=reconcile_first, batch_label=label,
+    )
+    if first_result:
+        first_result["batch_size_used"] = current_size
+        return first_result
+    if LAST_INGEST_FATAL:
+        return False
+
+    if LAST_INGEST_UNCERTAIN:
+        reserved = fetch_reserved_dkps(wp_api_url, timeout=timeout)
+        if reserved is None:
+            LAST_INGEST_UNCERTAIN = True
+            print(f"[-] Cannot safely retry batch {label}: EVazar queue status is unavailable.")
+            return False
+        pending = [item for item in original if str(item.get("dkp", "")) not in reserved]
+        already = len(original) - len(pending)
+        if already:
+            skipped_total += already
+            reconciled_any = True
+            print(f"[+] Reconciliation batch {label} | already reserved={already} | still missing={len(pending)}")
+        if not pending:
+            LAST_INGEST_UNCERTAIN = False
+            return {"success": True, "inserted": 0, "skipped": skipped_total,
+                    "requeued": 0, "reconciled": True, "batch_size_used": current_size}
+    else:
+        pending = list(original)
+
+    smaller = next_smaller_batch_size(current_size)
+    if smaller is None:
+        LAST_INGEST_UNCERTAIN = bool(reconciled_any)
+        print(f"[-] Batch {label} failed at minimum size {current_size}.")
+        return False
+
+    current_size = smaller
+    LAST_ADAPTIVE_BATCH_SIZE = current_size
+    print(f"[!] Adaptive batch fallback | parent={label} | new size={current_size} | remaining={len(pending)}")
+
+    while pending:
+        chunk = pending[:current_size]
+        tail = pending[len(chunk):]
+        chunk_result = push_to_wordpress(
+            chunk, wp_api_url, retries=retries, timeout=timeout,
+            reconcile_first=False, batch_label=f"{label}, sub-batch {len(chunk)}",
+        )
+        if chunk_result:
+            try:
+                inserted_total += int(chunk_result.get("inserted", 0) or 0)
+                skipped_total += int(chunk_result.get("skipped", 0) or 0)
+                requeued_total += int(chunk_result.get("requeued", 0) or 0)
+            except (TypeError, ValueError):
+                pass
+            pending = tail
+            continue
+
+        if LAST_INGEST_FATAL:
+            LAST_INGEST_UNCERTAIN = bool(reconciled_any or len(pending) < len(original))
+            return False
+
+        if LAST_INGEST_UNCERTAIN:
+            reserved = fetch_reserved_dkps(wp_api_url, timeout=timeout)
+            if reserved is None:
+                LAST_INGEST_UNCERTAIN = True
+                print(f"[-] Reconciliation failed for batch {label}; checkpoint remains uncertain.")
+                return False
+            missing_chunk = [item for item in chunk if str(item.get("dkp", "")) not in reserved]
+            already_chunk = len(chunk) - len(missing_chunk)
+            if already_chunk:
+                skipped_total += already_chunk
+                reconciled_any = True
+            pending = missing_chunk + tail
+            if not missing_chunk:
+                continue
+
+        smaller = next_smaller_batch_size(current_size)
+        if smaller is None:
+            LAST_INGEST_UNCERTAIN = bool(
+                LAST_INGEST_UNCERTAIN or reconciled_any or len(pending) < len(original)
+            )
+            print(
+                f"[-] Batch {label} still failing at minimum size 10 | "
+                f"HTTP={LAST_INGEST_HTTP_STATUS or 'no response'} | error={LAST_INGEST_ERROR}"
+            )
+            return False
+
+        current_size = smaller
+        LAST_ADAPTIVE_BATCH_SIZE = current_size
+        print(
+            f"[!] Adaptive batch fallback | parent={label} | new size={current_size} | "
+            f"remaining={len(pending)} | previous error={LAST_INGEST_ERROR}"
+        )
+
+    LAST_INGEST_UNCERTAIN = False
+    return {
+        "success": True, "inserted": inserted_total, "skipped": skipped_total,
+        "requeued": requeued_total, "adaptive": True, "reconciled": reconciled_any,
+        "batch_size_used": current_size,
+    }
+
 
 
 def upload_checkpoint_paths():
@@ -1998,6 +2138,7 @@ def upload_items_with_checkpoint(
                 "wp_api_url": wp_api_url,
                 "batch_size": batch_size,
                 "next_index": 0,
+                "completed_batches": 0,
                 "total_items": len(upload_items),
                 "uncertain": True,
                 "updated_at": time.time(),
@@ -2049,6 +2190,7 @@ def upload_items_with_checkpoint(
                 "wp_api_url": wp_api_url,
                 "batch_size": batch_size,
                 "next_index": 0,
+                "completed_batches": 0,
                 "total_items": len(upload_items),
                 "uncertain": False,
                 "updated_at": time.time(),
@@ -2065,7 +2207,7 @@ def upload_items_with_checkpoint(
 
     while next_index < len(upload_items):
         batch = upload_items[next_index:next_index + batch_size]
-        batch_num = next_index // batch_size + 1
+        batch_num = int(state.get("completed_batches", 0) or 0) + 1
         total_batches = (len(upload_items) + batch_size - 1) // batch_size
         reconcile_before = bool(state.get("uncertain", False))
 
@@ -2080,16 +2222,32 @@ def upload_items_with_checkpoint(
             f"[*] Sending Batch {batch_num}/{total_batches} "
             f"({len(batch)} items) ..."
         )
-        result = push_to_wordpress(
+        result = push_batch_adaptive(
             batch,
             wp_api_url,
+            initial_batch_size=batch_size,
             retries=retries,
             timeout=timeout,
+            batch_num=batch_num,
+            total_batches=total_batches,
             reconcile_first=reconcile_before,
         )
 
         if not result:
+            if not LAST_INGEST_FATAL and LAST_ADAPTIVE_BATCH_SIZE < int(state.get("batch_size", batch_size) or batch_size):
+                state["batch_size"] = LAST_ADAPTIVE_BATCH_SIZE
+                batch_size = LAST_ADAPTIVE_BATCH_SIZE
             state["uncertain"] = bool(LAST_INGEST_UNCERTAIN)
+            state["last_error"] = {
+                "batch_number": batch_num,
+                "item_start_index": next_index,
+                "item_count": len(batch),
+                "http_status": LAST_INGEST_HTTP_STATUS,
+                "uncertain_delivery": bool(LAST_INGEST_UNCERTAIN),
+                "fatal": bool(LAST_INGEST_FATAL),
+                "error": LAST_INGEST_ERROR,
+                "recorded_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+            }
             state["updated_at"] = time.time()
             atomic_write_json(state_path, state)
             print(
@@ -2103,8 +2261,15 @@ def upload_items_with_checkpoint(
 
         next_index += len(batch)
         state["next_index"] = next_index
+        state["completed_batches"] = batch_num
+        used_size = int(result.get("batch_size_used", batch_size) or batch_size) if isinstance(result, dict) else batch_size
+        if 1 <= used_size < int(state.get("batch_size", batch_size) or batch_size):
+            state["batch_size"] = used_size
+            batch_size = used_size
+            print(f"[*] Persisting adaptive batch size: {batch_size}")
         state["uncertain"] = False
         state.pop("active_batch_start", None)
+        state.pop("last_error", None)
         state["updated_at"] = time.time()
         atomic_write_json(state_path, state)
 
