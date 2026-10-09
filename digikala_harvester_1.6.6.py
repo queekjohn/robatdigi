@@ -5,6 +5,7 @@ import json
 import random
 import re
 import argparse
+import csv
 import urllib.parse
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -1853,6 +1854,103 @@ def atomic_write_json(path, payload):
     os.replace(temp_path, path)
 
 
+
+def load_items_from_csv(csv_path):
+    """Load unique Digikala products from a harvester products CSV."""
+    if not csv_path:
+        raise ValueError("CSV path is empty.")
+
+    path = os.path.abspath(os.path.expanduser(os.path.expandvars(csv_path.strip().strip('"'))))
+    if not os.path.isfile(path):
+        raise FileNotFoundError(f"Products CSV was not found: {path}")
+
+    def normalized_key(value):
+        return re.sub(r"[^a-z0-9_]", "", str(value or "").strip().lower().replace(" ", "_"))
+
+    dkp_keys = (
+        "dkp", "dkp_id", "dkpid", "digikala_id", "digikala_product_id",
+        "product_id", "productid", "id", "sku", "_sku", "_evazar_sku"
+    )
+    url_keys = ("url", "product_url", "producturl", "link", "canonical_url")
+
+    items_by_dkp = {}
+    rows_read = 0
+    header_keys = set()
+
+    try:
+        with open(path, "r", encoding="utf-8-sig", newline="") as handle:
+            reader = csv.DictReader(handle)
+            if not reader.fieldnames:
+                raise ValueError("CSV has no header row.")
+
+            header_map = {normalized_key(name): name for name in reader.fieldnames if name}
+            header_keys = set(header_map)
+
+            for row in reader:
+                rows_read += 1
+                if not isinstance(row, dict):
+                    continue
+
+                raw_url = ""
+                for key in url_keys:
+                    column = header_map.get(key)
+                    if column and row.get(column):
+                        raw_url = str(row.get(column)).strip()
+                        if raw_url:
+                            break
+
+                raw_dkp = ""
+                for key in dkp_keys:
+                    column = header_map.get(key)
+                    if column and row.get(column) not in (None, ""):
+                        candidate = str(row.get(column)).strip()
+                        match = re.fullmatch(r"(\d+)(?:\.0+)?", candidate)
+                        if match:
+                            raw_dkp = match.group(1)
+                            break
+
+                if not raw_dkp and raw_url:
+                    parsed = parse_digikala_product_url(raw_url)
+                    if parsed:
+                        raw_dkp = parsed["dkp"]
+
+                if not raw_dkp:
+                    continue
+
+                if raw_url:
+                    parsed = parse_digikala_product_url(raw_url)
+                    canonical_url = parsed["url"] if parsed else (
+                        f"https://www.digikala.com/product/dkp-{raw_dkp}/"
+                    )
+                else:
+                    canonical_url = f"https://www.digikala.com/product/dkp-{raw_dkp}/"
+
+                items_by_dkp.setdefault(raw_dkp, {
+                    "dkp": raw_dkp,
+                    "url": canonical_url,
+                })
+    except UnicodeDecodeError as exc:
+        raise ValueError(f"CSV encoding is not recognized: {exc}") from exc
+
+    if not any(key in header_keys for key in dkp_keys) and not any(key in header_keys for key in url_keys):
+        raise ValueError(
+            "CSV headers do not contain a supported DKP/ID or product URL column. "
+            f"Headers found: {', '.join(sorted(header_keys)) or '(none)'}"
+        )
+
+    if not items_by_dkp:
+        raise ValueError(
+            f"No valid Digikala product IDs were found in {rows_read} data rows. "
+            "The report may use a different column layout."
+        )
+
+    print(
+        f"[*] CSV loaded | Rows: {rows_read:,} | "
+        f"Unique DKPs: {len(items_by_dkp):,} | Skipped/duplicate rows: "
+        f"{max(0, rows_read - len(items_by_dkp)):,}"
+    )
+    return list(items_by_dkp.values())
+
 def upload_items_with_checkpoint(
     items,
     wp_api_url,
@@ -2171,6 +2269,7 @@ def main():
     parser.add_argument("--ingest_retries", type=int, default=DEFAULT_INGEST_RETRIES, help="Queue POST/reconciliation attempts")
     parser.add_argument("--ingest_timeout", type=int, default=DEFAULT_INGEST_TIMEOUT, help="Timeout for each queue request, in seconds")
     parser.add_argument("--resume_upload", action="store_true", help="Resume an interrupted upload checkpoint without rescanning Digikala")
+    parser.add_argument("--resume_csv", help="Upload unique products from an existing harvester products CSV without rescanning Digikala")
     parser.add_argument("--slice_threshold", type=int, default=DEFAULT_SLICE_THRESHOLD, help="Items threshold to trigger slicing")
     parser.add_argument("--page_cap", type=int, default=DEFAULT_PAGE_CAP, help="Digikala pagination cap (default 100)")
     parser.add_argument("--only_available", action="store_true", help="Only products with selling stock")
@@ -2179,8 +2278,8 @@ def main():
 
     args = parser.parse_args()
 
-    if not args.url and not args.resume_upload:
-        print("[-] URL is required unless --resume_upload is selected.")
+    if not args.url and not args.resume_upload and not args.resume_csv:
+        print("[-] URL is required unless --resume_upload or --resume_csv is selected.")
         parser.print_help()
         sys.exit(2)
 
@@ -2216,6 +2315,51 @@ def main():
             "a new scan will not overwrite it."
         )
         sys.exit(6)
+
+
+    if args.resume_csv:
+        # Reuse the exact products exported by an earlier scan; never rescan Digikala.
+        items_path, state_path = upload_checkpoint_paths()
+        if os.path.exists(items_path) or os.path.exists(state_path):
+            print(
+                "[!] An upload checkpoint already exists. Resume it first with --resume_upload; "
+                "the CSV import will not overwrite it."
+            )
+            sys.exit(6)
+
+        try:
+            csv_items = load_items_from_csv(args.resume_csv)
+        except (OSError, ValueError) as exc:
+            print(f"[-] CSV resume error: {exc}")
+            sys.exit(2)
+
+        reserved = fetch_reserved_dkps(args.wp, timeout=args.ingest_timeout)
+        if reserved is None:
+            print(
+                "[-] Could not verify existing/queued EVazar DKPs. "
+                "No CSV products were sent, to avoid duplicates."
+            )
+            sys.exit(3)
+
+        pending_csv_items = [
+            item for item in csv_items if item["dkp"] not in reserved
+        ]
+        already_reserved = len(csv_items) - len(pending_csv_items)
+        print(
+            f"[*] CSV recovery | Total unique: {len(csv_items):,} | "
+            f"Already queued/imported: {already_reserved:,} | "
+            f"Remaining to enqueue: {len(pending_csv_items):,}"
+        )
+
+        ok = upload_items_with_checkpoint(
+            items=pending_csv_items,
+            wp_api_url=args.wp,
+            batch_size=args.batch_size,
+            retries=args.ingest_retries,
+            timeout=args.ingest_timeout,
+            resume=False,
+        )
+        sys.exit(0 if ok else 4)
 
     print(f"[*] Input URL: {args.url}")
     print(f"[*] WP Endpoint: {args.wp}")
