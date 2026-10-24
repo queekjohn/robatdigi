@@ -1,0 +1,1326 @@
+﻿term_id,brand_name,wordpress_slug,brand_en,public_wordpress_url,saved_digikala_source_url,saved_source_slug,source_slug_from_saved_url,explicit_source_path_recorded,http_status_check,http_check_note,attached_products,published_products,duplicate_normalized_name,same_name_term_count,diagnostic_flags
+3,"وسترن دیجیتال",western-digital,"Western Digital",https://evazar.ir/brand/western-digital/,,"western digital",,no,not_checked,,19,19,no,1,source_not_verified|missing_source_url
+12,تسکو,tsco,TSCO,https://evazar.ir/brand/tsco/,,tsco,,no,not_checked,,13,13,no,1,source_not_verified|missing_source_url
+16,سامسونگ,samsung,Samsung,https://evazar.ir/brand/samsung/,,samsung,,no,not_checked,,86,86,no,1,source_not_verified|missing_source_url
+19,انکر,anker,Anker,https://evazar.ir/brand/anker/,,anker,,no,not_checked,,64,64,no,1,source_not_verified|missing_source_url
+25,ویتالیر,vitalayer,Vitalayer,https://evazar.ir/brand/vitalayer/,,vitalayer,,no,not_checked,,88,88,no,1,source_not_verified|missing_source_url
+65,ایسوس,asus,ASUS,https://evazar.ir/brand/asus/,,asus,,no,not_checked,,1075,1075,no,1,source_not_verified|missing_source_url
+69,"تی پی-لینک",tp-link,TP-LINK,https://evazar.ir/brand/tp-link/,,tp-link,,no,not_checked,,28,28,no,1,source_not_verified|missing_source_url
+73,سونی,sony,Sony,https://evazar.ir/brand/sony/,,sony,,no,not_checked,,39,39,no,1,source_not_verified|missing_source_url
+75,مایکروسافت,microsoft,Microsoft,https://evazar.ir/brand/microsoft/,,microsoft,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+77,نینتندو,nintendo,Nintendo,https://evazar.ir/brand/nintendo/,,nintendo,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+81,کیمی,kemei,Kemei,https://evazar.ir/brand/kemei/,,kemei,,no,not_checked,,149,149,no,1,source_not_verified|missing_source_url
+83,"وی جی ار",vgr,VGR,https://evazar.ir/brand/vgr/,,vgr,,no,not_checked,,178,178,no,1,source_not_verified|missing_source_url
+85,فیلیپس,philips,Philips,https://evazar.ir/brand/philips/,,philips,,no,not_checked,,97,97,no,1,source_not_verified|missing_source_url
+87,پرودو,porodo,Porodo,https://evazar.ir/brand/porodo/,/brand/porodo/,porodo,porodo,no,not_checked,,32,32,no,1,source_not_verified
+89,شیائومی,xiaomi,Xiaomi,https://evazar.ir/brand/xiaomi/,/brand/xiaomi/,xiaomi,xiaomi,no,not_checked,,25,25,no,1,source_not_verified
+91,راف,raf,RAF,https://evazar.ir/brand/raf/,,raf,,no,not_checked,,14,14,no,1,source_not_verified|missing_source_url
+93,جیمی,geemy,Geemy,https://evazar.ir/brand/geemy/,,geemy,,no,not_checked,,33,33,no,1,source_not_verified|missing_source_url
+95,پاناسونیک,panasonic,Panasonic,https://evazar.ir/brand/panasonic/,,panasonic,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+97,"کنگ تک",kongtak,kongtak,https://evazar.ir/brand/kongtak/,,kongtak,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+99,وایکیل,waikil,WAIKIL,https://evazar.ir/brand/waikil/,,waikil,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+101,"دی اس پی",dsp,DSP,https://evazar.ir/brand/dsp/,,dsp,,no,not_checked,,49,49,no,1,source_not_verified|missing_source_url
+103,براون,braun,Braun,https://evazar.ir/brand/braun/,,braun,,no,not_checked,,64,64,no,1,source_not_verified|missing_source_url
+105,فلالس,flawless,Flawless,https://evazar.ir/brand/flawless/,,flawless,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+107,رومئو,romeo,Romeo,https://evazar.ir/brand/romeo/,,romeo,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+109,وال,wahl,Wahl,https://evazar.ir/brand/wahl/,,wahl,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+111,وویور,voyor,Voyor,https://evazar.ir/brand/voyor/,,voyor,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+112,متفرقه,miscellaneous,Miscellaneous,https://evazar.ir/brand/miscellaneous/,/brand/miscellaneous/,miscellaneous,miscellaneous,no,not_checked,,64771,64771,no,1,source_not_verified
+114,والوروس,valorous,Valorous,https://evazar.ir/brand/valorous/,,valorous,,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+116,میجیا,mijia,Mijia,https://evazar.ir/brand/mijia/,/brand/mijia/,mijia,mijia,no,not_checked,,16,16,no,1,source_not_verified
+118,هانوور,hannover,Hannover,https://evazar.ir/brand/hannover/,,hannover,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+120,سوکانی,sokany,Sokany,https://evazar.ir/brand/sokany/,,sokany,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+122,"وال پروفشنال",wahl-professional,"wahl professional",https://evazar.ir/brand/wahl-professional/,,"wahl professional",,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+124,پروجیمی,progemei,Progemei,https://evazar.ir/brand/progemei/,,progemei,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+126,"اچ تی سی",htc,HTC,https://evazar.ir/brand/htc/,,htc,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+128,هیوندای,hyundai,Hyundai,https://evazar.ir/brand/hyundai/,,hyundai,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+130,یسیدو,yesido,Yesido,https://evazar.ir/brand/yesido/,,yesido,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+132,"جی دبلیو",gw,GW,https://evazar.ir/brand/gw/,,gw,,no,not_checked,,21,21,no,1,source_not_verified|missing_source_url
+134,میگل,migel,Migel,https://evazar.ir/brand/migel/,,migel,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+136,"مک استایلر",m-a-c-styler,"M.A.C Styler",https://evazar.ir/brand/m-a-c-styler/,,"m.a.c styler",,no,not_checked,,10,10,no,1,source_not_verified|missing_source_url
+138,دالینگ,daling,Daling,https://evazar.ir/brand/daling/,,daling,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+140,وینسنت,vincent,VINCENT,https://evazar.ir/brand/vincent/,,vincent,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+142,"گرین لاین",green-lion,"Green Lion",https://evazar.ir/brand/green-lion/,/brand/green-lion/,green-lion,green-lion,no,not_checked,,15,15,no,1,source_not_verified
+144,آکووا,akova,AKOVA,https://evazar.ir/brand/akova/,,akova,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+146,"بابیلیس پرو",babyliss-pro,"Babyliss PRO",https://evazar.ir/brand/babyliss-pro/,,"babyliss pro",,no,not_checked,,15,15,no,1,source_not_verified|missing_source_url
+148,جاماکی,jamaky,Jamaky,https://evazar.ir/brand/jamaky/,,jamaky,,no,not_checked,,14,14,no,1,source_not_verified|missing_source_url
+150,زیناکس,zenox,ZENOX,https://evazar.ir/brand/zenox/,,zenox,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+152,بابیلیس,babyliss,Babyliss,https://evazar.ir/brand/babyliss/,,babyliss,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+154,دیناواری,dinawari,DINAWARI,https://evazar.ir/brand/dinawari/,,dinawari,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+156,ألفا,alfa,ALFA,https://evazar.ir/brand/alfa/,,alfa,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+158,"ان شن",enchen,Enchen,https://evazar.ir/brand/enchen/,,enchen,,no,not_checked,,19,19,no,1,source_not_verified|missing_source_url
+160,اندیس,andis,Andis,https://evazar.ir/brand/andis/,,andis,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+162,رزتی,rozetti,Rozetti,https://evazar.ir/brand/rozetti/,,rozetti,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+164,پرنسلی,princely,Princely,https://evazar.ir/brand/princely/,,princely,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+166,پرومارون,promaron,Promaron,https://evazar.ir/brand/promaron/,,promaron,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+168,"دبلیو مارک",wmark,wmark,https://evazar.ir/brand/wmark/,,wmark,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+170,"دینگ لینگ",dingling,Dingling,https://evazar.ir/brand/dingling/,,dingling,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+172,گروندیگ,grundig,Grundig,https://evazar.ir/brand/grundig/,,grundig,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+174,شینون,shinon,Shinon,https://evazar.ir/brand/shinon/,,shinon,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+176,"روزیا پرو",roziapro,RoziaPRO,https://evazar.ir/brand/roziapro/,,roziapro,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+178,وربنا,verbena,Verbena,https://evazar.ir/brand/verbena/,,verbena,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+180,شوسی,showsee,Showsee,https://evazar.ir/brand/showsee/,,showsee,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+182,رزونال,rezonal,Rezonal,https://evazar.ir/brand/rezonal/,,rezonal,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+184,سورکر,surker,Surker,https://evazar.ir/brand/surker/,,surker,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+186,ارلدام,earldom,Earldom,https://evazar.ir/brand/earldom/,,earldom,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+188,"ایکس او",xo,XO,https://evazar.ir/brand/xo/,,xo,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+190,نیکای,nikai,NIKAI,https://evazar.ir/brand/nikai/,,nikai,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+192,هاتکر,hatteker,Hatteker,https://evazar.ir/brand/hatteker/,,hatteker,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+194,"آ ا گ",aeg,AEG,https://evazar.ir/brand/aeg/,,aeg,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+196,رمینگتون,remington,Remington,https://evazar.ir/brand/remington/,,remington,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+198,کومکس,komex,komex,https://evazar.ir/brand/komex/,,komex,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+200,"انزو پروفیشینال",enzo-professional,"ENZO Professional",https://evazar.ir/brand/enzo-professional/,,"enzo professional",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+202,"وینینگ استار",winning-star,"winning star",https://evazar.ir/brand/winning-star/,,"winning star",,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+204,کرونیر,cronier,CRONIER,https://evazar.ir/brand/cronier/,,cronier,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+206,روزیا,rozia,Rozia,https://evazar.ir/brand/rozia/,,rozia,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+208,وستینگ‌هاوس,westinghouse,Westinghouse,https://evazar.ir/brand/westinghouse/,,westinghouse,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+210,بیورر,beurer,Beurer,https://evazar.ir/brand/beurer/,,beurer,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+212,امگا,omega-ts,Omega,https://evazar.ir/brand/omega-ts/,/brand/omega/,omega,omega,no,not_checked,,5,5,no,1,slug_differs_from_brand_en|source_not_verified
+214,جیهام,jiham,Jiham,https://evazar.ir/brand/jiham/,,jiham,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+216,کنورث,kenworth,Kenworth,https://evazar.ir/brand/kenworth/,,kenworth,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+218,سایونا,sayona,Sayona,https://evazar.ir/brand/sayona/,,sayona,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+220,فلایکو,flyco,FLYCO,https://evazar.ir/brand/flyco/,,flyco,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+222,"نیو نایس",new-nice,"New Nice",https://evazar.ir/brand/new-nice/,,"new nice",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+224,سیکن,seeken,Seeken,https://evazar.ir/brand/seeken/,,seeken,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+226,کیپه,kiepe,Kiepe,https://evazar.ir/brand/kiepe/,,kiepe,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+228,روناس,ronas,RONAS,https://evazar.ir/brand/ronas/,,ronas,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+230,ویوو,wiwu,Wiwu,https://evazar.ir/brand/wiwu/,/brand/wiwu/,wiwu,wiwu,no,not_checked,,4,4,no,1,source_not_verified
+232,برایتاپ,brightup,BRIGHTUP,https://evazar.ir/brand/brightup/,,brightup,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+234,مرویل,mervilie,Mervilie,https://evazar.ir/brand/mervilie/,,mervilie,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+236,اُرایمو,oraimo,Oraimo,https://evazar.ir/brand/oraimo/,,oraimo,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+238,فیهانگ,feihong,FEIHONG,https://evazar.ir/brand/feihong/,,feihong,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+240,"آی کیو",iq,IQ,https://evazar.ir/brand/iq/,,iq,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+242,والرا,valera,Valera,https://evazar.ir/brand/valera/,,valera,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+244,بیم,beem,Beem,https://evazar.ir/brand/beem/,,beem,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+246,پروموزر,promozer,Promozer,https://evazar.ir/brand/promozer/,,promozer,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+248,بیبیورس,babyverse,babyverse,https://evazar.ir/brand/babyverse/,,babyverse,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+250,سانفورد,sanford,sanford,https://evazar.ir/brand/sanford/,,sanford,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+252,"گلد استار",gold-star,"Gold Star",https://evazar.ir/brand/gold-star/,,"gold star",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+254,"سیلور کرست",silver-crest,"Silver Crest",https://evazar.ir/brand/silver-crest/,,"silver crest",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+256,"سی بای",saybuuy,Saybuuy,https://evazar.ir/brand/saybuuy/,,saybuuy,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+258,"لاک لایچی",lac-laichy,"Lac Laichy",https://evazar.ir/brand/lac-laichy/,,"lac laichy",,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+260,"تاچ بیوتی",touch-beauty,"Touch Beauty",https://evazar.ir/brand/touch-beauty/,,"touch beauty",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+262,برلین,berlin,Berlin,https://evazar.ir/brand/berlin/,,berlin,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+264,لنکا,lenka,Lenka,https://evazar.ir/brand/lenka/,,lenka,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+266,کوبیک,cubic,Cubic,https://evazar.ir/brand/cubic/,/brand/cubic/,cubic,cubic,no,not_checked,,8,8,no,1,source_not_verified
+268,جاندلی,jundeli,Jundeli,https://evazar.ir/brand/jundeli/,,jundeli,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+270,پروویو,prowave,Prowave,https://evazar.ir/brand/prowave/,,prowave,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+279,کامل,kamel,Kamel,https://evazar.ir/brand/kamel/,,kamel,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+281,زرساب,zarsab,Zarsab,https://evazar.ir/brand/zarsab/,,zarsab,,no,not_checked,,21,21,no,1,source_not_verified|missing_source_url
+283,بیتا,bita,Bita,https://evazar.ir/brand/bita/,,bita,,no,not_checked,,21,21,no,1,source_not_verified|missing_source_url
+285,کلیز,kleez,kleez,https://evazar.ir/brand/kleez/,,kleez,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+287,همارا,homara,Homara,https://evazar.ir/brand/homara/,,homara,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+289,عروس,aroos,Aroos,https://evazar.ir/brand/aroos/,,aroos,,no,not_checked,,109,109,no,1,source_not_verified|missing_source_url
+291,"به گز",behgaz,Behgaz,https://evazar.ir/brand/behgaz/,,behgaz,,no,not_checked,,20,20,no,1,source_not_verified|missing_source_url
+293,لیمون,limon,limon,https://evazar.ir/brand/limon/,,limon,,no,not_checked,,52,52,no,1,source_not_verified|missing_source_url
+301,"ظرف سازان اسدیان",zarfsazane-asadian,"Zarfsazane asadian",https://evazar.ir/brand/zarfsazane-asadian/,,"zarfsazane asadian",,no,not_checked,,34,34,no,1,source_not_verified|missing_source_url
+304,"شیشه و بلور اصفهان",esfahan-glass,"Esfahan Glass",https://evazar.ir/brand/esfahan-glass/,,"esfahan glass",,no,not_checked,,26,26,no,1,source_not_verified|missing_source_url
+306,کاورک,kaverak,kaverak,https://evazar.ir/brand/kaverak/,,kaverak,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+308,"ظرفیران رهنمون",zarfiran-rahnamoon,"ZARFIRAN rahnamoon",https://evazar.ir/brand/zarfiran-rahnamoon/,,"zarfiran rahnamoon",,no,not_checked,,18,18,no,1,source_not_verified|missing_source_url
+310,بانیس,banis,Banis,https://evazar.ir/brand/banis/,,banis,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+312,"سافت شف",soft-chef,"Soft chef",https://evazar.ir/brand/soft-chef/,,"soft chef",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+314,"میس گلس",miss-glass,"miss glass",https://evazar.ir/brand/miss-glass/,,"miss glass",,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+316,"هوبی لایف",hobby-life,"Hobby Life",https://evazar.ir/brand/hobby-life/,,"hobby life",,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+318,"تک سازان",taksazan,taksazan,https://evazar.ir/brand/taksazan/,,taksazan,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+320,"کارولین کیچن ور",carolin-kitchen-ware,"CAROLIN Kitchen ware",https://evazar.ir/brand/carolin-kitchen-ware/,,"carolin kitchen ware",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+323,پیرکس,pyrex,Pyrex,https://evazar.ir/brand/pyrex/,,pyrex,,no,not_checked,,71,71,no,1,source_not_verified|missing_source_url
+325,"دنی هوم",danny-home,"Danny Home",https://evazar.ir/brand/danny-home/,,"danny home",,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+329,زیبا,ziba,Ziba,https://evazar.ir/brand/ziba/,,ziba,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+331,شنگیا,shengya,SHENGYA,https://evazar.ir/brand/shengya/,,shengya,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+333,پاشاباغچه,pasabahce,Pasabahce,https://evazar.ir/brand/pasabahce/,,pasabahce,,no,not_checked,,23,23,no,1,source_not_verified|missing_source_url
+335,بالرینی,ballarini,Ballarini,https://evazar.ir/brand/ballarini/,,ballarini,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+337,"تفلون تابان",teflon-taban,"Teflon Taban",https://evazar.ir/brand/teflon-taban/,,"teflon taban",,no,not_checked,,10,10,no,1,source_not_verified|missing_source_url
+339,"بلک فایر",black-fire,"black Fire",https://evazar.ir/brand/black-fire/,,"black fire",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+341,"بلور کاوه",kaveh-crystal,"Kaveh Crystal",https://evazar.ir/brand/kaveh-crystal/,,"kaveh crystal",,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+344,"پارس استیل",pars-steel,"Pars Steel",https://evazar.ir/brand/pars-steel/,,"pars steel",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+346,تیارا,tiara,Tiara,https://evazar.ir/brand/tiara/,,tiara,,no,not_checked,,33,33,no,1,source_not_verified|missing_source_url
+348,زی,zi,ZI,https://evazar.ir/brand/zi/,,zi,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+350,"نوری تازه",noritazeh,NORITAZEH,https://evazar.ir/brand/noritazeh/,,noritazeh,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+352,"سام ست",samset,Samset,https://evazar.ir/brand/samset/,,samset,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+354,"هوم کت",homeket,Homeket,https://evazar.ir/brand/homeket/,,homeket,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+356,"بی ام دی !",bmd,BMD!,https://evazar.ir/brand/bmd/,,bmd!,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+358,"گلدن اوپال",golden-opal,"Golden Opal",https://evazar.ir/brand/golden-opal/,,"golden opal",,no,not_checked,,15,15,no,1,source_not_verified|missing_source_url
+360,ایکیا,ikea,Ikea,https://evazar.ir/brand/ikea/,/brand/ikea/,ikea,ikea,no,not_checked,,82,82,no,1,source_not_verified
+362,مالمو,malmo,MALMO,https://evazar.ir/brand/malmo/,,malmo,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+364,"لاولی پلاست",lovely-plast,"lovely plast",https://evazar.ir/brand/lovely-plast/,,"lovely plast",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+366,آرانیک,aranick,Aranick,https://evazar.ir/brand/aranick/,/brand/aranick/,aranick,aranick,no,not_checked,,6,6,no,1,source_not_verified
+368,"گلدن اپال",goldenopal,Goldenopal,https://evazar.ir/brand/goldenopal/,,goldenopal,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+370,یزدگل,yazdgol,YazdGol,https://evazar.ir/brand/yazdgol/,,yazdgol,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+374,بازن,bazen,BAZEN,https://evazar.ir/brand/bazen/,,bazen,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+376,ژویی,joie,joie,https://evazar.ir/brand/joie/,,joie,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+378,"ایراک پلاستیک",irak-plastik,"Irak Plastik",https://evazar.ir/brand/irak-plastik/,,"irak plastik",,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+380,"چینی زرین ایران",zarin-iran-porcelain-inds,"Zarin Iran Porcelain Inds",https://evazar.ir/brand/zarin-iran-porcelain-inds/,,"zarin iran porcelain inds",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+382,تکنو,tecno,Tecno,https://evazar.ir/brand/tecno/,,tecno,,no,not_checked,,14,14,no,1,source_not_verified|missing_source_url
+384,"لوازم قنادی پسته",pesteh-confectionery-tools,"pesteh Confectionery tools",https://evazar.ir/brand/pesteh-confectionery-tools/,,"pesteh confectionery tools",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+386,ترادو,trudeau,Trudeau,https://evazar.ir/brand/trudeau/,,trudeau,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+388,"تک ظرف",tak-zarf,"tak zarf",https://evazar.ir/brand/tak-zarf/,,"tak zarf",,no,not_checked,,13,13,no,1,source_not_verified|missing_source_url
+390,دینو,dino,Dino,https://evazar.ir/brand/dino/,,dino,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+392,ظرفیران,zarfiran,Zarfiran,https://evazar.ir/brand/zarfiran/,,zarfiran,,no,not_checked,,15,15,no,1,source_not_verified|missing_source_url
+394,بورجم,borcam,Borcam,https://evazar.ir/brand/borcam/,,borcam,,no,not_checked,,9,9,no,1,source_not_verified|missing_source_url
+396,مرسه,merce,Merce,https://evazar.ir/brand/merce/,,merce,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+398,لومینارک,luminarc,Luminarc,https://evazar.ir/brand/luminarc/,,luminarc,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+400,تیتیز,titiz,Titiz,https://evazar.ir/brand/titiz/,,titiz,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+402,هانه,hane,Hane,https://evazar.ir/brand/hane/,,hane,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+404,"زیبا سازان",zibasazan,Zibasazan,https://evazar.ir/brand/zibasazan/,,zibasazan,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+406,"گلد کیش",gold-kish,"Gold Kish",https://evazar.ir/brand/gold-kish/,,"gold kish",,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+408,امپرلند,imperland,IMPERLAND,https://evazar.ir/brand/imperland/,,imperland,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+410,"لوح هنر",lohehonar,Lohehonar,https://evazar.ir/brand/lohehonar/,,lohehonar,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+412,"ام وي اچ گلس اند پلاستيكس",mvh-glass-and-plastics,"MVH glass and plastics",https://evazar.ir/brand/mvh-glass-and-plastics/,,"mvh glass and plastics",,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+414,باریکو,barico,Barico,https://evazar.ir/brand/barico/,,barico,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+416,آریسام,arisam,Arisam,https://evazar.ir/brand/arisam/,,arisam,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+418,"سان کوک",sun-cook,"sun cook",https://evazar.ir/brand/sun-cook/,,"sun cook",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+420,برنر,burner,Burner,https://evazar.ir/brand/burner/,,burner,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+422,آریاسام,ariasam,Ariasam,https://evazar.ir/brand/ariasam/,,ariasam,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+425,نیولند,new-land,Newland,https://evazar.ir/brand/new-land/,,newland,,no,not_checked,,2,2,no,1,slug_differs_from_brand_en|source_not_verified|missing_source_url
+427,کاراجا,karaca,Karaja,https://evazar.ir/brand/karaca/,/brand/karaja/,karaja,karaja,no,not_checked,,2,2,no,1,slug_differs_from_brand_en|source_not_verified
+429,قلهک,gholhak,gholhak,https://evazar.ir/brand/gholhak/,,gholhak,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+431,فلاسک,fellask,Fellask,https://evazar.ir/brand/fellask/,,fellask,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+433,رومنس,romance,Romance,https://evazar.ir/brand/romance/,,romance,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+435,مهروز,mahrooz,Mahrooz,https://evazar.ir/brand/mahrooz/,,mahrooz,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+437,"کاج نچسب",kajnachasb,kajnachasb,https://evazar.ir/brand/kajnachasb/,,kajnachasb,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+439,"ام بی",mb,MB,https://evazar.ir/brand/mb/,,mb,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+441,"نیو لایف",new-life,"New Life",https://evazar.ir/brand/new-life/,,"new life",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+443,آرکانیک,arkanick,arkanick,https://evazar.ir/brand/arkanick/,,arkanick,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+445,"رز کالا مهر",roze-kala-mehr,"Roze kala mehr",https://evazar.ir/brand/roze-kala-mehr/,,"roze kala mehr",,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+447,"آوا فرجام",ava-farjam,"Ava farjam",https://evazar.ir/brand/ava-farjam/,,"ava farjam",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+449,کاندید,candid,Candid,https://evazar.ir/brand/candid/,,candid,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+451,همیس,homis,HOMIS,https://evazar.ir/brand/homis/,,homis,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+454,لیدوما,lidoma,LidOMa,https://evazar.ir/brand/lidoma/,,lidoma,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+456,"ام جی اس",mgs,MGS,https://evazar.ir/brand/mgs/,,mgs,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+458,پیلو,pilau,Pilau,https://evazar.ir/brand/pilau/,,pilau,,no,not_checked,,17,17,no,1,source_not_verified|missing_source_url
+460,کرکماز,korkmaz,Korkmaz,https://evazar.ir/brand/korkmaz/,,korkmaz,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+462,"لاوان الکتریک",lavan-electric,"Lavan Electric",https://evazar.ir/brand/lavan-electric/,,"lavan electric",,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+464,نالینو,nalino,Nalino,https://evazar.ir/brand/nalino/,,nalino,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+467,لاوان,lavan,Lavan,https://evazar.ir/brand/lavan/,,lavan,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+470,ویکتوریا,victoria,Victoria,https://evazar.ir/brand/victoria/,,victoria,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+472,یونیک,unique,UNIQ,https://evazar.ir/brand/unique/,/brand/uniq/,uniq,uniq,no,not_checked,,3,3,no,1,slug_differs_from_brand_en|source_not_verified
+476,فورته,forte,Forte,https://evazar.ir/brand/forte/,,forte,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+478,اویز,eviz,Eviz,https://evazar.ir/brand/eviz/,,eviz,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+482,"ای تی سی",atc,ATC,https://evazar.ir/brand/atc/,,atc,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+485,"اویز پلاس",eviz-plus,"Eviz Plus",https://evazar.ir/brand/eviz-plus/,,"eviz plus",,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+489,ایگوری,igory,IGORY,https://evazar.ir/brand/igory/,,igory,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+492,راکلند,rockland,Rockland,https://evazar.ir/brand/rockland/,,rockland,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+494,وون,woon,WOON,https://evazar.ir/brand/woon/,,woon,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+496,آذین,azin,AZIN,https://evazar.ir/brand/azin/,,azin,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+504,الدینیو,ldnio,LDNIO,https://evazar.ir/brand/ldnio/,,ldnio,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+506,جیمو,giimoo,Gemo,https://evazar.ir/brand/giimoo/,/brand/gemo/,gemo,gemo,no,not_checked,,3,3,no,1,slug_differs_from_brand_en|source_not_verified
+508,"جی تی تی",gtt,GTT,https://evazar.ir/brand/gtt/,,gtt,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+510,هارمونی,harmony,Harmony,https://evazar.ir/brand/harmony/,,harmony,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+514,"پایدار زیما",paidar-zima,"Paidar Zima",https://evazar.ir/brand/paidar-zima/,,"paidar zima",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+516,آتینو,atino,Atino,https://evazar.ir/brand/atino/,,atino,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+518,نورهام,noorham,Noorham,https://evazar.ir/brand/noorham/,,noorham,,no,not_checked,,116,116,no,1,source_not_verified|missing_source_url
+520,داتینو,datino,datino,https://evazar.ir/brand/datino/,/brand/datino/,datino,datino,no,not_checked,,59,59,no,1,source_not_verified
+522,"وی تک",vtech,Vtech,https://evazar.ir/brand/vtech/,,vtech,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+524,جاکوب,jakoob,Jakoob,https://evazar.ir/brand/jakoob/,,jakoob,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+526,"بلو باکس",blue-box,"Blue Box",https://evazar.ir/brand/blue-box/,,"blue box",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+528,لیوارنو,livarno,LIVARNO,https://evazar.ir/brand/livarno/,,livarno,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+530,لومیکس,lumix,lumix,https://evazar.ir/brand/lumix/,,lumix,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+532,واتان,wattan,wattan,https://evazar.ir/brand/wattan/,,wattan,,no,not_checked,,19,19,no,1,source_not_verified|missing_source_url
+534,"بی ال",bl,BL,https://evazar.ir/brand/bl/,,bl,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+536,"رادا لایف استایل",radalifestyle,radalifestyle,https://evazar.ir/brand/radalifestyle/,,radalifestyle,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+539,دیلایت,delight,Delight,https://evazar.ir/brand/delight/,,delight,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+541,لومیز,lumiz,Lumiz,https://evazar.ir/brand/lumiz/,,lumiz,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+543,سولونیکس,solonix,SOLONIX,https://evazar.ir/brand/solonix/,,solonix,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+545,"چشمه نور",cheshme-noor,"Cheshme Noor",https://evazar.ir/brand/cheshme-noor/,,"cheshme noor",,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+547,"مامز کیوتی",moms-cutie,"moms cutie",https://evazar.ir/brand/moms-cutie/,,"moms cutie",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+549,"موندو لاکچری",mondo-luxury,"Mondo Luxury",https://evazar.ir/brand/mondo-luxury/,,"mondo luxury",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+551,"نیل آرت",nilart,Nilart,https://evazar.ir/brand/nilart/,,nilart,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+553,"ام کی ای لایتینگ",mka-lighting,"mka lighting",https://evazar.ir/brand/mka-lighting/,,"mka lighting",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+555,مینیفر,minifur,minifur,https://evazar.ir/brand/minifur/,,minifur,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+557,پادینا,padina,PADINA,https://evazar.ir/brand/padina/,,padina,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+559,"انگلیش هوم",english-home,"English Home",https://evazar.ir/brand/english-home/,,"english home",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+563,دلوری,delori,delori,https://evazar.ir/brand/delori/,,delori,,no,not_checked,,47,47,no,1,source_not_verified|missing_source_url
+565,مافریز,mafriz,MAFRIZ,https://evazar.ir/brand/mafriz/,,mafriz,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+567,اصفیان,asefian,Asefian,https://evazar.ir/brand/asefian/,,asefian,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+569,"نی نی سیس",ninisis,ninisis,https://evazar.ir/brand/ninisis/,,ninisis,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+571,"سایان هوم",cyan-home,"Cyan Home",https://evazar.ir/brand/cyan-home/,,"cyan home",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+573,"تابلو تبلیغات نورماه",nooremah,nooreMah,https://evazar.ir/brand/nooremah/,,nooremah,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+575,"آرت هوم",art-home,"ART HOME",https://evazar.ir/brand/art-home/,,"art home",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+578,"شی کاریزما",shecharisma,shecharisma,https://evazar.ir/brand/shecharisma/,,shecharisma,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+580,دیووم,divoom,Divoom,https://evazar.ir/brand/divoom/,,divoom,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+582,ریدمکس,raidmax,Raidmax,https://evazar.ir/brand/raidmax/,,raidmax,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+584,کارنتیس,karentis,KARENTIS,https://evazar.ir/brand/karentis/,,karentis,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+586,"طهران لوستر جغد",tehran-luster-owl,"Tehran Luster OWL",https://evazar.ir/brand/tehran-luster-owl/,,"tehran luster owl",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+588,لاکسیو,luxceo,Luxceo,https://evazar.ir/brand/luxceo/,,luxceo,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+590,"یی لایت",yeelight,Yeelight,https://evazar.ir/brand/yeelight/,,yeelight,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+592,زیمادر,zimador,ZIMADOR,https://evazar.ir/brand/zimador/,,zimador,,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+594,رست,rost,Rost,https://evazar.ir/brand/rost/,,rost,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+596,هوماری,homary,Homary,https://evazar.ir/brand/homary/,,homary,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+598,گووی,govee,Govee,https://evazar.ir/brand/govee/,,govee,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+602,لالاتاپ,lala-tap,"Lala Tap",https://evazar.ir/brand/lala-tap/,,"lala tap",,no,not_checked,,48,48,no,1,source_not_verified|missing_source_url
+604,بریلی,breylee,BREYLEE,https://evazar.ir/brand/breylee/,,breylee,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+606,چیکا,chicka,Chicka,https://evazar.ir/brand/chicka/,,chicka,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+609,"یو تری اف",u3f,U3F,https://evazar.ir/brand/u3f/,/brand/u3f/,u3f,u3f,no,not_checked,,12,12,no,1,source_not_verified
+611,"ایمن آف نوبل",iman-of-noble,"iman of noble",https://evazar.ir/brand/iman-of-noble/,,"iman of noble",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+614,مودا,moda,Moda,https://evazar.ir/brand/moda/,,moda,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+616,"زد وان",z-one,Z.1,https://evazar.ir/brand/z-one/,/brand/z-1/,z-1,z-1,no,not_checked,,25,25,no,1,slug_differs_from_brand_en|source_not_verified
+619,ال.ای,l-a,L.A,https://evazar.ir/brand/l-a/,/brand/l-a/,l-a,l-a,no,not_checked,,13,13,no,1,source_not_verified
+621,ورژن,vergen,Vergen,https://evazar.ir/brand/vergen/,/brand/vergen/,vergen,vergen,no,not_checked,,20,20,no,1,source_not_verified
+625,لوپینا,lopina,Lopina,https://evazar.ir/brand/lopina/,,lopina,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+627,کیس,kiss,Kiss,https://evazar.ir/brand/kiss/,/brand/kiss/,kiss,kiss,no,not_checked,,4,4,no,1,source_not_verified
+629,فنمن,fenman,Fenman,https://evazar.ir/brand/fenman/,,fenman,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+631,کنویس,kenvis,kenvis,https://evazar.ir/brand/kenvis/,/brand/kenvis/,kenvis,kenvis,no,not_checked,,123,123,no,1,source_not_verified
+633,یوسی,uiisii,UiiSii,https://evazar.ir/brand/uiisii/,,uiisii,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+635,تریتون,triton,Triton,https://evazar.ir/brand/triton/,,triton,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+637,"گلدن فیشر",golden-fisher,"GOLDEN FISHER",https://evazar.ir/brand/golden-fisher/,,"golden fisher",,no,not_checked,,16,16,no,1,source_not_verified|missing_source_url
+639,لومانا,lomana,Lomana,https://evazar.ir/brand/lomana/,,lomana,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+642,جویل,jewel,Jewel,https://evazar.ir/brand/jewel/,/brand/jewel/,jewel,jewel,no,not_checked,,46,46,no,1,source_not_verified
+644,"ام اند اچ",mh,M&H,https://evazar.ir/brand/mh/,,m&h,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+646,مهرونا,mehrona,Mehrona,https://evazar.ir/brand/mehrona/,,mehrona,,no,not_checked,,75,75,no,1,source_not_verified|missing_source_url
+648,سوپرتاچ,souper-touch,"Souper Touch",https://evazar.ir/brand/souper-touch/,/brand/souper-touch/,souper-touch,souper-touch,no,not_checked,,44,44,no,1,source_not_verified
+652,سوشیا,soshia,Soshia,https://evazar.ir/brand/soshia/,/brand/soshia/,soshia,soshia,no,not_checked,,140,140,no,1,source_not_verified
+654,بیوتی,beauty,Beauty,https://evazar.ir/brand/beauty/,/brand/beauty/,beauty,beauty,no,not_checked,,4,4,no,1,source_not_verified
+657,"بایو آکوا",bioaqua,Bioaqua,https://evazar.ir/brand/bioaqua/,,bioaqua,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+659,آر.تی.اس,r-t-s,R.T.S,https://evazar.ir/brand/r-t-s/,,r.t.s,,no,not_checked,,38,38,no,1,source_not_verified|missing_source_url
+661,ناکد,naked,Naked,https://evazar.ir/brand/naked/,,naked,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+663,خندالو,khandaloo,Khandaloo,https://evazar.ir/brand/khandaloo/,/brand/khandaloo/,khandaloo,khandaloo,no,not_checked,,28205,28205,no,1,source_not_verified
+665,بلیتا,bielita,BIELITA,https://evazar.ir/brand/bielita/,,bielita,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+668,یوشاس,ushas,Ushas,https://evazar.ir/brand/ushas/,,ushas,,no,not_checked,,9,9,no,1,source_not_verified|missing_source_url
+670,مکس,max,Max,https://evazar.ir/brand/max/,/brand/max/,max,max,no,not_checked,,23,23,no,1,source_not_verified
+672,"ریل تکنیکس",real-techniques,"Real Techniques",https://evazar.ir/brand/real-techniques/,,"real techniques",,no,not_checked,,9,9,no,1,source_not_verified|missing_source_url
+674,ورونیک,veronique,Veronique,https://evazar.ir/brand/veronique/,,veronique,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+676,"وردا بیوتی",warda-beauty,"Warda Beauty",https://evazar.ir/brand/warda-beauty/,,"warda beauty",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+678,"هلو کیتی",hello-kitty,"Hello kitty",https://evazar.ir/brand/hello-kitty/,,"hello kitty",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+680,"اولی بولا",olibolla,Olibolla,https://evazar.ir/brand/olibolla/,,olibolla,,no,not_checked,,11,11,no,1,source_not_verified|missing_source_url
+682,هانتین,hantin,Hantin,https://evazar.ir/brand/hantin/,/brand/hantin/,hantin,hantin,no,not_checked,,109,109,no,1,source_not_verified
+685,درماکول,dermacol,dermacol,https://evazar.ir/brand/dermacol/,/brand/dermacol/,dermacol,dermacol,no,not_checked,,18,18,no,1,source_not_verified
+687,اوچیل,ocheal,o'cheal,https://evazar.ir/brand/ocheal/,,o'cheal,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+689,آرتوسو,artosu,Artosu,https://evazar.ir/brand/artosu/,,artosu,,no,not_checked,,9,9,no,1,source_not_verified|missing_source_url
+691,کانسه,kanseh,Kanseh,https://evazar.ir/brand/kanseh/,,kanseh,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+694,"سی بی پاریس",cb-paris,"CB Paris",https://evazar.ir/brand/cb-paris/,,"cb paris",,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+696,پرولایز,prolase,Prolase,https://evazar.ir/brand/prolase/,/brand/prolase/,prolase,prolase,no,not_checked,,58,58,no,1,source_not_verified
+699,فستیوال,festival,Festival,https://evazar.ir/brand/festival/,/brand/festival/,festival,festival,no,not_checked,,42,42,no,1,source_not_verified
+701,اریکه,erikeh,Erikeh,https://evazar.ir/brand/erikeh/,,erikeh,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+703,باریش,barish,Barish,https://evazar.ir/brand/barish/,,barish,,no,not_checked,,35,35,no,1,source_not_verified|missing_source_url
+705,آنجل,angel,Angel,https://evazar.ir/brand/angel/,,angel,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+707,پروکسی,proxi,Proxi,https://evazar.ir/brand/proxi/,,proxi,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+709,5استار,5star,5star,https://evazar.ir/brand/5star/,/brand/5star/,5star,5star,no,not_checked,,8,8,no,1,source_not_verified
+711,ژاکسی,juxi,Juxi,https://evazar.ir/brand/juxi/,/brand/juxi/,juxi,juxi,no,not_checked,,10,10,no,1,source_not_verified
+714,ماسکات,mascot,mascot,https://evazar.ir/brand/mascot/,/brand/mascot/,mascot,mascot,no,not_checked,,6,6,no,1,source_not_verified
+716,میستار,misstar,Misstar,https://evazar.ir/brand/misstar/,/brand/misstar/,misstar,misstar,no,not_checked,,75,75,no,1,source_not_verified
+720,نویر,noyer,Noyer,https://evazar.ir/brand/noyer/,/brand/noyer/,noyer,noyer,no,not_checked,,29,29,no,1,source_not_verified
+722,ایفسن,efsane,efsane,https://evazar.ir/brand/efsane/,/brand/efsane/,efsane,efsane,no,not_checked,,21,21,no,1,source_not_verified
+724,باروچین,baroochin,baroochin,https://evazar.ir/brand/baroochin/,,baroochin,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+727,"مودا گلد",moda-gold,"Moda Gold",https://evazar.ir/brand/moda-gold/,/brand/moda-gold/,moda-gold,moda-gold,no,not_checked,,6,6,no,1,source_not_verified
+732,لکسلش,luxlash,luxlash,https://evazar.ir/brand/luxlash/,,luxlash,,no,not_checked,,10,10,no,1,source_not_verified|missing_source_url
+734,"سرسان لاو",sersanlove,sersanlove,https://evazar.ir/brand/sersanlove/,,sersanlove,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+737,سانلومکس,sunlumax,sunlumax,https://evazar.ir/brand/sunlumax/,,sunlumax,,no,not_checked,,16,16,no,1,source_not_verified|missing_source_url
+740,یانگمی,yangmei,yangmei,https://evazar.ir/brand/yangmei/,,yangmei,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+744,کالیستا,callista,Callista,https://evazar.ir/brand/callista/,,callista,,no,not_checked,,60,60,no,1,source_not_verified|missing_source_url
+746,استرا,astra,Astra,https://evazar.ir/brand/astra/,/brand/astra/,astra,astra,no,not_checked,,39,39,no,1,source_not_verified
+748,ایوزین,ayozin,ayozin,https://evazar.ir/brand/ayozin/,,ayozin,,no,not_checked,,13,13,no,1,source_not_verified|missing_source_url
+750,نایسپیدو,nicepido,nicepido,https://evazar.ir/brand/nicepido/,,nicepido,,no,not_checked,,24,24,no,1,source_not_verified|missing_source_url
+753,الی.زکیتا,eli-zkita,Eli.Zkita,https://evazar.ir/brand/eli-zkita/,/brand/eli-zkita/,eli-zkita,eli-zkita,no,not_checked,,14,14,no,1,source_not_verified
+755,هندیان,handaiyan,handaiyan,https://evazar.ir/brand/handaiyan/,,handaiyan,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+760,ساویز,saviz,Saviz,https://evazar.ir/brand/saviz/,,saviz,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+762,تایلامی,tailaimei,Tailaimei,https://evazar.ir/brand/tailaimei/,,tailaimei,,no,not_checked,,10,10,no,1,source_not_verified|missing_source_url
+765,"آی کارلی",i-carly,"I Carly",https://evazar.ir/brand/i-carly/,,"i carly",,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+767,"انشور هاینس",onshoure-highness,"Onshoure Highness",https://evazar.ir/brand/onshoure-highness/,,"onshoure highness",,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+769,"آل فیدا",al-fida,"Al fida",https://evazar.ir/brand/al-fida/,,"al fida",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+772,ورورا,verora,verora,https://evazar.ir/brand/verora/,/brand/verora/,verora,verora,no,not_checked,,36,36,no,1,source_not_verified
+777,گابرینی,gabrini,Gabrini,https://evazar.ir/brand/gabrini/,/brand/gabrini/,gabrini,gabrini,no,not_checked,,47,47,no,1,source_not_verified
+781,گاش,gosh,GOSH,https://evazar.ir/brand/gosh/,/brand/gosh/,gosh,gosh,no,not_checked,,9,9,no,1,source_not_verified
+783,ویت,veet,Veet,https://evazar.ir/brand/veet/,,veet,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+785,بلفامد,blephamed,Blephamed,https://evazar.ir/brand/blephamed/,,blephamed,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+787,"پینک کی",pink-key,"Pink key",https://evazar.ir/brand/pink-key/,,"pink key",,no,not_checked,,11,11,no,1,source_not_verified|missing_source_url
+789,سادور,sadoer,SADOER,https://evazar.ir/brand/sadoer/,/brand/sadoer/,sadoer,sadoer,no,not_checked,,12,12,no,1,source_not_verified
+791,"دودو گرل",do-do-girl,"Do Do Girl",https://evazar.ir/brand/do-do-girl/,/brand/do-do-girl/,do-do-girl,do-do-girl,no,not_checked,,55,55,no,1,source_not_verified
+793,جولیوس,julius,Julius,https://evazar.ir/brand/julius/,/brand/julius/,julius,julius,no,not_checked,,5,5,no,1,source_not_verified
+798,"گلدن رز",golden-rose,"Golden Rose",https://evazar.ir/brand/golden-rose/,/brand/golden-rose/,golden-rose,golden-rose,no,not_checked,,257,257,no,1,source_not_verified
+800,توز,tuz,tuz,https://evazar.ir/brand/tuz/,,tuz,,no,not_checked,,11,11,no,1,source_not_verified|missing_source_url
+803,گلفلاور,gulflower,gulflower,https://evazar.ir/brand/gulflower/,,gulflower,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+805,پرودرما,proderma,Proderma,https://evazar.ir/brand/proderma/,,proderma,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+807,مای,my,My,https://evazar.ir/brand/my/,/brand/my/,my,my,no,not_checked,,43,43,no,1,source_not_verified
+810,"میس لارا",miss-lara,"Miss Lara",https://evazar.ir/brand/miss-lara/,,"miss lara",,no,not_checked,,15,15,no,1,source_not_verified|missing_source_url
+812,ژیدو,zhiduo,zhiduo,https://evazar.ir/brand/zhiduo/,,zhiduo,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+817,"دی سل",daycell,Daycell,https://evazar.ir/brand/daycell/,/brand/daycell/,daycell,daycell,no,not_checked,,11,11,no,1,source_not_verified
+820,وارمی,varmi,VARMI,https://evazar.ir/brand/varmi/,,varmi,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+822,ماچیکی,machiki,Machiki,https://evazar.ir/brand/machiki/,/brand/machiki/,machiki,machiki,no,not_checked,,7,7,no,1,source_not_verified
+824,لنبنا,lanbena,lanbena,https://evazar.ir/brand/lanbena/,/brand/lanbena/,lanbena,lanbena,no,not_checked,,4,4,no,1,source_not_verified
+826,"آی فیس",iface,Iface,https://evazar.ir/brand/iface/,/brand/iface/,iface,iface,no,not_checked,,15,15,no,1,source_not_verified
+828,آرکانسیل,arcancil,Arcancil,https://evazar.ir/brand/arcancil/,/brand/arcancil/,arcancil,arcancil,no,not_checked,,58,58,no,1,source_not_verified
+831,ایروس,eros,EROS,https://evazar.ir/brand/eros/,/brand/eros/,eros,eros,no,not_checked,,35,35,no,1,source_not_verified
+835,کوروت,curvet,Curvet,https://evazar.ir/brand/curvet/,/brand/curvet/,curvet,curvet,no,not_checked,,82,82,no,1,source_not_verified
+838,فلر,feler,Feler,https://evazar.ir/brand/feler/,/brand/feler/,feler,feler,no,not_checked,,39,39,no,1,source_not_verified
+840,لنیج,laneige,Laneige,https://evazar.ir/brand/laneige/,/brand/laneige/,laneige,laneige,no,not_checked,,2,2,no,1,source_not_verified
+842,پی2,p2,p2,https://evazar.ir/brand/p2/,,p2,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+845,پرمرسین,permersin,permersin,https://evazar.ir/brand/permersin/,/brand/permersin/,permersin,permersin,no,not_checked,,11,11,no,1,source_not_verified
+848,"مک فیکس",mac-fix,Mac.Fix,https://evazar.ir/brand/mac-fix/,/brand/mac-fix/,mac-fix,mac-fix,no,not_checked,,12,12,no,1,source_not_verified
+850,"پارس پلادیس",pars-peladis,"Pars Peladis",https://evazar.ir/brand/pars-peladis/,,"pars peladis",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+852,"کوین اند کوکو",kevin-coco,"kevin & coco",https://evazar.ir/brand/kevin-coco/,/brand/kevin-coco/,kevin-coco,kevin-coco,no,not_checked,,66,66,no,1,source_not_verified
+855,تونایت,tonight,tonight,https://evazar.ir/brand/tonight/,,tonight,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+857,سیوره,siore,Siore,https://evazar.ir/brand/siore/,/brand/siore/,siore,siore,no,not_checked,,24,24,no,1,source_not_verified
+859,"شیز نایس",shes-nice,"SHE'S NICE",https://evazar.ir/brand/shes-nice/,,"she's nice",,no,not_checked,,11,11,no,1,source_not_verified|missing_source_url
+862,مدیا,media,media,https://evazar.ir/brand/media/,,media,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+864,آنیکا,anika,Anika,https://evazar.ir/brand/anika/,,anika,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+869,"پنه لوپه",penelope,Penelope,https://evazar.ir/brand/penelope/,,penelope,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+871,"کریستال دایموند",crystal-dlamond,"Crystal Dlamond",https://evazar.ir/brand/crystal-dlamond/,/brand/crystal-dlamond/,crystal-dlamond,crystal-dlamond,no,not_checked,,4,4,no,1,source_not_verified
+874,بتانی,bethany,bethany,https://evazar.ir/brand/bethany/,,bethany,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+877,مینتیک,mintake,Mintake,https://evazar.ir/brand/mintake/,,mintake,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+879,"بی اچ کازمتیکس",bh-cosmetics,"BH Cosmetics",https://evazar.ir/brand/bh-cosmetics/,/brand/bh-cosmetics/,bh-cosmetics,bh-cosmetics,no,not_checked,,3,3,no,1,source_not_verified
+881,تایرا,tyra,Tyra,https://evazar.ir/brand/tyra/,,tyra,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+884,"کلینیک کیندی",cleanic-kindii,"Cleanic Kindii",https://evazar.ir/brand/cleanic-kindii/,,"cleanic kindii",,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+887,لامل,lamel,lamel,https://evazar.ir/brand/lamel/,,lamel,,no,not_checked,,70,70,no,1,source_not_verified|missing_source_url
+892,بیلیارد,biliard,Biliard,https://evazar.ir/brand/biliard/,/brand/biliard/,biliard,biliard,no,not_checked,,11,11,no,1,source_not_verified
+897,شون,schon,Schon,https://evazar.ir/brand/schon/,/brand/schon/,schon,schon,no,not_checked,,28,28,no,1,source_not_verified
+900,"سالوته پرو",salute-pro,"Salute PRO",https://evazar.ir/brand/salute-pro/,,"salute pro",,no,not_checked,,56,56,no,1,source_not_verified|missing_source_url
+902,"بیس بیوتی",base-beauty,"Base Beauty",https://evazar.ir/brand/base-beauty/,,"base beauty",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+904,پرایم,prime,Prime,https://evazar.ir/brand/prime/,,prime,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+918,چیدا,chida,Chida,https://evazar.ir/brand/chida/,,chida,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+920,کلی,keli,Keli,https://evazar.ir/brand/keli/,,keli,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+923,لوسمنت,losment,Losment,https://evazar.ir/brand/losment/,,losment,,no,not_checked,,26,26,no,1,source_not_verified|missing_source_url
+925,"لیدی میکاپ",ladymakeup,ladymakeup,https://evazar.ir/brand/ladymakeup/,/brand/ladymakeup/,ladymakeup,ladymakeup,no,not_checked,,14,14,no,1,source_not_verified
+928,نوت,note,Note,https://evazar.ir/brand/note/,/brand/note/,note,note,no,not_checked,,159,159,no,1,source_not_verified
+931,"انی لیدی",anylady,Anylady,https://evazar.ir/brand/anylady/,/brand/anylady/,anylady,anylady,no,not_checked,,20,20,no,1,source_not_verified
+934,سیگنیچر,signature,signature,https://evazar.ir/brand/signature/,/brand/signature/,signature,signature,no,not_checked,,28,28,no,1,source_not_verified
+942,لورینت,lorient,Lorient,https://evazar.ir/brand/lorient/,/brand/lorient/,lorient,lorient,no,not_checked,,11,11,no,1,source_not_verified
+952,فرساس,fresas,Fresas,https://evazar.ir/brand/fresas/,,fresas,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+955,لتراست,letraset,Letraset,https://evazar.ir/brand/letraset/,,letraset,,no,not_checked,,11,11,no,1,source_not_verified|missing_source_url
+957,آدلیتا,adelita,ADELITA,https://evazar.ir/brand/adelita/,,adelita,,no,not_checked,,17,17,no,1,source_not_verified|missing_source_url
+959,"استار کالکشن",star-collection,"Star collection",https://evazar.ir/brand/star-collection/,,"star collection",,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+961,دیوایو,divio,Divio,https://evazar.ir/brand/divio/,/brand/divio/,divio,divio,no,not_checked,,33,33,no,1,source_not_verified
+963,وو,vov,VOV,https://evazar.ir/brand/vov/,/brand/vov/,vov,vov,no,not_checked,,39,39,no,1,source_not_verified
+965,بابیلا,babila,babila,https://evazar.ir/brand/babila/,/brand/babila/,babila,babila,no,not_checked,,38,38,no,1,source_not_verified
+967,"دکتر مورنینگ",dr-morning,Dr.Morning,https://evazar.ir/brand/dr-morning/,,dr.morning,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+971,"مری کی",mary-kay,"Mary kay",https://evazar.ir/brand/mary-kay/,,"mary kay",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+975,"انشور فلاور",onshore-flower,Onshore-Flower,https://evazar.ir/brand/onshore-flower/,/brand/onshore-flower/,onshore-flower,onshore-flower,no,not_checked,,15,15,no,1,source_not_verified
+978,هلادا,helada,Helada,https://evazar.ir/brand/helada/,,helada,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+980,بالنوم,balnom,BALNOM,https://evazar.ir/brand/balnom/,/brand/balnom/,balnom,balnom,no,not_checked,,7,7,no,1,source_not_verified
+982,لاواری,lavary,LAVARY,https://evazar.ir/brand/lavary/,/brand/lavary/,lavary,lavary,no,not_checked,,58,58,no,1,source_not_verified
+985,"روبی سیما",roobysima,roobysima,https://evazar.ir/brand/roobysima/,/brand/roobysima/,roobysima,roobysima,no,not_checked,,21,21,no,1,source_not_verified
+987,دیمیتر,dimiter,DIMITER,https://evazar.ir/brand/dimiter/,/brand/dimiter/,dimiter,dimiter,no,not_checked,,4,4,no,1,source_not_verified
+989,پنرول,pennroll,PENNROLL,https://evazar.ir/brand/pennroll/,,pennroll,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+992,سینره,cinere,Cinere,https://evazar.ir/brand/cinere/,,cinere,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+997,"این لی",inlay,Inlay,https://evazar.ir/brand/inlay/,/brand/inlay/,inlay,inlay,no,not_checked,,34,34,no,1,source_not_verified
+1000,بکا,bka,BKA,https://evazar.ir/brand/bka/,,bka,,no,not_checked,,34,34,no,1,source_not_verified|missing_source_url
+1003,"لاکچری فیس",luxury-face,"LUXURY FACE",https://evazar.ir/brand/luxury-face/,,"luxury face",,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+1009,"کالر کستل",color-castle,"color castle",https://evazar.ir/brand/color-castle/,,"color castle",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1013,آرت‌اسکین,artskin,Artskin,https://evazar.ir/brand/artskin/,/brand/artskin/,artskin,artskin,no,not_checked,,10,10,no,1,source_not_verified
+1015,لاگونا,laguna,LAGUNA,https://evazar.ir/brand/laguna/,,laguna,,no,not_checked,,11,11,no,1,source_not_verified|missing_source_url
+1017,ناوی,navi,navi,https://evazar.ir/brand/navi/,,navi,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1019,بله,bele,bele,https://evazar.ir/brand/bele/,,bele,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+1021,"سی گل",seagull,SeaGull,https://evazar.ir/brand/seagull/,,seagull,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1024,دیفکتو,defacto,Defacto,https://evazar.ir/brand/defacto/,/brand/defacto/,defacto,defacto,no,not_checked,,175,175,no,1,source_not_verified
+1026,رزآبی,rozabi,rozabi,https://evazar.ir/brand/rozabi/,,rozabi,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1030,"آرت دکو",artdeco,ArtDeco,https://evazar.ir/brand/artdeco/,/brand/artdeco/,artdeco,artdeco,no,not_checked,,34,34,no,1,source_not_verified
+1036,"دکتر راشل",dr-rashel,"dr rashel",https://evazar.ir/brand/dr-rashel/,,"dr rashel",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1038,ورشیپ,worship,worship,https://evazar.ir/brand/worship/,/brand/worship/,worship,worship,no,not_checked,,9,9,no,1,source_not_verified
+1041,"استودیو میکاپ",studiomakeup,Studiomakeup,https://evazar.ir/brand/studiomakeup/,,studiomakeup,,no,not_checked,,45,45,no,1,source_not_verified|missing_source_url
+1044,آدارز,adarose,ADAROSE,https://evazar.ir/brand/adarose/,,adarose,,no,not_checked,,14,14,no,1,source_not_verified|missing_source_url
+1047,"اسمایل پلاس",smileplus,Smileplus,https://evazar.ir/brand/smileplus/,/brand/smileplus/,smileplus,smileplus,no,not_checked,,4,4,no,1,source_not_verified
+1052,لافارر,la-farrerr,"La Farrerr",https://evazar.ir/brand/la-farrerr/,,"la farrerr",,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1054,کولمار,kolmar,Kolmar,https://evazar.ir/brand/kolmar/,,kolmar,,no,not_checked,,10,10,no,1,source_not_verified|missing_source_url
+1058,لگراند,legrand,Legrand,https://evazar.ir/brand/legrand/,,legrand,,no,not_checked,,29,29,no,1,source_not_verified|missing_source_url
+1060,"مالی ا او",maliao,maliao,https://evazar.ir/brand/maliao/,,maliao,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1065,کابرینی,kabarini,kabarini,https://evazar.ir/brand/kabarini/,,kabarini,,no,not_checked,,21,21,no,1,source_not_verified|missing_source_url
+1067,مویام,mooyam,mooyam,https://evazar.ir/brand/mooyam/,,mooyam,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1073,"گلد آنجل",gold-angle,"Gold Angle",https://evazar.ir/brand/gold-angle/,,"gold angle",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+1075,برانوس,branous,branous,https://evazar.ir/brand/branous/,/brand/branous/,branous,branous,no,not_checked,,29,29,no,1,source_not_verified
+1080,"گلدن لیدی",golden-lady,"Golden Lady",https://evazar.ir/brand/golden-lady/,,"golden lady",,no,not_checked,,9,9,no,1,source_not_verified|missing_source_url
+1084,پاستل,pastel,Pastel,https://evazar.ir/brand/pastel/,,pastel,,no,not_checked,,75,75,no,1,source_not_verified|missing_source_url
+1087,فارماسی,farmasi,Farmasi,https://evazar.ir/brand/farmasi/,,farmasi,,no,not_checked,,17,17,no,1,source_not_verified|missing_source_url
+1092,"مایا براون",maya-brown,"Maya brown",https://evazar.ir/brand/maya-brown/,,"maya brown",,no,not_checked,,18,18,no,1,source_not_verified|missing_source_url
+1097,تادو,tado,tado,https://evazar.ir/brand/tado/,/brand/tado/,tado,tado,no,not_checked,,7,7,no,1,source_not_verified
+1099,نوادا,nevada,Nevada,https://evazar.ir/brand/nevada/,,nevada,,no,not_checked,,10,10,no,1,source_not_verified|missing_source_url
+1102,کورمسیک,kormesic,kormesic,https://evazar.ir/brand/kormesic/,,kormesic,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+1105,لیاویتو,liavito,liavito,https://evazar.ir/brand/liavito/,,liavito,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+1113,استفانی,stephany,Stephany,https://evazar.ir/brand/stephany/,,stephany,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1117,"رویال مکس",royal-max,"Royal Max",https://evazar.ir/brand/royal-max/,,"royal max",,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+1120,درمالوگ,dermalog,dermalog,https://evazar.ir/brand/dermalog/,,dermalog,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1127,دبی,debby,Debby,https://evazar.ir/brand/debby/,,debby,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1129,وگنر,wagner,Wagner,https://evazar.ir/brand/wagner/,,wagner,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1131,تروکاور,true-cover,"True Cover",https://evazar.ir/brand/true-cover/,/brand/true-cover/,true-cover,true-cover,no,not_checked,,25,25,no,1,source_not_verified
+1133,نستور,nestor,Nestor,https://evazar.ir/brand/nestor/,,nestor,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+1135,اوراچی,orachi,Orachi,https://evazar.ir/brand/orachi/,/brand/orachi/,orachi,orachi,no,not_checked,,25,25,no,1,source_not_verified
+1138,مارال,maral,Maral,https://evazar.ir/brand/maral/,,maral,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1140,"لنسی بل",lancibell,lancibell,https://evazar.ir/brand/lancibell/,,lancibell,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1144,"آدور کوین",adorcoin,Adorcoin,https://evazar.ir/brand/adorcoin/,/brand/adorcoin/,adorcoin,adorcoin,no,not_checked,,6,6,no,1,source_not_verified
+1147,فانوما,fanoma,Fanoma,https://evazar.ir/brand/fanoma/,,fanoma,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+1150,"پارس سامین",pars-samin,"pars samin",https://evazar.ir/brand/pars-samin/,,"pars samin",,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1155,زویا,zoya,zoya,https://evazar.ir/brand/zoya/,,zoya,,no,not_checked,,23,23,no,1,source_not_verified|missing_source_url
+1157,آدور,ador,Ador,https://evazar.ir/brand/ador/,,ador,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1159,"لی لی نایت",lili-night,"Lili Night",https://evazar.ir/brand/lili-night/,,"lili night",,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+1164,لیلیوم,lilyum,LILYUM,https://evazar.ir/brand/lilyum/,,lilyum,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1167,ماجولان,majulan,Majulan,https://evazar.ir/brand/majulan/,/brand/majulan/,majulan,majulan,no,not_checked,,15,15,no,1,source_not_verified
+1169,"مارین رز",marinrose,"marin rose",https://evazar.ir/brand/marinrose/,/brand/marin-rose/,marin-rose,marin-rose,no,not_checked,,26,26,no,1,slug_differs_from_brand_en|source_not_verified
+1172,"ایزابل دپوینت",isabelle-dupont,"Isabelle Dupont",https://evazar.ir/brand/isabelle-dupont/,,"isabelle dupont",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1174,"دنی وان",dani-one,"Dani one",https://evazar.ir/brand/dani-one/,,"dani one",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1181,اوریفلیم,oriflame,Oriflame,https://evazar.ir/brand/oriflame/,/brand/oriflame/,oriflame,oriflame,no,not_checked,,4,4,no,1,source_not_verified
+1191,"ام سی الین",mcellyn,MCELLYN,https://evazar.ir/brand/mcellyn/,,mcellyn,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1199,"گلدن رس",golden-ross,"golden ross",https://evazar.ir/brand/golden-ross/,/brand/golden-ross/,golden-ross,golden-ross,no,not_checked,,18,18,no,1,source_not_verified
+1202,رنیتا,renita,Renita,https://evazar.ir/brand/renita/,/brand/renita/,renita,renita,no,not_checked,,9,9,no,1,source_not_verified
+1204,"ساریسا گلد",sarisa-gold,"Sarisa Gold",https://evazar.ir/brand/sarisa-gold/,,"sarisa gold",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+1206,آلیس,alice,Alice,https://evazar.ir/brand/alice/,,alice,,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+1208,کانفست,confest,Confest,https://evazar.ir/brand/confest/,,confest,,no,not_checked,,17,17,no,1,source_not_verified|missing_source_url
+1210,آردن,ardene,Ardene,https://evazar.ir/brand/ardene/,,ardene,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1212,"الیت اوراما",elite-orama,"elite orama",https://evazar.ir/brand/elite-orama/,/brand/elite-orama/,elite-orama,elite-orama,no,not_checked,,16,16,no,1,source_not_verified
+1215,وکالی,wokali,wokali,https://evazar.ir/brand/wokali/,,wokali,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1217,پرستیژ,prestige,Prestige,https://evazar.ir/brand/prestige/,,prestige,,no,not_checked,,27,27,no,1,source_not_verified|missing_source_url
+1219,پنسیا,penasea,PENACEA,https://evazar.ir/brand/penasea/,/brand/penacea/,penacea,penacea,no,not_checked,,19,19,no,1,slug_differs_from_brand_en|source_not_verified
+1221,ژیناژن,ginagen,ginagen,https://evazar.ir/brand/ginagen/,,ginagen,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1224,هاواستین,havastin,Havastin,https://evazar.ir/brand/havastin/,,havastin,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1226,درماتیپیک,dermatypique,DERMATYPIQUE,https://evazar.ir/brand/dermatypique/,,dermatypique,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1228,روروسی,rorosy,ROROSY,https://evazar.ir/brand/rorosy/,,rorosy,,no,not_checked,,12,12,no,1,source_not_verified|missing_source_url
+1232,مدیسان,medisun,Medisun,https://evazar.ir/brand/medisun/,,medisun,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1236,آنی,anny,ANNY,https://evazar.ir/brand/anny/,,anny,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1239,هرلیچ,herrlich,Herrlich,https://evazar.ir/brand/herrlich/,/brand/herrlich/,herrlich,herrlich,no,not_checked,,3,3,no,1,source_not_verified
+1241,گلویک,glowic,GLOWIC,https://evazar.ir/brand/glowic/,,glowic,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+1249,"پرو چیزا",pro-chizza,"pro chizza",https://evazar.ir/brand/pro-chizza/,,"pro chizza",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1251,"او تو او",o-two-o,o.two.o,https://evazar.ir/brand/o-two-o/,/brand/o-two-o/,o-two-o,o-two-o,no,not_checked,,41,41,no,1,source_not_verified
+1254,اوکاز,ocuz,OCUZ,https://evazar.ir/brand/ocuz/,,ocuz,,no,not_checked,,15,15,no,1,source_not_verified|missing_source_url
+1257,ویولا,viola,Viola,https://evazar.ir/brand/viola/,/brand/viola/,viola,viola,no,not_checked,,2,2,no,1,source_not_verified
+1260,ماردینی,mardini,Mardini,https://evazar.ir/brand/mardini/,/brand/mardini/,mardini,mardini,no,not_checked,,5,5,no,1,source_not_verified
+1262,اینووکس,inovox,Inovox,https://evazar.ir/brand/inovox/,,inovox,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+1265,سیترای,citray,Citray,https://evazar.ir/brand/citray/,,citray,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1267,"سین فونیا",sinfonia,SINFONIA,https://evazar.ir/brand/sinfonia/,/brand/sinfonia/,sinfonia,sinfonia,no,not_checked,,4,4,no,1,source_not_verified
+1271,"مینی استار",%d9%85%db%8c%d9%86%db%8c-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1,,https://evazar.ir/brand/%d9%85%db%8c%d9%86%db%8c-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1/,,,,no,not_checked,,5,5,no,1,missing_brand_en|source_not_verified|missing_source_url
+1273,ییژیلیان,yizhilian,yizhilian,https://evazar.ir/brand/yizhilian/,,yizhilian,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1275,وکالیست,vocalist,vocalist,https://evazar.ir/brand/vocalist/,,vocalist,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1279,دونادیا,donadia,Donadia,https://evazar.ir/brand/donadia/,/brand/donadia/,donadia,donadia,no,not_checked,,26,26,no,1,source_not_verified
+1286,استنلی,stanley,stanley,https://evazar.ir/brand/stanley/,/brand/stanley/,stanley,stanley,no,not_checked,,14,14,no,1,source_not_verified
+1292,استرانو,strano,Strano,https://evazar.ir/brand/strano/,/brand/strano/,strano,strano,no,not_checked,,4,4,no,1,source_not_verified
+1296,ولوکس,velux,Velux,https://evazar.ir/brand/velux/,/brand/velux/,velux,velux,no,not_checked,,8,8,no,1,source_not_verified
+1298,بونومیا,bonomia,Bonomia,https://evazar.ir/brand/bonomia/,/brand/bonomia/,bonomia,bonomia,no,not_checked,,6,6,no,1,source_not_verified
+1304,"فری لاو",free-love,"free love",https://evazar.ir/brand/free-love/,,"free love",,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1306,کانوالیو,kanvalio,kanvalio,https://evazar.ir/brand/kanvalio/,/brand/kanvalio/,kanvalio,kanvalio,no,not_checked,,8,8,no,1,source_not_verified
+1312,دوناروما,donnaroma,donnaroma,https://evazar.ir/brand/donnaroma/,/brand/donnaroma/,donnaroma,donnaroma,no,not_checked,,29,29,no,1,source_not_verified
+1314,"لاکچری کوین",luxury-coin,"luxury coin",https://evazar.ir/brand/luxury-coin/,/brand/luxury-coin/,luxury-coin,luxury-coin,no,not_checked,,28,28,no,1,source_not_verified
+1319,"ساین اسکین",synskin,synskin,https://evazar.ir/brand/synskin/,,synskin,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1321,"ريني فلاور",rainy-flower,"rainy flower",https://evazar.ir/brand/rainy-flower/,,"rainy flower",,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1325,ایزادورا,isadora,Isadora,https://evazar.ir/brand/isadora/,,isadora,,no,not_checked,,21,21,no,1,source_not_verified|missing_source_url
+1331,نوتریکا,notrika,notrika,https://evazar.ir/brand/notrika/,,notrika,,no,not_checked,,49,49,no,1,source_not_verified|missing_source_url
+1333,فلورمار,flormar,Flormar,https://evazar.ir/brand/flormar/,/brand/flormar/,flormar,flormar,no,not_checked,,72,72,no,1,source_not_verified
+1335,"اسکین وان",skin-one,"SKIN ONE",https://evazar.ir/brand/skin-one/,,"skin one",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1337,ژنوبایوتیک,genobiotic,Genobiotic,https://evazar.ir/brand/genobiotic/,,genobiotic,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1349,چافل,chafful,CHAFFUL,https://evazar.ir/brand/chafful/,,chafful,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1361,"استار لوکس",star-lux,"Star lux",https://evazar.ir/brand/star-lux/,,"star lux",,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1364,"بارین بیوتی",barben-beuaty,"barben beuaty",https://evazar.ir/brand/barben-beuaty/,,"barben beuaty",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1366,"وت ان وایلد",wet-n-wild,"Wet N Wild",https://evazar.ir/brand/wet-n-wild/,,"wet n wild",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1374,فایتون,faeton,faeton,https://evazar.ir/brand/faeton/,/brand/faeton/,faeton,faeton,no,not_checked,,16,16,no,1,source_not_verified
+1385,آگیس,agiss,Agiss,https://evazar.ir/brand/agiss/,,agiss,,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+1389,"روبی سان",rubisun,RUBISUN,https://evazar.ir/brand/rubisun/,,rubisun,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1392,لاماسو,lamassu,lamassu,https://evazar.ir/brand/lamassu/,,lamassu,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1397,"مکسی بل",maxi-bell,"Maxi Bell",https://evazar.ir/brand/maxi-bell/,,"maxi bell",,no,not_checked,,23,23,no,1,source_not_verified|missing_source_url
+1399,امبریولیس,embryolisse,embryolisse,https://evazar.ir/brand/embryolisse/,,embryolisse,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1403,وییولت,violet,Violet,https://evazar.ir/brand/violet/,,violet,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1405,فولیسنس,folisense,Folisense,https://evazar.ir/brand/folisense/,,folisense,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1407,دوفاری,dofari,DOFARI,https://evazar.ir/brand/dofari/,,dofari,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1411,"موآ میکاپ آکادمی",mua-makeup-academy,"Mua makeup academy",https://evazar.ir/brand/mua-makeup-academy/,,"mua makeup academy",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1416,"بی بیوتی",bee-beauty,"Bee Beauty",https://evazar.ir/brand/bee-beauty/,/brand/bee-beauty/,bee-beauty,bee-beauty,no,not_checked,,17,17,no,1,source_not_verified
+1418,فرانسیس,francis,Francis,https://evazar.ir/brand/francis/,/brand/francis/,francis,francis,no,not_checked,,16,16,no,1,source_not_verified
+1423,"نو آکنه",no-acne,"No Acne",https://evazar.ir/brand/no-acne/,/brand/no-acne/,no-acne,no-acne,no,not_checked,,2,2,no,1,source_not_verified
+1430,دیوستا,divesta,Divesta,https://evazar.ir/brand/divesta/,,divesta,,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+1432,رومینا,romina,Romina,https://evazar.ir/brand/romina/,,romina,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1434,دلگان,delgan,Delgan,https://evazar.ir/brand/delgan/,,delgan,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1436,ایلماز,ielmaaz,IELMAAZ,https://evazar.ir/brand/ielmaaz/,,ielmaaz,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1440,بیولیس,beaulis,Beaulis,https://evazar.ir/brand/beaulis/,,beaulis,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1442,"پرنسس لیدی",princess-lady,"princess lady",https://evazar.ir/brand/princess-lady/,,"princess lady",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+1444,بوته,bote,bote,https://evazar.ir/brand/bote/,,bote,,no,not_checked,,14,14,no,1,source_not_verified|missing_source_url
+1446,"بیو استار",bio-star,"bio star",https://evazar.ir/brand/bio-star/,,"bio star",,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+1451,"بلک نارس",black-nars,"BLACK NARS",https://evazar.ir/brand/black-nars/,,"black nars",,no,not_checked,,24,24,no,1,source_not_verified|missing_source_url
+1455,ردیست,redist,Redist,https://evazar.ir/brand/redist/,,redist,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1460,آنتفیکس,antefix,antefix,https://evazar.ir/brand/antefix/,,antefix,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1462,اشتون,ashton,ASHTON,https://evazar.ir/brand/ashton/,/brand/ashton/,ashton,ashton,no,not_checked,,17,17,no,1,source_not_verified
+1466,"دایانا آف لاندن",diana-of-london,"Diana Of London",https://evazar.ir/brand/diana-of-london/,,"diana of london",,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+1470,ورونا,verona,Verona,https://evazar.ir/brand/verona/,,verona,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1472,رزادو,rozado,ROZADO,https://evazar.ir/brand/rozado/,,rozado,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1475,دایانان,dayanan,DAYANAN,https://evazar.ir/brand/dayanan/,,dayanan,,no,not_checked,,5,5,no,1,source_not_verified|missing_source_url
+1479,"کیو وای اچ",q-y-h,"Q Y H",https://evazar.ir/brand/q-y-h/,,"q y h",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1488,لاناکین,lanacanae,Lanacanae,https://evazar.ir/brand/lanacanae/,/brand/lanacanae/,lanacanae,lanacanae,no,not_checked,,4,4,no,1,source_not_verified
+1501,برتی,bereti,Bereti,https://evazar.ir/brand/bereti/,,bereti,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1508,دلیا,delia,delia,https://evazar.ir/brand/delia/,/brand/delia/,delia,delia,no,not_checked,,6,6,no,1,source_not_verified
+1510,دزیره,desiree,DESIREE,https://evazar.ir/brand/desiree/,,desiree,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1513,"فیوچر میکاپ",future-makeup,"FUTURE MAKEUP",https://evazar.ir/brand/future-makeup/,/brand/future-makeup/,future-makeup,future-makeup,no,not_checked,,9,9,no,1,source_not_verified
+1515,کوزارت,cosart,Cosart,https://evazar.ir/brand/cosart/,/brand/cosart/,cosart,cosart,no,not_checked,,15,15,no,1,source_not_verified
+1519,پیزاول,pizavel,pizavel,https://evazar.ir/brand/pizavel/,,pizavel,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1521,مریدا,merida,Merida,https://evazar.ir/brand/merida/,,merida,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1528,شیگلم,sheglam,Sheglam,https://evazar.ir/brand/sheglam/,/brand/sheglam/,sheglam,sheglam,no,not_checked,,311,311,no,1,source_not_verified
+1530,اسنس,essence,Essence,https://evazar.ir/brand/essence/,/brand/essence/,essence,essence,no,not_checked,,10,10,no,1,source_not_verified
+1545,رامل,ramel,RAMEL,https://evazar.ir/brand/ramel/,,ramel,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1547,"تاپ فیس",topface,topface,https://evazar.ir/brand/topface/,/brand/topface/,topface,topface,no,not_checked,,111,111,no,1,source_not_verified
+1549,"سیمالی استار",simali-star,"Simali Star",https://evazar.ir/brand/simali-star/,,"simali star",,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1554,"للوناسی بیوتی",la-lunaci-beauty,"la lunaci beauty",https://evazar.ir/brand/la-lunaci-beauty/,/brand/la-lunaci-beauty/,la-lunaci-beauty,la-lunaci-beauty,no,not_checked,,19,19,no,1,source_not_verified
+1558,"فلاور بامب",flower-bomb,"Flower Bomb",https://evazar.ir/brand/flower-bomb/,,"flower bomb",,no,not_checked,,7,7,no,1,source_not_verified|missing_source_url
+1565,میبلین,maybelline,Maybelline,https://evazar.ir/brand/maybelline/,/brand/maybelline/,maybelline,maybelline,no,not_checked,,67,67,no,1,source_not_verified
+1572,"فوراور فیفتی تو",forever-fifty-two,"Forever fifty two",https://evazar.ir/brand/forever-fifty-two/,/brand/forever-fifty-two/,forever-fifty-two,forever-fifty-two,no,not_checked,,27,27,no,1,source_not_verified
+1577,بیترلینگ,bitterling,Bitterling,https://evazar.ir/brand/bitterling/,/brand/bitterling/,bitterling,bitterling,no,not_checked,,13,13,no,1,source_not_verified
+1579,زاو,zao,Zao,https://evazar.ir/brand/zao/,/brand/zao/,zao,zao,no,not_checked,,51,51,no,1,source_not_verified
+1587,مینیسو,miniso,Miniso,https://evazar.ir/brand/miniso/,/brand/miniso/,miniso,miniso,no,not_checked,,8,8,no,1,source_not_verified
+1589,آموتیا,amutiya,Amutiya,https://evazar.ir/brand/amutiya/,/brand/amutiya/,amutiya,amutiya,no,not_checked,,42,42,no,1,source_not_verified
+1593,"دنیل لورا",daniel-laura,"Daniel Laura",https://evazar.ir/brand/daniel-laura/,,"daniel laura",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1600,دبورا,deborah,Deborah,https://evazar.ir/brand/deborah/,/brand/deborah/,deborah,deborah,no,not_checked,,22,22,no,1,source_not_verified
+1603,نوبا,nouba,Nouba,https://evazar.ir/brand/nouba/,,nouba,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1609,تکنیک,technic,Technic,https://evazar.ir/brand/technic/,,technic,,no,not_checked,,2,2,no,1,source_not_verified|missing_source_url
+1615,اولاین,eveline,Eveline,https://evazar.ir/brand/eveline/,/brand/eveline/,eveline,eveline,no,not_checked,,4,4,no,1,source_not_verified
+1626,کاسماتیس,cosmetisse,Cosmetisse,https://evazar.ir/brand/cosmetisse/,,cosmetisse,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1629,"بویزن بریز",boysn-berries,"Boys'n Berries",https://evazar.ir/brand/boysn-berries/,,"boys'n berries",,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1640,بورژوآ,bourjois,Bourjois,https://evazar.ir/brand/bourjois/,/brand/bourjois/,bourjois,bourjois,no,not_checked,,34,34,no,1,source_not_verified
+1642,کاتریس,catrice,Catrice,https://evazar.ir/brand/catrice/,/brand/catrice/,catrice,catrice,no,not_checked,,16,16,no,1,source_not_verified
+1646,"مپ بوته",map-beaute,"Map Beaute",https://evazar.ir/brand/map-beaute/,/brand/map-beaute/,map-beaute,map-beaute,no,not_checked,,49,49,no,1,source_not_verified
+1648,"رر بیوتی",rare-beauty,"Rare Beauty",https://evazar.ir/brand/rare-beauty/,/brand/rare-beauty/,rare-beauty,rare-beauty,no,not_checked,,26,26,no,1,source_not_verified
+1651,گریس,grace,Grace,https://evazar.ir/brand/grace/,/brand/grace/,grace,grace,no,not_checked,,29,29,no,1,source_not_verified
+1653,لورآل,loreal,L'Oréal,https://evazar.ir/brand/loreal/,/brand/loreal/,loreal,loreal,no,not_checked,,45,45,no,1,source_not_verified
+1656,"ال رو ئل",elroel,elroel,https://evazar.ir/brand/elroel/,,elroel,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1659,گارنیه,garnier,Garnier,https://evazar.ir/brand/garnier/,/brand/garnier/,garnier,garnier,no,not_checked,,8,8,no,1,source_not_verified
+1661,"مای میکاپ استوری",my-makeup-story,"My makeup story",https://evazar.ir/brand/my-makeup-story/,/brand/my-makeup-story/,my-makeup-story,my-makeup-story,no,not_checked,,30,30,no,1,source_not_verified
+1671,تیرتیر,tirtir,Tirtir,https://evazar.ir/brand/tirtir/,/brand/tirtir/,tirtir,tirtir,no,not_checked,,29,29,no,1,source_not_verified
+1677,اوتی,ottie,Ottie,https://evazar.ir/brand/ottie/,,ottie,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1681,رولوشن,revolution,Revolution,https://evazar.ir/brand/revolution/,/brand/revolution/,revolution,revolution,no,not_checked,,8,8,no,1,source_not_verified
+1684,"دکتر. جی تونا",dr-c-tuna,Dr.C.Tuna,https://evazar.ir/brand/dr-c-tuna/,,dr.c.tuna,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1692,"فارم استی",farm-stay,"Farm Stay",https://evazar.ir/brand/farm-stay/,/brand/farm-stay/,farm-stay,farm-stay,no,not_checked,,5,5,no,1,source_not_verified
+1694,"تاپ لیدو",top-lido,"Top Lido",https://evazar.ir/brand/top-lido/,/brand/top-lido/,top-lido,top-lido,no,not_checked,,44,44,no,1,source_not_verified
+1696,درمایونیک,dermaunique,DERMAUNIQUE,https://evazar.ir/brand/dermaunique/,/brand/dermaunique/,dermaunique,dermaunique,no,not_checked,,3,3,no,1,source_not_verified
+1704,نیکس,nyx,Nyx,https://evazar.ir/brand/nyx/,/brand/nyx/,nyx,nyx,no,not_checked,,10,10,no,1,source_not_verified
+1712,"کیکو میلانو",kiko-milano,"KIKO MILANO",https://evazar.ir/brand/kiko-milano/,/brand/kiko-milano/,kiko-milano,kiko-milano,no,not_checked,,29,29,no,1,source_not_verified
+1715,پایس,paese,Paese,https://evazar.ir/brand/paese/,/brand/paese/,paese,paese,no,not_checked,,9,9,no,1,source_not_verified
+1721,پیسو,piso,Piso,https://evazar.ir/brand/piso/,,piso,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1723,دامیثا,damisa,DAMISA,https://evazar.ir/brand/damisa/,/brand/damisa/,damisa,damisa,no,not_checked,,4,4,no,1,source_not_verified
+1733,شگلم,shglam,shglam,https://evazar.ir/brand/shglam/,,shglam,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1735,"الکس آوین",alix-avien,"Alix Avien",https://evazar.ir/brand/alix-avien/,,"alix avien",,no,not_checked,,6,6,no,1,source_not_verified|missing_source_url
+1743,"گلدن مود",golden-mood,"GOLDEN MOOD",https://evazar.ir/brand/golden-mood/,,"golden mood",,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1747,"لابلا جیوانی",la-bella-givani,"la bella givani",https://evazar.ir/brand/la-bella-givani/,/brand/la-bella-givani/,la-bella-givani,la-bella-givani,no,not_checked,,22,22,no,1,source_not_verified
+1749,ال.ای.گرل,l-a-girl,L.A.Girl,https://evazar.ir/brand/l-a-girl/,,l.a.girl,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1753,"فنتی بیوتی",fenty-beauty,"Fenty Beauty",https://evazar.ir/brand/fenty-beauty/,/brand/fenty-beauty/,fenty-beauty,fenty-beauty,no,not_checked,,6,6,no,1,source_not_verified
+1755,"بی یو",beyu,Beyu,https://evazar.ir/brand/beyu/,,beyu,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1757,اینوآر,inoar,inoar,https://evazar.ir/brand/inoar/,,inoar,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1769,"میکاپ فکتوری",makeup-factory,"Makeup Factory",https://evazar.ir/brand/makeup-factory/,/brand/makeup-factory/,makeup-factory,makeup-factory,no,not_checked,,13,13,no,1,source_not_verified
+1772,پیپا,pippa,Pippa,https://evazar.ir/brand/pippa/,/brand/pippa/,pippa,pippa,no,not_checked,,24,24,no,1,source_not_verified
+1775,"دی ام جی ام",dmgm,Dmgm,https://evazar.ir/brand/dmgm/,,dmgm,,no,not_checked,,4,4,no,1,source_not_verified|missing_source_url
+1780,میبا,miba,miba,https://evazar.ir/brand/miba/,,miba,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1782,کنلامکس,canellamax,Canellamax,https://evazar.ir/brand/canellamax/,,canellamax,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1784,لنکاور,lancover,Lancover,https://evazar.ir/brand/lancover/,,lancover,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1787,"وی دی ال",vdl,Vdl,https://evazar.ir/brand/vdl/,,vdl,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1795,"آی سودا",aysuda,Aysuda,https://evazar.ir/brand/aysuda/,,aysuda,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1797,دیور,dior,Dior,https://evazar.ir/brand/dior/,/brand/dior/,dior,dior,no,not_checked,,11,11,no,1,source_not_verified
+1802,گریماس,grimas,Grimas,https://evazar.ir/brand/grimas/,/brand/grimas/,grimas,grimas,no,not_checked,,3,3,no,1,source_not_verified
+1805,"شارلوت تیلبری",charlotte-tilbury,"Charlotte tilbury",https://evazar.ir/brand/charlotte-tilbury/,/brand/charlotte-tilbury/,charlotte-tilbury,charlotte-tilbury,no,not_checked,,22,22,no,1,source_not_verified
+1810,بایودرما,bioderma,Bioderma,https://evazar.ir/brand/bioderma/,,bioderma,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1812,ای.ال.اف,e-l-f,e.l.f.,https://evazar.ir/brand/e-l-f/,/brand/e-l-f/,e-l-f,e-l-f,no,not_checked,,23,23,no,1,source_not_verified
+1818,نوروا,noreva,Noreva,https://evazar.ir/brand/noreva/,,noreva,,no,not_checked,,3,3,no,1,source_not_verified|missing_source_url
+1822,اینگلوت,inglot,INGLOT,https://evazar.ir/brand/inglot/,,inglot,,no,not_checked,,1,1,no,1,source_not_verified|missing_source_url
+1832,پوپا,pupa,Pupa,https://evazar.ir/brand/pupa/,/brand/pupa/,pupa,pupa,no,not_checked,,5,5,no,1,source_not_verified
+1836,یورن,yorn,yorn,https://evazar.ir/brand/yorn/,/brand/yorn/,yorn,yorn,no,not_checked,,6,6,no,1,source_not_verified
+1843,دوو,daewoo,Daewoo,https://evazar.ir/brand/daewoo/,/brand/daewoo/,daewoo,daewoo,no,not_checked,,2,2,no,1,source_not_verified
+1850,کارکتر,character,character,https://evazar.ir/brand/character/,/brand/character/,character,character,no,not_checked,,4,4,no,1,source_not_verified
+1857,باربارابورت,barbara-bort,"BARBARA BORT",https://evazar.ir/brand/barbara-bort/,/brand/barbara-bort/,barbara-bort,barbara-bort,no,not_checked,,1,1,no,1,source_not_verified
+1860,"چارم کالر",charme-color,"charme color",https://evazar.ir/brand/charme-color/,/brand/charme-color/,charme-color,charme-color,no,not_checked,,2,2,no,1,source_not_verified
+1862,دبالم,the-balm,"The Balm",https://evazar.ir/brand/the-balm/,/brand/the-balm/,the-balm,the-balm,no,not_checked,,2,2,no,1,source_not_verified
+1866,ورسای,versai,Versai,https://evazar.ir/brand/versai/,/brand/versai/,versai,versai,no,not_checked,,3,3,no,1,source_not_verified
+1871,توفیسد,too-faced,"Too Faced",https://evazar.ir/brand/too-faced/,/brand/too-faced/,too-faced,too-faced,no,not_checked,,7,7,no,1,source_not_verified
+1873,پاینپل,pineapple,pineapple,https://evazar.ir/brand/pineapple/,/brand/pineapple/,pineapple,pineapple,no,not_checked,,8,8,no,1,source_not_verified
+1887,"سمپیور مینرالز",sampure-minerals,"SAMPURE MINERALS",https://evazar.ir/brand/sampure-minerals/,/brand/sampure-minerals/,sampure-minerals,sampure-minerals,no,not_checked,,28,28,no,1,source_not_verified
+1892,آرتیستا,artista,ARTISTA,https://evazar.ir/brand/artista/,/brand/artista/,artista,artista,no,not_checked,,9,9,no,1,source_not_verified
+1895,کارینا,carina,Carina,https://evazar.ir/brand/carina/,/brand/carina/,carina,carina,no,not_checked,,1,1,no,1,source_not_verified
+1899,"ناتاشا دنونا",natasha-denona,"Natasha Denona",https://evazar.ir/brand/natasha-denona/,/brand/natasha-denona/,natasha-denona,natasha-denona,no,not_checked,,1,1,no,1,source_not_verified
+1909,اُفرا,ofra,Ofra,https://evazar.ir/brand/ofra/,/brand/ofra/,ofra,ofra,no,not_checked,,2,2,no,1,source_not_verified
+1918,"میلک میکاپ",milk-makeup,"Milk makeup",https://evazar.ir/brand/milk-makeup/,/brand/milk-makeup/,milk-makeup,milk-makeup,no,not_checked,,1,1,no,1,source_not_verified
+1921,تارت,tarte,Tarte,https://evazar.ir/brand/tarte/,/brand/tarte/,tarte,tarte,no,not_checked,,25,25,no,1,source_not_verified
+1923,"فوراور بلوم",forever-bloom,"forever bloom",https://evazar.ir/brand/forever-bloom/,/brand/forever-bloom/,forever-bloom,forever-bloom,no,not_checked,,3,3,no,1,source_not_verified
+1925,نارس,nars,NARS,https://evazar.ir/brand/nars/,/brand/nars/,nars,nars,no,not_checked,,30,30,no,1,source_not_verified
+1928,بنفیت,benefit,Benefit,https://evazar.ir/brand/benefit/,/brand/benefit/,benefit,benefit,no,not_checked,,6,6,no,1,source_not_verified
+1933,مک,mac,MAC,https://evazar.ir/brand/mac/,/brand/mac/,mac,mac,no,not_checked,,6,6,no,1,source_not_verified
+1942,سیلور,silver,Silver,https://evazar.ir/brand/silver/,/brand/silver/,silver,silver,no,not_checked,,1,1,no,1,source_not_verified
+1947,"آر سی ام ای",rcma,RCMA,https://evazar.ir/brand/rcma/,/brand/rcma/,rcma,rcma,no,not_checked,,1,1,no,1,source_not_verified
+1950,مورفی,morphe,Morphe,https://evazar.ir/brand/morphe/,/brand/morphe/,morphe,morphe,no,not_checked,,1,1,no,1,source_not_verified
+1956,"میکاپ فور اور",make-up-for-ever,"Make Up For Ever",https://evazar.ir/brand/make-up-for-ever/,/brand/make-up-for-ever/,make-up-for-ever,make-up-for-ever,no,not_checked,,11,11,no,1,source_not_verified
+1958,شیسیدو,shiseido,Shiseido,https://evazar.ir/brand/shiseido/,/brand/shiseido/,shiseido,shiseido,no,not_checked,,4,4,no,1,source_not_verified
+1961,لایرن,lirene,lirene,https://evazar.ir/brand/lirene/,/brand/lirene/,lirene,lirene,no,not_checked,,2,2,no,1,source_not_verified
+1964,فرین,pherein,Pherein,https://evazar.ir/brand/pherein/,/brand/pherein/,pherein,pherein,no,not_checked,,1,1,no,1,source_not_verified
+1966,آناستازیا,anastasia,Anastasia,https://evazar.ir/brand/anastasia/,/brand/anastasia/,anastasia,anastasia,no,not_checked,,4,4,no,1,source_not_verified
+1970,"پولایت سوسایتی",polite-society,"polite society",https://evazar.ir/brand/polite-society/,/brand/polite-society/,polite-society,polite-society,no,not_checked,,1,1,no,1,source_not_verified
+1973,"استی لودر",estee-lauder,"Estee Lauder",https://evazar.ir/brand/estee-lauder/,/brand/estee-lauder/,estee-lauder,estee-lauder,no,not_checked,,21,21,no,1,source_not_verified
+1976,کلینیک,clinique,Clinique,https://evazar.ir/brand/clinique/,/brand/clinique/,clinique,clinique,no,not_checked,,1,1,no,1,source_not_verified
+1978,"اِربَن دیکِی",urban-decay,"Urban Decay",https://evazar.ir/brand/urban-decay/,/brand/urban-decay/,urban-decay,urban-decay,no,not_checked,,2,2,no,1,source_not_verified
+1985,گرلن,guerlain,Guerlain,https://evazar.ir/brand/guerlain/,/brand/guerlain/,guerlain,guerlain,no,not_checked,,2,2,no,1,source_not_verified
+1987,سفورا,sephora,Sephora,https://evazar.ir/brand/sephora/,/brand/sephora/,sephora,sephora,no,not_checked,,2,2,no,1,source_not_verified
+1992,شانل,chanel,Chanel,https://evazar.ir/brand/chanel/,/brand/chanel/,chanel,chanel,no,not_checked,,3,3,no,1,source_not_verified
+1994,تاچا,tatcha,Tatcha,https://evazar.ir/brand/tatcha/,/brand/tatcha/,tatcha,tatcha,no,not_checked,,2,2,no,1,source_not_verified
+1998,لامر,la-mer,"La Mer",https://evazar.ir/brand/la-mer/,/brand/la-mer/,la-mer,la-mer,no,not_checked,,3,3,no,1,source_not_verified
+2000,"بابی براون",bobbi-brown,"bobbi brown",https://evazar.ir/brand/bobbi-brown/,/brand/bobbi-brown/,bobbi-brown,bobbi-brown,no,not_checked,,1,1,no,1,source_not_verified
+2005,کلارنس,clarins,Clarins,https://evazar.ir/brand/clarins/,/brand/clarins/,clarins,clarins,no,not_checked,,1,1,no,1,source_not_verified
+2007,ببکو,bebeco,Bebeco,https://evazar.ir/brand/bebeco/,/brand/bebeco/,bebeco,bebeco,no,not_checked,,8,8,no,1,source_not_verified
+2010,ویکو,weeko,Vicco,https://evazar.ir/brand/weeko/,/brand/vicco/,vicco,vicco,no,not_checked,,22,22,no,1,slug_differs_from_brand_en|source_not_verified
+2017,لنزپک,lens-pack,"Lens Pack",https://evazar.ir/brand/lens-pack/,/brand/lens-pack/,lens-pack,lens-pack,no,not_checked,,1,1,no,1,source_not_verified
+2019,"اس ای وی",sev,SEV,https://evazar.ir/brand/sev/,/brand/sev/,sev,sev,no,not_checked,,1,1,no,1,source_not_verified
+2021,لتی,lottie,Lottie,https://evazar.ir/brand/lottie/,/brand/lottie/,lottie,lottie,no,not_checked,,1,1,no,1,source_not_verified
+2023,"سالن تک",salontech,SALONTECH,https://evazar.ir/brand/salontech/,/brand/salontech/,salontech,salontech,no,not_checked,,3,3,no,1,source_not_verified
+2025,استیون,estiven,Estiven,https://evazar.ir/brand/estiven/,/brand/estiven/,estiven,estiven,no,not_checked,,1,1,no,1,source_not_verified
+2027,رولن,rollan,Rollan,https://evazar.ir/brand/rollan/,/brand/rollan/,rollan,rollan,no,not_checked,,2,2,no,1,source_not_verified
+2031,لورنزو,lorenzo,Lorenzo,https://evazar.ir/brand/lorenzo/,/brand/lorenzo/,lorenzo,lorenzo,no,not_checked,,2,2,no,1,source_not_verified
+2038,پاشا,pasha,Pasha,https://evazar.ir/brand/pasha/,/brand/pasha/,pasha,pasha,no,not_checked,,2,2,no,1,source_not_verified
+2040,بیول,biol,Biol,https://evazar.ir/brand/biol/,/brand/biol/,biol,biol,no,not_checked,,1,1,no,1,source_not_verified
+2042,اپل,apple,Apple,https://evazar.ir/brand/apple/,/brand/apple/,apple,apple,no,not_checked,,1,1,no,1,source_not_verified
+2050,پایتخت,paytakht,paytakht,https://evazar.ir/brand/paytakht/,/brand/paytakht/,paytakht,paytakht,no,not_checked,,819,819,no,1,source_not_verified
+2052,برانت,brant,brant,https://evazar.ir/brand/brant/,/brand/brant/,brant,brant,no,not_checked,,395,395,no,1,source_not_verified
+2054,سیکس,six,six,https://evazar.ir/brand/six/,/brand/six/,six,six,no,not_checked,,258,258,no,1,source_not_verified
+2057,ژوپینگ,xuping,Xuping,https://evazar.ir/brand/xuping/,/brand/xuping/,xuping,xuping,no,not_checked,,1336,1336,no,1,source_not_verified
+2060,ماصرم,masarm,Masarm,https://evazar.ir/brand/masarm/,/brand/masarm/,masarm,masarm,no,not_checked,,146,146,no,1,source_not_verified
+2067,تاکر,takor,TAKOR,https://evazar.ir/brand/takor/,/brand/takor/,takor,takor,no,not_checked,,101,101,no,1,source_not_verified
+2070,"سلین کالا",celin-kala,"Celin Kala",https://evazar.ir/brand/celin-kala/,/brand/celin-kala/,celin-kala,celin-kala,no,not_checked,,38,38,no,1,source_not_verified
+2073,"آی جواهر",ijavaher,Ijavaher,https://evazar.ir/brand/ijavaher/,/brand/ijavaher/,ijavaher,ijavaher,no,not_checked,,273,273,no,1,source_not_verified
+2076,مانچو,mancho,Mancho,https://evazar.ir/brand/mancho/,/brand/mancho/,mancho,mancho,no,not_checked,,56,56,no,1,source_not_verified
+2079,"ترمه ۱",termeh-1,"Termeh 1",https://evazar.ir/brand/termeh-1/,/brand/termeh-1/,termeh-1,termeh-1,no,not_checked,,20,20,no,1,source_not_verified
+2081,"آلتین هنر بزازیان",altin-honar-bazazian,"Altin Honar Bazazian",https://evazar.ir/brand/altin-honar-bazazian/,/brand/altin-honar-bazazian/,altin-honar-bazazian,altin-honar-bazazian,no,not_checked,,80,80,no,1,source_not_verified
+2090,"دلنار گالری",delnar-gallery,"Delnar Gallery",https://evazar.ir/brand/delnar-gallery/,/brand/delnar-gallery/,delnar-gallery,delnar-gallery,no,not_checked,,115,115,no,1,source_not_verified
+2092,درسمن,dressmann,Dressmann,https://evazar.ir/brand/dressmann/,/brand/dressmann/,dressmann,dressmann,no,not_checked,,7,7,no,1,source_not_verified
+2094,والبوش,walbusch,walbusch,https://evazar.ir/brand/walbusch/,/brand/walbusch/,walbusch,walbusch,no,not_checked,,1,1,no,1,source_not_verified
+2100,"چرم عطارد",atarod-leather,"Atarod Leather",https://evazar.ir/brand/atarod-leather/,/brand/atarod-leather/,atarod-leather,atarod-leather,no,not_checked,,93,93,no,1,source_not_verified
+2102,"نگارستان نیلی",negarestan-nili,"Negarestan Nili",https://evazar.ir/brand/negarestan-nili/,/brand/negarestan-nili/,negarestan-nili,negarestan-nili,no,not_checked,,7,7,no,1,source_not_verified
+2104,"چرم آراهمراه",charm-arahamrah,"Charm AraHamrah",https://evazar.ir/brand/charm-arahamrah/,/brand/charm-arahamrah/,charm-arahamrah,charm-arahamrah,no,not_checked,,38,38,no,1,source_not_verified
+2106,"چرم دیاکو",diako-leather,"Diako Leather",https://evazar.ir/brand/diako-leather/,/brand/diako-leather/,diako-leather,diako-leather,no,not_checked,,11,11,no,1,source_not_verified
+2108,"فراز هنر",faraz-honar,"Faraz Honar",https://evazar.ir/brand/faraz-honar/,/brand/faraz-honar/,faraz-honar,faraz-honar,no,not_checked,,388,388,no,1,source_not_verified
+2110,"چرم نیاوران",niavaran-leather,"niavaran leather",https://evazar.ir/brand/niavaran-leather/,/brand/niavaran-leather/,niavaran-leather,niavaran-leather,no,not_checked,,6,6,no,1,source_not_verified
+2112,"چرم بارز",charm-barez,"CHARM BAREZ",https://evazar.ir/brand/charm-barez/,/brand/charm-barez/,charm-barez,charm-barez,no,not_checked,,201,201,no,1,source_not_verified
+2114,"چرم یلسان",yalsan-leather,"YALSAN LEATHER",https://evazar.ir/brand/yalsan-leather/,/brand/yalsan-leather/,yalsan-leather,yalsan-leather,no,not_checked,,154,154,no,1,source_not_verified
+2116,اشن,ocean,OCEAN,https://evazar.ir/brand/ocean/,/brand/ocean/,ocean,ocean,no,not_checked,,1,1,no,1,source_not_verified
+2121,"صنایع دستی اریسا",erisa-handicraft,"Erisa handicraft",https://evazar.ir/brand/erisa-handicraft/,/brand/erisa-handicraft/,erisa-handicraft,erisa-handicraft,no,not_checked,,9,9,no,1,source_not_verified
+2123,منط,mante,mante,https://evazar.ir/brand/mante/,/brand/mante/,mante,mante,no,not_checked,,147,147,no,1,source_not_verified
+2125,"چرم زانکو",zanko-leather,"Zanko Leather",https://evazar.ir/brand/zanko-leather/,/brand/zanko-leather/,zanko-leather,zanko-leather,no,not_checked,,20,20,no,1,source_not_verified
+2127,کایرا,kaira,kaira,https://evazar.ir/brand/kaira/,/brand/kaira/,kaira,kaira,no,not_checked,,1,1,no,1,source_not_verified
+2129,"چرم آرا",charmara,Charmara,https://evazar.ir/brand/charmara/,/brand/charmara/,charmara,charmara,no,not_checked,,34,34,no,1,source_not_verified
+2131,"آرمان چرم",armanleather,Armanleather,https://evazar.ir/brand/armanleather/,/brand/armanleather/,armanleather,armanleather,no,not_checked,,28,28,no,1,source_not_verified
+2133,"پارینه چرم",parineh-charm,"Parineh Charm",https://evazar.ir/brand/parineh-charm/,/brand/parineh-charm/,parineh-charm,parineh-charm,no,not_checked,,25,25,no,1,source_not_verified
+2137,"دیجی استایل اسنشیال",digistyle-essentials,"Digistyle Essentials",https://evazar.ir/brand/digistyle-essentials/,/brand/digistyle-essentials/,digistyle-essentials,digistyle-essentials,no,not_checked,,5,5,no,1,source_not_verified
+2139,"ایزی دو",easydo,Easydo,https://evazar.ir/brand/easydo/,/brand/easydo/,easydo,easydo,no,not_checked,,4,4,no,1,source_not_verified
+2141,باینت,baynet,Baynet,https://evazar.ir/brand/baynet/,/brand/baynet/,baynet,baynet,no,not_checked,,34,34,no,1,source_not_verified
+2143,سارزی,sarzi,Sarzi,https://evazar.ir/brand/sarzi/,/brand/sarzi/,sarzi,sarzi,no,not_checked,,21,21,no,1,source_not_verified
+2145,تکنیک+07,technic07,Technic+07,https://evazar.ir/brand/technic07/,/brand/technic07/,technic07,technic07,no,not_checked,,29,29,no,1,source_not_verified
+2147,"تریکو پاییزان",terico-paeizan,"terico paeizan",https://evazar.ir/brand/terico-paeizan/,/brand/terico-paeizan/,terico-paeizan,terico-paeizan,no,not_checked,,8,8,no,1,source_not_verified
+2149,زاناما,%d8%b2%d8%a7%d9%86%d8%a7%d9%85%d8%a7,,https://evazar.ir/brand/%d8%b2%d8%a7%d9%86%d8%a7%d9%85%d8%a7/,,,,no,not_checked,,6,6,no,1,missing_brand_en|source_not_verified|missing_source_url
+2151,کراس,keras,keras,https://evazar.ir/brand/keras/,/brand/keras/,keras,keras,no,not_checked,,2,2,no,1,source_not_verified
+2154,"آریان نخ باف",arian-nakh-baf,"Arian Nakh Baf",https://evazar.ir/brand/arian-nakh-baf/,/brand/arian-nakh-baf/,arian-nakh-baf,arian-nakh-baf,no,not_checked,,73,73,no,1,source_not_verified
+2156,"نوزده نودیک",1991,1991,https://evazar.ir/brand/1991/,/brand/1991/,1991,1991,no,not_checked,,9,9,no,1,source_not_verified
+2158,"ال سی وایکیکی",lc-waikiki,"LC Waikiki",https://evazar.ir/brand/lc-waikiki/,/brand/lc-waikiki/,lc-waikiki,lc-waikiki,no,not_checked,,237,237,no,1,source_not_verified
+2160,پیرمور,pirmor,PIRMOR,https://evazar.ir/brand/pirmor/,/brand/pirmor/,pirmor,pirmor,no,not_checked,,4,4,no,1,source_not_verified
+2162,"ام کی",mk,MK,https://evazar.ir/brand/mk/,/brand/mk/,mk,mk,no,not_checked,,19,19,no,1,source_not_verified
+2164,توریور,toriver,Toriver,https://evazar.ir/brand/toriver/,/brand/toriver/,toriver,toriver,no,not_checked,,2,2,no,1,source_not_verified
+2166,آریوان,arivan,Arivan,https://evazar.ir/brand/arivan/,/brand/arivan/,arivan,arivan,no,not_checked,,3,3,no,1,source_not_verified
+2168,لالکس,lalex,LALEX,https://evazar.ir/brand/lalex/,/brand/lalex/,lalex,lalex,no,not_checked,,10,10,no,1,source_not_verified
+2170,کروم,corum,CORUM,https://evazar.ir/brand/corum/,/brand/corum/,corum,corum,no,not_checked,,32,32,no,1,source_not_verified
+2172,پیتایا,pitaya,pitaya,https://evazar.ir/brand/pitaya/,/brand/pitaya/,pitaya,pitaya,no,not_checked,,1,1,no,1,source_not_verified
+2174,هومنیتی,whomanity,Whomanity,https://evazar.ir/brand/whomanity/,/brand/whomanity/,whomanity,whomanity,no,not_checked,,14,14,no,1,source_not_verified
+2176,مالدینی,maldini,Maldini,https://evazar.ir/brand/maldini/,/brand/maldini/,maldini,maldini,no,not_checked,,68,68,no,1,source_not_verified
+2178,تاپیک,topick,Topick,https://evazar.ir/brand/topick/,/brand/topick/,topick,topick,no,not_checked,,12,12,no,1,source_not_verified
+2181,افراتین,afratin,Afratin,https://evazar.ir/brand/afratin/,/brand/afratin/,afratin,afratin,no,not_checked,,2,2,no,1,source_not_verified
+2183,ریباک,reebok,Reebok,https://evazar.ir/brand/reebok/,/brand/reebok/,reebok,reebok,no,not_checked,,86,86,no,1,source_not_verified
+2185,"جامه پوش آرا",jame-poosh-ara,"Jame Poosh Ara",https://evazar.ir/brand/jame-poosh-ara/,/brand/jame-poosh-ara/,jame-poosh-ara,jame-poosh-ara,no,not_checked,,1,1,no,1,source_not_verified
+2187,"کانی راش",kani-rush,"Kani Rush",https://evazar.ir/brand/kani-rush/,/brand/kani-rush/,kani-rush,kani-rush,no,not_checked,,1,1,no,1,source_not_verified
+2189,"سین سی",sinsay,sinsay,https://evazar.ir/brand/sinsay/,/brand/sinsay/,sinsay,sinsay,no,not_checked,,2,2,no,1,source_not_verified
+2191,لیورجی,livergy,Livergy,https://evazar.ir/brand/livergy/,/brand/livergy/,livergy,livergy,no,not_checked,,31,31,no,1,source_not_verified
+2193,"جوتی جینز",jooti-jeans,"Jooti jeans",https://evazar.ir/brand/jooti-jeans/,/brand/jooti-jeans/,jooti-jeans,jooti-jeans,no,not_checked,,16,16,no,1,source_not_verified
+2194,پولو,polo,Polo,https://evazar.ir/brand/polo/,/brand/polo/,polo,polo,no,not_checked,,5,5,no,1,source_not_verified
+2196,اس.اولیور,s-oliver,S.Oliver,https://evazar.ir/brand/s-oliver/,/brand/s-oliver/,s-oliver,s-oliver,no,not_checked,,4,4,no,1,source_not_verified
+2198,کلمبیا,columbia,Columbia,https://evazar.ir/brand/columbia/,/brand/columbia/,columbia,columbia,no,not_checked,,11,11,no,1,source_not_verified
+2200,"یو اس پولو",us-polo,"US POLO",https://evazar.ir/brand/us-polo/,/brand/us-polo/,us-polo,us-polo,no,not_checked,,13,13,no,1,source_not_verified
+2202,پير1,pier1,PIER1,https://evazar.ir/brand/pier1/,/brand/pier1/,pier1,pier1,no,not_checked,,1,1,no,1,source_not_verified
+2204,"یو اس گرند پولو",us-grand-polo,"US Grand Polo",https://evazar.ir/brand/us-grand-polo/,/brand/us-grand-polo/,us-grand-polo,us-grand-polo,no,not_checked,,1,1,no,1,source_not_verified
+2206,آدیداس,adidas,Adidas,https://evazar.ir/brand/adidas/,/brand/adidas/,adidas,adidas,no,not_checked,,152,152,no,1,source_not_verified
+2209,"رالف لورن",ralph-lauren,"Ralph Lauren",https://evazar.ir/brand/ralph-lauren/,/brand/ralph-lauren/,ralph-lauren,ralph-lauren,no,not_checked,,2,2,no,1,source_not_verified
+2211,تیمبرلند,timberland,Timberland,https://evazar.ir/brand/timberland/,/brand/timberland/,timberland,timberland,no,not_checked,,3,3,no,1,source_not_verified
+2213,"اسپرینگ فیلد",springfield,Springfield,https://evazar.ir/brand/springfield/,/brand/springfield/,springfield,springfield,no,not_checked,,3,3,no,1,source_not_verified
+2215,اسپیور,espiur,Espiur,https://evazar.ir/brand/espiur/,/brand/espiur/,espiur,espiur,no,not_checked,,1,1,no,1,source_not_verified
+2217,روگاچی,rugatchi,Rugatchi,https://evazar.ir/brand/rugatchi/,/brand/rugatchi/,rugatchi,rugatchi,no,not_checked,,2,2,no,1,source_not_verified
+2219,"جین وست",jeanswest,jeanswest,https://evazar.ir/brand/jeanswest/,/brand/jeanswest/,jeanswest,jeanswest,no,not_checked,,11,11,no,1,source_not_verified
+2221,"پیر کاردین",pierre-cardin,"Pierre Cardin",https://evazar.ir/brand/pierre-cardin/,/brand/pierre-cardin/,pierre-cardin,pierre-cardin,no,not_checked,,2,2,no,1,source_not_verified
+2223,آلکات,alcott,alcott,https://evazar.ir/brand/alcott/,/brand/alcott/,alcott,alcott,no,not_checked,,1,1,no,1,source_not_verified
+2225,زیزیپ,zeezip,Zeezip,https://evazar.ir/brand/zeezip/,/brand/zeezip/,zeezip,zeezip,no,not_checked,,1,1,no,1,source_not_verified
+2227,دایورس,diverse,Diverse,https://evazar.ir/brand/diverse/,/brand/diverse/,diverse,diverse,no,not_checked,,1,1,no,1,source_not_verified
+2229,نایکی,nike,Nike,https://evazar.ir/brand/nike/,/brand/nike/,nike,nike,no,not_checked,,53,53,no,1,source_not_verified
+2231,برندس,brands,Brands,https://evazar.ir/brand/brands/,/brand/brands/,brands,brands,no,not_checked,,1,1,no,1,source_not_verified
+2233,"ایکس ساید",xside,xside,https://evazar.ir/brand/xside/,/brand/xside/,xside,xside,no,not_checked,,7,7,no,1,source_not_verified
+2235,مو,mo,M&O,https://evazar.ir/brand/mo/,/brand/mo/,mo,mo,no,not_checked,,93,93,no,1,source_not_verified
+2237,"دی اس دامات",dsdamat,dsdamat,https://evazar.ir/brand/dsdamat/,/brand/dsdamat/,dsdamat,dsdamat,no,not_checked,,1,1,no,1,source_not_verified
+2239,گس,guess,Guess,https://evazar.ir/brand/guess/,/brand/guess/,guess,guess,no,not_checked,,1,1,no,1,source_not_verified
+2241,کیگیلی,kigili,KIGILI,https://evazar.ir/brand/kigili/,/brand/kigili/,kigili,kigili,no,not_checked,,1,1,no,1,source_not_verified
+2243,بنتنر,bentner,bentner,https://evazar.ir/brand/bentner/,/brand/bentner/,bentner,bentner,no,not_checked,,4,4,no,1,source_not_verified
+2245,"کمپ دیوید",camp-david,"CAMP DAVID",https://evazar.ir/brand/camp-david/,/brand/camp-david/,camp-david,camp-david,no,not_checked,,4,4,no,1,source_not_verified
+2247,ساروچی,sarochi,Sarochi,https://evazar.ir/brand/sarochi/,/brand/sarochi/,sarochi,sarochi,no,not_checked,,1,1,no,1,source_not_verified
+2249,کورتفیل,cortefiel,Cortefiel,https://evazar.ir/brand/cortefiel/,/brand/cortefiel/,cortefiel,cortefiel,no,not_checked,,2,2,no,1,source_not_verified
+2251,"زاگرس پوش",zagros-poosh,"Zagros Poosh",https://evazar.ir/brand/zagros-poosh/,/brand/zagros-poosh/,zagros-poosh,zagros-poosh,no,not_checked,,2,2,no,1,source_not_verified
+2253,"برنو بنانی",bruno-banani,"Bruno Banani",https://evazar.ir/brand/bruno-banani/,/brand/bruno-banani/,bruno-banani,bruno-banani,no,not_checked,,4,4,no,1,source_not_verified
+2255,استارت,start,Start,https://evazar.ir/brand/start/,/brand/start/,start,start,no,not_checked,,11,11,no,1,source_not_verified
+2257,"تونی مونتانا",tony-montana,"tony montana",https://evazar.ir/brand/tony-montana/,/brand/tony-montana/,tony-montana,tony-montana,no,not_checked,,1,1,no,1,source_not_verified
+2259,سارک,sarak,sarak,https://evazar.ir/brand/sarak/,/brand/sarak/,sarak,sarak,no,not_checked,,6,6,no,1,source_not_verified
+2263,لیدل,lidl,lidl,https://evazar.ir/brand/lidl/,/brand/lidl/,lidl,lidl,no,not_checked,,3,3,no,1,source_not_verified
+2264,کرین,crane,Crane,https://evazar.ir/brand/crane/,/brand/crane/,crane,crane,no,not_checked,,4,4,no,1,source_not_verified
+2266,مارول,marvel,Marvel,https://evazar.ir/brand/marvel/,/brand/marvel/,marvel,marvel,no,not_checked,,1,1,no,1,source_not_verified
+2272,"آریا پارس",ariya-pars,"ARIYA PARS",https://evazar.ir/brand/ariya-pars/,/brand/ariya-pars/,ariya-pars,ariya-pars,no,not_checked,,3,3,no,1,source_not_verified
+2275,"شیرین جامه",shirin-jame,"shirin jame",https://evazar.ir/brand/shirin-jame/,/brand/shirin-jame/,shirin-jame,shirin-jame,no,not_checked,,2,2,no,1,source_not_verified
+2278,"بی نقش",binaghsh,BINAGHSH,https://evazar.ir/brand/binaghsh/,/brand/binaghsh/,binaghsh,binaghsh,no,not_checked,,10,10,no,1,source_not_verified
+2281,مادر,madar,Madar,https://evazar.ir/brand/madar/,/brand/madar/,madar,madar,no,not_checked,,9,9,no,1,source_not_verified
+2283,"هرمان نو",herman-no,"herman no",https://evazar.ir/brand/herman-no/,/brand/herman-no/,herman-no,herman-no,no,not_checked,,14,14,no,1,source_not_verified
+2285,زیگ,zig,Zig,https://evazar.ir/brand/zig/,/brand/zig/,zig,zig,no,not_checked,,6,6,no,1,source_not_verified
+2288,کریویت,crivit,Crivit,https://evazar.ir/brand/crivit/,/brand/crivit/,crivit,crivit,no,not_checked,,11,11,no,1,source_not_verified
+2290,یَل,yal,YAL,https://evazar.ir/brand/yal/,/brand/yal/,yal,yal,no,not_checked,,11,11,no,1,source_not_verified
+2294,اولسون,olson,olson,https://evazar.ir/brand/olson/,/brand/olson/,olson,olson,no,not_checked,,10,10,no,1,source_not_verified
+2296,الوج,eloj,Eloj,https://evazar.ir/brand/eloj/,/brand/eloj/,eloj,eloj,no,not_checked,,1,1,no,1,source_not_verified
+2300,جولس,jules,JULES,https://evazar.ir/brand/jules/,/brand/jules/,jules,jules,no,not_checked,,1,1,no,1,source_not_verified
+2302,"راک تریل",rocktrail,rocktrail,https://evazar.ir/brand/rocktrail/,/brand/rocktrail/,rocktrail,rocktrail,no,not_checked,,1,1,no,1,source_not_verified
+2304,"اچ اند ام",hm,H&M,https://evazar.ir/brand/hm/,/brand/hm/,hm,hm,no,not_checked,,7,7,no,1,source_not_verified
+2306,واتسونز,watsons,Watsons,https://evazar.ir/brand/watsons/,/brand/watsons/,watsons,watsons,no,not_checked,,1,1,no,1,source_not_verified
+2308,"کامن پیپل",common-people,"common people",https://evazar.ir/brand/common-people/,/brand/common-people/,common-people,common-people,no,not_checked,,1,1,no,1,source_not_verified
+2311,زارا,zara,Zara,https://evazar.ir/brand/zara/,/brand/zara/,zara,zara,no,not_checked,,9,9,no,1,source_not_verified
+2316,"آر اِن اِس",rns,RNS,https://evazar.ir/brand/rns/,/brand/rns/,rns,rns,no,not_checked,,3,3,no,1,source_not_verified
+2318,کچوا,quechua,Quechua,https://evazar.ir/brand/quechua/,/brand/quechua/,quechua,quechua,no,not_checked,,2,2,no,1,source_not_verified
+2320,پارکساید,parkside,parkside,https://evazar.ir/brand/parkside/,/brand/parkside/,parkside,parkside,no,not_checked,,10,10,no,1,source_not_verified
+2323,هکت,hackett,Hackett,https://evazar.ir/brand/hackett/,/brand/hackett/,hackett,hackett,no,not_checked,,1,1,no,1,source_not_verified
+2325,"مایکل کورس",michael-kors,"Michael Kors",https://evazar.ir/brand/michael-kors/,/brand/michael-kors/,michael-kors,michael-kors,no,not_checked,,3,3,no,1,source_not_verified
+2327,"جک اند جونز",jack-and-jones,"Jack and Jones",https://evazar.ir/brand/jack-and-jones/,/brand/jack-and-jones/,jack-and-jones,jack-and-jones,no,not_checked,,5,5,no,1,source_not_verified
+2329,سوپردرای,superdry,Superdry,https://evazar.ir/brand/superdry/,/brand/superdry/,superdry,superdry,no,not_checked,,3,3,no,1,source_not_verified
+2331,کانتکس,canttex,CANTTEX,https://evazar.ir/brand/canttex/,/brand/canttex/,canttex,canttex,no,not_checked,,1,1,no,1,source_not_verified
+2333,"بیر سورف بردز",bear-surfboards,"Bear Surfboards",https://evazar.ir/brand/bear-surfboards/,/brand/bear-surfboards/,bear-surfboards,bear-surfboards,no,not_checked,,1,1,no,1,source_not_verified
+2335,هامتو,humtto,Humtto,https://evazar.ir/brand/humtto/,/brand/humtto/,humtto,humtto,no,not_checked,,214,214,no,1,source_not_verified
+2339,یونیتی,uniti,Uniti,https://evazar.ir/brand/uniti/,/brand/uniti/,uniti,uniti,no,not_checked,,1,1,no,1,source_not_verified
+2341,ابسکو,abisko,ABISKO,https://evazar.ir/brand/abisko/,/brand/abisko/,abisko,abisko,no,not_checked,,1,1,no,1,source_not_verified
+2343,کیابی,kiabi,Kiabi,https://evazar.ir/brand/kiabi/,/brand/kiabi/,kiabi,kiabi,no,not_checked,,1,1,no,1,source_not_verified
+2345,"سون پون",seven-poon,"Seven Poon",https://evazar.ir/brand/seven-poon/,/brand/seven-poon/,seven-poon,seven-poon,no,not_checked,,1,1,no,1,source_not_verified
+2348,پبل,pebble,Pebble,https://evazar.ir/brand/pebble/,/brand/pebble/,pebble,pebble,no,not_checked,,1,1,no,1,source_not_verified
+2350,پپا,pepa,Pepa,https://evazar.ir/brand/pepa/,/brand/pepa/,pepa,pepa,no,not_checked,,1,1,no,1,source_not_verified
+2353,"آنکل سم",uncle-sam,"Uncle Sam",https://evazar.ir/brand/uncle-sam/,/brand/uncle-sam/,uncle-sam,uncle-sam,no,not_checked,,1,1,no,1,source_not_verified
+2355,"بیگ استار",big-star,"Big Star",https://evazar.ir/brand/big-star/,/brand/big-star/,big-star,big-star,no,not_checked,,1,1,no,1,source_not_verified
+2358,هنریسان,honarisun,honarisun,https://evazar.ir/brand/honarisun/,/brand/honarisun/,honarisun,honarisun,no,not_checked,,2,2,no,1,source_not_verified
+2361,"آی ام",i-am,"I am",https://evazar.ir/brand/i-am/,/brand/i-am/,i-am,i-am,no,not_checked,,253,253,no,1,source_not_verified
+2374,"شهرزنان کارآفرین بهاران",shahrezanane-karafarine-baharan,"shahrezanane karafarine baharan",https://evazar.ir/brand/shahrezanane-karafarine-baharan/,/brand/shahrezanane-karafarine-baharan/,shahrezanane-karafarine-baharan,shahrezanane-karafarine-baharan,no,not_checked,,4,4,no,1,source_not_verified
+2377,"چرم سینلی",sinli-leather,"Sinli leather",https://evazar.ir/brand/sinli-leather/,/brand/sinli-leather/,sinli-leather,sinli-leather,no,not_checked,,1,1,no,1,source_not_verified
+2380,"پری زاد",parizad,Parizad,https://evazar.ir/brand/parizad/,/brand/parizad/,parizad,parizad,no,not_checked,,8,8,no,1,source_not_verified
+2387,بومی,boomi,boomi,https://evazar.ir/brand/boomi/,/brand/boomi/,boomi,boomi,no,not_checked,,1,1,no,1,source_not_verified
+2393,کالینز,colins,Colins,https://evazar.ir/brand/colins/,/brand/colins/,colins,colins,no,not_checked,,32,32,no,1,source_not_verified
+2407,شوپا,shoe-pa,"Shoe pa",https://evazar.ir/brand/shoe-pa/,/brand/shoe-pa/,shoe-pa,shoe-pa,no,not_checked,,2,2,no,1,source_not_verified
+2409,لرد,lord,Lord,https://evazar.ir/brand/lord/,/brand/lord/,lord,lord,no,not_checked,,1,1,no,1,source_not_verified
+2412,"چرم آدمی",adami-leather,"Adami Leather",https://evazar.ir/brand/adami-leather/,/brand/adami-leather/,adami-leather,adami-leather,no,not_checked,,7,7,no,1,source_not_verified
+2414,"چرم مشهد",mashad-leather,"Mashad Leather",https://evazar.ir/brand/mashad-leather/,/brand/mashad-leather/,mashad-leather,mashad-leather,no,not_checked,,147,147,no,1,source_not_verified
+2416,ورنو,verno,VERNO,https://evazar.ir/brand/verno/,/brand/verno/,verno,verno,no,not_checked,,3,3,no,1,source_not_verified
+2419,اورز,orez,Orez,https://evazar.ir/brand/orez/,/brand/orez/,orez,orez,no,not_checked,,55,55,no,1,source_not_verified
+2421,صاد,saad,Saad,https://evazar.ir/brand/saad/,/brand/saad/,saad,saad,no,not_checked,,42,42,no,1,source_not_verified
+2423,کرمانی,kermani,Kermani,https://evazar.ir/brand/kermani/,/brand/kermani/,kermani,kermani,no,not_checked,,5,5,no,1,source_not_verified
+2425,"پویان گام پیام",poyan-gam-payam,"Poyan Gam Payam",https://evazar.ir/brand/poyan-gam-payam/,/brand/poyan-gam-payam/,poyan-gam-payam,poyan-gam-payam,no,not_checked,,30,30,no,1,source_not_verified
+2427,"چرم کروکو",croco-leather,"Croco Leather",https://evazar.ir/brand/croco-leather/,/brand/croco-leather/,croco-leather,croco-leather,no,not_checked,,17,17,no,1,source_not_verified
+2430,مونو,mono,MONO,https://evazar.ir/brand/mono/,/brand/mono/,mono,mono,no,not_checked,,31,31,no,1,source_not_verified
+2432,باس,boss,Boss,https://evazar.ir/brand/boss/,/brand/boss/,boss,boss,no,not_checked,,1,1,no,1,source_not_verified
+2435,"چرم درسا",dorsa,Dorsa,https://evazar.ir/brand/dorsa/,/brand/dorsa/,dorsa,dorsa,no,not_checked,,9,9,no,1,source_not_verified
+2438,"پول اند بیر",pull-bear,"Pull & Bear",https://evazar.ir/brand/pull-bear/,/brand/pull-bear/,pull-bear,pull-bear,no,not_checked,,4,4,no,1,source_not_verified
+2440,پاما,pama,PAMA,https://evazar.ir/brand/pama/,/brand/pama/,pama,pama,no,not_checked,,23,23,no,1,source_not_verified
+2442,"چرم آفتاب",aftableather,aftableather,https://evazar.ir/brand/aftableather/,/brand/aftableather/,aftableather,aftableather,no,not_checked,,12,12,no,1,source_not_verified
+2444,جورج,george,George,https://evazar.ir/brand/george/,/brand/george/,george,george,no,not_checked,,3,3,no,1,source_not_verified
+2446,شیفر,shifer,Shifer,https://evazar.ir/brand/shifer/,/brand/shifer/,shifer,shifer,no,not_checked,,8,8,no,1,source_not_verified
+2448,"نوین چرم",novin-leather,"Novin Leather",https://evazar.ir/brand/novin-leather/,/brand/novin-leather/,novin-leather,novin-leather,no,not_checked,,30,30,no,1,source_not_verified
+2450,"چرم تبریز",charm-tabriz,"CHARM TABRIZ",https://evazar.ir/brand/charm-tabriz/,/brand/charm-tabriz/,charm-tabriz,charm-tabriz,no,not_checked,,3,3,no,1,source_not_verified
+2452,"مارال چرم",maral-leather,"Maral Leather",https://evazar.ir/brand/maral-leather/,/brand/maral-leather/,maral-leather,maral-leather,no,not_checked,,4,4,no,1,source_not_verified
+2454,نیکلاس,nicolas,Nicolas,https://evazar.ir/brand/nicolas/,/brand/nicolas/,nicolas,nicolas,no,not_checked,,2,2,no,1,source_not_verified
+2459,"مامی دوز",mami-dooz,"Mami Dooz",https://evazar.ir/brand/mami-dooz/,/brand/mami-dooz/,mami-dooz,mami-dooz,no,not_checked,,27,27,no,1,source_not_verified
+2461,پالوته,paloote,PALOOTE,https://evazar.ir/brand/paloote/,/brand/paloote/,paloote,paloote,no,not_checked,,2,2,no,1,source_not_verified
+2463,ماییلدا,myilda,Myilda,https://evazar.ir/brand/myilda/,/brand/myilda/,myilda,myilda,no,not_checked,,5,5,no,1,source_not_verified
+2466,پندار,pendar,pendar,https://evazar.ir/brand/pendar/,/brand/pendar/,pendar,pendar,no,not_checked,,2,2,no,1,source_not_verified
+2471,اسد,asad,Asad,https://evazar.ir/brand/asad/,/brand/asad/,asad,asad,no,not_checked,,2,2,no,1,source_not_verified
+2474,"دل مد گروپ",delmod-group,"Delmod group",https://evazar.ir/brand/delmod-group/,/brand/delmod-group/,delmod-group,delmod-group,no,not_checked,,2,2,no,1,source_not_verified
+2477,"کینگ اگزیت اسپای",king-exit-spy,"KING EXIT SPY",https://evazar.ir/brand/king-exit-spy/,/brand/king-exit-spy/,king-exit-spy,king-exit-spy,no,not_checked,,2,2,no,1,source_not_verified
+2480,پانیل,panil,Panil,https://evazar.ir/brand/panil/,/brand/panil/,panil,panil,no,not_checked,,37,37,no,1,source_not_verified
+2487,ناربن,narbon,Narbon,https://evazar.ir/brand/narbon/,/brand/narbon/,narbon,narbon,no,not_checked,,1,1,no,1,source_not_verified
+2492,سیلکا,silka,Silka,https://evazar.ir/brand/silka/,/brand/silka/,silka,silka,no,not_checked,,27,27,no,1,source_not_verified
+2494,"تن پوش هنگامه",tan-posh-henghameh,"tan posh henghameh",https://evazar.ir/brand/tan-posh-henghameh/,/brand/tan-posh-henghameh/,tan-posh-henghameh,tan-posh-henghameh,no,not_checked,,45,45,no,1,source_not_verified
+2501,سلین,celine,Celine,https://evazar.ir/brand/celine/,/brand/celine/,celine,celine,no,not_checked,,48,48,no,1,source_not_verified
+2503,"آلبرت وگ",albert-vogue,"Albert Vogue",https://evazar.ir/brand/albert-vogue/,/brand/albert-vogue/,albert-vogue,albert-vogue,no,not_checked,,319,319,no,1,source_not_verified
+2505,"کروم هارتز",chrome-hearts,"Chrome Hearts",https://evazar.ir/brand/chrome-hearts/,/brand/chrome-hearts/,chrome-hearts,chrome-hearts,no,not_checked,,25,25,no,1,source_not_verified
+2507,"ترید ایی",third-eye,"Third eye",https://evazar.ir/brand/third-eye/,/brand/third-eye/,third-eye,third-eye,no,not_checked,,10,10,no,1,source_not_verified
+2509,"سرجیو مارتینی",sergio-martini,"Sergio Martini",https://evazar.ir/brand/sergio-martini/,/brand/sergio-martini/,sergio-martini,sergio-martini,no,not_checked,,35,35,no,1,source_not_verified
+2511,پلیس,police,POLICE,https://evazar.ir/brand/police/,/brand/police/,police,police,no,not_checked,,116,116,no,1,source_not_verified
+2514,"جورجیو ولنتی",giorgio-valenti,"Giorgio Valenti",https://evazar.ir/brand/giorgio-valenti/,/brand/giorgio-valenti/,giorgio-valenti,giorgio-valenti,no,not_checked,,65,65,no,1,source_not_verified
+2516,چارمنت,charment,CHARMENT,https://evazar.ir/brand/charment/,/brand/charment/,charment,charment,no,not_checked,,12,12,no,1,source_not_verified
+2518,زایس,zeiss,Zeiss,https://evazar.ir/brand/zeiss/,/brand/zeiss/,zeiss,zeiss,no,not_checked,,7,7,no,1,source_not_verified
+2521,"اتنیا بارسلونا",etnia-barcelona,"Etnia Barcelona",https://evazar.ir/brand/etnia-barcelona/,/brand/etnia-barcelona/,etnia-barcelona,etnia-barcelona,no,not_checked,,36,36,no,1,source_not_verified
+2524,"ری بن",ray-ban,"Ray Ban",https://evazar.ir/brand/ray-ban/,/brand/ray-ban/,ray-ban,ray-ban,no,not_checked,,637,637,no,1,source_not_verified
+2526,ماسائو,masao,Masao,https://evazar.ir/brand/masao/,/brand/masao/,masao,masao,no,not_checked,,3,3,no,1,source_not_verified
+2528,"رودن اشتوک",rodenstock,RODENSTOCK,https://evazar.ir/brand/rodenstock/,/brand/rodenstock/,rodenstock,rodenstock,no,not_checked,,60,60,no,1,source_not_verified
+2533,دیورسو,diverso,diverso,https://evazar.ir/brand/diverso/,/brand/diverso/,diverso,diverso,no,not_checked,,10,10,no,1,source_not_verified
+2535,اونلی,only,Only,https://evazar.ir/brand/only/,/brand/only/,only,only,no,not_checked,,1,1,no,1,source_not_verified
+2537,کاررا,carrera,Carrera,https://evazar.ir/brand/carrera/,/brand/carrera/,carrera,carrera,no,not_checked,,20,20,no,1,source_not_verified
+2539,"ویکتوریا بکهام",victoria-beckham,"Victoria Beckham",https://evazar.ir/brand/victoria-beckham/,/brand/victoria-beckham/,victoria-beckham,victoria-beckham,no,not_checked,,1,1,no,1,source_not_verified
+2542,مورل,morel,Morel,https://evazar.ir/brand/morel/,/brand/morel/,morel,morel,no,not_checked,,274,274,no,1,source_not_verified
+2544,"پورش دیزاین",porsche-design,"Porsche Design",https://evazar.ir/brand/porsche-design/,/brand/porsche-design/,porsche-design,porsche-design,no,not_checked,,24,24,no,1,source_not_verified
+2548,"تی بی دی",tbd,TBD,https://evazar.ir/brand/tbd/,/brand/tbd/,tbd,tbd,no,not_checked,,6,6,no,1,source_not_verified
+2550,میباخ,maybach,MAYBACH,https://evazar.ir/brand/maybach/,/brand/maybach/,maybach,maybach,no,not_checked,,37,37,no,1,source_not_verified
+2552,سیلوئت,silhouette,Silhouette,https://evazar.ir/brand/silhouette/,/brand/silhouette/,silhouette,silhouette,no,not_checked,,1,1,no,1,source_not_verified
+2554,ووگ,vogue,Vogue,https://evazar.ir/brand/vogue/,/brand/vogue/,vogue,vogue,no,not_checked,,2,2,no,1,source_not_verified
+2556,سواروسکی,swarovski,Swarovski,https://evazar.ir/brand/swarovski/,/brand/swarovski/,swarovski,swarovski,no,not_checked,,16,16,no,1,source_not_verified
+2558,زنیت,zenith,Zenith,https://evazar.ir/brand/zenith/,/brand/zenith/,zenith,zenith,no,not_checked,,13,13,no,1,source_not_verified
+2560,نکسا,nexa,Nexa,https://evazar.ir/brand/nexa/,/brand/nexa/,nexa,nexa,no,not_checked,,2,2,no,1,source_not_verified
+2562,تراست,trust,Trust,https://evazar.ir/brand/trust/,/brand/trust/,trust,trust,no,not_checked,,6,6,no,1,source_not_verified
+2564,سیکو,seiko,Seiko,https://evazar.ir/brand/seiko/,/brand/seiko/,seiko,seiko,no,not_checked,,2,2,no,1,source_not_verified
+2566,سوئینگ,swing,Swing,https://evazar.ir/brand/swing/,/brand/swing/,swing,swing,no,not_checked,,1,1,no,1,source_not_verified
+2568,گپ,gap,Gap,https://evazar.ir/brand/gap/,/brand/gap/,gap,gap,no,not_checked,,2,2,no,1,source_not_verified
+2571,تی-شارج,t_charge,T_CHARGE,https://evazar.ir/brand/t_charge/,,,,no,not_checked,,8,8,no,1,source_not_verified|missing_source_url
+2573,ایمپالا,impala,IMPALA,https://evazar.ir/brand/impala/,/brand/impala/,impala,impala,no,not_checked,,12,12,no,1,source_not_verified
+2575,"امپریو آرمانی",emporio-armani,"Emporio Armani",https://evazar.ir/brand/emporio-armani/,/brand/emporio-armani/,emporio-armani,emporio-armani,no,not_checked,,57,57,no,1,source_not_verified
+2577,"تام تیلور",tom-tailor,"Tom Tailor",https://evazar.ir/brand/tom-tailor/,/brand/tom-tailor/,tom-tailor,tom-tailor,no,not_checked,,5,5,no,1,source_not_verified
+2580,بالدسارینی,baldessarini,Baldessarini,https://evazar.ir/brand/baldessarini/,/brand/baldessarini/,baldessarini,baldessarini,no,not_checked,,1,1,no,1,source_not_verified
+2582,کامفورت,comfort,COMFORT,https://evazar.ir/brand/comfort/,/brand/comfort/,comfort,comfort,no,not_checked,,3,3,no,1,source_not_verified
+2586,"تیفانی اند کو",tiffany-co,"Tiffany & Co",https://evazar.ir/brand/tiffany-co/,/brand/tiffany-co/,tiffany-co,tiffany-co,no,not_checked,,14,14,no,1,source_not_verified
+2590,فلرت,flirt,Flirt,https://evazar.ir/brand/flirt/,/brand/flirt/,flirt,flirt,no,not_checked,,1,1,no,1,source_not_verified
+2592,"آنتونیو باندراس",antonio-banderas,"Antonio Banderas",https://evazar.ir/brand/antonio-banderas/,/brand/antonio-banderas/,antonio-banderas,antonio-banderas,no,not_checked,,15,15,no,1,source_not_verified
+2596,اونر,owner,Owner,https://evazar.ir/brand/owner/,/brand/owner/,owner,owner,no,not_checked,,1,1,no,1,source_not_verified
+2598,مارکولین,marcolin,marcolin,https://evazar.ir/brand/marcolin/,/brand/marcolin/,marcolin,marcolin,no,not_checked,,3,3,no,1,source_not_verified
+2601,ژوپ,joop,Joop,https://evazar.ir/brand/joop/,/brand/joop/,joop,joop,no,not_checked,,2,2,no,1,source_not_verified
+2602,اکسیژن,oxyjen,OXYJEN,https://evazar.ir/brand/oxyjen/,/brand/oxyjen/,oxyjen,oxyjen,no,not_checked,,2,2,no,1,source_not_verified
+2604,لوزا,lozza,Lozza,https://evazar.ir/brand/lozza/,/brand/lozza/,lozza,lozza,no,not_checked,,3,3,no,1,source_not_verified
+2606,استپر,stepper,stepper,https://evazar.ir/brand/stepper/,/brand/stepper/,stepper,stepper,no,not_checked,,1,1,no,1,source_not_verified
+2610,"آندر آرمور",under-armour,"Under Armour",https://evazar.ir/brand/under-armour/,/brand/under-armour/,under-armour,under-armour,no,not_checked,,8,8,no,1,source_not_verified
+2613,مکران,macran,Macran,https://evazar.ir/brand/macran/,/brand/macran/,macran,macran,no,not_checked,,56,56,no,1,source_not_verified
+2616,"ویکتور ویر",victor-wear,"Victor Wear",https://evazar.ir/brand/victor-wear/,/brand/victor-wear/,victor-wear,victor-wear,no,not_checked,,4,4,no,1,source_not_verified
+2624,"تن زیب",tanzib,TanZib,https://evazar.ir/brand/tanzib/,/brand/tanzib/,tanzib,tanzib,no,not_checked,,11,11,no,1,source_not_verified
+2626,"ایکس وودی",x-voody,"X VOODY",https://evazar.ir/brand/x-voody/,/brand/x-voody/,x-voody,x-voody,no,not_checked,,1,1,no,1,source_not_verified
+2633,"نیو بالانس",new-balance,"New Balance",https://evazar.ir/brand/new-balance/,/brand/new-balance/,new-balance,new-balance,no,not_checked,,11,11,no,1,source_not_verified
+2635,آلشپرت,uhlsport,Uhlsport,https://evazar.ir/brand/uhlsport/,/brand/uhlsport/,uhlsport,uhlsport,no,not_checked,,7,7,no,1,source_not_verified
+2637,"مل اند موژ",mel-and-moj,"Mel and Moj",https://evazar.ir/brand/mel-and-moj/,/brand/mel-and-moj/,mel-and-moj,mel-and-moj,no,not_checked,,2,2,no,1,source_not_verified
+2640,"بی فور ران",b-4-run,"B 4 Run",https://evazar.ir/brand/b-4-run/,/brand/b-4-run/,b-4-run,b-4-run,no,not_checked,,1,1,no,1,source_not_verified
+2655,آپ2فشن,up2fashion,up2fashion,https://evazar.ir/brand/up2fashion/,/brand/up2fashion/,up2fashion,up2fashion,no,not_checked,,1,1,no,1,source_not_verified
+2657,پاندورا,pandora,Pandora,https://evazar.ir/brand/pandora/,/brand/pandora/,pandora,pandora,no,not_checked,,19,19,no,1,source_not_verified
+2670,"فیلیپ پلین",philipp-plein,"Philipp plein",https://evazar.ir/brand/philipp-plein/,/brand/philipp-plein/,philipp-plein,philipp-plein,no,not_checked,,12,12,no,1,source_not_verified
+2678,بالنو,baleno,Baleno,https://evazar.ir/brand/baleno/,/brand/baleno/,baleno,baleno,no,not_checked,,1,1,no,1,source_not_verified
+2680,"هایکا hayka",hayka,Hayka,https://evazar.ir/brand/hayka/,/brand/hayka/,hayka,hayka,no,not_checked,,5021,5021,no,1,source_not_verified
+2685,چیاکو,chiaco,chiaco,https://evazar.ir/brand/chiaco/,/brand/chiaco/,chiaco,chiaco,no,not_checked,,15,15,no,1,source_not_verified
+2687,"361 درجه",361-degrees,"361 Degrees",https://evazar.ir/brand/361-degrees/,/brand/361-degrees/,361-degrees,361-degrees,no,not_checked,,47,47,no,1,source_not_verified
+2692,آرتان,artan,artan,https://evazar.ir/brand/artan/,/brand/artan/,artan,artan,no,not_checked,,8,8,no,1,source_not_verified
+2694,کوهسار,kouhsar,KOUHSAR,https://evazar.ir/brand/kouhsar/,/brand/kouhsar/,kouhsar,kouhsar,no,not_checked,,5,5,no,1,source_not_verified
+2696,موند,mund,Mund,https://evazar.ir/brand/mund/,/brand/mund/,mund,mund,no,not_checked,,5,5,no,1,source_not_verified
+2702,آلبی,albay,Albay,https://evazar.ir/brand/albay/,/brand/albay/,albay,albay,no,not_checked,,4,4,no,1,source_not_verified
+2704,پانیبو,paniboo,paniboo,https://evazar.ir/brand/paniboo/,/brand/paniboo/,paniboo,paniboo,no,not_checked,,4,4,no,1,source_not_verified
+2706,ادیب,adib,ADIB,https://evazar.ir/brand/adib/,/brand/adib/,adib,adib,no,not_checked,,1,1,no,1,source_not_verified
+2708,ماموت,mammut,Mammut,https://evazar.ir/brand/mammut/,/brand/mammut/,mammut,mammut,no,not_checked,,2,2,no,1,source_not_verified
+2710,نیچرهایک,naturehike,Naturehike,https://evazar.ir/brand/naturehike/,/brand/naturehike/,naturehike,naturehike,no,not_checked,,2,2,no,1,source_not_verified
+2713,کجال,kajal,Kajal,https://evazar.ir/brand/kajal/,/brand/kajal/,kajal,kajal,no,not_checked,,1,1,no,1,source_not_verified
+2715,دانلوپ,dunlop,Dunlop,https://evazar.ir/brand/dunlop/,/brand/dunlop/,dunlop,dunlop,no,not_checked,,1,1,no,1,source_not_verified
+2717,موتال,motal,motal,https://evazar.ir/brand/motal/,/brand/motal/,motal,motal,no,not_checked,,1,1,no,1,source_not_verified
+2719,"هورا مهر",hoora-mehr,"HOORA MEHR",https://evazar.ir/brand/hoora-mehr/,/brand/hoora-mehr/,hoora-mehr,hoora-mehr,no,not_checked,,3,3,no,1,source_not_verified
+2721,ویلسون,wilson,Wilson,https://evazar.ir/brand/wilson/,/brand/wilson/,wilson,wilson,no,not_checked,,1,1,no,1,source_not_verified
+2725,آرکتریکس,arcteryx,Arcteryx,https://evazar.ir/brand/arcteryx/,/brand/arcteryx/,arcteryx,arcteryx,no,not_checked,,1,1,no,1,source_not_verified
+2734,"شیراز سهند لیزر",shiraz-sahand-laser,"shiraz sahand laser",https://evazar.ir/brand/shiraz-sahand-laser/,/brand/shiraz-sahand-laser/,shiraz-sahand-laser,shiraz-sahand-laser,no,not_checked,,3,3,no,1,source_not_verified
+2736,"چرم بارثاوا",barsava-leather,"Barsava Leather",https://evazar.ir/brand/barsava-leather/,/brand/barsava-leather/,barsava-leather,barsava-leather,no,not_checked,,62,62,no,1,source_not_verified
+2739,"ناوک چرم",navak-charm,"navak charm",https://evazar.ir/brand/navak-charm/,/brand/navak-charm/,navak-charm,navak-charm,no,not_checked,,1,1,no,1,source_not_verified
+2741,"خانه چرم آنا",ana-leather-house,"ANA LEATHER HOUSE",https://evazar.ir/brand/ana-leather-house/,/brand/ana-leather-house/,ana-leather-house,ana-leather-house,no,not_checked,,16,16,no,1,source_not_verified
+2743,"تی سی توی",tctoy,TCToy,https://evazar.ir/brand/tctoy/,/brand/tctoy/,tctoy,tctoy,no,not_checked,,2,2,no,1,source_not_verified
+2746,رویامد,royamode,Royamode,https://evazar.ir/brand/royamode/,/brand/royamode/,royamode,royamode,no,not_checked,,7,7,no,1,source_not_verified
+2748,پارسوماش,parsomash,Parsomash,https://evazar.ir/brand/parsomash/,/brand/parsomash/,parsomash,parsomash,no,not_checked,,4,4,no,1,source_not_verified
+2750,"کهن چرم",kohan-charm,"Kohan Charm",https://evazar.ir/brand/kohan-charm/,/brand/kohan-charm/,kohan-charm,kohan-charm,no,not_checked,,4,4,no,1,source_not_verified
+2753,"دست نگار",dastnegar,Dastnegar,https://evazar.ir/brand/dastnegar/,/brand/dastnegar/,dastnegar,dastnegar,no,not_checked,,1,1,no,1,source_not_verified
+2755,کوچ,coach,Coach,https://evazar.ir/brand/coach/,/brand/coach/,coach,coach,no,not_checked,,4,4,no,1,source_not_verified
+2757,کارپینوس,carpinus,Carpinus,https://evazar.ir/brand/carpinus/,/brand/carpinus/,carpinus,carpinus,no,not_checked,,1,1,no,1,source_not_verified
+2761,کولزیون,collezione,collezione,https://evazar.ir/brand/collezione/,/brand/collezione/,collezione,collezione,no,not_checked,,1,1,no,1,source_not_verified
+2765,ساسنیبار,sansibar,Sansibar,https://evazar.ir/brand/sansibar/,/brand/sansibar/,sansibar,sansibar,no,not_checked,,1,1,no,1,source_not_verified
+2774,برشکا,bershka,Bershka,https://evazar.ir/brand/bershka/,/brand/bershka/,bershka,bershka,no,not_checked,,3,3,no,1,source_not_verified
+2779,"او وی اس",ovs,OVS,https://evazar.ir/brand/ovs/,/brand/ovs/,ovs,ovs,no,not_checked,,1,1,no,1,source_not_verified
+2787,"تن تاک",tantak,Tantak,https://evazar.ir/brand/tantak/,/brand/tantak/,tantak,tantak,no,not_checked,,17,17,no,1,source_not_verified
+2789,نسیم,nasim,NASIM,https://evazar.ir/brand/nasim/,/brand/nasim/,nasim,nasim,no,not_checked,,24,24,no,1,source_not_verified
+2791,دکسونری,dexonary,dexonary,https://evazar.ir/brand/dexonary/,/brand/dexonary/,dexonary,dexonary,no,not_checked,,11,11,no,1,source_not_verified
+2794,دوخط,dokhat,dokhat,https://evazar.ir/brand/dokhat/,/brand/dokhat/,dokhat,dokhat,no,not_checked,,17,17,no,1,source_not_verified
+2796,تتیس,tetis,tetis,https://evazar.ir/brand/tetis/,/brand/tetis/,tetis,tetis,no,not_checked,,2,2,no,1,source_not_verified
+2798,"خانه مد",khane-mod,"KHANE MOD",https://evazar.ir/brand/khane-mod/,/brand/khane-mod/,khane-mod,khane-mod,no,not_checked,,8,8,no,1,source_not_verified
+2800,کروماکی,kromaki,Kromaki,https://evazar.ir/brand/kromaki/,/brand/kromaki/,kromaki,kromaki,no,not_checked,,10,10,no,1,source_not_verified
+2803,پاتکان,patkan,Patkan,https://evazar.ir/brand/patkan/,/brand/patkan/,patkan,patkan,no,not_checked,,10,10,no,1,source_not_verified
+2806,"سیی 1966",see1966,see1966,https://evazar.ir/brand/see1966/,/brand/see1966/,see1966,see1966,no,not_checked,,30,30,no,1,source_not_verified
+2808,میسترال,mistral,mistral,https://evazar.ir/brand/mistral/,/brand/mistral/,mistral,mistral,no,not_checked,,2,2,no,1,source_not_verified
+2812,پاپا,papa,Papa,https://evazar.ir/brand/papa/,/brand/papa/,papa,papa,no,not_checked,,2,2,no,1,source_not_verified
+2814,سسیل,cecil,CECIL,https://evazar.ir/brand/cecil/,/brand/cecil/,cecil,cecil,no,not_checked,,3,3,no,1,source_not_verified
+2816,آلبرتینی,albertini,Albertini,https://evazar.ir/brand/albertini/,/brand/albertini/,albertini,albertini,no,not_checked,,1,1,no,1,source_not_verified
+2818,"کفش سعیدی",saeedi-shoe,"saeedi shoe",https://evazar.ir/brand/saeedi-shoe/,/brand/saeedi-shoe/,saeedi-shoe,saeedi-shoe,no,not_checked,,8,8,no,1,source_not_verified
+2821,"های مد",hi-mod,"HI MOD",https://evazar.ir/brand/hi-mod/,/brand/hi-mod/,hi-mod,hi-mod,no,not_checked,,1,1,no,1,source_not_verified
+2823,دشوز,the-shoes,"The Shoes",https://evazar.ir/brand/the-shoes/,/brand/the-shoes/,the-shoes,the-shoes,no,not_checked,,3,3,no,1,source_not_verified
+2825,شهپر,shahpar,Shahpar,https://evazar.ir/brand/shahpar/,/brand/shahpar/,shahpar,shahpar,no,not_checked,,2,2,no,1,source_not_verified
+2828,"آرمانی اکسچنج",armani-exchange,"Armani Exchange",https://evazar.ir/brand/armani-exchange/,/brand/armani-exchange/,armani-exchange,armani-exchange,no,not_checked,,1,1,no,1,source_not_verified
+2830,آرمیس,armis,armis,https://evazar.ir/brand/armis/,/brand/armis/,armis,armis,no,not_checked,,2,2,no,1,source_not_verified
+2832,"جی وان",j-one,j.one,https://evazar.ir/brand/j-one/,/brand/j-one/,j-one,j-one,no,not_checked,,2,2,no,1,source_not_verified
+2835,روویکس,rovix,Rovix,https://evazar.ir/brand/rovix/,/brand/rovix/,rovix,rovix,no,not_checked,,6,6,no,1,source_not_verified
+2840,اسکچرز,skechers,Skechers,https://evazar.ir/brand/skechers/,/brand/skechers/,skechers,skechers,no,not_checked,,74,74,no,1,source_not_verified
+2842,ارکه,erke,Erke,https://evazar.ir/brand/erke/,/brand/erke/,erke,erke,no,not_checked,,16,16,no,1,source_not_verified
+2845,پوما,puma,Puma,https://evazar.ir/brand/puma/,/brand/puma/,puma,puma,no,not_checked,,41,41,no,1,source_not_verified
+2848,"ایر جردن",air-jordan,"Air Jordan",https://evazar.ir/brand/air-jordan/,/brand/air-jordan/,air-jordan,air-jordan,no,not_checked,,8,8,no,1,source_not_verified
+2850,سالومون,salomon,Salomon,https://evazar.ir/brand/salomon/,/brand/salomon/,salomon,salomon,no,not_checked,,10,10,no,1,source_not_verified
+2852,اسیکس,asics,Asics,https://evazar.ir/brand/asics/,/brand/asics/,asics,asics,no,not_checked,,9,9,no,1,source_not_verified
+2854,میشانشا,mishansha,mishansha,https://evazar.ir/brand/mishansha/,/brand/mishansha/,mishansha,mishansha,no,not_checked,,6,6,no,1,source_not_verified
+2856,"اسنو هاوک",snow-hawk,"snow hawk",https://evazar.ir/brand/snow-hawk/,/brand/snow-hawk/,snow-hawk,snow-hawk,no,not_checked,,16,16,no,1,source_not_verified
+2860,بروکس,brooks,Brooks,https://evazar.ir/brand/brooks/,/brand/brooks/,brooks,brooks,no,not_checked,,9,9,no,1,source_not_verified
+2863,هوکا,hoka,HOKA,https://evazar.ir/brand/hoka/,/brand/hoka/,hoka,hoka,no,not_checked,,14,14,no,1,source_not_verified
+2865,راکی,rocky,ROCKY,https://evazar.ir/brand/rocky/,/brand/rocky/,rocky,rocky,no,not_checked,,15,15,no,1,source_not_verified
+2869,"آن رانینگ",on-runing,"ON RUNING",https://evazar.ir/brand/on-runing/,/brand/on-runing/,on-runing,on-runing,no,not_checked,,21,21,no,1,source_not_verified
+2872,"ال استار",all-star,"All Star",https://evazar.ir/brand/all-star/,/brand/all-star/,all-star,all-star,no,not_checked,,1,1,no,1,source_not_verified
+2874,بالنسیاگا,balenciaga,Balenciaga,https://evazar.ir/brand/balenciaga/,/brand/balenciaga/,balenciaga,balenciaga,no,not_checked,,19,19,no,1,source_not_verified
+2878,کلارتس,clorts,clorts,https://evazar.ir/brand/clorts/,/brand/clorts/,clorts,clorts,no,not_checked,,13,13,no,1,source_not_verified
+2880,"کفش سنگام",sangam,Sangam,https://evazar.ir/brand/sangam/,/brand/sangam/,sangam,sangam,no,not_checked,,4,4,no,1,source_not_verified
+2888,"شهرام طب",shahram-teb,"shahram teb",https://evazar.ir/brand/shahram-teb/,/brand/shahram-teb/,shahram-teb,shahram-teb,no,not_checked,,2,2,no,1,source_not_verified
+2894,"پرو استپ",pro-step,"pro step",https://evazar.ir/brand/pro-step/,/brand/pro-step/,pro-step,pro-step,no,not_checked,,7,7,no,1,source_not_verified
+2901,"اسپورت لند",sportland,SPORTLAND,https://evazar.ir/brand/sportland/,/brand/sportland/,sportland,sportland,no,not_checked,,9,9,no,1,source_not_verified
+2905,دنزا,denxa,denxa,https://evazar.ir/brand/denxa/,/brand/denxa/,denxa,denxa,no,not_checked,,6,6,no,1,source_not_verified
+2907,"هوبی بر",hobi-bear,"hobi bear",https://evazar.ir/brand/hobi-bear/,/brand/hobi-bear/,hobi-bear,hobi-bear,no,not_checked,,12,12,no,1,source_not_verified
+2910,لامبرجک,lumberjack,Lumberjack,https://evazar.ir/brand/lumberjack/,/brand/lumberjack/,lumberjack,lumberjack,no,not_checked,,1,1,no,1,source_not_verified
+2914,مرل,merrell,Merrell,https://evazar.ir/brand/merrell/,/brand/merrell/,merrell,merrell,no,not_checked,,2,2,no,1,source_not_verified
+2916,هد,head,Head,https://evazar.ir/brand/head/,/brand/head/,head,head,no,not_checked,,20,20,no,1,source_not_verified
+2919,اسکارپا,scarpa,scarpa,https://evazar.ir/brand/scarpa/,/brand/scarpa/,scarpa,scarpa,no,not_checked,,1,1,no,1,source_not_verified
+2922,اویشو,oysho,Oysho,https://evazar.ir/brand/oysho/,/brand/oysho/,oysho,oysho,no,not_checked,,2,2,no,1,source_not_verified
+2924,گورنورنی,gornornie,Gornornie,https://evazar.ir/brand/gornornie/,/brand/gornornie/,gornornie,gornornie,no,not_checked,,7,7,no,1,source_not_verified
+2926,کینتیکس,kinetix,Kinetix,https://evazar.ir/brand/kinetix/,/brand/kinetix/,kinetix,kinetix,no,not_checked,,2,2,no,1,source_not_verified
+2928,لتون,letoon,Letoon,https://evazar.ir/brand/letoon/,/brand/letoon/,letoon,letoon,no,not_checked,,1,1,no,1,source_not_verified
+2930,میزانو,mizuno,Mizuno,https://evazar.ir/brand/mizuno/,/brand/mizuno/,mizuno,mizuno,no,not_checked,,1,1,no,1,source_not_verified
+2934,کاراکال,caracal,caracal,https://evazar.ir/brand/caracal/,/brand/caracal/,caracal,caracal,no,not_checked,,1,1,no,1,source_not_verified
+2936,"تونی بلک",tonny-black,"Tonny Black",https://evazar.ir/brand/tonny-black/,/brand/tonny-black/,tonny-black,tonny-black,no,not_checked,,1,1,no,1,source_not_verified
+2938,بورژ,bourge,Bourge,https://evazar.ir/brand/bourge/,/brand/bourge/,bourge,bourge,no,not_checked,,5,5,no,1,source_not_verified
+2940,لاگوست,lacoste,LACOSTE,https://evazar.ir/brand/lacoste/,/brand/lacoste/,lacoste,lacoste,no,not_checked,,3,3,no,1,source_not_verified
+2942,لولولمون,lululemon,Lululemon,https://evazar.ir/brand/lululemon/,/brand/lululemon/,lululemon,lululemon,no,not_checked,,6,6,no,1,source_not_verified
+2945,لوتو,lotto,LOTTO,https://evazar.ir/brand/lotto/,/brand/lotto/,lotto,lotto,no,not_checked,,4,4,no,1,source_not_verified
+2949,"جی اوکس",geox,Geox,https://evazar.ir/brand/geox/,/brand/geox/,geox,geox,no,not_checked,,1,1,no,1,source_not_verified
+2952,استرادیواریوس,stradivarius,Stradivarius,https://evazar.ir/brand/stradivarius/,/brand/stradivarius/,stradivarius,stradivarius,no,not_checked,,26,26,no,1,source_not_verified
+2955,واریور,warrior,WARRIOR,https://evazar.ir/brand/warrior/,/brand/warrior/,warrior,warrior,no,not_checked,,1,1,no,1,source_not_verified
+2957,دیزل,diesel,DIESEL,https://evazar.ir/brand/diesel/,/brand/diesel/,diesel,diesel,no,not_checked,,11,11,no,1,source_not_verified
+2959,دیادورا,diadora,Diadora,https://evazar.ir/brand/diadora/,/brand/diadora/,diadora,diadora,no,not_checked,,4,4,no,1,source_not_verified
+2961,کاپا,kappa,kappa,https://evazar.ir/brand/kappa/,/brand/kappa/,kappa,kappa,no,not_checked,,8,8,no,1,source_not_verified
+2963,مانگو,mango,Mango,https://evazar.ir/brand/mango/,/brand/mango/,mango,mango,no,not_checked,,9,9,no,1,source_not_verified
+2966,فشن,fashion,Fashion,https://evazar.ir/brand/fashion/,/brand/fashion/,fashion,fashion,no,not_checked,,2,2,no,1,source_not_verified
+2969,"سی ام پی",cmp,CMP,https://evazar.ir/brand/cmp/,/brand/cmp/,cmp,cmp,no,not_checked,,1,1,no,1,source_not_verified
+2974,بنج,bange,BANGE,https://evazar.ir/brand/bange/,/brand/bange/,bange,bange,no,not_checked,,26,26,no,1,source_not_verified
+2978,پرزیدنت,president,President,https://evazar.ir/brand/president/,/brand/president/,president,president,no,not_checked,,7,7,no,1,source_not_verified
+2983,فیرو,firo,Firo,https://evazar.ir/brand/firo/,/brand/firo/,firo,firo,no,not_checked,,10,10,no,1,source_not_verified
+2986,"رویال چرم",royal-leather,"ROYAL LEATHER",https://evazar.ir/brand/royal-leather/,/brand/royal-leather/,royal-leather,royal-leather,no,not_checked,,33,33,no,1,source_not_verified
+2988,"چرم لانکا",lanka-leather,"Lanka Leather",https://evazar.ir/brand/lanka-leather/,/brand/lanka-leather/,lanka-leather,lanka-leather,no,not_checked,,29,29,no,1,source_not_verified
+2994,بیورا,biora,Biora,https://evazar.ir/brand/biora/,/brand/biora/,biora,biora,no,not_checked,,41,41,no,1,source_not_verified
+2997,جیلشی,jielshi,JIELSHI,https://evazar.ir/brand/jielshi/,/brand/jielshi/,jielshi,jielshi,no,not_checked,,4,4,no,1,source_not_verified
+2999,"نشنال جئوگرافیک",national-geographic,"National Geographic",https://evazar.ir/brand/national-geographic/,/brand/national-geographic/,national-geographic,national-geographic,no,not_checked,,39,39,no,1,source_not_verified
+3003,فوروارد,forward,Forward,https://evazar.ir/brand/forward/,/brand/forward/,forward,forward,no,not_checked,,3,3,no,1,source_not_verified
+3005,بوبو,bobo,Bobo,https://evazar.ir/brand/bobo/,/brand/bobo/,bobo,bobo,no,not_checked,,21,21,no,1,source_not_verified
+3007,گابل,gabol,Gabol,https://evazar.ir/brand/gabol/,/brand/gabol/,gabol,gabol,no,not_checked,,34,34,no,1,source_not_verified
+3009,"پیل آرو",pilaro,PILARO,https://evazar.ir/brand/pilaro/,/brand/pilaro/,pilaro,pilaro,no,not_checked,,1,1,no,1,source_not_verified
+3011,"چرم اویس",oveis-laether,"OVEIS Laether",https://evazar.ir/brand/oveis-laether/,/brand/oveis-laether/,oveis-laether,oveis-laether,no,not_checked,,32,32,no,1,source_not_verified
+3016,"دیوید جونز",david-jones,"David Jones",https://evazar.ir/brand/david-jones/,/brand/david-jones/,david-jones,david-jones,no,not_checked,,64,64,no,1,source_not_verified
+3020,"آریا پوینت",aria-point,"aria point",https://evazar.ir/brand/aria-point/,/brand/aria-point/,aria-point,aria-point,no,not_checked,,4,4,no,1,source_not_verified
+3022,گامارو,gamaro,Gamaro,https://evazar.ir/brand/gamaro/,/brand/gamaro/,gamaro,gamaro,no,not_checked,,14,14,no,1,source_not_verified
+3024,تنسر,tancer,Tancer,https://evazar.ir/brand/tancer/,/brand/tancer/,tancer,tancer,no,not_checked,,12,12,no,1,source_not_verified
+3031,بیسراک,bisrak,BISRAK,https://evazar.ir/brand/bisrak/,/brand/bisrak/,bisrak,bisrak,no,not_checked,,3,3,no,1,source_not_verified
+3033,رونکاتو,roncato,Roncato,https://evazar.ir/brand/roncato/,/brand/roncato/,roncato,roncato,no,not_checked,,13,13,no,1,source_not_verified
+3035,"تین بانی",tinbany,Tinbany,https://evazar.ir/brand/tinbany/,/brand/tinbany/,tinbany,tinbany,no,not_checked,,13,13,no,1,source_not_verified
+3037,"نیلپر توریستر",nilper-tourister,"Nilper tourister",https://evazar.ir/brand/nilper-tourister/,/brand/nilper-tourister/,nilper-tourister,nilper-tourister,no,not_checked,,2,2,no,1,source_not_verified
+3040,فوور,fouvor,fouvor,https://evazar.ir/brand/fouvor/,/brand/fouvor/,fouvor,fouvor,no,not_checked,,7,7,no,1,source_not_verified
+3043,هایبورگ,heiburg,HEIBURG,https://evazar.ir/brand/heiburg/,/brand/heiburg/,heiburg,heiburg,no,not_checked,,1,1,no,1,source_not_verified
+3051,دیسکاوری,discovery,discovery,https://evazar.ir/brand/discovery/,/brand/discovery/,discovery,discovery,no,not_checked,,25,25,no,1,source_not_verified
+3053,برتونیکس,berttonix,Berttonix,https://evazar.ir/brand/berttonix/,/brand/berttonix/,berttonix,berttonix,no,not_checked,,19,19,no,1,source_not_verified
+3056,"سانتا باربارا پولو راکت کلاب",santa-barbara-polo-racquet-club,"Santa Barbara Polo & Racquet Club",https://evazar.ir/brand/santa-barbara-polo-racquet-club/,/brand/santa-barbara-polo-racquet-club/,santa-barbara-polo-racquet-club,santa-barbara-polo-racquet-club,no,not_checked,,3,3,no,1,source_not_verified
+3058,جیپ,jeep,Jeep,https://evazar.ir/brand/jeep/,/brand/jeep/,jeep,jeep,no,not_checked,,6,6,no,1,source_not_verified
+3060,یوتاب,youtab,YOUTAB,https://evazar.ir/brand/youtab/,/brand/youtab/,youtab,youtab,no,not_checked,,5,5,no,1,source_not_verified
+3065,ماوی,mavi,Mavi,https://evazar.ir/brand/mavi/,/brand/mavi/,mavi,mavi,no,not_checked,,5,5,no,1,source_not_verified
+3067,"چرم تهران",charm-tehran,"Charm Tehran",https://evazar.ir/brand/charm-tehran/,/brand/charm-tehran/,charm-tehran,charm-tehran,no,not_checked,,7,7,no,1,source_not_verified
+3070,"چرم رادل",charm-radel,"charm radel",https://evazar.ir/brand/charm-radel/,/brand/charm-radel/,charm-radel,charm-radel,no,not_checked,,8,8,no,1,source_not_verified
+3072,"کایا چرم",kaya-leather,"Kaya Leather",https://evazar.ir/brand/kaya-leather/,/brand/kaya-leather/,kaya-leather,kaya-leather,no,not_checked,,20,20,no,1,source_not_verified
+3078,"آناک چرم",anak-leather,"anak leather",https://evazar.ir/brand/anak-leather/,/brand/anak-leather/,anak-leather,anak-leather,no,not_checked,,22,22,no,1,source_not_verified
+3080,ایپول,epol,EPOL,https://evazar.ir/brand/epol/,/brand/epol/,epol,epol,no,not_checked,,2,2,no,1,source_not_verified
+3082,هگزاگونا,hexagona,HEXAGONA,https://evazar.ir/brand/hexagona/,/brand/hexagona/,hexagona,hexagona,no,not_checked,,14,14,no,1,source_not_verified
+3085,شاپرک,shaparak,Shaparak,https://evazar.ir/brand/shaparak/,/brand/shaparak/,shaparak,shaparak,no,not_checked,,8,8,no,1,source_not_verified
+3090,ماتریس,matris,Matris,https://evazar.ir/brand/matris/,/brand/matris/,matris,matris,no,not_checked,,8,8,no,1,source_not_verified
+3093,"چرم ما",charmema,Charmema,https://evazar.ir/brand/charmema/,/brand/charmema/,charmema,charmema,no,not_checked,,30,30,no,1,source_not_verified
+3095,"تالی وایل",tally-weijl,"Tally Weijl",https://evazar.ir/brand/tally-weijl/,/brand/tally-weijl/,tally-weijl,tally-weijl,no,not_checked,,3,3,no,1,source_not_verified
+3098,"وندی گیفت",vandy-gift,"vandy gift",https://evazar.ir/brand/vandy-gift/,/brand/vandy-gift/,vandy-gift,vandy-gift,no,not_checked,,2,2,no,1,source_not_verified
+3100,"هیبا استایل",%d9%87%db%8c%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d8%a7%db%8c%d9%84,,https://evazar.ir/brand/%d9%87%db%8c%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d8%a7%db%8c%d9%84/,,,,no,not_checked,,3,3,no,1,missing_brand_en|source_not_verified|missing_source_url
+3102,"فیرو پلاس",firo-plus,"Firo Plus",https://evazar.ir/brand/firo-plus/,/brand/firo-plus/,firo-plus,firo-plus,no,not_checked,,1,1,no,1,source_not_verified
+3104,"ترمه طراحان ایده",terme-tarrahan-ide,"Terme Tarrahan Ide",https://evazar.ir/brand/terme-tarrahan-ide/,/brand/terme-tarrahan-ide/,terme-tarrahan-ide,terme-tarrahan-ide,no,not_checked,,152,152,no,1,source_not_verified
+3107,دیبا,diba,Diba,https://evazar.ir/brand/diba/,/brand/diba/,diba,diba,no,not_checked,,2,2,no,1,source_not_verified
+3109,شونا,shoona,Shoona,https://evazar.ir/brand/shoona/,/brand/shoona/,shoona,shoona,no,not_checked,,2,2,no,1,source_not_verified
+3111,هورشید,hoorshid,Hoorshid,https://evazar.ir/brand/hoorshid/,/brand/hoorshid/,hoorshid,hoorshid,no,not_checked,,1,1,no,1,source_not_verified
+3113,تینو,tino,tino,https://evazar.ir/brand/tino/,/brand/tino/,tino,tino,no,not_checked,,1,1,no,1,source_not_verified
+3116,فیریسکی,frisky,FRISKY,https://evazar.ir/brand/frisky/,/brand/frisky/,frisky,frisky,no,not_checked,,15,15,no,1,source_not_verified
+3122,کوله,kule,KULE,https://evazar.ir/brand/kule/,/brand/kule/,kule,kule,no,not_checked,,1,1,no,1,source_not_verified
+3124,1860,1860,1860,https://evazar.ir/brand/1860/,/brand/1860/,1860,1860,no,not_checked,,24,24,no,1,source_not_verified
+3126,ماندگار,mandegar,Mandegar,https://evazar.ir/brand/mandegar/,/brand/mandegar/,mandegar,mandegar,no,not_checked,,2,2,no,1,source_not_verified
+3128,مادامرا,madamra,Madamra,https://evazar.ir/brand/madamra/,/brand/madamra/,madamra,madamra,no,not_checked,,11,11,no,1,source_not_verified
+3131,گوگانا,googana,googana,https://evazar.ir/brand/googana/,/brand/googana/,googana,googana,no,not_checked,,1,1,no,1,source_not_verified
+3134,فنسی,fancy,Fancy,https://evazar.ir/brand/fancy/,/brand/fancy/,fancy,fancy,no,not_checked,,8,8,no,1,source_not_verified
+3136,"چرم آمادای",amaday-leather,"Amaday Leather",https://evazar.ir/brand/amaday-leather/,/brand/amaday-leather/,amaday-leather,amaday-leather,no,not_checked,,12,12,no,1,source_not_verified
+3139,هادایز,hadize,hadize,https://evazar.ir/brand/hadize/,/brand/hadize/,hadize,hadize,no,not_checked,,2,2,no,1,source_not_verified
+3142,آلفونسی,alfonsi,Alfonsi,https://evazar.ir/brand/alfonsi/,/brand/alfonsi/,alfonsi,alfonsi,no,not_checked,,2,2,no,1,source_not_verified
+3147,وفس,vefs,Vefs,https://evazar.ir/brand/vefs/,/brand/vefs/,vefs,vefs,no,not_checked,,1,1,no,1,source_not_verified
+3152,نارنج,naranj,Naranj,https://evazar.ir/brand/naranj/,/brand/naranj/,naranj,naranj,no,not_checked,,1,1,no,1,source_not_verified
+3154,پرتیزس,prettyzys,prettyzys,https://evazar.ir/brand/prettyzys/,/brand/prettyzys/,prettyzys,prettyzys,no,not_checked,,17,17,no,1,source_not_verified
+3161,دیکمپ,dicamp,Dicamp,https://evazar.ir/brand/dicamp/,/brand/dicamp/,dicamp,dicamp,no,not_checked,,1,1,no,1,source_not_verified
+3168,هیسکا,hiska,HISKA,https://evazar.ir/brand/hiska/,/brand/hiska/,hiska,hiska,no,not_checked,,1,1,no,1,source_not_verified
+3170,"چرم آسو",aso-leather,"ASO Leather",https://evazar.ir/brand/aso-leather/,/brand/aso-leather/,aso-leather,aso-leather,no,not_checked,,18,18,no,1,source_not_verified
+3173,"چرم رادیس",charm-radis,"Charm Radis",https://evazar.ir/brand/charm-radis/,/brand/charm-radis/,charm-radis,charm-radis,no,not_checked,,8,8,no,1,source_not_verified
+3175,"آلفا بگ",alfa-bag,"ALFA BAG",https://evazar.ir/brand/alfa-bag/,/brand/alfa-bag/,alfa-bag,alfa-bag,no,not_checked,,59,59,no,1,source_not_verified
+3180,"چرم جانتا",janta-charm,"Janta Charm",https://evazar.ir/brand/janta-charm/,/brand/janta-charm/,janta-charm,janta-charm,no,not_checked,,9,9,no,1,source_not_verified
+3183,دلفارد,delphard,Delphard,https://evazar.ir/brand/delphard/,/brand/delphard/,delphard,delphard,no,not_checked,,11,11,no,1,source_not_verified
+3188,"آرتیک هانتر",arctic-hunter,"Arctic Hunter",https://evazar.ir/brand/arctic-hunter/,/brand/arctic-hunter/,arctic-hunter,arctic-hunter,no,not_checked,,20,20,no,1,source_not_verified
+3197,ناتینگ,nothing,Nothing,https://evazar.ir/brand/nothing/,/brand/nothing/,nothing,nothing,no,not_checked,,3,3,no,1,source_not_verified
+3200,ایگلسی,eaglesee,eaglesee,https://evazar.ir/brand/eaglesee/,/brand/eaglesee/,eaglesee,eaglesee,no,not_checked,,5,5,no,1,source_not_verified
+3202,میندسا,mindesa,Mindesa,https://evazar.ir/brand/mindesa/,/brand/mindesa/,mindesa,mindesa,no,not_checked,,4,4,no,1,source_not_verified
+3206,لفتیز,lefties,Lefties,https://evazar.ir/brand/lefties/,/brand/lefties/,lefties,lefties,no,not_checked,,3,3,no,1,source_not_verified
+3213,آیزن,eyezen,Eyezen,https://evazar.ir/brand/eyezen/,/brand/eyezen/,eyezen,eyezen,no,not_checked,,1,1,no,1,source_not_verified
+3215,ورد,verde,Verde,https://evazar.ir/brand/verde/,/brand/verde/,verde,verde,no,not_checked,,1,1,no,1,source_not_verified
+3217,مودو,moodo,Moodo,https://evazar.ir/brand/moodo/,/brand/moodo/,moodo,moodo,no,not_checked,,1,1,no,1,source_not_verified
+3223,"الکساندر وانگ",alexander-wang,"Alexander wang",https://evazar.ir/brand/alexander-wang/,/brand/alexander-wang/,alexander-wang,alexander-wang,no,not_checked,,4,4,no,1,source_not_verified
+3225,کوتتسی,coteetci,Coteetci,https://evazar.ir/brand/coteetci/,/brand/coteetci/,coteetci,coteetci,no,not_checked,,5,5,no,1,source_not_verified
+3229,هیماواری,himawari,Himawari,https://evazar.ir/brand/himawari/,/brand/himawari/,himawari,himawari,no,not_checked,,1,1,no,1,source_not_verified
+3231,چیبائو,chibao,chibao,https://evazar.ir/brand/chibao/,/brand/chibao/,chibao,chibao,no,not_checked,,1,1,no,1,source_not_verified
+3233,دلسی,delsey,Delsey,https://evazar.ir/brand/delsey/,/brand/delsey/,delsey,delsey,no,not_checked,,5,5,no,1,source_not_verified
+3237,گارد,guard,Guard,https://evazar.ir/brand/guard/,/brand/guard/,guard,guard,no,not_checked,,47,47,no,1,source_not_verified
+3251,"کالرفول فاکس",colorful-fox,"colorful fox",https://evazar.ir/brand/colorful-fox/,/brand/colorful-fox/,colorful-fox,colorful-fox,no,not_checked,,4,4,no,1,source_not_verified
+3254,والنتیر,volunteer,volunteer,https://evazar.ir/brand/volunteer/,/brand/volunteer/,volunteer,volunteer,no,not_checked,,9,9,no,1,source_not_verified
+3258,نیلپر,nilper,Nilper,https://evazar.ir/brand/nilper/,/brand/nilper/,nilper,nilper,no,not_checked,,2,2,no,1,source_not_verified
+3265,کوتسی,coteci,coteci,https://evazar.ir/brand/coteci/,/brand/coteci/,coteci,coteci,no,not_checked,,1,1,no,1,source_not_verified
+3268,"تام تاک",tomtoc,tomtoc,https://evazar.ir/brand/tomtoc/,/brand/tomtoc/,tomtoc,tomtoc,no,not_checked,,2,2,no,1,source_not_verified
+3271,"چرم وحید",vahid-leather,"vahid leather",https://evazar.ir/brand/vahid-leather/,/brand/vahid-leather/,vahid-leather,vahid-leather,no,not_checked,,4,4,no,1,source_not_verified
+3278,"کارل لاگرفلد",karl-lagerfeld,"Karl Lagerfeld",https://evazar.ir/brand/karl-lagerfeld/,/brand/karl-lagerfeld/,karl-lagerfeld,karl-lagerfeld,no,not_checked,,2,2,no,1,source_not_verified
+3282,دیو,deev,Deev,https://evazar.ir/brand/deev/,/brand/deev/,deev,deev,no,not_checked,,2,2,no,1,source_not_verified
+3284,"هوس برند",housebrand,Housebrand,https://evazar.ir/brand/housebrand/,/brand/housebrand/,housebrand,housebrand,no,not_checked,,1,1,no,1,source_not_verified
+3290,"چرم اکابی",charm-akabi,"Charm akabi",https://evazar.ir/brand/charm-akabi/,/brand/charm-akabi/,charm-akabi,charm-akabi,no,not_checked,,1,1,no,1,source_not_verified
+3295,پیکتت.فاینو,pictet-fino,PICTET.FINO,https://evazar.ir/brand/pictet-fino/,/brand/pictet-fino/,pictet-fino,pictet-fino,no,not_checked,,3,3,no,1,source_not_verified
+3301,"رز مری",rose-merry,"Rose Merry",https://evazar.ir/brand/rose-merry/,/brand/rose-merry/,rose-merry,rose-merry,no,not_checked,,11,11,no,1,source_not_verified
+3303,مهربانو,mehrbano,Mehrbano,https://evazar.ir/brand/mehrbano/,/brand/mehrbano/,mehrbano,mehrbano,no,not_checked,,10,10,no,1,source_not_verified
+3305,باتلی,bateli,BATELI,https://evazar.ir/brand/bateli/,/brand/bateli/,bateli,bateli,no,not_checked,,1,1,no,1,source_not_verified
+3307,فوچاکو,fuchaco,FUCHACO,https://evazar.ir/brand/fuchaco/,/brand/fuchaco/,fuchaco,fuchaco,no,not_checked,,16,16,no,1,source_not_verified
+3310,"شهر چرم",leather-city,"Leather City",https://evazar.ir/brand/leather-city/,/brand/leather-city/,leather-city,leather-city,no,not_checked,,1,1,no,1,source_not_verified
+3314,هدگرن,hedgren,hedgren,https://evazar.ir/brand/hedgren/,/brand/hedgren/,hedgren,hedgren,no,not_checked,,2,2,no,1,source_not_verified
+3320,ریس,rees,Rees,https://evazar.ir/brand/rees/,/brand/rees/,rees,rees,no,not_checked,,2,2,no,1,source_not_verified
+3324,وودسنس,wood-sense,"Wood Sense",https://evazar.ir/brand/wood-sense/,/brand/wood-sense/,wood-sense,wood-sense,no,not_checked,,1,1,no,1,source_not_verified
+3326,رسی,recci,Recci,https://evazar.ir/brand/recci/,/brand/recci/,recci,recci,no,not_checked,,1,1,no,1,source_not_verified
+3328,پرینو,parino,parino,https://evazar.ir/brand/parino/,/brand/parino/,parino,parino,no,not_checked,,1,1,no,1,source_not_verified
+3331,"جانی اند جانی",johnny-and-johnny,"Johnny and Johnny",https://evazar.ir/brand/johnny-and-johnny/,/brand/johnny-and-johnny/,johnny-and-johnny,johnny-and-johnny,no,not_checked,,1,1,no,1,source_not_verified
+3333,تاش,tosh,Tosh,https://evazar.ir/brand/tosh/,/brand/tosh/,tosh,tosh,no,not_checked,,30,30,no,1,source_not_verified
+3344,"چرم فیل",phil-leather,"phil leather",https://evazar.ir/brand/phil-leather/,/brand/phil-leather/,phil-leather,phil-leather,no,not_checked,,9,9,no,1,source_not_verified
+3346,"چرم سی یِنا",siena-leather,"Siena Leather",https://evazar.ir/brand/siena-leather/,/brand/siena-leather/,siena-leather,siena-leather,no,not_checked,,17,17,no,1,source_not_verified
+3351,ژاوا,xava,Xava,https://evazar.ir/brand/xava/,/brand/xava/,xava,xava,no,not_checked,,7,7,no,1,source_not_verified
+3353,"سی یِنا",siena,siena,https://evazar.ir/brand/siena/,/brand/siena/,siena,siena,no,not_checked,,3,3,no,1,source_not_verified
+3359,اسپای,spy,Spy,https://evazar.ir/brand/spy/,/brand/spy/,spy,spy,no,not_checked,,4,4,no,1,source_not_verified
+3364,موسکوت,moscot,moscot,https://evazar.ir/brand/moscot/,/brand/moscot/,moscot,moscot,no,not_checked,,105,105,no,1,source_not_verified
+3366,"جنتل مانستر",gentle-monster,"Gentle Monster",https://evazar.ir/brand/gentle-monster/,/brand/gentle-monster/,gentle-monster,gentle-monster,no,not_checked,,44,44,no,1,source_not_verified
+3368,دیتیای,ditiai,Ditiai,https://evazar.ir/brand/ditiai/,/brand/ditiai/,ditiai,ditiai,no,not_checked,,6,6,no,1,source_not_verified
+3371,"آکوا دی پولو",aqua-di-polo,"Aqua di polo",https://evazar.ir/brand/aqua-di-polo/,/brand/aqua-di-polo/,aqua-di-polo,aqua-di-polo,no,not_checked,,21,21,no,1,source_not_verified
+3374,اکسسورایز,accessorise,accessorise,https://evazar.ir/brand/accessorise/,/brand/accessorise/,accessorise,accessorise,no,not_checked,,340,340,no,1,source_not_verified
+3378,"ایس برلین",ic-berlin,"Ic Berlin",https://evazar.ir/brand/ic-berlin/,/brand/ic-berlin/,ic-berlin,ic-berlin,no,not_checked,,71,71,no,1,source_not_verified
+3380,"دیوید بکهام",david-beckham,"David Beckham",https://evazar.ir/brand/david-beckham/,/brand/david-beckham/,david-beckham,david-beckham,no,not_checked,,86,86,no,1,source_not_verified
+3385,پورشه,porsche,Porsche,https://evazar.ir/brand/porsche/,/brand/porsche/,porsche,porsche,no,not_checked,,6,6,no,1,source_not_verified
+3387,"بی لاین",beeline,BEELINE,https://evazar.ir/brand/beeline/,/brand/beeline/,beeline,beeline,no,not_checked,,3,3,no,1,source_not_verified
+3389,رِن,ren,REN,https://evazar.ir/brand/ren/,/brand/ren/,ren,ren,no,not_checked,,29,29,no,1,source_not_verified
+3393,ماتریکس,matrix,Matrix,https://evazar.ir/brand/matrix/,/brand/matrix/,matrix,matrix,no,not_checked,,16,16,no,1,source_not_verified
+3395,واته,vate,Vate,https://evazar.ir/brand/vate/,/brand/vate/,vate,vate,no,not_checked,,3,3,no,1,source_not_verified
+3399,"ایکس او ایکس او",xoxo,xoxo,https://evazar.ir/brand/xoxo/,/brand/xoxo/,xoxo,xoxo,no,not_checked,,19,19,no,1,source_not_verified
+3402,"امریکن اوپتیکال",american-optical,"American Optical",https://evazar.ir/brand/american-optical/,/brand/american-optical/,american-optical,american-optical,no,not_checked,,30,30,no,1,source_not_verified
+3404,اوگا,oga,ÖGA,https://evazar.ir/brand/oga/,/brand/oga/,oga,oga,no,not_checked,,156,156,no,1,source_not_verified
+3406,کارفیا,carfia,Carfia,https://evazar.ir/brand/carfia/,/brand/carfia/,carfia,carfia,no,not_checked,,6,6,no,1,source_not_verified
+3412,سانکروزر,suncruiser,suncruiser,https://evazar.ir/brand/suncruiser/,/brand/suncruiser/,suncruiser,suncruiser,no,not_checked,,3,3,no,1,source_not_verified
+3414,پروسان,prosun,Prosun,https://evazar.ir/brand/prosun/,/brand/prosun/,prosun,prosun,no,not_checked,,2,2,no,1,source_not_verified
+3416,دیتا,dita,Dita,https://evazar.ir/brand/dita/,/brand/dita/,dita,dita,no,not_checked,,10,10,no,1,source_not_verified
+3418,پرسول,persol,Persol,https://evazar.ir/brand/persol/,/brand/persol/,persol,persol,no,not_checked,,61,61,no,1,source_not_verified
+3420,"بوتگا ونتا",bottega-veneta,"Bottega Veneta",https://evazar.ir/brand/bottega-veneta/,/brand/bottega-veneta/,bottega-veneta,bottega-veneta,no,not_checked,,10,10,no,1,source_not_verified
+3425,"جیمی چو",jimmy-choo,"Jimmy Choo",https://evazar.ir/brand/jimmy-choo/,/brand/jimmy-choo/,jimmy-choo,jimmy-choo,no,not_checked,,29,29,no,1,source_not_verified
+3432,سپوری,sepori,Sepori,https://evazar.ir/brand/sepori/,/brand/sepori/,sepori,sepori,no,not_checked,,1,1,no,1,source_not_verified
+3435,اوپتل,optelli,optelli,https://evazar.ir/brand/optelli/,/brand/optelli/,optelli,optelli,no,not_checked,,2,2,no,1,source_not_verified
+3437,اوکلی,oakley,Oakley,https://evazar.ir/brand/oakley/,/brand/oakley/,oakley,oakley,no,not_checked,,41,41,no,1,source_not_verified
+3442,کرازا,caraza,Caraza,https://evazar.ir/brand/caraza/,/brand/caraza/,caraza,caraza,no,not_checked,,3,3,no,1,source_not_verified
+3445,فراری,ferrari,Ferrari,https://evazar.ir/brand/ferrari/,/brand/ferrari/,ferrari,ferrari,no,not_checked,,3,3,no,1,source_not_verified
+3449,"بای هارمونی",by-harmony,"By Harmony",https://evazar.ir/brand/by-harmony/,/brand/by-harmony/,by-harmony,by-harmony,no,not_checked,,1,1,no,1,source_not_verified
+3451,ایدول,idool,IDOOL,https://evazar.ir/brand/idool/,/brand/idool/,idool,idool,no,not_checked,,1,1,no,1,source_not_verified
+3453,"میو میو",mio-mio,"Mio Mio",https://evazar.ir/brand/mio-mio/,/brand/mio-mio/,mio-mio,mio-mio,no,not_checked,,19,19,no,1,source_not_verified
+3456,آیدل,aedoll,aedoll,https://evazar.ir/brand/aedoll/,/brand/aedoll/,aedoll,aedoll,no,not_checked,,12,12,no,1,source_not_verified
+3458,بولگاری,bvlgari,Bvlgari,https://evazar.ir/brand/bvlgari/,/brand/bvlgari/,bvlgari,bvlgari,no,not_checked,,19,19,no,1,source_not_verified
+3462,"لئو ولنتی",leo-valenti,"Leo Valenti",https://evazar.ir/brand/leo-valenti/,/brand/leo-valenti/,leo-valenti,leo-valenti,no,not_checked,,1,1,no,1,source_not_verified
+3470,تیفانی,tiffany,Tiffany,https://evazar.ir/brand/tiffany/,/brand/tiffany/,tiffany,tiffany,no,not_checked,,3,3,no,1,source_not_verified
+3472,"بی ام دبلیو",bmw,BMW,https://evazar.ir/brand/bmw/,/brand/bmw/,bmw,bmw,no,not_checked,,6,6,no,1,source_not_verified
+3475,لیندبرگ,lindberg,LINDBERG,https://evazar.ir/brand/lindberg/,/brand/lindberg/,lindberg,lindberg,no,not_checked,,4,4,no,1,source_not_verified
+3477,اورسلی,orselli,Orselli,https://evazar.ir/brand/orselli/,/brand/orselli/,orselli,orselli,no,not_checked,,2,2,no,1,source_not_verified
+3479,"دی کی ان وای",dkny,DKNY,https://evazar.ir/brand/dkny/,/brand/dkny/,dkny,dkny,no,not_checked,,1,1,no,1,source_not_verified
+3482,مدمکس,madmax,madmax,https://evazar.ir/brand/madmax/,/brand/madmax/,madmax,madmax,no,not_checked,,8,8,no,1,source_not_verified
+3486,الدورادو,eldorado,eldorado,https://evazar.ir/brand/eldorado/,/brand/eldorado/,eldorado,eldorado,no,not_checked,,7,7,no,1,source_not_verified
+3489,"مستر مانکی",mr-monkey,Mr.Monkey,https://evazar.ir/brand/mr-monkey/,/brand/mr-monkey/,mr-monkey,mr-monkey,no,not_checked,,1,1,no,1,source_not_verified
+3491,هیکمن,hickmann,Hickmann,https://evazar.ir/brand/hickmann/,/brand/hickmann/,hickmann,hickmann,no,not_checked,,37,37,no,1,source_not_verified
+3496,ماتسودا,matsuda,Matsuda,https://evazar.ir/brand/matsuda/,/brand/matsuda/,matsuda,matsuda,no,not_checked,,3,3,no,1,source_not_verified
+3503,کلویی,chloe,Chloe,https://evazar.ir/brand/chloe/,/brand/chloe/,chloe,chloe,no,not_checked,,1,1,no,1,source_not_verified
+3505,لووه,loewe,Loewe,https://evazar.ir/brand/loewe/,/brand/loewe/,loewe,loewe,no,not_checked,,18,18,no,1,source_not_verified
+3508,آناهیکمن,ana-hickmann,"Ana hickmann",https://evazar.ir/brand/ana-hickmann/,/brand/ana-hickmann/,ana-hickmann,ana-hickmann,no,not_checked,,17,17,no,1,source_not_verified
+3510,"چیلی بینز",chilli-beans,"Chilli Beans",https://evazar.ir/brand/chilli-beans/,/brand/chilli-beans/,chilli-beans,chilli-beans,no,not_checked,,2,2,no,1,source_not_verified
+3515,"لیندا فارو",linda-farrow,"Linda Farrow",https://evazar.ir/brand/linda-farrow/,/brand/linda-farrow/,linda-farrow,linda-farrow,no,not_checked,,1,1,no,1,source_not_verified
+3517,"ژاک موریف میج",jacques-marie-mage,"JACQUES MARIE MAGE",https://evazar.ir/brand/jacques-marie-mage/,/brand/jacques-marie-mage/,jacques-marie-mage,jacques-marie-mage,no,not_checked,,1,1,no,1,source_not_verified
+3520,"توری برچ",tory-burch,"Tory Burch",https://evazar.ir/brand/tory-burch/,/brand/tory-burch/,tory-burch,tory-burch,no,not_checked,,3,3,no,1,source_not_verified
+3522,سرتینا,certina,Certina,https://evazar.ir/brand/certina/,/brand/certina/,certina,certina,no,not_checked,,8,8,no,1,source_not_verified
+3524,اسپارکی,sparky,SPARKY,https://evazar.ir/brand/sparky/,/brand/sparky/,sparky,sparky,no,not_checked,,1,1,no,1,source_not_verified
+3526,"سالواتوره فراگامو",salvatore-ferragamo,"Salvatore Ferragamo",https://evazar.ir/brand/salvatore-ferragamo/,/brand/salvatore-ferragamo/,salvatore-ferragamo,salvatore-ferragamo,no,not_checked,,5,5,no,1,source_not_verified
+3530,"مون بلان",mont-blanc,"Mont Blanc",https://evazar.ir/brand/mont-blanc/,/brand/mont-blanc/,mont-blanc,mont-blanc,no,not_checked,,4,4,no,1,source_not_verified
+3533,بولون,bolon,Bolon,https://evazar.ir/brand/bolon/,/brand/bolon/,bolon,bolon,no,not_checked,,22,22,no,1,source_not_verified
+3537,هاوک,hawk-eyewear,"Hawk Eyewear",https://evazar.ir/brand/hawk-eyewear/,/brand/hawk-eyewear/,hawk-eyewear,hawk-eyewear,no,not_checked,,1,1,no,1,source_not_verified
+3543,ال,elle,Elle,https://evazar.ir/brand/elle/,/brand/elle/,elle,elle,no,not_checked,,3,3,no,1,source_not_verified
+3546,رئن,raen,RAEN,https://evazar.ir/brand/raen/,/brand/raen/,raen,raen,no,not_checked,,1,1,no,1,source_not_verified
+3548,صاایران,sairan,sairan,https://evazar.ir/brand/sairan/,/brand/sairan/,sairan,sairan,no,not_checked,,1,1,no,1,source_not_verified
+3550,شوپارد,chopard,Chopard,https://evazar.ir/brand/chopard/,/brand/chopard/,chopard,chopard,no,not_checked,,8,8,no,1,source_not_verified
+3556,"ژاک ماری میج",jaqcues-marie-mage,"Jaqcues marie mage",https://evazar.ir/brand/jaqcues-marie-mage/,/brand/jaqcues-marie-mage/,jaqcues-marie-mage,jaqcues-marie-mage,no,not_checked,,1,1,no,1,source_not_verified
+3559,"تی هنری",t-henri,"T Henri",https://evazar.ir/brand/t-henri/,/brand/t-henri/,t-henri,t-henri,no,not_checked,,1,1,no,1,source_not_verified
+3563,روو,revo,Revo,https://evazar.ir/brand/revo/,/brand/revo/,revo,revo,no,not_checked,,1,1,no,1,source_not_verified
+3567,امیری,amiri,AMIRI,https://evazar.ir/brand/amiri/,/brand/amiri/,amiri,amiri,no,not_checked,,3,3,no,1,source_not_verified
+3569,ریزالت,result,Result,https://evazar.ir/brand/result/,/brand/result/,result,result,no,not_checked,,34,34,no,1,source_not_verified
+3571,"مرسدس بنز",mercedes-benz,"Mercedes Benz",https://evazar.ir/brand/mercedes-benz/,/brand/mercedes-benz/,mercedes-benz,mercedes-benz,no,not_checked,,6,6,no,1,source_not_verified
+3575,کومونو,komono,Komono,https://evazar.ir/brand/komono/,/brand/komono/,komono,komono,no,not_checked,,1,1,no,1,source_not_verified
+3577,رندولف,randolph,RANDOLPH,https://evazar.ir/brand/randolph/,/brand/randolph/,randolph,randolph,no,not_checked,,1,1,no,1,source_not_verified
+3579,"لانیا روما",linea-roma,"linea roma",https://evazar.ir/brand/linea-roma/,/brand/linea-roma/,linea-roma,linea-roma,no,not_checked,,3,3,no,1,source_not_verified
+3584,"ماریم اکو",marimekko,Marimekko,https://evazar.ir/brand/marimekko/,/brand/marimekko/,marimekko,marimekko,no,not_checked,,2,2,no,1,source_not_verified
+3587,"تگ هویر",tag-heuer,"Tag Heuer",https://evazar.ir/brand/tag-heuer/,/brand/tag-heuer/,tag-heuer,tag-heuer,no,not_checked,,1,1,no,1,source_not_verified
+3589,مولسیون,molsion,MOLSION,https://evazar.ir/brand/molsion/,/brand/molsion/,molsion,molsion,no,not_checked,,21,21,no,1,source_not_verified
+3591,"جی اف فره",gf-ferre,"GF Ferre",https://evazar.ir/brand/gf-ferre/,/brand/gf-ferre/,gf-ferre,gf-ferre,no,not_checked,,1,1,no,1,source_not_verified
+3593,"الکساندر مک کوئین",alexander-mcqueen,"Alexander McQueen",https://evazar.ir/brand/alexander-mcqueen/,/brand/alexander-mcqueen/,alexander-mcqueen,alexander-mcqueen,no,not_checked,,2,2,no,1,source_not_verified
+3596,پاواروتی,pavarotti,pavarotti,https://evazar.ir/brand/pavarotti/,/brand/pavarotti/,pavarotti,pavarotti,no,not_checked,,1,1,no,1,source_not_verified
+3599,بالمن,balmain,Balmain,https://evazar.ir/brand/balmain/,/brand/balmain/,balmain,balmain,no,not_checked,,1,1,no,1,source_not_verified
+3603,کنزو,kenzo,Kenzo,https://evazar.ir/brand/kenzo/,/brand/kenzo/,kenzo,kenzo,no,not_checked,,1,1,no,1,source_not_verified
+3605,مورمایی,mormaii,mormaii,https://evazar.ir/brand/mormaii/,/brand/mormaii/,mormaii,mormaii,no,not_checked,,8,8,no,1,source_not_verified
+3607,بولگت,bulget,Bulget,https://evazar.ir/brand/bulget/,/brand/bulget/,bulget,bulget,no,not_checked,,1,1,no,1,source_not_verified
+3610,"پالم آنجلز",palm-angels,"Palm Angels",https://evazar.ir/brand/palm-angels/,/brand/palm-angels/,palm-angels,palm-angels,no,not_checked,,1,1,no,1,source_not_verified
+3614,"مائوئی جیم",maui-jim,"Maui Jim",https://evazar.ir/brand/maui-jim/,/brand/maui-jim/,maui-jim,maui-jim,no,not_checked,,4,4,no,1,source_not_verified
+3617,اینویو,invu,INVU,https://evazar.ir/brand/invu/,/brand/invu/,invu,invu,no,not_checked,,3,3,no,1,source_not_verified
+3620,پیک,peak,PEAK,https://evazar.ir/brand/peak/,/brand/peak/,peak,peak,no,not_checked,,1,1,no,1,source_not_verified
+3624,هرموسا,hermossa,hermossa,https://evazar.ir/brand/hermossa/,/brand/hermossa/,hermossa,hermossa,no,not_checked,,5,5,no,1,source_not_verified
+3626,اوسه,osse,Osse,https://evazar.ir/brand/osse/,/brand/osse/,osse,osse,no,not_checked,,4,4,no,1,source_not_verified
+3628,مورگان,morgan,Morgan,https://evazar.ir/brand/morgan/,/brand/morgan/,morgan,morgan,no,not_checked,,2,2,no,1,source_not_verified
+3631,"دایان وان فارستنبرگ",diane-von-furstenberg,"Diane Von Furstenberg",https://evazar.ir/brand/diane-von-furstenberg/,/brand/diane-von-furstenberg/,diane-von-furstenberg,diane-von-furstenberg,no,not_checked,,1,1,no,1,source_not_verified
+3635,دسپادا,despada,Despada,https://evazar.ir/brand/despada/,/brand/despada/,despada,despada,no,not_checked,,2,2,no,1,source_not_verified
+3638,بارنر,barner,Barner,https://evazar.ir/brand/barner/,/brand/barner/,barner,barner,no,not_checked,,1,1,no,1,source_not_verified
+3641,"کارن میلن",karen-millen,"Karen Millen",https://evazar.ir/brand/karen-millen/,/brand/karen-millen/,karen-millen,karen-millen,no,not_checked,,1,1,no,1,source_not_verified
+3644,"تد بیکر",ted-baker,"Ted Baker",https://evazar.ir/brand/ted-baker/,/brand/ted-baker/,ted-baker,ted-baker,no,not_checked,,1,1,no,1,source_not_verified
+3646,"جاست کاوالی",just-cavalli,"Just Cavalli",https://evazar.ir/brand/just-cavalli/,/brand/just-cavalli/,just-cavalli,just-cavalli,no,not_checked,,1,1,no,1,source_not_verified
+3648,لانستی,lancetti,LANCETTI,https://evazar.ir/brand/lancetti/,/brand/lancetti/,lancetti,lancetti,no,not_checked,,1,1,no,1,source_not_verified
+3650,شارنمون,sharnemon,Sharnemon,https://evazar.ir/brand/sharnemon/,/brand/sharnemon/,sharnemon,sharnemon,no,not_checked,,14,14,no,1,source_not_verified
+3653,"ایتالیا ایندپندنت",italia-independent,"Italia Independent",https://evazar.ir/brand/italia-independent/,/brand/italia-independent/,italia-independent,italia-independent,no,not_checked,,1,1,no,1,source_not_verified
+3659,"تیج سان",tijsan,Tijsan,https://evazar.ir/brand/tijsan/,/brand/tijsan/,tijsan,tijsan,no,not_checked,,7,7,no,1,source_not_verified
+3662,حقی,haghi,HAGHI,https://evazar.ir/brand/haghi/,/brand/haghi/,haghi,haghi,no,not_checked,,1,1,no,1,source_not_verified
+3685,"ضیاکو ترنج",zyaco-toranj,"ZYACO TORANJ",https://evazar.ir/brand/zyaco-toranj/,/brand/zyaco-toranj/,zyaco-toranj,zyaco-toranj,no,not_checked,,1,1,no,1,source_not_verified
+3687,اسمارا,esmara,Esmara,https://evazar.ir/brand/esmara/,/brand/esmara/,esmara,esmara,no,not_checked,,8,8,no,1,source_not_verified
+3690,"شهر شیک",shahr-e-shik,"Shahr e Shik",https://evazar.ir/brand/shahr-e-shik/,/brand/shahr-e-shik/,shahr-e-shik,shahr-e-shik,no,not_checked,,26,26,no,1,source_not_verified
+3692,"توان تن خزر",tavantan-khazar,"Tavantan Khazar",https://evazar.ir/brand/tavantan-khazar/,/brand/tavantan-khazar/,tavantan-khazar,tavantan-khazar,no,not_checked,,1,1,no,1,source_not_verified
+3698,جینا,gina,Gina,https://evazar.ir/brand/gina/,/brand/gina/,gina,gina,no,not_checked,,1,1,no,1,source_not_verified
+3702,"آی تمر",ay-temer,"ay temer",https://evazar.ir/brand/ay-temer/,/brand/ay-temer/,ay-temer,ay-temer,no,not_checked,,769,769,no,1,source_not_verified
+3704,آنالیا,analia,Analia,https://evazar.ir/brand/analia/,/brand/analia/,analia,analia,no,not_checked,,56,56,no,1,source_not_verified
+3708,ژانت,zhanet,zhanet,https://evazar.ir/brand/zhanet/,/brand/zhanet/,zhanet,zhanet,no,not_checked,,1,1,no,1,source_not_verified
+3715,لیپو,lepu,lepu,https://evazar.ir/brand/lepu/,/brand/lepu/,lepu,lepu,no,not_checked,,2,2,no,1,source_not_verified
+3721,موریی,moree,moreE,https://evazar.ir/brand/moree/,/brand/moree/,moree,moree,no,not_checked,,6,6,no,1,source_not_verified
+3723,کاملیا,kamelia,KAMELIA,https://evazar.ir/brand/kamelia/,/brand/kamelia/,kamelia,kamelia,no,not_checked,,1,1,no,1,source_not_verified
+3725,آسیا,asia,Asia,https://evazar.ir/brand/asia/,/brand/asia/,asia,asia,no,not_checked,,1,1,no,1,source_not_verified
+3727,شیدخت,shidokht,Shidokht,https://evazar.ir/brand/shidokht/,/brand/shidokht/,shidokht,shidokht,no,not_checked,,1,1,no,1,source_not_verified
+3730,فونم,fonem,Fonem,https://evazar.ir/brand/fonem/,/brand/fonem/,fonem,fonem,no,not_checked,,2,2,no,1,source_not_verified
+3732,"تن یار",tanyar,Tanyar,https://evazar.ir/brand/tanyar/,/brand/tanyar/,tanyar,tanyar,no,not_checked,,1,1,no,1,source_not_verified
+3735,اکوسبدکو,ecosabadco,ecosabadco,https://evazar.ir/brand/ecosabadco/,/brand/ecosabadco/,ecosabadco,ecosabadco,no,not_checked,,2,2,no,1,source_not_verified
+3737,ودز,wedze,WEDZE,https://evazar.ir/brand/wedze/,/brand/wedze/,wedze,wedze,no,not_checked,,2,2,no,1,source_not_verified
+3739,دیزنی,disney,Disney,https://evazar.ir/brand/disney/,/brand/disney/,disney,disney,no,not_checked,,2,2,no,1,source_not_verified
+3741,"کول بیت",coolbit,Coolbit,https://evazar.ir/brand/coolbit/,/brand/coolbit/,coolbit,coolbit,no,not_checked,,2,2,no,1,source_not_verified
+3743,"چرم کن ا",can-a-leather,"Can A Leather",https://evazar.ir/brand/can-a-leather/,/brand/can-a-leather/,can-a-leather,can-a-leather,no,not_checked,,1,1,no,1,source_not_verified
+3748,"گورین براز",goorin-bros,"Goorin Bros",https://evazar.ir/brand/goorin-bros/,/brand/goorin-bros/,goorin-bros,goorin-bros,no,not_checked,,63,63,no,1,source_not_verified
+3751,"نیو ارا",new-era,"New Era",https://evazar.ir/brand/new-era/,/brand/new-era/,new-era,new-era,no,not_checked,,2,2,no,1,source_not_verified
+3758,5.11,5-11,5.11,https://evazar.ir/brand/5-11/,/brand/5-11/,5-11,5-11,no,not_checked,,3,3,no,1,source_not_verified
+3762,هووک,huk,huk,https://evazar.ir/brand/huk/,/brand/huk/,huk,huk,no,not_checked,,3,3,no,1,source_not_verified
+3764,"راک براس",rockbros,Rockbros,https://evazar.ir/brand/rockbros/,/brand/rockbros/,rockbros,rockbros,no,not_checked,,1,1,no,1,source_not_verified
+3767,هووی,hooey,hooey,https://evazar.ir/brand/hooey/,/brand/hooey/,hooey,hooey,no,not_checked,,3,3,no,1,source_not_verified
+3769,قایا,gaya,Gaya,https://evazar.ir/brand/gaya/,/brand/gaya/,gaya,gaya,no,not_checked,,4,4,no,1,source_not_verified
+3772,باف,buff,Buff,https://evazar.ir/brand/buff/,/brand/buff/,buff,buff,no,not_checked,,4,4,no,1,source_not_verified
+3775,اوتو,otto,otto,https://evazar.ir/brand/otto/,/brand/otto/,otto,otto,no,not_checked,,2,2,no,1,source_not_verified
+3777,کوتون,koton,Koton,https://evazar.ir/brand/koton/,/brand/koton/,koton,koton,no,not_checked,,1,1,no,1,source_not_verified
+3780,آنتا,anta,Anta,https://evazar.ir/brand/anta/,/brand/anta/,anta,anta,no,not_checked,,3,3,no,1,source_not_verified
+3788,"اوت دور",outdoor,Outdoor,https://evazar.ir/brand/outdoor/,/brand/outdoor/,outdoor,outdoor,no,not_checked,,1,1,no,1,source_not_verified
+3791,"ای ایکس تو",ex2,EX2,https://evazar.ir/brand/ex2/,/brand/ex2/,ex2,ex2,no,not_checked,,2,2,no,1,source_not_verified
+3794,"بیک بوک",bik-bok,"Bik Bok",https://evazar.ir/brand/bik-bok/,/brand/bik-bok/,bik-bok,bik-bok,no,not_checked,,1,1,no,1,source_not_verified
+3796,دیوایدد,divided,Divided,https://evazar.ir/brand/divided/,/brand/divided/,divided,divided,no,not_checked,,4,4,no,1,source_not_verified
+3802,کاست,coast,Coast,https://evazar.ir/brand/coast/,/brand/coast/,coast,coast,no,not_checked,,4,4,no,1,source_not_verified
+3806,بوهو,boohoo,boohoo,https://evazar.ir/brand/boohoo/,/brand/boohoo/,boohoo,boohoo,no,not_checked,,1,1,no,1,source_not_verified
+3808,"سالتی کرو",saltycrew,Saltycrew,https://evazar.ir/brand/saltycrew/,/brand/saltycrew/,saltycrew,saltycrew,no,not_checked,,2,2,no,1,source_not_verified
+3810,کوبوس,cubus,Cubus,https://evazar.ir/brand/cubus/,/brand/cubus/,cubus,cubus,no,not_checked,,2,2,no,1,source_not_verified
+3812,فورکاست,forcast,forcast,https://evazar.ir/brand/forcast/,/brand/forcast/,forcast,forcast,no,not_checked,,1,1,no,1,source_not_verified
+3814,فورد,ford,Ford,https://evazar.ir/brand/ford/,/brand/ford/,ford,ford,no,not_checked,,1,1,no,1,source_not_verified
+3816,آتلانتیس,atlantis,Atlantis,https://evazar.ir/brand/atlantis/,/brand/atlantis/,atlantis,atlantis,no,not_checked,,1,1,no,1,source_not_verified
+3824,میرافشن,mirafashion,MiraFashion,https://evazar.ir/brand/mirafashion/,/brand/mirafashion/,mirafashion,mirafashion,no,not_checked,,1,1,no,1,source_not_verified
+3829,ناکسیگو,naxigo,Naxigo,https://evazar.ir/brand/naxigo/,/brand/naxigo/,naxigo,naxigo,no,not_checked,,815,815,no,1,source_not_verified
+3833,یوفا,uefa,UEFA,https://evazar.ir/brand/uefa/,/brand/uefa/,uefa,uefa,no,not_checked,,1,1,no,1,source_not_verified
+3835,"باراج من",baraje-man,"baraje man",https://evazar.ir/brand/baraje-man/,/brand/baraje-man/,baraje-man,baraje-man,no,not_checked,,65,65,no,1,source_not_verified
+3837,"شیک کده",shik-kadeh,"Shik kadeh",https://evazar.ir/brand/shik-kadeh/,/brand/shik-kadeh/,shik-kadeh,shik-kadeh,no,not_checked,,7,7,no,1,source_not_verified
+3840,"استینلس استیل",stainless-steel,"stainless steel",https://evazar.ir/brand/stainless-steel/,/brand/stainless-steel/,stainless-steel,stainless-steel,no,not_checked,,51,51,no,1,source_not_verified
+3842,"مون لایت",moon-light,"Moon Light",https://evazar.ir/brand/moon-light/,/brand/moon-light/,moon-light,moon-light,no,not_checked,,4,4,no,1,source_not_verified
+3846,"وای اس ایکس",ysx,YSX,https://evazar.ir/brand/ysx/,/brand/ysx/,ysx,ysx,no,not_checked,,53,53,no,1,source_not_verified
+3849,"جی دبلیو ال",jwl,JWL,https://evazar.ir/brand/jwl/,/brand/jwl/,jwl,jwl,no,not_checked,,7,7,no,1,source_not_verified
+3852,عود,oood,Oood,https://evazar.ir/brand/oood/,/brand/oood/,oood,oood,no,not_checked,,4,4,no,1,source_not_verified
+3854,گلسو,golsou,Golsou,https://evazar.ir/brand/golsou/,/brand/golsou/,golsou,golsou,no,not_checked,,97,97,no,1,source_not_verified
+3859,"گالری شادونه",shadoone-gallery,"shadoone gallery",https://evazar.ir/brand/shadoone-gallery/,/brand/shadoone-gallery/,shadoone-gallery,shadoone-gallery,no,not_checked,,44,44,no,1,source_not_verified
+3861,زودیکا,zoodika,ZOODIKA,https://evazar.ir/brand/zoodika/,/brand/zoodika/,zoodika,zoodika,no,not_checked,,161,161,no,1,source_not_verified
+3866,آرامیس,aramis,Aramis,https://evazar.ir/brand/aramis/,/brand/aramis/,aramis,aramis,no,not_checked,,7,7,no,1,source_not_verified
+3870,لاچو,lacho,Lacho,https://evazar.ir/brand/lacho/,/brand/lacho/,lacho,lacho,no,not_checked,,7,7,no,1,source_not_verified
+3875,آکو,ako,Ako,https://evazar.ir/brand/ako/,/brand/ako/,ako,ako,no,not_checked,,4,4,no,1,source_not_verified
+3877,چوبین,choobin,Choobin,https://evazar.ir/brand/choobin/,/brand/choobin/,choobin,choobin,no,not_checked,,2,2,no,1,source_not_verified
+3879,لوتوس,lotus,Lotus,https://evazar.ir/brand/lotus/,/brand/lotus/,lotus,lotus,no,not_checked,,4,4,no,1,source_not_verified
+3881,"دنیل ولینگتون",daniel-wellington,"Daniel Wellington",https://evazar.ir/brand/daniel-wellington/,/brand/daniel-wellington/,daniel-wellington,daniel-wellington,no,not_checked,,6,6,no,1,source_not_verified
+3883,ذاریات,zariyat,Zariyat,https://evazar.ir/brand/zariyat/,/brand/zariyat/,zariyat,zariyat,no,not_checked,,32,32,no,1,source_not_verified
+3890,"پونت روما",punt-roma,"Punt Roma",https://evazar.ir/brand/punt-roma/,/brand/punt-roma/,punt-roma,punt-roma,no,not_checked,,2,2,no,1,source_not_verified
+3893,"اسکارلت بیجوکس",scarlet-bijoux,"scarlet bijoux",https://evazar.ir/brand/scarlet-bijoux/,/brand/scarlet-bijoux/,scarlet-bijoux,scarlet-bijoux,no,not_checked,,5,5,no,1,source_not_verified
+3895,ژابیز,xabiz,xabiz,https://evazar.ir/brand/xabiz/,/brand/xabiz/,xabiz,xabiz,no,not_checked,,1,1,no,1,source_not_verified
+3900,وینویز,viennois,Viennois,https://evazar.ir/brand/viennois/,/brand/viennois/,viennois,viennois,no,not_checked,,6,6,no,1,source_not_verified
+3906,کفایتیان,kgi,KGI,https://evazar.ir/brand/kgi/,/brand/kgi/,kgi,kgi,no,not_checked,,23,23,no,1,source_not_verified
+3909,دیمو,dimo,Dimo,https://evazar.ir/brand/dimo/,/brand/dimo/,dimo,dimo,no,not_checked,,1,1,no,1,source_not_verified
+3911,"نچرالی ژوژو",naturally-jojo,"NATURALLY JOJO",https://evazar.ir/brand/naturally-jojo/,/brand/naturally-jojo/,naturally-jojo,naturally-jojo,no,not_checked,,7,7,no,1,source_not_verified
+3913,دادفوردیزاین,dad4design,DAD4DESIGN,https://evazar.ir/brand/dad4design/,/brand/dad4design/,dad4design,dad4design,no,not_checked,,9,9,no,1,source_not_verified
+3915,اقلیمه,eghlimeh,Eghlimeh,https://evazar.ir/brand/eghlimeh/,/brand/eghlimeh/,eghlimeh,eghlimeh,no,not_checked,,334,334,no,1,source_not_verified
+3919,مثالین,mesaleen,Mesaleen,https://evazar.ir/brand/mesaleen/,/brand/mesaleen/,mesaleen,mesaleen,no,not_checked,,1,1,no,1,source_not_verified
+3921,"نخل زیور",nakhlzivar,nakhlzivar,https://evazar.ir/brand/nakhlzivar/,/brand/nakhlzivar/,nakhlzivar,nakhlzivar,no,not_checked,,1,1,no,1,source_not_verified
+3924,دانژه,danje,Danje,https://evazar.ir/brand/danje/,/brand/danje/,danje,danje,no,not_checked,,210,210,no,1,source_not_verified
+3926,"مارک گلد",mark-gold,"Mark Gold",https://evazar.ir/brand/mark-gold/,/brand/mark-gold/,mark-gold,mark-gold,no,not_checked,,159,159,no,1,source_not_verified
+3928,آدلی,adli-leather,"Adli Leather",https://evazar.ir/brand/adli-leather/,/brand/adli-leather/,adli-leather,adli-leather,no,not_checked,,31,31,no,1,source_not_verified
+3931,زرسام,zarsam,Zarsam,https://evazar.ir/brand/zarsam/,/brand/zarsam/,zarsam,zarsam,no,not_checked,,1,1,no,1,source_not_verified
+3936,تریوا,triwa,Triwa,https://evazar.ir/brand/triwa/,/brand/triwa/,triwa,triwa,no,not_checked,,1,1,no,1,source_not_verified
+3938,الون,alone,Alone,https://evazar.ir/brand/alone/,/brand/alone/,alone,alone,no,not_checked,,77,77,no,1,source_not_verified
+3940,پیلگریم,pilgrim,PILGRIM,https://evazar.ir/brand/pilgrim/,/brand/pilgrim/,pilgrim,pilgrim,no,not_checked,,2,2,no,1,source_not_verified
+3943,"ناز طلا آرا",naz-tala-ara,"Naz tala ara",https://evazar.ir/brand/naz-tala-ara/,/brand/naz-tala-ara/,naz-tala-ara,naz-tala-ara,no,not_checked,,19,19,no,1,source_not_verified
+3945,کلیو,clio,Clio,https://evazar.ir/brand/clio/,/brand/clio/,clio,clio,no,not_checked,,37,37,no,1,source_not_verified
+3949,"پاول هویت",paul-hewitt,"Paul Hewitt",https://evazar.ir/brand/paul-hewitt/,/brand/paul-hewitt/,paul-hewitt,paul-hewitt,no,not_checked,,12,12,no,1,source_not_verified
+3952,اورسای,orsay,orsay,https://evazar.ir/brand/orsay/,/brand/orsay/,orsay,orsay,no,not_checked,,3,3,no,1,source_not_verified
+3955,انزو,enzo,Enzo,https://evazar.ir/brand/enzo/,/brand/enzo/,enzo,enzo,no,not_checked,,1,1,no,1,source_not_verified
+3958,"صنایع چرم پیری",sanaye-charm-piri,"Sanaye Charm Piri",https://evazar.ir/brand/sanaye-charm-piri/,/brand/sanaye-charm-piri/,sanaye-charm-piri,sanaye-charm-piri,no,not_checked,,1,1,no,1,source_not_verified
+3961,"جولری باکس تو",jewelry-box-two,"Jewelry Box Two",https://evazar.ir/brand/jewelry-box-two/,/brand/jewelry-box-two/,jewelry-box-two,jewelry-box-two,no,not_checked,,4,4,no,1,source_not_verified
+3963,"پرشین باکس",persian-box,"persian box",https://evazar.ir/brand/persian-box/,/brand/persian-box/,persian-box,persian-box,no,not_checked,,8,8,no,1,source_not_verified
+3970,"پارلا گوهر",parla-gohar,"Parla Gohar",https://evazar.ir/brand/parla-gohar/,/brand/parla-gohar/,parla-gohar,parla-gohar,no,not_checked,,24,24,no,1,source_not_verified
+3972,کیتا,kita,kita,https://evazar.ir/brand/kita/,/brand/kita/,kita,kita,no,not_checked,,1,1,no,1,source_not_verified
+3974,"آریا کریستال",arya-crystal,"Arya Crystal",https://evazar.ir/brand/arya-crystal/,/brand/arya-crystal/,arya-crystal,arya-crystal,no,not_checked,,6,6,no,1,source_not_verified
+3978,سیتیزن,citizen,Citizen,https://evazar.ir/brand/citizen/,/brand/citizen/,citizen,citizen,no,not_checked,,1,1,no,1,source_not_verified
+3982,"کارا دیزاین",kara-design,"Kara Design",https://evazar.ir/brand/kara-design/,/brand/kara-design/,kara-design,kara-design,no,not_checked,,1,1,no,1,source_not_verified
+3985,سیلویا,silvia,Silvia,https://evazar.ir/brand/silvia/,/brand/silvia/,silvia,silvia,no,not_checked,,1,1,no,1,source_not_verified
+3987,افتخار,eftekhaar,Eftekhaar,https://evazar.ir/brand/eftekhaar/,/brand/eftekhaar/,eftekhaar,eftekhaar,no,not_checked,,1,1,no,1,source_not_verified
+3989,"استیند گلاس",staind-glass,"staind glass",https://evazar.ir/brand/staind-glass/,/brand/staind-glass/,staind-glass,staind-glass,no,not_checked,,1,1,no,1,source_not_verified
+3992,"گالری شمرون",shemron-gallery,"Shemron Gallery",https://evazar.ir/brand/shemron-gallery/,/brand/shemron-gallery/,shemron-gallery,shemron-gallery,no,not_checked,,1,1,no,1,source_not_verified
+3994,"مایا ماهک",maya-maahak,"Maya Maahak",https://evazar.ir/brand/maya-maahak/,/brand/maya-maahak/,maya-maahak,maya-maahak,no,not_checked,,1,1,no,1,source_not_verified
+3997,مریخ,merrix,Merrix,https://evazar.ir/brand/merrix/,/brand/merrix/,merrix,merrix,no,not_checked,,5,5,no,1,source_not_verified
+4004,"صنایع دست ساز باربد",barbod-handmade,"Barbod Handmade",https://evazar.ir/brand/barbod-handmade/,/brand/barbod-handmade/,barbod-handmade,barbod-handmade,no,not_checked,,1,1,no,1,source_not_verified
+4007,"سین گالری",sin-gallery,"Sin Gallery",https://evazar.ir/brand/sin-gallery/,/brand/sin-gallery/,sin-gallery,sin-gallery,no,not_checked,,5,5,no,1,source_not_verified
+4011,دریم,dream,Dream,https://evazar.ir/brand/dream/,/brand/dream/,dream,dream,no,not_checked,,2,2,no,1,source_not_verified
+4016,"خط هنر",khate-honar,"khate honar",https://evazar.ir/brand/khate-honar/,/brand/khate-honar/,khate-honar,khate-honar,no,not_checked,,8,8,no,1,source_not_verified
+4021,"فشن جویلری",fashion-jewelry,"Fashion Jewelry",https://evazar.ir/brand/fashion-jewelry/,/brand/fashion-jewelry/,fashion-jewelry,fashion-jewelry,no,not_checked,,4,4,no,1,source_not_verified
+4027,دلبر,delbar,delbar,https://evazar.ir/brand/delbar/,/brand/delbar/,delbar,delbar,no,not_checked,,1,1,no,1,source_not_verified
+4030,"سی اند ای",ca,C&A,https://evazar.ir/brand/ca/,/brand/ca/,ca,ca,no,not_checked,,2,2,no,1,source_not_verified
+4040,"کاز استورس",cosstores,Cosstores,https://evazar.ir/brand/cosstores/,/brand/cosstores/,cosstores,cosstores,no,not_checked,,2,2,no,1,source_not_verified
+4043,مگافون,megafone,MEGAFONE,https://evazar.ir/brand/megafone/,/brand/megafone/,megafone,megafone,no,not_checked,,34,34,no,1,source_not_verified
+4048,بانیبو,banibo,Banibo,https://evazar.ir/brand/banibo/,/brand/banibo/,banibo,banibo,no,not_checked,,1,1,no,1,source_not_verified
+4051,ژیلو,zhilo,zhilo,https://evazar.ir/brand/zhilo/,/brand/zhilo/,zhilo,zhilo,no,not_checked,,9,9,no,1,source_not_verified
+4053,نمدیکا,namadika,Namadika,https://evazar.ir/brand/namadika/,/brand/namadika/,namadika,namadika,no,not_checked,,29,29,no,1,source_not_verified
+4061,"دنیای سرگرمی های کمیاب",doniaye-sargarmihaye-kamyab,"DONIAYE SARGARMIHAYE KAMYAB",https://evazar.ir/brand/doniaye-sargarmihaye-kamyab/,/brand/doniaye-sargarmihaye-kamyab/,doniaye-sargarmihaye-kamyab,doniaye-sargarmihaye-kamyab,no,not_checked,,9,9,no,1,source_not_verified
+4065,"طوطی دیزاین",2t-design,"2T Design",https://evazar.ir/brand/2t-design/,/brand/2t-design/,2t-design,2t-design,no,not_checked,,22,22,no,1,source_not_verified
+4071,لوکسار,luxar,LUXAR,https://evazar.ir/brand/luxar/,/brand/luxar/,luxar,luxar,no,not_checked,,1,1,no,1,source_not_verified
+4073,توسن,tosan,TOSAN,https://evazar.ir/brand/tosan/,/brand/tosan/,tosan,tosan,no,not_checked,,1,1,no,1,source_not_verified
+4076,"ام آر جی",mrj,MRJ,https://evazar.ir/brand/mrj/,/brand/mrj/,mrj,mrj,no,not_checked,,1,1,no,1,source_not_verified
+4082,کملیون,camelion,Camelion,https://evazar.ir/brand/camelion/,/brand/camelion/,camelion,camelion,no,not_checked,,1,1,no,1,source_not_verified
+4084,رستا,rasta,Rasta,https://evazar.ir/brand/rasta/,/brand/rasta/,rasta,rasta,no,not_checked,,7,7,no,1,source_not_verified
+4089,ایکسسوری,x-cessories,X-cessories,https://evazar.ir/brand/x-cessories/,/brand/x-cessories/,x-cessories,x-cessories,no,not_checked,,2,2,no,1,source_not_verified
+4094,ویکتورینوکس,victorinox,VICTORINOX,https://evazar.ir/brand/victorinox/,/brand/victorinox/,victorinox,victorinox,no,not_checked,,2,2,no,1,source_not_verified
+4096,اسپیگن,spigen,Spigen,https://evazar.ir/brand/spigen/,/brand/spigen/,spigen,spigen,no,not_checked,,1,1,no,1,source_not_verified
+4099,لگو,lego,Lego,https://evazar.ir/brand/lego/,/brand/lego/,lego,lego,no,not_checked,,6,6,no,1,source_not_verified
+4102,وارتا,varta,Varta,https://evazar.ir/brand/varta/,/brand/varta/,varta,varta,no,not_checked,,1,1,no,1,source_not_verified
+4105,چرماهنگ,charmahang,Charmahang,https://evazar.ir/brand/charmahang/,/brand/charmahang/,charmahang,charmahang,no,not_checked,,1,1,no,1,source_not_verified
+4108,فانکو,funko,Funko,https://evazar.ir/brand/funko/,/brand/funko/,funko,funko,no,not_checked,,1,1,no,1,source_not_verified
+4113,نینو,nino,Nino,https://evazar.ir/brand/nino/,/brand/nino/,nino,nino,no,not_checked,,1,1,no,1,source_not_verified
+4142,"آف ناز",offnaz,Offnaz,https://evazar.ir/brand/offnaz/,/brand/offnaz/,offnaz,offnaz,no,not_checked,,1,1,no,1,source_not_verified
+4145,"النا آراکس",elena-arax,"elena arax",https://evazar.ir/brand/elena-arax/,/brand/elena-arax/,elena-arax,elena-arax,no,not_checked,,41,41,no,1,source_not_verified
+4148,"ماه فام",mahfam,Mahfam,https://evazar.ir/brand/mahfam/,/brand/mahfam/,mahfam,mahfam,no,not_checked,,1,1,no,1,source_not_verified
+4154,"هنری ساز",honarisaz,Honarisaz,https://evazar.ir/brand/honarisaz/,/brand/honarisaz/,honarisaz,honarisaz,no,not_checked,,1,1,no,1,source_not_verified
+4166,هایکا,haika,haika,https://evazar.ir/brand/haika/,/brand/haika/,haika,haika,no,not_checked,,2,2,no,1,source_not_verified
+4184,"ملک زیور",malek-zivar,"MALEK ZIVAR",https://evazar.ir/brand/malek-zivar/,/brand/malek-zivar/,malek-zivar,malek-zivar,no,not_checked,,2,2,no,1,source_not_verified
+4188,"تیپ لند",tipland,Tipland,https://evazar.ir/brand/tipland/,/brand/tipland/,tipland,tipland,no,not_checked,,6,6,no,1,source_not_verified
+4190,"وینگز بایو",wings-byou,"Wings Byou",https://evazar.ir/brand/wings-byou/,/brand/wings-byou/,wings-byou,wings-byou,no,not_checked,,1,1,no,1,source_not_verified
+4195,"کاراکتر کلاب",character-club,"CHARACTER CLUB",https://evazar.ir/brand/character-club/,/brand/character-club/,character-club,character-club,no,not_checked,,1,1,no,1,source_not_verified
+4198,"نقش نگار رضوی",naghsh-negar-razavi,"Naghsh Negar Razavi",https://evazar.ir/brand/naghsh-negar-razavi/,/brand/naghsh-negar-razavi/,naghsh-negar-razavi,naghsh-negar-razavi,no,not_checked,,1,1,no,1,source_not_verified
+4226,مانگون,manguun,manguun,https://evazar.ir/brand/manguun/,/brand/manguun/,manguun,manguun,no,not_checked,,2,2,no,1,source_not_verified
+4229,اینفینیتی,infinity,Infinity,https://evazar.ir/brand/infinity/,/brand/infinity/,infinity,infinity,no,not_checked,,1,1,no,1,source_not_verified
+4237,"میلا شون",mila-schon,"mila schon",https://evazar.ir/brand/mila-schon/,/brand/mila-schon/,mila-schon,mila-schon,no,not_checked,,1,1,no,1,source_not_verified
+4239,"تاج نیا",tajnia,tajnia,https://evazar.ir/brand/tajnia/,/brand/tajnia/,tajnia,tajnia,no,not_checked,,1,1,no,1,source_not_verified
+4242,آیلار,aylar,Aylar,https://evazar.ir/brand/aylar/,/brand/aylar/,aylar,aylar,no,not_checked,,4,4,no,1,source_not_verified
+4244,دونابل,donnabel,Donnabel,https://evazar.ir/brand/donnabel/,/brand/donnabel/,donnabel,donnabel,no,not_checked,,1,1,no,1,source_not_verified
+4246,ماتیل,mattel,Mattel,https://evazar.ir/brand/mattel/,/brand/mattel/,mattel,mattel,no,not_checked,,1,1,no,1,source_not_verified
+4248,هاماگراف,hamagraph,hamagraph,https://evazar.ir/brand/hamagraph/,/brand/hamagraph/,hamagraph,hamagraph,no,not_checked,,1,1,no,1,source_not_verified

@@ -1,0 +1,1326 @@
+﻿term_id,brand_name,wordpress_slug,brand_en,title_derived_slug_not_authoritative,saved_digikala_source_url,saved_source_slug,source_slug_from_url,explicit_source_path_recorded,attached_products,published_products,diagnostic_flags,safe_next_action
+3,"وسترن دیجیتال",western-digital,"Western Digital",western-digital,,"western digital",,no,19,19,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+12,تسکو,tsco,TSCO,tsco,,tsco,,no,13,13,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+16,سامسونگ,samsung,Samsung,samsung,,samsung,,no,86,86,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+19,انکر,anker,Anker,anker,,anker,,no,64,64,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+25,ویتالیر,vitalayer,Vitalayer,vitalayer,,vitalayer,,no,88,88,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+65,ایسوس,asus,ASUS,asus,,asus,,no,1075,1075,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+69,"تی پی-لینک",tp-link,TP-LINK,tp-link,,tp-link,,no,28,28,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+73,سونی,sony,Sony,sony,,sony,,no,39,39,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+75,مایکروسافت,microsoft,Microsoft,microsoft,,microsoft,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+77,نینتندو,nintendo,Nintendo,nintendo,,nintendo,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+81,کیمی,kemei,Kemei,kemei,,kemei,,no,149,149,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+83,"وی جی ار",vgr,VGR,vgr,,vgr,,no,178,178,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+85,فیلیپس,philips,Philips,philips,,philips,,no,97,97,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+87,پرودو,porodo,Porodo,porodo,/brand/porodo/,porodo,porodo,no,32,32,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+89,شیائومی,xiaomi,Xiaomi,xiaomi,/brand/xiaomi/,xiaomi,xiaomi,no,25,25,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+91,راف,raf,RAF,raf,,raf,,no,14,14,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+93,جیمی,geemy,Geemy,geemy,,geemy,,no,33,33,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+95,پاناسونیک,panasonic,Panasonic,panasonic,,panasonic,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+97,"کنگ تک",kongtak,kongtak,kongtak,,kongtak,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+99,وایکیل,waikil,WAIKIL,waikil,,waikil,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+101,"دی اس پی",dsp,DSP,dsp,,dsp,,no,49,49,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+103,براون,braun,Braun,braun,,braun,,no,64,64,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+105,فلالس,flawless,Flawless,flawless,,flawless,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+107,رومئو,romeo,Romeo,romeo,,romeo,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+109,وال,wahl,Wahl,wahl,,wahl,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+111,وویور,voyor,Voyor,voyor,,voyor,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+112,متفرقه,miscellaneous,Miscellaneous,miscellaneous,/brand/miscellaneous/,miscellaneous,miscellaneous,no,64771,64771,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+114,والوروس,valorous,Valorous,valorous,,valorous,,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+116,میجیا,mijia,Mijia,mijia,/brand/mijia/,mijia,mijia,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+118,هانوور,hannover,Hannover,hannover,,hannover,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+120,سوکانی,sokany,Sokany,sokany,,sokany,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+122,"وال پروفشنال",wahl-professional,"wahl professional",wahl-professional,,"wahl professional",,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+124,پروجیمی,progemei,Progemei,progemei,,progemei,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+126,"اچ تی سی",htc,HTC,htc,,htc,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+128,هیوندای,hyundai,Hyundai,hyundai,,hyundai,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+130,یسیدو,yesido,Yesido,yesido,,yesido,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+132,"جی دبلیو",gw,GW,gw,,gw,,no,21,21,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+134,میگل,migel,Migel,migel,,migel,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+136,"مک استایلر",m-a-c-styler,"M.A.C Styler",m-a-c-styler,,"m.a.c styler",,no,10,10,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+138,دالینگ,daling,Daling,daling,,daling,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+140,وینسنت,vincent,VINCENT,vincent,,vincent,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+142,"گرین لاین",green-lion,"Green Lion",green-lion,/brand/green-lion/,green-lion,green-lion,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+144,آکووا,akova,AKOVA,akova,,akova,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+146,"بابیلیس پرو",babyliss-pro,"Babyliss PRO",babyliss-pro,,"babyliss pro",,no,15,15,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+148,جاماکی,jamaky,Jamaky,jamaky,,jamaky,,no,14,14,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+150,زیناکس,zenox,ZENOX,zenox,,zenox,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+152,بابیلیس,babyliss,Babyliss,babyliss,,babyliss,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+154,دیناواری,dinawari,DINAWARI,dinawari,,dinawari,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+156,ألفا,alfa,ALFA,alfa,,alfa,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+158,"ان شن",enchen,Enchen,enchen,,enchen,,no,19,19,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+160,اندیس,andis,Andis,andis,,andis,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+162,رزتی,rozetti,Rozetti,rozetti,,rozetti,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+164,پرنسلی,princely,Princely,princely,,princely,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+166,پرومارون,promaron,Promaron,promaron,,promaron,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+168,"دبلیو مارک",wmark,wmark,wmark,,wmark,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+170,"دینگ لینگ",dingling,Dingling,dingling,,dingling,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+172,گروندیگ,grundig,Grundig,grundig,,grundig,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+174,شینون,shinon,Shinon,shinon,,shinon,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+176,"روزیا پرو",roziapro,RoziaPRO,roziapro,,roziapro,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+178,وربنا,verbena,Verbena,verbena,,verbena,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+180,شوسی,showsee,Showsee,showsee,,showsee,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+182,رزونال,rezonal,Rezonal,rezonal,,rezonal,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+184,سورکر,surker,Surker,surker,,surker,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+186,ارلدام,earldom,Earldom,earldom,,earldom,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+188,"ایکس او",xo,XO,xo,,xo,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+190,نیکای,nikai,NIKAI,nikai,,nikai,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+192,هاتکر,hatteker,Hatteker,hatteker,,hatteker,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+194,"آ ا گ",aeg,AEG,aeg,,aeg,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+196,رمینگتون,remington,Remington,remington,,remington,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+198,کومکس,komex,komex,komex,,komex,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+200,"انزو پروفیشینال",enzo-professional,"ENZO Professional",enzo-professional,,"enzo professional",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+202,"وینینگ استار",winning-star,"winning star",winning-star,,"winning star",,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+204,کرونیر,cronier,CRONIER,cronier,,cronier,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+206,روزیا,rozia,Rozia,rozia,,rozia,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+208,وستینگ‌هاوس,westinghouse,Westinghouse,westinghouse,,westinghouse,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+210,بیورر,beurer,Beurer,beurer,,beurer,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+212,امگا,omega-ts,Omega,omega,/brand/omega/,omega,omega,no,5,5,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+214,جیهام,jiham,Jiham,jiham,,jiham,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+216,کنورث,kenworth,Kenworth,kenworth,,kenworth,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+218,سایونا,sayona,Sayona,sayona,,sayona,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+220,فلایکو,flyco,FLYCO,flyco,,flyco,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+222,"نیو نایس",new-nice,"New Nice",new-nice,,"new nice",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+224,سیکن,seeken,Seeken,seeken,,seeken,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+226,کیپه,kiepe,Kiepe,kiepe,,kiepe,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+228,روناس,ronas,RONAS,ronas,,ronas,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+230,ویوو,wiwu,Wiwu,wiwu,/brand/wiwu/,wiwu,wiwu,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+232,برایتاپ,brightup,BRIGHTUP,brightup,,brightup,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+234,مرویل,mervilie,Mervilie,mervilie,,mervilie,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+236,اُرایمو,oraimo,Oraimo,oraimo,,oraimo,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+238,فیهانگ,feihong,FEIHONG,feihong,,feihong,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+240,"آی کیو",iq,IQ,iq,,iq,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+242,والرا,valera,Valera,valera,,valera,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+244,بیم,beem,Beem,beem,,beem,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+246,پروموزر,promozer,Promozer,promozer,,promozer,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+248,بیبیورس,babyverse,babyverse,babyverse,,babyverse,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+250,سانفورد,sanford,sanford,sanford,,sanford,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+252,"گلد استار",gold-star,"Gold Star",gold-star,,"gold star",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+254,"سیلور کرست",silver-crest,"Silver Crest",silver-crest,,"silver crest",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+256,"سی بای",saybuuy,Saybuuy,saybuuy,,saybuuy,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+258,"لاک لایچی",lac-laichy,"Lac Laichy",lac-laichy,,"lac laichy",,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+260,"تاچ بیوتی",touch-beauty,"Touch Beauty",touch-beauty,,"touch beauty",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+262,برلین,berlin,Berlin,berlin,,berlin,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+264,لنکا,lenka,Lenka,lenka,,lenka,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+266,کوبیک,cubic,Cubic,cubic,/brand/cubic/,cubic,cubic,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+268,جاندلی,jundeli,Jundeli,jundeli,,jundeli,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+270,پروویو,prowave,Prowave,prowave,,prowave,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+279,کامل,kamel,Kamel,kamel,,kamel,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+281,زرساب,zarsab,Zarsab,zarsab,,zarsab,,no,21,21,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+283,بیتا,bita,Bita,bita,,bita,,no,21,21,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+285,کلیز,kleez,kleez,kleez,,kleez,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+287,همارا,homara,Homara,homara,,homara,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+289,عروس,aroos,Aroos,aroos,,aroos,,no,109,109,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+291,"به گز",behgaz,Behgaz,behgaz,,behgaz,,no,20,20,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+293,لیمون,limon,limon,limon,,limon,,no,52,52,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+301,"ظرف سازان اسدیان",zarfsazane-asadian,"Zarfsazane asadian",zarfsazane-asadian,,"zarfsazane asadian",,no,34,34,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+304,"شیشه و بلور اصفهان",esfahan-glass,"Esfahan Glass",esfahan-glass,,"esfahan glass",,no,26,26,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+306,کاورک,kaverak,kaverak,kaverak,,kaverak,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+308,"ظرفیران رهنمون",zarfiran-rahnamoon,"ZARFIRAN rahnamoon",zarfiran-rahnamoon,,"zarfiran rahnamoon",,no,18,18,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+310,بانیس,banis,Banis,banis,,banis,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+312,"سافت شف",soft-chef,"Soft chef",soft-chef,,"soft chef",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+314,"میس گلس",miss-glass,"miss glass",miss-glass,,"miss glass",,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+316,"هوبی لایف",hobby-life,"Hobby Life",hobby-life,,"hobby life",,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+318,"تک سازان",taksazan,taksazan,taksazan,,taksazan,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+320,"کارولین کیچن ور",carolin-kitchen-ware,"CAROLIN Kitchen ware",carolin-kitchen-ware,,"carolin kitchen ware",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+323,پیرکس,pyrex,Pyrex,pyrex,,pyrex,,no,71,71,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+325,"دنی هوم",danny-home,"Danny Home",danny-home,,"danny home",,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+329,زیبا,ziba,Ziba,ziba,,ziba,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+331,شنگیا,shengya,SHENGYA,shengya,,shengya,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+333,پاشاباغچه,pasabahce,Pasabahce,pasabahce,,pasabahce,,no,23,23,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+335,بالرینی,ballarini,Ballarini,ballarini,,ballarini,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+337,"تفلون تابان",teflon-taban,"Teflon Taban",teflon-taban,,"teflon taban",,no,10,10,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+339,"بلک فایر",black-fire,"black Fire",black-fire,,"black fire",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+341,"بلور کاوه",kaveh-crystal,"Kaveh Crystal",kaveh-crystal,,"kaveh crystal",,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+344,"پارس استیل",pars-steel,"Pars Steel",pars-steel,,"pars steel",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+346,تیارا,tiara,Tiara,tiara,,tiara,,no,33,33,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+348,زی,zi,ZI,zi,,zi,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+350,"نوری تازه",noritazeh,NORITAZEH,noritazeh,,noritazeh,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+352,"سام ست",samset,Samset,samset,,samset,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+354,"هوم کت",homeket,Homeket,homeket,,homeket,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+356,"بی ام دی !",bmd,BMD!,bmd,,bmd!,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+358,"گلدن اوپال",golden-opal,"Golden Opal",golden-opal,,"golden opal",,no,15,15,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+360,ایکیا,ikea,Ikea,ikea,/brand/ikea/,ikea,ikea,no,82,82,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+362,مالمو,malmo,MALMO,malmo,,malmo,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+364,"لاولی پلاست",lovely-plast,"lovely plast",lovely-plast,,"lovely plast",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+366,آرانیک,aranick,Aranick,aranick,/brand/aranick/,aranick,aranick,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+368,"گلدن اپال",goldenopal,Goldenopal,goldenopal,,goldenopal,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+370,یزدگل,yazdgol,YazdGol,yazdgol,,yazdgol,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+374,بازن,bazen,BAZEN,bazen,,bazen,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+376,ژویی,joie,joie,joie,,joie,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+378,"ایراک پلاستیک",irak-plastik,"Irak Plastik",irak-plastik,,"irak plastik",,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+380,"چینی زرین ایران",zarin-iran-porcelain-inds,"Zarin Iran Porcelain Inds",zarin-iran-porcelain-inds,,"zarin iran porcelain inds",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+382,تکنو,tecno,Tecno,tecno,,tecno,,no,14,14,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+384,"لوازم قنادی پسته",pesteh-confectionery-tools,"pesteh Confectionery tools",pesteh-confectionery-tools,,"pesteh confectionery tools",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+386,ترادو,trudeau,Trudeau,trudeau,,trudeau,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+388,"تک ظرف",tak-zarf,"tak zarf",tak-zarf,,"tak zarf",,no,13,13,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+390,دینو,dino,Dino,dino,,dino,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+392,ظرفیران,zarfiran,Zarfiran,zarfiran,,zarfiran,,no,15,15,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+394,بورجم,borcam,Borcam,borcam,,borcam,,no,9,9,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+396,مرسه,merce,Merce,merce,,merce,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+398,لومینارک,luminarc,Luminarc,luminarc,,luminarc,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+400,تیتیز,titiz,Titiz,titiz,,titiz,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+402,هانه,hane,Hane,hane,,hane,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+404,"زیبا سازان",zibasazan,Zibasazan,zibasazan,,zibasazan,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+406,"گلد کیش",gold-kish,"Gold Kish",gold-kish,,"gold kish",,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+408,امپرلند,imperland,IMPERLAND,imperland,,imperland,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+410,"لوح هنر",lohehonar,Lohehonar,lohehonar,,lohehonar,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+412,"ام وي اچ گلس اند پلاستيكس",mvh-glass-and-plastics,"MVH glass and plastics",mvh-glass-and-plastics,,"mvh glass and plastics",,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+414,باریکو,barico,Barico,barico,,barico,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+416,آریسام,arisam,Arisam,arisam,,arisam,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+418,"سان کوک",sun-cook,"sun cook",sun-cook,,"sun cook",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+420,برنر,burner,Burner,burner,,burner,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+422,آریاسام,ariasam,Ariasam,ariasam,,ariasam,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+425,نیولند,new-land,Newland,newland,,newland,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+427,کاراجا,karaca,Karaja,karaja,/brand/karaja/,karaja,karaja,no,2,2,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+429,قلهک,gholhak,gholhak,gholhak,,gholhak,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+431,فلاسک,fellask,Fellask,fellask,,fellask,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+433,رومنس,romance,Romance,romance,,romance,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+435,مهروز,mahrooz,Mahrooz,mahrooz,,mahrooz,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+437,"کاج نچسب",kajnachasb,kajnachasb,kajnachasb,,kajnachasb,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+439,"ام بی",mb,MB,mb,,mb,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+441,"نیو لایف",new-life,"New Life",new-life,,"new life",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+443,آرکانیک,arkanick,arkanick,arkanick,,arkanick,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+445,"رز کالا مهر",roze-kala-mehr,"Roze kala mehr",roze-kala-mehr,,"roze kala mehr",,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+447,"آوا فرجام",ava-farjam,"Ava farjam",ava-farjam,,"ava farjam",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+449,کاندید,candid,Candid,candid,,candid,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+451,همیس,homis,HOMIS,homis,,homis,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+454,لیدوما,lidoma,LidOMa,lidoma,,lidoma,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+456,"ام جی اس",mgs,MGS,mgs,,mgs,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+458,پیلو,pilau,Pilau,pilau,,pilau,,no,17,17,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+460,کرکماز,korkmaz,Korkmaz,korkmaz,,korkmaz,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+462,"لاوان الکتریک",lavan-electric,"Lavan Electric",lavan-electric,,"lavan electric",,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+464,نالینو,nalino,Nalino,nalino,,nalino,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+467,لاوان,lavan,Lavan,lavan,,lavan,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+470,ویکتوریا,victoria,Victoria,victoria,,victoria,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+472,یونیک,unique,UNIQ,uniq,/brand/uniq/,uniq,uniq,no,3,3,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+476,فورته,forte,Forte,forte,,forte,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+478,اویز,eviz,Eviz,eviz,,eviz,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+482,"ای تی سی",atc,ATC,atc,,atc,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+485,"اویز پلاس",eviz-plus,"Eviz Plus",eviz-plus,,"eviz plus",,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+489,ایگوری,igory,IGORY,igory,,igory,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+492,راکلند,rockland,Rockland,rockland,,rockland,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+494,وون,woon,WOON,woon,,woon,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+496,آذین,azin,AZIN,azin,,azin,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+504,الدینیو,ldnio,LDNIO,ldnio,,ldnio,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+506,جیمو,giimoo,Gemo,gemo,/brand/gemo/,gemo,gemo,no,3,3,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+508,"جی تی تی",gtt,GTT,gtt,,gtt,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+510,هارمونی,harmony,Harmony,harmony,,harmony,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+514,"پایدار زیما",paidar-zima,"Paidar Zima",paidar-zima,,"paidar zima",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+516,آتینو,atino,Atino,atino,,atino,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+518,نورهام,noorham,Noorham,noorham,,noorham,,no,116,116,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+520,داتینو,datino,datino,datino,/brand/datino/,datino,datino,no,59,59,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+522,"وی تک",vtech,Vtech,vtech,,vtech,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+524,جاکوب,jakoob,Jakoob,jakoob,,jakoob,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+526,"بلو باکس",blue-box,"Blue Box",blue-box,,"blue box",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+528,لیوارنو,livarno,LIVARNO,livarno,,livarno,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+530,لومیکس,lumix,lumix,lumix,,lumix,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+532,واتان,wattan,wattan,wattan,,wattan,,no,19,19,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+534,"بی ال",bl,BL,bl,,bl,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+536,"رادا لایف استایل",radalifestyle,radalifestyle,radalifestyle,,radalifestyle,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+539,دیلایت,delight,Delight,delight,,delight,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+541,لومیز,lumiz,Lumiz,lumiz,,lumiz,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+543,سولونیکس,solonix,SOLONIX,solonix,,solonix,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+545,"چشمه نور",cheshme-noor,"Cheshme Noor",cheshme-noor,,"cheshme noor",,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+547,"مامز کیوتی",moms-cutie,"moms cutie",moms-cutie,,"moms cutie",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+549,"موندو لاکچری",mondo-luxury,"Mondo Luxury",mondo-luxury,,"mondo luxury",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+551,"نیل آرت",nilart,Nilart,nilart,,nilart,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+553,"ام کی ای لایتینگ",mka-lighting,"mka lighting",mka-lighting,,"mka lighting",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+555,مینیفر,minifur,minifur,minifur,,minifur,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+557,پادینا,padina,PADINA,padina,,padina,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+559,"انگلیش هوم",english-home,"English Home",english-home,,"english home",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+563,دلوری,delori,delori,delori,,delori,,no,47,47,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+565,مافریز,mafriz,MAFRIZ,mafriz,,mafriz,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+567,اصفیان,asefian,Asefian,asefian,,asefian,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+569,"نی نی سیس",ninisis,ninisis,ninisis,,ninisis,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+571,"سایان هوم",cyan-home,"Cyan Home",cyan-home,,"cyan home",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+573,"تابلو تبلیغات نورماه",nooremah,nooreMah,nooremah,,nooremah,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+575,"آرت هوم",art-home,"ART HOME",art-home,,"art home",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+578,"شی کاریزما",shecharisma,shecharisma,shecharisma,,shecharisma,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+580,دیووم,divoom,Divoom,divoom,,divoom,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+582,ریدمکس,raidmax,Raidmax,raidmax,,raidmax,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+584,کارنتیس,karentis,KARENTIS,karentis,,karentis,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+586,"طهران لوستر جغد",tehran-luster-owl,"Tehran Luster OWL",tehran-luster-owl,,"tehran luster owl",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+588,لاکسیو,luxceo,Luxceo,luxceo,,luxceo,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+590,"یی لایت",yeelight,Yeelight,yeelight,,yeelight,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+592,زیمادر,zimador,ZIMADOR,zimador,,zimador,,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+594,رست,rost,Rost,rost,,rost,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+596,هوماری,homary,Homary,homary,,homary,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+598,گووی,govee,Govee,govee,,govee,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+602,لالاتاپ,lala-tap,"Lala Tap",lala-tap,,"lala tap",,no,48,48,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+604,بریلی,breylee,BREYLEE,breylee,,breylee,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+606,چیکا,chicka,Chicka,chicka,,chicka,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+609,"یو تری اف",u3f,U3F,u3f,/brand/u3f/,u3f,u3f,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+611,"ایمن آف نوبل",iman-of-noble,"iman of noble",iman-of-noble,,"iman of noble",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+614,مودا,moda,Moda,moda,,moda,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+616,"زد وان",z-one,Z.1,z-1,/brand/z-1/,z-1,z-1,no,25,25,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+619,ال.ای,l-a,L.A,l-a,/brand/l-a/,l-a,l-a,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+621,ورژن,vergen,Vergen,vergen,/brand/vergen/,vergen,vergen,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+625,لوپینا,lopina,Lopina,lopina,,lopina,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+627,کیس,kiss,Kiss,kiss,/brand/kiss/,kiss,kiss,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+629,فنمن,fenman,Fenman,fenman,,fenman,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+631,کنویس,kenvis,kenvis,kenvis,/brand/kenvis/,kenvis,kenvis,no,123,123,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+633,یوسی,uiisii,UiiSii,uiisii,,uiisii,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+635,تریتون,triton,Triton,triton,,triton,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+637,"گلدن فیشر",golden-fisher,"GOLDEN FISHER",golden-fisher,,"golden fisher",,no,16,16,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+639,لومانا,lomana,Lomana,lomana,,lomana,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+642,جویل,jewel,Jewel,jewel,/brand/jewel/,jewel,jewel,no,46,46,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+644,"ام اند اچ",mh,M&H,mh,,m&h,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+646,مهرونا,mehrona,Mehrona,mehrona,,mehrona,,no,75,75,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+648,سوپرتاچ,souper-touch,"Souper Touch",souper-touch,/brand/souper-touch/,souper-touch,souper-touch,no,44,44,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+652,سوشیا,soshia,Soshia,soshia,/brand/soshia/,soshia,soshia,no,140,140,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+654,بیوتی,beauty,Beauty,beauty,/brand/beauty/,beauty,beauty,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+657,"بایو آکوا",bioaqua,Bioaqua,bioaqua,,bioaqua,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+659,آر.تی.اس,r-t-s,R.T.S,r-t-s,,r.t.s,,no,38,38,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+661,ناکد,naked,Naked,naked,,naked,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+663,خندالو,khandaloo,Khandaloo,khandaloo,/brand/khandaloo/,khandaloo,khandaloo,no,28205,28205,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+665,بلیتا,bielita,BIELITA,bielita,,bielita,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+668,یوشاس,ushas,Ushas,ushas,,ushas,,no,9,9,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+670,مکس,max,Max,max,/brand/max/,max,max,no,23,23,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+672,"ریل تکنیکس",real-techniques,"Real Techniques",real-techniques,,"real techniques",,no,9,9,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+674,ورونیک,veronique,Veronique,veronique,,veronique,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+676,"وردا بیوتی",warda-beauty,"Warda Beauty",warda-beauty,,"warda beauty",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+678,"هلو کیتی",hello-kitty,"Hello kitty",hello-kitty,,"hello kitty",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+680,"اولی بولا",olibolla,Olibolla,olibolla,,olibolla,,no,11,11,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+682,هانتین,hantin,Hantin,hantin,/brand/hantin/,hantin,hantin,no,109,109,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+685,درماکول,dermacol,dermacol,dermacol,/brand/dermacol/,dermacol,dermacol,no,18,18,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+687,اوچیل,ocheal,o'cheal,ocheal,,o'cheal,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+689,آرتوسو,artosu,Artosu,artosu,,artosu,,no,9,9,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+691,کانسه,kanseh,Kanseh,kanseh,,kanseh,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+694,"سی بی پاریس",cb-paris,"CB Paris",cb-paris,,"cb paris",,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+696,پرولایز,prolase,Prolase,prolase,/brand/prolase/,prolase,prolase,no,58,58,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+699,فستیوال,festival,Festival,festival,/brand/festival/,festival,festival,no,42,42,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+701,اریکه,erikeh,Erikeh,erikeh,,erikeh,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+703,باریش,barish,Barish,barish,,barish,,no,35,35,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+705,آنجل,angel,Angel,angel,,angel,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+707,پروکسی,proxi,Proxi,proxi,,proxi,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+709,5استار,5star,5star,5star,/brand/5star/,5star,5star,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+711,ژاکسی,juxi,Juxi,juxi,/brand/juxi/,juxi,juxi,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+714,ماسکات,mascot,mascot,mascot,/brand/mascot/,mascot,mascot,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+716,میستار,misstar,Misstar,misstar,/brand/misstar/,misstar,misstar,no,75,75,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+720,نویر,noyer,Noyer,noyer,/brand/noyer/,noyer,noyer,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+722,ایفسن,efsane,efsane,efsane,/brand/efsane/,efsane,efsane,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+724,باروچین,baroochin,baroochin,baroochin,,baroochin,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+727,"مودا گلد",moda-gold,"Moda Gold",moda-gold,/brand/moda-gold/,moda-gold,moda-gold,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+732,لکسلش,luxlash,luxlash,luxlash,,luxlash,,no,10,10,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+734,"سرسان لاو",sersanlove,sersanlove,sersanlove,,sersanlove,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+737,سانلومکس,sunlumax,sunlumax,sunlumax,,sunlumax,,no,16,16,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+740,یانگمی,yangmei,yangmei,yangmei,,yangmei,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+744,کالیستا,callista,Callista,callista,,callista,,no,60,60,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+746,استرا,astra,Astra,astra,/brand/astra/,astra,astra,no,39,39,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+748,ایوزین,ayozin,ayozin,ayozin,,ayozin,,no,13,13,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+750,نایسپیدو,nicepido,nicepido,nicepido,,nicepido,,no,24,24,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+753,الی.زکیتا,eli-zkita,Eli.Zkita,eli-zkita,/brand/eli-zkita/,eli-zkita,eli-zkita,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+755,هندیان,handaiyan,handaiyan,handaiyan,,handaiyan,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+760,ساویز,saviz,Saviz,saviz,,saviz,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+762,تایلامی,tailaimei,Tailaimei,tailaimei,,tailaimei,,no,10,10,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+765,"آی کارلی",i-carly,"I Carly",i-carly,,"i carly",,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+767,"انشور هاینس",onshoure-highness,"Onshoure Highness",onshoure-highness,,"onshoure highness",,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+769,"آل فیدا",al-fida,"Al fida",al-fida,,"al fida",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+772,ورورا,verora,verora,verora,/brand/verora/,verora,verora,no,36,36,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+777,گابرینی,gabrini,Gabrini,gabrini,/brand/gabrini/,gabrini,gabrini,no,47,47,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+781,گاش,gosh,GOSH,gosh,/brand/gosh/,gosh,gosh,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+783,ویت,veet,Veet,veet,,veet,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+785,بلفامد,blephamed,Blephamed,blephamed,,blephamed,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+787,"پینک کی",pink-key,"Pink key",pink-key,,"pink key",,no,11,11,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+789,سادور,sadoer,SADOER,sadoer,/brand/sadoer/,sadoer,sadoer,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+791,"دودو گرل",do-do-girl,"Do Do Girl",do-do-girl,/brand/do-do-girl/,do-do-girl,do-do-girl,no,55,55,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+793,جولیوس,julius,Julius,julius,/brand/julius/,julius,julius,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+798,"گلدن رز",golden-rose,"Golden Rose",golden-rose,/brand/golden-rose/,golden-rose,golden-rose,no,257,257,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+800,توز,tuz,tuz,tuz,,tuz,,no,11,11,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+803,گلفلاور,gulflower,gulflower,gulflower,,gulflower,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+805,پرودرما,proderma,Proderma,proderma,,proderma,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+807,مای,my,My,my,/brand/my/,my,my,no,43,43,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+810,"میس لارا",miss-lara,"Miss Lara",miss-lara,,"miss lara",,no,15,15,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+812,ژیدو,zhiduo,zhiduo,zhiduo,,zhiduo,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+817,"دی سل",daycell,Daycell,daycell,/brand/daycell/,daycell,daycell,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+820,وارمی,varmi,VARMI,varmi,,varmi,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+822,ماچیکی,machiki,Machiki,machiki,/brand/machiki/,machiki,machiki,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+824,لنبنا,lanbena,lanbena,lanbena,/brand/lanbena/,lanbena,lanbena,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+826,"آی فیس",iface,Iface,iface,/brand/iface/,iface,iface,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+828,آرکانسیل,arcancil,Arcancil,arcancil,/brand/arcancil/,arcancil,arcancil,no,58,58,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+831,ایروس,eros,EROS,eros,/brand/eros/,eros,eros,no,35,35,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+835,کوروت,curvet,Curvet,curvet,/brand/curvet/,curvet,curvet,no,82,82,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+838,فلر,feler,Feler,feler,/brand/feler/,feler,feler,no,39,39,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+840,لنیج,laneige,Laneige,laneige,/brand/laneige/,laneige,laneige,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+842,پی2,p2,p2,p2,,p2,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+845,پرمرسین,permersin,permersin,permersin,/brand/permersin/,permersin,permersin,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+848,"مک فیکس",mac-fix,Mac.Fix,mac-fix,/brand/mac-fix/,mac-fix,mac-fix,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+850,"پارس پلادیس",pars-peladis,"Pars Peladis",pars-peladis,,"pars peladis",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+852,"کوین اند کوکو",kevin-coco,"kevin & coco",kevin-coco,/brand/kevin-coco/,kevin-coco,kevin-coco,no,66,66,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+855,تونایت,tonight,tonight,tonight,,tonight,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+857,سیوره,siore,Siore,siore,/brand/siore/,siore,siore,no,24,24,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+859,"شیز نایس",shes-nice,"SHE'S NICE",shes-nice,,"she's nice",,no,11,11,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+862,مدیا,media,media,media,,media,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+864,آنیکا,anika,Anika,anika,,anika,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+869,"پنه لوپه",penelope,Penelope,penelope,,penelope,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+871,"کریستال دایموند",crystal-dlamond,"Crystal Dlamond",crystal-dlamond,/brand/crystal-dlamond/,crystal-dlamond,crystal-dlamond,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+874,بتانی,bethany,bethany,bethany,,bethany,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+877,مینتیک,mintake,Mintake,mintake,,mintake,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+879,"بی اچ کازمتیکس",bh-cosmetics,"BH Cosmetics",bh-cosmetics,/brand/bh-cosmetics/,bh-cosmetics,bh-cosmetics,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+881,تایرا,tyra,Tyra,tyra,,tyra,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+884,"کلینیک کیندی",cleanic-kindii,"Cleanic Kindii",cleanic-kindii,,"cleanic kindii",,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+887,لامل,lamel,lamel,lamel,,lamel,,no,70,70,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+892,بیلیارد,biliard,Biliard,biliard,/brand/biliard/,biliard,biliard,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+897,شون,schon,Schon,schon,/brand/schon/,schon,schon,no,28,28,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+900,"سالوته پرو",salute-pro,"Salute PRO",salute-pro,,"salute pro",,no,56,56,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+902,"بیس بیوتی",base-beauty,"Base Beauty",base-beauty,,"base beauty",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+904,پرایم,prime,Prime,prime,,prime,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+918,چیدا,chida,Chida,chida,,chida,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+920,کلی,keli,Keli,keli,,keli,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+923,لوسمنت,losment,Losment,losment,,losment,,no,26,26,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+925,"لیدی میکاپ",ladymakeup,ladymakeup,ladymakeup,/brand/ladymakeup/,ladymakeup,ladymakeup,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+928,نوت,note,Note,note,/brand/note/,note,note,no,159,159,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+931,"انی لیدی",anylady,Anylady,anylady,/brand/anylady/,anylady,anylady,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+934,سیگنیچر,signature,signature,signature,/brand/signature/,signature,signature,no,28,28,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+942,لورینت,lorient,Lorient,lorient,/brand/lorient/,lorient,lorient,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+952,فرساس,fresas,Fresas,fresas,,fresas,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+955,لتراست,letraset,Letraset,letraset,,letraset,,no,11,11,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+957,آدلیتا,adelita,ADELITA,adelita,,adelita,,no,17,17,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+959,"استار کالکشن",star-collection,"Star collection",star-collection,,"star collection",,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+961,دیوایو,divio,Divio,divio,/brand/divio/,divio,divio,no,33,33,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+963,وو,vov,VOV,vov,/brand/vov/,vov,vov,no,39,39,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+965,بابیلا,babila,babila,babila,/brand/babila/,babila,babila,no,38,38,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+967,"دکتر مورنینگ",dr-morning,Dr.Morning,dr-morning,,dr.morning,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+971,"مری کی",mary-kay,"Mary kay",mary-kay,,"mary kay",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+975,"انشور فلاور",onshore-flower,Onshore-Flower,onshore-flower,/brand/onshore-flower/,onshore-flower,onshore-flower,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+978,هلادا,helada,Helada,helada,,helada,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+980,بالنوم,balnom,BALNOM,balnom,/brand/balnom/,balnom,balnom,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+982,لاواری,lavary,LAVARY,lavary,/brand/lavary/,lavary,lavary,no,58,58,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+985,"روبی سیما",roobysima,roobysima,roobysima,/brand/roobysima/,roobysima,roobysima,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+987,دیمیتر,dimiter,DIMITER,dimiter,/brand/dimiter/,dimiter,dimiter,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+989,پنرول,pennroll,PENNROLL,pennroll,,pennroll,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+992,سینره,cinere,Cinere,cinere,,cinere,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+997,"این لی",inlay,Inlay,inlay,/brand/inlay/,inlay,inlay,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1000,بکا,bka,BKA,bka,,bka,,no,34,34,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1003,"لاکچری فیس",luxury-face,"LUXURY FACE",luxury-face,,"luxury face",,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1009,"کالر کستل",color-castle,"color castle",color-castle,,"color castle",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1013,آرت‌اسکین,artskin,Artskin,artskin,/brand/artskin/,artskin,artskin,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1015,لاگونا,laguna,LAGUNA,laguna,,laguna,,no,11,11,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1017,ناوی,navi,navi,navi,,navi,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1019,بله,bele,bele,bele,,bele,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1021,"سی گل",seagull,SeaGull,seagull,,seagull,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1024,دیفکتو,defacto,Defacto,defacto,/brand/defacto/,defacto,defacto,no,175,175,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1026,رزآبی,rozabi,rozabi,rozabi,,rozabi,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1030,"آرت دکو",artdeco,ArtDeco,artdeco,/brand/artdeco/,artdeco,artdeco,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1036,"دکتر راشل",dr-rashel,"dr rashel",dr-rashel,,"dr rashel",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1038,ورشیپ,worship,worship,worship,/brand/worship/,worship,worship,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1041,"استودیو میکاپ",studiomakeup,Studiomakeup,studiomakeup,,studiomakeup,,no,45,45,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1044,آدارز,adarose,ADAROSE,adarose,,adarose,,no,14,14,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1047,"اسمایل پلاس",smileplus,Smileplus,smileplus,/brand/smileplus/,smileplus,smileplus,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1052,لافارر,la-farrerr,"La Farrerr",la-farrerr,,"la farrerr",,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1054,کولمار,kolmar,Kolmar,kolmar,,kolmar,,no,10,10,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1058,لگراند,legrand,Legrand,legrand,,legrand,,no,29,29,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1060,"مالی ا او",maliao,maliao,maliao,,maliao,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1065,کابرینی,kabarini,kabarini,kabarini,,kabarini,,no,21,21,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1067,مویام,mooyam,mooyam,mooyam,,mooyam,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1073,"گلد آنجل",gold-angle,"Gold Angle",gold-angle,,"gold angle",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1075,برانوس,branous,branous,branous,/brand/branous/,branous,branous,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1080,"گلدن لیدی",golden-lady,"Golden Lady",golden-lady,,"golden lady",,no,9,9,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1084,پاستل,pastel,Pastel,pastel,,pastel,,no,75,75,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1087,فارماسی,farmasi,Farmasi,farmasi,,farmasi,,no,17,17,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1092,"مایا براون",maya-brown,"Maya brown",maya-brown,,"maya brown",,no,18,18,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1097,تادو,tado,tado,tado,/brand/tado/,tado,tado,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1099,نوادا,nevada,Nevada,nevada,,nevada,,no,10,10,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1102,کورمسیک,kormesic,kormesic,kormesic,,kormesic,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1105,لیاویتو,liavito,liavito,liavito,,liavito,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1113,استفانی,stephany,Stephany,stephany,,stephany,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1117,"رویال مکس",royal-max,"Royal Max",royal-max,,"royal max",,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1120,درمالوگ,dermalog,dermalog,dermalog,,dermalog,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1127,دبی,debby,Debby,debby,,debby,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1129,وگنر,wagner,Wagner,wagner,,wagner,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1131,تروکاور,true-cover,"True Cover",true-cover,/brand/true-cover/,true-cover,true-cover,no,25,25,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1133,نستور,nestor,Nestor,nestor,,nestor,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1135,اوراچی,orachi,Orachi,orachi,/brand/orachi/,orachi,orachi,no,25,25,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1138,مارال,maral,Maral,maral,,maral,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1140,"لنسی بل",lancibell,lancibell,lancibell,,lancibell,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1144,"آدور کوین",adorcoin,Adorcoin,adorcoin,/brand/adorcoin/,adorcoin,adorcoin,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1147,فانوما,fanoma,Fanoma,fanoma,,fanoma,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1150,"پارس سامین",pars-samin,"pars samin",pars-samin,,"pars samin",,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1155,زویا,zoya,zoya,zoya,,zoya,,no,23,23,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1157,آدور,ador,Ador,ador,,ador,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1159,"لی لی نایت",lili-night,"Lili Night",lili-night,,"lili night",,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1164,لیلیوم,lilyum,LILYUM,lilyum,,lilyum,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1167,ماجولان,majulan,Majulan,majulan,/brand/majulan/,majulan,majulan,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1169,"مارین رز",marinrose,"marin rose",marin-rose,/brand/marin-rose/,marin-rose,marin-rose,no,26,26,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1172,"ایزابل دپوینت",isabelle-dupont,"Isabelle Dupont",isabelle-dupont,,"isabelle dupont",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1174,"دنی وان",dani-one,"Dani one",dani-one,,"dani one",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1181,اوریفلیم,oriflame,Oriflame,oriflame,/brand/oriflame/,oriflame,oriflame,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1191,"ام سی الین",mcellyn,MCELLYN,mcellyn,,mcellyn,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1199,"گلدن رس",golden-ross,"golden ross",golden-ross,/brand/golden-ross/,golden-ross,golden-ross,no,18,18,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1202,رنیتا,renita,Renita,renita,/brand/renita/,renita,renita,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1204,"ساریسا گلد",sarisa-gold,"Sarisa Gold",sarisa-gold,,"sarisa gold",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1206,آلیس,alice,Alice,alice,,alice,,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1208,کانفست,confest,Confest,confest,,confest,,no,17,17,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1210,آردن,ardene,Ardene,ardene,,ardene,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1212,"الیت اوراما",elite-orama,"elite orama",elite-orama,/brand/elite-orama/,elite-orama,elite-orama,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1215,وکالی,wokali,wokali,wokali,,wokali,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1217,پرستیژ,prestige,Prestige,prestige,,prestige,,no,27,27,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1219,پنسیا,penasea,PENACEA,penacea,/brand/penacea/,penacea,penacea,no,19,19,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1221,ژیناژن,ginagen,ginagen,ginagen,,ginagen,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1224,هاواستین,havastin,Havastin,havastin,,havastin,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1226,درماتیپیک,dermatypique,DERMATYPIQUE,dermatypique,,dermatypique,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1228,روروسی,rorosy,ROROSY,rorosy,,rorosy,,no,12,12,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1232,مدیسان,medisun,Medisun,medisun,,medisun,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1236,آنی,anny,ANNY,anny,,anny,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1239,هرلیچ,herrlich,Herrlich,herrlich,/brand/herrlich/,herrlich,herrlich,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1241,گلویک,glowic,GLOWIC,glowic,,glowic,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1249,"پرو چیزا",pro-chizza,"pro chizza",pro-chizza,,"pro chizza",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1251,"او تو او",o-two-o,o.two.o,o-two-o,/brand/o-two-o/,o-two-o,o-two-o,no,41,41,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1254,اوکاز,ocuz,OCUZ,ocuz,,ocuz,,no,15,15,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1257,ویولا,viola,Viola,viola,/brand/viola/,viola,viola,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1260,ماردینی,mardini,Mardini,mardini,/brand/mardini/,mardini,mardini,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1262,اینووکس,inovox,Inovox,inovox,,inovox,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1265,سیترای,citray,Citray,citray,,citray,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1267,"سین فونیا",sinfonia,SINFONIA,sinfonia,/brand/sinfonia/,sinfonia,sinfonia,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1271,"مینی استار",%d9%85%db%8c%d9%86%db%8c-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1,,,,,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1273,ییژیلیان,yizhilian,yizhilian,yizhilian,,yizhilian,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1275,وکالیست,vocalist,vocalist,vocalist,,vocalist,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1279,دونادیا,donadia,Donadia,donadia,/brand/donadia/,donadia,donadia,no,26,26,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1286,استنلی,stanley,stanley,stanley,/brand/stanley/,stanley,stanley,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1292,استرانو,strano,Strano,strano,/brand/strano/,strano,strano,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1296,ولوکس,velux,Velux,velux,/brand/velux/,velux,velux,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1298,بونومیا,bonomia,Bonomia,bonomia,/brand/bonomia/,bonomia,bonomia,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1304,"فری لاو",free-love,"free love",free-love,,"free love",,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1306,کانوالیو,kanvalio,kanvalio,kanvalio,/brand/kanvalio/,kanvalio,kanvalio,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1312,دوناروما,donnaroma,donnaroma,donnaroma,/brand/donnaroma/,donnaroma,donnaroma,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1314,"لاکچری کوین",luxury-coin,"luxury coin",luxury-coin,/brand/luxury-coin/,luxury-coin,luxury-coin,no,28,28,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1319,"ساین اسکین",synskin,synskin,synskin,,synskin,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1321,"ريني فلاور",rainy-flower,"rainy flower",rainy-flower,,"rainy flower",,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1325,ایزادورا,isadora,Isadora,isadora,,isadora,,no,21,21,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1331,نوتریکا,notrika,notrika,notrika,,notrika,,no,49,49,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1333,فلورمار,flormar,Flormar,flormar,/brand/flormar/,flormar,flormar,no,72,72,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1335,"اسکین وان",skin-one,"SKIN ONE",skin-one,,"skin one",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1337,ژنوبایوتیک,genobiotic,Genobiotic,genobiotic,,genobiotic,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1349,چافل,chafful,CHAFFUL,chafful,,chafful,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1361,"استار لوکس",star-lux,"Star lux",star-lux,,"star lux",,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1364,"بارین بیوتی",barben-beuaty,"barben beuaty",barben-beuaty,,"barben beuaty",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1366,"وت ان وایلد",wet-n-wild,"Wet N Wild",wet-n-wild,,"wet n wild",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1374,فایتون,faeton,faeton,faeton,/brand/faeton/,faeton,faeton,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1385,آگیس,agiss,Agiss,agiss,,agiss,,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1389,"روبی سان",rubisun,RUBISUN,rubisun,,rubisun,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1392,لاماسو,lamassu,lamassu,lamassu,,lamassu,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1397,"مکسی بل",maxi-bell,"Maxi Bell",maxi-bell,,"maxi bell",,no,23,23,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1399,امبریولیس,embryolisse,embryolisse,embryolisse,,embryolisse,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1403,وییولت,violet,Violet,violet,,violet,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1405,فولیسنس,folisense,Folisense,folisense,,folisense,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1407,دوفاری,dofari,DOFARI,dofari,,dofari,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1411,"موآ میکاپ آکادمی",mua-makeup-academy,"Mua makeup academy",mua-makeup-academy,,"mua makeup academy",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1416,"بی بیوتی",bee-beauty,"Bee Beauty",bee-beauty,/brand/bee-beauty/,bee-beauty,bee-beauty,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1418,فرانسیس,francis,Francis,francis,/brand/francis/,francis,francis,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1423,"نو آکنه",no-acne,"No Acne",no-acne,/brand/no-acne/,no-acne,no-acne,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1430,دیوستا,divesta,Divesta,divesta,,divesta,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1432,رومینا,romina,Romina,romina,,romina,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1434,دلگان,delgan,Delgan,delgan,,delgan,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1436,ایلماز,ielmaaz,IELMAAZ,ielmaaz,,ielmaaz,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1440,بیولیس,beaulis,Beaulis,beaulis,,beaulis,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1442,"پرنسس لیدی",princess-lady,"princess lady",princess-lady,,"princess lady",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1444,بوته,bote,bote,bote,,bote,,no,14,14,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1446,"بیو استار",bio-star,"bio star",bio-star,,"bio star",,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1451,"بلک نارس",black-nars,"BLACK NARS",black-nars,,"black nars",,no,24,24,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1455,ردیست,redist,Redist,redist,,redist,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1460,آنتفیکس,antefix,antefix,antefix,,antefix,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1462,اشتون,ashton,ASHTON,ashton,/brand/ashton/,ashton,ashton,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1466,"دایانا آف لاندن",diana-of-london,"Diana Of London",diana-of-london,,"diana of london",,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1470,ورونا,verona,Verona,verona,,verona,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1472,رزادو,rozado,ROZADO,rozado,,rozado,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1475,دایانان,dayanan,DAYANAN,dayanan,,dayanan,,no,5,5,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1479,"کیو وای اچ",q-y-h,"Q Y H",q-y-h,,"q y h",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1488,لاناکین,lanacanae,Lanacanae,lanacanae,/brand/lanacanae/,lanacanae,lanacanae,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1501,برتی,bereti,Bereti,bereti,,bereti,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1508,دلیا,delia,delia,delia,/brand/delia/,delia,delia,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1510,دزیره,desiree,DESIREE,desiree,,desiree,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1513,"فیوچر میکاپ",future-makeup,"FUTURE MAKEUP",future-makeup,/brand/future-makeup/,future-makeup,future-makeup,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1515,کوزارت,cosart,Cosart,cosart,/brand/cosart/,cosart,cosart,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1519,پیزاول,pizavel,pizavel,pizavel,,pizavel,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1521,مریدا,merida,Merida,merida,,merida,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1528,شیگلم,sheglam,Sheglam,sheglam,/brand/sheglam/,sheglam,sheglam,no,311,311,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1530,اسنس,essence,Essence,essence,/brand/essence/,essence,essence,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1545,رامل,ramel,RAMEL,ramel,,ramel,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1547,"تاپ فیس",topface,topface,topface,/brand/topface/,topface,topface,no,111,111,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1549,"سیمالی استار",simali-star,"Simali Star",simali-star,,"simali star",,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1554,"للوناسی بیوتی",la-lunaci-beauty,"la lunaci beauty",la-lunaci-beauty,/brand/la-lunaci-beauty/,la-lunaci-beauty,la-lunaci-beauty,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1558,"فلاور بامب",flower-bomb,"Flower Bomb",flower-bomb,,"flower bomb",,no,7,7,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1565,میبلین,maybelline,Maybelline,maybelline,/brand/maybelline/,maybelline,maybelline,no,67,67,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1572,"فوراور فیفتی تو",forever-fifty-two,"Forever fifty two",forever-fifty-two,/brand/forever-fifty-two/,forever-fifty-two,forever-fifty-two,no,27,27,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1577,بیترلینگ,bitterling,Bitterling,bitterling,/brand/bitterling/,bitterling,bitterling,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1579,زاو,zao,Zao,zao,/brand/zao/,zao,zao,no,51,51,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1587,مینیسو,miniso,Miniso,miniso,/brand/miniso/,miniso,miniso,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1589,آموتیا,amutiya,Amutiya,amutiya,/brand/amutiya/,amutiya,amutiya,no,42,42,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1593,"دنیل لورا",daniel-laura,"Daniel Laura",daniel-laura,,"daniel laura",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1600,دبورا,deborah,Deborah,deborah,/brand/deborah/,deborah,deborah,no,22,22,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1603,نوبا,nouba,Nouba,nouba,,nouba,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1609,تکنیک,technic,Technic,technic,,technic,,no,2,2,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1615,اولاین,eveline,Eveline,eveline,/brand/eveline/,eveline,eveline,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1626,کاسماتیس,cosmetisse,Cosmetisse,cosmetisse,,cosmetisse,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1629,"بویزن بریز",boysn-berries,"Boys'n Berries",boysn-berries,,"boys'n berries",,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1640,بورژوآ,bourjois,Bourjois,bourjois,/brand/bourjois/,bourjois,bourjois,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1642,کاتریس,catrice,Catrice,catrice,/brand/catrice/,catrice,catrice,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1646,"مپ بوته",map-beaute,"Map Beaute",map-beaute,/brand/map-beaute/,map-beaute,map-beaute,no,49,49,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1648,"رر بیوتی",rare-beauty,"Rare Beauty",rare-beauty,/brand/rare-beauty/,rare-beauty,rare-beauty,no,26,26,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1651,گریس,grace,Grace,grace,/brand/grace/,grace,grace,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1653,لورآل,loreal,L'Oréal,loreal,/brand/loreal/,loreal,loreal,no,45,45,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1656,"ال رو ئل",elroel,elroel,elroel,,elroel,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1659,گارنیه,garnier,Garnier,garnier,/brand/garnier/,garnier,garnier,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1661,"مای میکاپ استوری",my-makeup-story,"My makeup story",my-makeup-story,/brand/my-makeup-story/,my-makeup-story,my-makeup-story,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1671,تیرتیر,tirtir,Tirtir,tirtir,/brand/tirtir/,tirtir,tirtir,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1677,اوتی,ottie,Ottie,ottie,,ottie,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1681,رولوشن,revolution,Revolution,revolution,/brand/revolution/,revolution,revolution,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1684,"دکتر. جی تونا",dr-c-tuna,Dr.C.Tuna,dr-c-tuna,,dr.c.tuna,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1692,"فارم استی",farm-stay,"Farm Stay",farm-stay,/brand/farm-stay/,farm-stay,farm-stay,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1694,"تاپ لیدو",top-lido,"Top Lido",top-lido,/brand/top-lido/,top-lido,top-lido,no,44,44,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1696,درمایونیک,dermaunique,DERMAUNIQUE,dermaunique,/brand/dermaunique/,dermaunique,dermaunique,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1704,نیکس,nyx,Nyx,nyx,/brand/nyx/,nyx,nyx,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1712,"کیکو میلانو",kiko-milano,"KIKO MILANO",kiko-milano,/brand/kiko-milano/,kiko-milano,kiko-milano,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1715,پایس,paese,Paese,paese,/brand/paese/,paese,paese,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1721,پیسو,piso,Piso,piso,,piso,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1723,دامیثا,damisa,DAMISA,damisa,/brand/damisa/,damisa,damisa,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1733,شگلم,shglam,shglam,shglam,,shglam,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1735,"الکس آوین",alix-avien,"Alix Avien",alix-avien,,"alix avien",,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1743,"گلدن مود",golden-mood,"GOLDEN MOOD",golden-mood,,"golden mood",,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1747,"لابلا جیوانی",la-bella-givani,"la bella givani",la-bella-givani,/brand/la-bella-givani/,la-bella-givani,la-bella-givani,no,22,22,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1749,ال.ای.گرل,l-a-girl,L.A.Girl,l-a-girl,,l.a.girl,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1753,"فنتی بیوتی",fenty-beauty,"Fenty Beauty",fenty-beauty,/brand/fenty-beauty/,fenty-beauty,fenty-beauty,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1755,"بی یو",beyu,Beyu,beyu,,beyu,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1757,اینوآر,inoar,inoar,inoar,,inoar,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1769,"میکاپ فکتوری",makeup-factory,"Makeup Factory",makeup-factory,/brand/makeup-factory/,makeup-factory,makeup-factory,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1772,پیپا,pippa,Pippa,pippa,/brand/pippa/,pippa,pippa,no,24,24,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1775,"دی ام جی ام",dmgm,Dmgm,dmgm,,dmgm,,no,4,4,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1780,میبا,miba,miba,miba,,miba,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1782,کنلامکس,canellamax,Canellamax,canellamax,,canellamax,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1784,لنکاور,lancover,Lancover,lancover,,lancover,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1787,"وی دی ال",vdl,Vdl,vdl,,vdl,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1795,"آی سودا",aysuda,Aysuda,aysuda,,aysuda,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1797,دیور,dior,Dior,dior,/brand/dior/,dior,dior,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1802,گریماس,grimas,Grimas,grimas,/brand/grimas/,grimas,grimas,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1805,"شارلوت تیلبری",charlotte-tilbury,"Charlotte tilbury",charlotte-tilbury,/brand/charlotte-tilbury/,charlotte-tilbury,charlotte-tilbury,no,22,22,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1810,بایودرما,bioderma,Bioderma,bioderma,,bioderma,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1812,ای.ال.اف,e-l-f,e.l.f.,e-l-f,/brand/e-l-f/,e-l-f,e-l-f,no,23,23,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1818,نوروا,noreva,Noreva,noreva,,noreva,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1822,اینگلوت,inglot,INGLOT,inglot,,inglot,,no,1,1,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1832,پوپا,pupa,Pupa,pupa,/brand/pupa/,pupa,pupa,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1836,یورن,yorn,yorn,yorn,/brand/yorn/,yorn,yorn,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1843,دوو,daewoo,Daewoo,daewoo,/brand/daewoo/,daewoo,daewoo,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1850,کارکتر,character,character,character,/brand/character/,character,character,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1857,باربارابورت,barbara-bort,"BARBARA BORT",barbara-bort,/brand/barbara-bort/,barbara-bort,barbara-bort,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1860,"چارم کالر",charme-color,"charme color",charme-color,/brand/charme-color/,charme-color,charme-color,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1862,دبالم,the-balm,"The Balm",the-balm,/brand/the-balm/,the-balm,the-balm,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1866,ورسای,versai,Versai,versai,/brand/versai/,versai,versai,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1871,توفیسد,too-faced,"Too Faced",too-faced,/brand/too-faced/,too-faced,too-faced,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1873,پاینپل,pineapple,pineapple,pineapple,/brand/pineapple/,pineapple,pineapple,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1887,"سمپیور مینرالز",sampure-minerals,"SAMPURE MINERALS",sampure-minerals,/brand/sampure-minerals/,sampure-minerals,sampure-minerals,no,28,28,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1892,آرتیستا,artista,ARTISTA,artista,/brand/artista/,artista,artista,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1895,کارینا,carina,Carina,carina,/brand/carina/,carina,carina,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1899,"ناتاشا دنونا",natasha-denona,"Natasha Denona",natasha-denona,/brand/natasha-denona/,natasha-denona,natasha-denona,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1909,اُفرا,ofra,Ofra,ofra,/brand/ofra/,ofra,ofra,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1918,"میلک میکاپ",milk-makeup,"Milk makeup",milk-makeup,/brand/milk-makeup/,milk-makeup,milk-makeup,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1921,تارت,tarte,Tarte,tarte,/brand/tarte/,tarte,tarte,no,25,25,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1923,"فوراور بلوم",forever-bloom,"forever bloom",forever-bloom,/brand/forever-bloom/,forever-bloom,forever-bloom,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1925,نارس,nars,NARS,nars,/brand/nars/,nars,nars,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1928,بنفیت,benefit,Benefit,benefit,/brand/benefit/,benefit,benefit,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1933,مک,mac,MAC,mac,/brand/mac/,mac,mac,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1942,سیلور,silver,Silver,silver,/brand/silver/,silver,silver,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1947,"آر سی ام ای",rcma,RCMA,rcma,/brand/rcma/,rcma,rcma,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1950,مورفی,morphe,Morphe,morphe,/brand/morphe/,morphe,morphe,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1956,"میکاپ فور اور",make-up-for-ever,"Make Up For Ever",make-up-for-ever,/brand/make-up-for-ever/,make-up-for-ever,make-up-for-ever,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1958,شیسیدو,shiseido,Shiseido,shiseido,/brand/shiseido/,shiseido,shiseido,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1961,لایرن,lirene,lirene,lirene,/brand/lirene/,lirene,lirene,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1964,فرین,pherein,Pherein,pherein,/brand/pherein/,pherein,pherein,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1966,آناستازیا,anastasia,Anastasia,anastasia,/brand/anastasia/,anastasia,anastasia,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1970,"پولایت سوسایتی",polite-society,"polite society",polite-society,/brand/polite-society/,polite-society,polite-society,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1973,"استی لودر",estee-lauder,"Estee Lauder",estee-lauder,/brand/estee-lauder/,estee-lauder,estee-lauder,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1976,کلینیک,clinique,Clinique,clinique,/brand/clinique/,clinique,clinique,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1978,"اِربَن دیکِی",urban-decay,"Urban Decay",urban-decay,/brand/urban-decay/,urban-decay,urban-decay,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1985,گرلن,guerlain,Guerlain,guerlain,/brand/guerlain/,guerlain,guerlain,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1987,سفورا,sephora,Sephora,sephora,/brand/sephora/,sephora,sephora,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1992,شانل,chanel,Chanel,chanel,/brand/chanel/,chanel,chanel,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1994,تاچا,tatcha,Tatcha,tatcha,/brand/tatcha/,tatcha,tatcha,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+1998,لامر,la-mer,"La Mer",la-mer,/brand/la-mer/,la-mer,la-mer,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2000,"بابی براون",bobbi-brown,"bobbi brown",bobbi-brown,/brand/bobbi-brown/,bobbi-brown,bobbi-brown,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2005,کلارنس,clarins,Clarins,clarins,/brand/clarins/,clarins,clarins,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2007,ببکو,bebeco,Bebeco,bebeco,/brand/bebeco/,bebeco,bebeco,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2010,ویکو,weeko,Vicco,vicco,/brand/vicco/,vicco,vicco,no,22,22,source_not_verified|wp_slug_differs_from_source_slug,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2017,لنزپک,lens-pack,"Lens Pack",lens-pack,/brand/lens-pack/,lens-pack,lens-pack,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2019,"اس ای وی",sev,SEV,sev,/brand/sev/,sev,sev,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2021,لتی,lottie,Lottie,lottie,/brand/lottie/,lottie,lottie,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2023,"سالن تک",salontech,SALONTECH,salontech,/brand/salontech/,salontech,salontech,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2025,استیون,estiven,Estiven,estiven,/brand/estiven/,estiven,estiven,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2027,رولن,rollan,Rollan,rollan,/brand/rollan/,rollan,rollan,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2031,لورنزو,lorenzo,Lorenzo,lorenzo,/brand/lorenzo/,lorenzo,lorenzo,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2038,پاشا,pasha,Pasha,pasha,/brand/pasha/,pasha,pasha,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2040,بیول,biol,Biol,biol,/brand/biol/,biol,biol,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2042,اپل,apple,Apple,apple,/brand/apple/,apple,apple,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2050,پایتخت,paytakht,paytakht,paytakht,/brand/paytakht/,paytakht,paytakht,no,819,819,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2052,برانت,brant,brant,brant,/brand/brant/,brant,brant,no,395,395,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2054,سیکس,six,six,six,/brand/six/,six,six,no,258,258,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2057,ژوپینگ,xuping,Xuping,xuping,/brand/xuping/,xuping,xuping,no,1336,1336,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2060,ماصرم,masarm,Masarm,masarm,/brand/masarm/,masarm,masarm,no,146,146,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2067,تاکر,takor,TAKOR,takor,/brand/takor/,takor,takor,no,101,101,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2070,"سلین کالا",celin-kala,"Celin Kala",celin-kala,/brand/celin-kala/,celin-kala,celin-kala,no,38,38,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2073,"آی جواهر",ijavaher,Ijavaher,ijavaher,/brand/ijavaher/,ijavaher,ijavaher,no,273,273,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2076,مانچو,mancho,Mancho,mancho,/brand/mancho/,mancho,mancho,no,56,56,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2079,"ترمه ۱",termeh-1,"Termeh 1",termeh-1,/brand/termeh-1/,termeh-1,termeh-1,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2081,"آلتین هنر بزازیان",altin-honar-bazazian,"Altin Honar Bazazian",altin-honar-bazazian,/brand/altin-honar-bazazian/,altin-honar-bazazian,altin-honar-bazazian,no,80,80,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2090,"دلنار گالری",delnar-gallery,"Delnar Gallery",delnar-gallery,/brand/delnar-gallery/,delnar-gallery,delnar-gallery,no,115,115,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2092,درسمن,dressmann,Dressmann,dressmann,/brand/dressmann/,dressmann,dressmann,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2094,والبوش,walbusch,walbusch,walbusch,/brand/walbusch/,walbusch,walbusch,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2100,"چرم عطارد",atarod-leather,"Atarod Leather",atarod-leather,/brand/atarod-leather/,atarod-leather,atarod-leather,no,93,93,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2102,"نگارستان نیلی",negarestan-nili,"Negarestan Nili",negarestan-nili,/brand/negarestan-nili/,negarestan-nili,negarestan-nili,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2104,"چرم آراهمراه",charm-arahamrah,"Charm AraHamrah",charm-arahamrah,/brand/charm-arahamrah/,charm-arahamrah,charm-arahamrah,no,38,38,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2106,"چرم دیاکو",diako-leather,"Diako Leather",diako-leather,/brand/diako-leather/,diako-leather,diako-leather,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2108,"فراز هنر",faraz-honar,"Faraz Honar",faraz-honar,/brand/faraz-honar/,faraz-honar,faraz-honar,no,388,388,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2110,"چرم نیاوران",niavaran-leather,"niavaran leather",niavaran-leather,/brand/niavaran-leather/,niavaran-leather,niavaran-leather,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2112,"چرم بارز",charm-barez,"CHARM BAREZ",charm-barez,/brand/charm-barez/,charm-barez,charm-barez,no,201,201,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2114,"چرم یلسان",yalsan-leather,"YALSAN LEATHER",yalsan-leather,/brand/yalsan-leather/,yalsan-leather,yalsan-leather,no,154,154,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2116,اشن,ocean,OCEAN,ocean,/brand/ocean/,ocean,ocean,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2121,"صنایع دستی اریسا",erisa-handicraft,"Erisa handicraft",erisa-handicraft,/brand/erisa-handicraft/,erisa-handicraft,erisa-handicraft,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2123,منط,mante,mante,mante,/brand/mante/,mante,mante,no,147,147,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2125,"چرم زانکو",zanko-leather,"Zanko Leather",zanko-leather,/brand/zanko-leather/,zanko-leather,zanko-leather,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2127,کایرا,kaira,kaira,kaira,/brand/kaira/,kaira,kaira,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2129,"چرم آرا",charmara,Charmara,charmara,/brand/charmara/,charmara,charmara,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2131,"آرمان چرم",armanleather,Armanleather,armanleather,/brand/armanleather/,armanleather,armanleather,no,28,28,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2133,"پارینه چرم",parineh-charm,"Parineh Charm",parineh-charm,/brand/parineh-charm/,parineh-charm,parineh-charm,no,25,25,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2137,"دیجی استایل اسنشیال",digistyle-essentials,"Digistyle Essentials",digistyle-essentials,/brand/digistyle-essentials/,digistyle-essentials,digistyle-essentials,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2139,"ایزی دو",easydo,Easydo,easydo,/brand/easydo/,easydo,easydo,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2141,باینت,baynet,Baynet,baynet,/brand/baynet/,baynet,baynet,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2143,سارزی,sarzi,Sarzi,sarzi,/brand/sarzi/,sarzi,sarzi,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2145,تکنیک+07,technic07,Technic+07,technic07,/brand/technic07/,technic07,technic07,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2147,"تریکو پاییزان",terico-paeizan,"terico paeizan",terico-paeizan,/brand/terico-paeizan/,terico-paeizan,terico-paeizan,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2149,زاناما,%d8%b2%d8%a7%d9%86%d8%a7%d9%85%d8%a7,,,,,,no,6,6,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2151,کراس,keras,keras,keras,/brand/keras/,keras,keras,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2154,"آریان نخ باف",arian-nakh-baf,"Arian Nakh Baf",arian-nakh-baf,/brand/arian-nakh-baf/,arian-nakh-baf,arian-nakh-baf,no,73,73,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2156,"نوزده نودیک",1991,1991,1991,/brand/1991/,1991,1991,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2158,"ال سی وایکیکی",lc-waikiki,"LC Waikiki",lc-waikiki,/brand/lc-waikiki/,lc-waikiki,lc-waikiki,no,237,237,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2160,پیرمور,pirmor,PIRMOR,pirmor,/brand/pirmor/,pirmor,pirmor,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2162,"ام کی",mk,MK,mk,/brand/mk/,mk,mk,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2164,توریور,toriver,Toriver,toriver,/brand/toriver/,toriver,toriver,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2166,آریوان,arivan,Arivan,arivan,/brand/arivan/,arivan,arivan,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2168,لالکس,lalex,LALEX,lalex,/brand/lalex/,lalex,lalex,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2170,کروم,corum,CORUM,corum,/brand/corum/,corum,corum,no,32,32,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2172,پیتایا,pitaya,pitaya,pitaya,/brand/pitaya/,pitaya,pitaya,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2174,هومنیتی,whomanity,Whomanity,whomanity,/brand/whomanity/,whomanity,whomanity,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2176,مالدینی,maldini,Maldini,maldini,/brand/maldini/,maldini,maldini,no,68,68,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2178,تاپیک,topick,Topick,topick,/brand/topick/,topick,topick,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2181,افراتین,afratin,Afratin,afratin,/brand/afratin/,afratin,afratin,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2183,ریباک,reebok,Reebok,reebok,/brand/reebok/,reebok,reebok,no,86,86,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2185,"جامه پوش آرا",jame-poosh-ara,"Jame Poosh Ara",jame-poosh-ara,/brand/jame-poosh-ara/,jame-poosh-ara,jame-poosh-ara,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2187,"کانی راش",kani-rush,"Kani Rush",kani-rush,/brand/kani-rush/,kani-rush,kani-rush,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2189,"سین سی",sinsay,sinsay,sinsay,/brand/sinsay/,sinsay,sinsay,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2191,لیورجی,livergy,Livergy,livergy,/brand/livergy/,livergy,livergy,no,31,31,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2193,"جوتی جینز",jooti-jeans,"Jooti jeans",jooti-jeans,/brand/jooti-jeans/,jooti-jeans,jooti-jeans,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2194,پولو,polo,Polo,polo,/brand/polo/,polo,polo,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2196,اس.اولیور,s-oliver,S.Oliver,s-oliver,/brand/s-oliver/,s-oliver,s-oliver,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2198,کلمبیا,columbia,Columbia,columbia,/brand/columbia/,columbia,columbia,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2200,"یو اس پولو",us-polo,"US POLO",us-polo,/brand/us-polo/,us-polo,us-polo,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2202,پير1,pier1,PIER1,pier1,/brand/pier1/,pier1,pier1,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2204,"یو اس گرند پولو",us-grand-polo,"US Grand Polo",us-grand-polo,/brand/us-grand-polo/,us-grand-polo,us-grand-polo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2206,آدیداس,adidas,Adidas,adidas,/brand/adidas/,adidas,adidas,no,152,152,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2209,"رالف لورن",ralph-lauren,"Ralph Lauren",ralph-lauren,/brand/ralph-lauren/,ralph-lauren,ralph-lauren,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2211,تیمبرلند,timberland,Timberland,timberland,/brand/timberland/,timberland,timberland,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2213,"اسپرینگ فیلد",springfield,Springfield,springfield,/brand/springfield/,springfield,springfield,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2215,اسپیور,espiur,Espiur,espiur,/brand/espiur/,espiur,espiur,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2217,روگاچی,rugatchi,Rugatchi,rugatchi,/brand/rugatchi/,rugatchi,rugatchi,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2219,"جین وست",jeanswest,jeanswest,jeanswest,/brand/jeanswest/,jeanswest,jeanswest,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2221,"پیر کاردین",pierre-cardin,"Pierre Cardin",pierre-cardin,/brand/pierre-cardin/,pierre-cardin,pierre-cardin,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2223,آلکات,alcott,alcott,alcott,/brand/alcott/,alcott,alcott,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2225,زیزیپ,zeezip,Zeezip,zeezip,/brand/zeezip/,zeezip,zeezip,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2227,دایورس,diverse,Diverse,diverse,/brand/diverse/,diverse,diverse,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2229,نایکی,nike,Nike,nike,/brand/nike/,nike,nike,no,53,53,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2231,برندس,brands,Brands,brands,/brand/brands/,brands,brands,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2233,"ایکس ساید",xside,xside,xside,/brand/xside/,xside,xside,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2235,مو,mo,M&O,mo,/brand/mo/,mo,mo,no,93,93,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2237,"دی اس دامات",dsdamat,dsdamat,dsdamat,/brand/dsdamat/,dsdamat,dsdamat,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2239,گس,guess,Guess,guess,/brand/guess/,guess,guess,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2241,کیگیلی,kigili,KIGILI,kigili,/brand/kigili/,kigili,kigili,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2243,بنتنر,bentner,bentner,bentner,/brand/bentner/,bentner,bentner,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2245,"کمپ دیوید",camp-david,"CAMP DAVID",camp-david,/brand/camp-david/,camp-david,camp-david,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2247,ساروچی,sarochi,Sarochi,sarochi,/brand/sarochi/,sarochi,sarochi,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2249,کورتفیل,cortefiel,Cortefiel,cortefiel,/brand/cortefiel/,cortefiel,cortefiel,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2251,"زاگرس پوش",zagros-poosh,"Zagros Poosh",zagros-poosh,/brand/zagros-poosh/,zagros-poosh,zagros-poosh,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2253,"برنو بنانی",bruno-banani,"Bruno Banani",bruno-banani,/brand/bruno-banani/,bruno-banani,bruno-banani,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2255,استارت,start,Start,start,/brand/start/,start,start,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2257,"تونی مونتانا",tony-montana,"tony montana",tony-montana,/brand/tony-montana/,tony-montana,tony-montana,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2259,سارک,sarak,sarak,sarak,/brand/sarak/,sarak,sarak,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2263,لیدل,lidl,lidl,lidl,/brand/lidl/,lidl,lidl,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2264,کرین,crane,Crane,crane,/brand/crane/,crane,crane,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2266,مارول,marvel,Marvel,marvel,/brand/marvel/,marvel,marvel,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2272,"آریا پارس",ariya-pars,"ARIYA PARS",ariya-pars,/brand/ariya-pars/,ariya-pars,ariya-pars,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2275,"شیرین جامه",shirin-jame,"shirin jame",shirin-jame,/brand/shirin-jame/,shirin-jame,shirin-jame,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2278,"بی نقش",binaghsh,BINAGHSH,binaghsh,/brand/binaghsh/,binaghsh,binaghsh,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2281,مادر,madar,Madar,madar,/brand/madar/,madar,madar,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2283,"هرمان نو",herman-no,"herman no",herman-no,/brand/herman-no/,herman-no,herman-no,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2285,زیگ,zig,Zig,zig,/brand/zig/,zig,zig,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2288,کریویت,crivit,Crivit,crivit,/brand/crivit/,crivit,crivit,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2290,یَل,yal,YAL,yal,/brand/yal/,yal,yal,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2294,اولسون,olson,olson,olson,/brand/olson/,olson,olson,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2296,الوج,eloj,Eloj,eloj,/brand/eloj/,eloj,eloj,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2300,جولس,jules,JULES,jules,/brand/jules/,jules,jules,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2302,"راک تریل",rocktrail,rocktrail,rocktrail,/brand/rocktrail/,rocktrail,rocktrail,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2304,"اچ اند ام",hm,H&M,hm,/brand/hm/,hm,hm,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2306,واتسونز,watsons,Watsons,watsons,/brand/watsons/,watsons,watsons,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2308,"کامن پیپل",common-people,"common people",common-people,/brand/common-people/,common-people,common-people,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2311,زارا,zara,Zara,zara,/brand/zara/,zara,zara,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2316,"آر اِن اِس",rns,RNS,rns,/brand/rns/,rns,rns,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2318,کچوا,quechua,Quechua,quechua,/brand/quechua/,quechua,quechua,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2320,پارکساید,parkside,parkside,parkside,/brand/parkside/,parkside,parkside,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2323,هکت,hackett,Hackett,hackett,/brand/hackett/,hackett,hackett,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2325,"مایکل کورس",michael-kors,"Michael Kors",michael-kors,/brand/michael-kors/,michael-kors,michael-kors,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2327,"جک اند جونز",jack-and-jones,"Jack and Jones",jack-and-jones,/brand/jack-and-jones/,jack-and-jones,jack-and-jones,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2329,سوپردرای,superdry,Superdry,superdry,/brand/superdry/,superdry,superdry,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2331,کانتکس,canttex,CANTTEX,canttex,/brand/canttex/,canttex,canttex,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2333,"بیر سورف بردز",bear-surfboards,"Bear Surfboards",bear-surfboards,/brand/bear-surfboards/,bear-surfboards,bear-surfboards,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2335,هامتو,humtto,Humtto,humtto,/brand/humtto/,humtto,humtto,no,214,214,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2339,یونیتی,uniti,Uniti,uniti,/brand/uniti/,uniti,uniti,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2341,ابسکو,abisko,ABISKO,abisko,/brand/abisko/,abisko,abisko,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2343,کیابی,kiabi,Kiabi,kiabi,/brand/kiabi/,kiabi,kiabi,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2345,"سون پون",seven-poon,"Seven Poon",seven-poon,/brand/seven-poon/,seven-poon,seven-poon,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2348,پبل,pebble,Pebble,pebble,/brand/pebble/,pebble,pebble,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2350,پپا,pepa,Pepa,pepa,/brand/pepa/,pepa,pepa,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2353,"آنکل سم",uncle-sam,"Uncle Sam",uncle-sam,/brand/uncle-sam/,uncle-sam,uncle-sam,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2355,"بیگ استار",big-star,"Big Star",big-star,/brand/big-star/,big-star,big-star,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2358,هنریسان,honarisun,honarisun,honarisun,/brand/honarisun/,honarisun,honarisun,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2361,"آی ام",i-am,"I am",i-am,/brand/i-am/,i-am,i-am,no,253,253,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2374,"شهرزنان کارآفرین بهاران",shahrezanane-karafarine-baharan,"shahrezanane karafarine baharan",shahrezanane-karafarine-baharan,/brand/shahrezanane-karafarine-baharan/,shahrezanane-karafarine-baharan,shahrezanane-karafarine-baharan,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2377,"چرم سینلی",sinli-leather,"Sinli leather",sinli-leather,/brand/sinli-leather/,sinli-leather,sinli-leather,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2380,"پری زاد",parizad,Parizad,parizad,/brand/parizad/,parizad,parizad,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2387,بومی,boomi,boomi,boomi,/brand/boomi/,boomi,boomi,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2393,کالینز,colins,Colins,colins,/brand/colins/,colins,colins,no,32,32,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2407,شوپا,shoe-pa,"Shoe pa",shoe-pa,/brand/shoe-pa/,shoe-pa,shoe-pa,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2409,لرد,lord,Lord,lord,/brand/lord/,lord,lord,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2412,"چرم آدمی",adami-leather,"Adami Leather",adami-leather,/brand/adami-leather/,adami-leather,adami-leather,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2414,"چرم مشهد",mashad-leather,"Mashad Leather",mashad-leather,/brand/mashad-leather/,mashad-leather,mashad-leather,no,147,147,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2416,ورنو,verno,VERNO,verno,/brand/verno/,verno,verno,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2419,اورز,orez,Orez,orez,/brand/orez/,orez,orez,no,55,55,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2421,صاد,saad,Saad,saad,/brand/saad/,saad,saad,no,42,42,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2423,کرمانی,kermani,Kermani,kermani,/brand/kermani/,kermani,kermani,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2425,"پویان گام پیام",poyan-gam-payam,"Poyan Gam Payam",poyan-gam-payam,/brand/poyan-gam-payam/,poyan-gam-payam,poyan-gam-payam,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2427,"چرم کروکو",croco-leather,"Croco Leather",croco-leather,/brand/croco-leather/,croco-leather,croco-leather,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2430,مونو,mono,MONO,mono,/brand/mono/,mono,mono,no,31,31,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2432,باس,boss,Boss,boss,/brand/boss/,boss,boss,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2435,"چرم درسا",dorsa,Dorsa,dorsa,/brand/dorsa/,dorsa,dorsa,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2438,"پول اند بیر",pull-bear,"Pull & Bear",pull-bear,/brand/pull-bear/,pull-bear,pull-bear,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2440,پاما,pama,PAMA,pama,/brand/pama/,pama,pama,no,23,23,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2442,"چرم آفتاب",aftableather,aftableather,aftableather,/brand/aftableather/,aftableather,aftableather,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2444,جورج,george,George,george,/brand/george/,george,george,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2446,شیفر,shifer,Shifer,shifer,/brand/shifer/,shifer,shifer,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2448,"نوین چرم",novin-leather,"Novin Leather",novin-leather,/brand/novin-leather/,novin-leather,novin-leather,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2450,"چرم تبریز",charm-tabriz,"CHARM TABRIZ",charm-tabriz,/brand/charm-tabriz/,charm-tabriz,charm-tabriz,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2452,"مارال چرم",maral-leather,"Maral Leather",maral-leather,/brand/maral-leather/,maral-leather,maral-leather,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2454,نیکلاس,nicolas,Nicolas,nicolas,/brand/nicolas/,nicolas,nicolas,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2459,"مامی دوز",mami-dooz,"Mami Dooz",mami-dooz,/brand/mami-dooz/,mami-dooz,mami-dooz,no,27,27,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2461,پالوته,paloote,PALOOTE,paloote,/brand/paloote/,paloote,paloote,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2463,ماییلدا,myilda,Myilda,myilda,/brand/myilda/,myilda,myilda,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2466,پندار,pendar,pendar,pendar,/brand/pendar/,pendar,pendar,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2471,اسد,asad,Asad,asad,/brand/asad/,asad,asad,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2474,"دل مد گروپ",delmod-group,"Delmod group",delmod-group,/brand/delmod-group/,delmod-group,delmod-group,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2477,"کینگ اگزیت اسپای",king-exit-spy,"KING EXIT SPY",king-exit-spy,/brand/king-exit-spy/,king-exit-spy,king-exit-spy,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2480,پانیل,panil,Panil,panil,/brand/panil/,panil,panil,no,37,37,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2487,ناربن,narbon,Narbon,narbon,/brand/narbon/,narbon,narbon,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2492,سیلکا,silka,Silka,silka,/brand/silka/,silka,silka,no,27,27,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2494,"تن پوش هنگامه",tan-posh-henghameh,"tan posh henghameh",tan-posh-henghameh,/brand/tan-posh-henghameh/,tan-posh-henghameh,tan-posh-henghameh,no,45,45,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2501,سلین,celine,Celine,celine,/brand/celine/,celine,celine,no,48,48,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2503,"آلبرت وگ",albert-vogue,"Albert Vogue",albert-vogue,/brand/albert-vogue/,albert-vogue,albert-vogue,no,319,319,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2505,"کروم هارتز",chrome-hearts,"Chrome Hearts",chrome-hearts,/brand/chrome-hearts/,chrome-hearts,chrome-hearts,no,25,25,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2507,"ترید ایی",third-eye,"Third eye",third-eye,/brand/third-eye/,third-eye,third-eye,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2509,"سرجیو مارتینی",sergio-martini,"Sergio Martini",sergio-martini,/brand/sergio-martini/,sergio-martini,sergio-martini,no,35,35,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2511,پلیس,police,POLICE,police,/brand/police/,police,police,no,116,116,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2514,"جورجیو ولنتی",giorgio-valenti,"Giorgio Valenti",giorgio-valenti,/brand/giorgio-valenti/,giorgio-valenti,giorgio-valenti,no,65,65,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2516,چارمنت,charment,CHARMENT,charment,/brand/charment/,charment,charment,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2518,زایس,zeiss,Zeiss,zeiss,/brand/zeiss/,zeiss,zeiss,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2521,"اتنیا بارسلونا",etnia-barcelona,"Etnia Barcelona",etnia-barcelona,/brand/etnia-barcelona/,etnia-barcelona,etnia-barcelona,no,36,36,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2524,"ری بن",ray-ban,"Ray Ban",ray-ban,/brand/ray-ban/,ray-ban,ray-ban,no,637,637,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2526,ماسائو,masao,Masao,masao,/brand/masao/,masao,masao,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2528,"رودن اشتوک",rodenstock,RODENSTOCK,rodenstock,/brand/rodenstock/,rodenstock,rodenstock,no,60,60,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2533,دیورسو,diverso,diverso,diverso,/brand/diverso/,diverso,diverso,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2535,اونلی,only,Only,only,/brand/only/,only,only,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2537,کاررا,carrera,Carrera,carrera,/brand/carrera/,carrera,carrera,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2539,"ویکتوریا بکهام",victoria-beckham,"Victoria Beckham",victoria-beckham,/brand/victoria-beckham/,victoria-beckham,victoria-beckham,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2542,مورل,morel,Morel,morel,/brand/morel/,morel,morel,no,274,274,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2544,"پورش دیزاین",porsche-design,"Porsche Design",porsche-design,/brand/porsche-design/,porsche-design,porsche-design,no,24,24,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2548,"تی بی دی",tbd,TBD,tbd,/brand/tbd/,tbd,tbd,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2550,میباخ,maybach,MAYBACH,maybach,/brand/maybach/,maybach,maybach,no,37,37,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2552,سیلوئت,silhouette,Silhouette,silhouette,/brand/silhouette/,silhouette,silhouette,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2554,ووگ,vogue,Vogue,vogue,/brand/vogue/,vogue,vogue,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2556,سواروسکی,swarovski,Swarovski,swarovski,/brand/swarovski/,swarovski,swarovski,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2558,زنیت,zenith,Zenith,zenith,/brand/zenith/,zenith,zenith,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2560,نکسا,nexa,Nexa,nexa,/brand/nexa/,nexa,nexa,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2562,تراست,trust,Trust,trust,/brand/trust/,trust,trust,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2564,سیکو,seiko,Seiko,seiko,/brand/seiko/,seiko,seiko,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2566,سوئینگ,swing,Swing,swing,/brand/swing/,swing,swing,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2568,گپ,gap,Gap,gap,/brand/gap/,gap,gap,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2571,تی-شارج,t_charge,T_CHARGE,t_charge,,,,no,8,8,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2573,ایمپالا,impala,IMPALA,impala,/brand/impala/,impala,impala,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2575,"امپریو آرمانی",emporio-armani,"Emporio Armani",emporio-armani,/brand/emporio-armani/,emporio-armani,emporio-armani,no,57,57,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2577,"تام تیلور",tom-tailor,"Tom Tailor",tom-tailor,/brand/tom-tailor/,tom-tailor,tom-tailor,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2580,بالدسارینی,baldessarini,Baldessarini,baldessarini,/brand/baldessarini/,baldessarini,baldessarini,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2582,کامفورت,comfort,COMFORT,comfort,/brand/comfort/,comfort,comfort,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2586,"تیفانی اند کو",tiffany-co,"Tiffany & Co",tiffany-co,/brand/tiffany-co/,tiffany-co,tiffany-co,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2590,فلرت,flirt,Flirt,flirt,/brand/flirt/,flirt,flirt,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2592,"آنتونیو باندراس",antonio-banderas,"Antonio Banderas",antonio-banderas,/brand/antonio-banderas/,antonio-banderas,antonio-banderas,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2596,اونر,owner,Owner,owner,/brand/owner/,owner,owner,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2598,مارکولین,marcolin,marcolin,marcolin,/brand/marcolin/,marcolin,marcolin,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2601,ژوپ,joop,Joop,joop,/brand/joop/,joop,joop,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2602,اکسیژن,oxyjen,OXYJEN,oxyjen,/brand/oxyjen/,oxyjen,oxyjen,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2604,لوزا,lozza,Lozza,lozza,/brand/lozza/,lozza,lozza,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2606,استپر,stepper,stepper,stepper,/brand/stepper/,stepper,stepper,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2610,"آندر آرمور",under-armour,"Under Armour",under-armour,/brand/under-armour/,under-armour,under-armour,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2613,مکران,macran,Macran,macran,/brand/macran/,macran,macran,no,56,56,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2616,"ویکتور ویر",victor-wear,"Victor Wear",victor-wear,/brand/victor-wear/,victor-wear,victor-wear,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2624,"تن زیب",tanzib,TanZib,tanzib,/brand/tanzib/,tanzib,tanzib,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2626,"ایکس وودی",x-voody,"X VOODY",x-voody,/brand/x-voody/,x-voody,x-voody,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2633,"نیو بالانس",new-balance,"New Balance",new-balance,/brand/new-balance/,new-balance,new-balance,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2635,آلشپرت,uhlsport,Uhlsport,uhlsport,/brand/uhlsport/,uhlsport,uhlsport,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2637,"مل اند موژ",mel-and-moj,"Mel and Moj",mel-and-moj,/brand/mel-and-moj/,mel-and-moj,mel-and-moj,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2640,"بی فور ران",b-4-run,"B 4 Run",b-4-run,/brand/b-4-run/,b-4-run,b-4-run,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2655,آپ2فشن,up2fashion,up2fashion,up2fashion,/brand/up2fashion/,up2fashion,up2fashion,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2657,پاندورا,pandora,Pandora,pandora,/brand/pandora/,pandora,pandora,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2670,"فیلیپ پلین",philipp-plein,"Philipp plein",philipp-plein,/brand/philipp-plein/,philipp-plein,philipp-plein,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2678,بالنو,baleno,Baleno,baleno,/brand/baleno/,baleno,baleno,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2680,"هایکا hayka",hayka,Hayka,hayka,/brand/hayka/,hayka,hayka,no,5021,5021,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2685,چیاکو,chiaco,chiaco,chiaco,/brand/chiaco/,chiaco,chiaco,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2687,"361 درجه",361-degrees,"361 Degrees",361-degrees,/brand/361-degrees/,361-degrees,361-degrees,no,47,47,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2692,آرتان,artan,artan,artan,/brand/artan/,artan,artan,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2694,کوهسار,kouhsar,KOUHSAR,kouhsar,/brand/kouhsar/,kouhsar,kouhsar,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2696,موند,mund,Mund,mund,/brand/mund/,mund,mund,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2702,آلبی,albay,Albay,albay,/brand/albay/,albay,albay,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2704,پانیبو,paniboo,paniboo,paniboo,/brand/paniboo/,paniboo,paniboo,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2706,ادیب,adib,ADIB,adib,/brand/adib/,adib,adib,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2708,ماموت,mammut,Mammut,mammut,/brand/mammut/,mammut,mammut,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2710,نیچرهایک,naturehike,Naturehike,naturehike,/brand/naturehike/,naturehike,naturehike,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2713,کجال,kajal,Kajal,kajal,/brand/kajal/,kajal,kajal,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2715,دانلوپ,dunlop,Dunlop,dunlop,/brand/dunlop/,dunlop,dunlop,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2717,موتال,motal,motal,motal,/brand/motal/,motal,motal,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2719,"هورا مهر",hoora-mehr,"HOORA MEHR",hoora-mehr,/brand/hoora-mehr/,hoora-mehr,hoora-mehr,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2721,ویلسون,wilson,Wilson,wilson,/brand/wilson/,wilson,wilson,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2725,آرکتریکس,arcteryx,Arcteryx,arcteryx,/brand/arcteryx/,arcteryx,arcteryx,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2734,"شیراز سهند لیزر",shiraz-sahand-laser,"shiraz sahand laser",shiraz-sahand-laser,/brand/shiraz-sahand-laser/,shiraz-sahand-laser,shiraz-sahand-laser,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2736,"چرم بارثاوا",barsava-leather,"Barsava Leather",barsava-leather,/brand/barsava-leather/,barsava-leather,barsava-leather,no,62,62,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2739,"ناوک چرم",navak-charm,"navak charm",navak-charm,/brand/navak-charm/,navak-charm,navak-charm,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2741,"خانه چرم آنا",ana-leather-house,"ANA LEATHER HOUSE",ana-leather-house,/brand/ana-leather-house/,ana-leather-house,ana-leather-house,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2743,"تی سی توی",tctoy,TCToy,tctoy,/brand/tctoy/,tctoy,tctoy,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2746,رویامد,royamode,Royamode,royamode,/brand/royamode/,royamode,royamode,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2748,پارسوماش,parsomash,Parsomash,parsomash,/brand/parsomash/,parsomash,parsomash,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2750,"کهن چرم",kohan-charm,"Kohan Charm",kohan-charm,/brand/kohan-charm/,kohan-charm,kohan-charm,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2753,"دست نگار",dastnegar,Dastnegar,dastnegar,/brand/dastnegar/,dastnegar,dastnegar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2755,کوچ,coach,Coach,coach,/brand/coach/,coach,coach,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2757,کارپینوس,carpinus,Carpinus,carpinus,/brand/carpinus/,carpinus,carpinus,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2761,کولزیون,collezione,collezione,collezione,/brand/collezione/,collezione,collezione,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2765,ساسنیبار,sansibar,Sansibar,sansibar,/brand/sansibar/,sansibar,sansibar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2774,برشکا,bershka,Bershka,bershka,/brand/bershka/,bershka,bershka,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2779,"او وی اس",ovs,OVS,ovs,/brand/ovs/,ovs,ovs,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2787,"تن تاک",tantak,Tantak,tantak,/brand/tantak/,tantak,tantak,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2789,نسیم,nasim,NASIM,nasim,/brand/nasim/,nasim,nasim,no,24,24,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2791,دکسونری,dexonary,dexonary,dexonary,/brand/dexonary/,dexonary,dexonary,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2794,دوخط,dokhat,dokhat,dokhat,/brand/dokhat/,dokhat,dokhat,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2796,تتیس,tetis,tetis,tetis,/brand/tetis/,tetis,tetis,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2798,"خانه مد",khane-mod,"KHANE MOD",khane-mod,/brand/khane-mod/,khane-mod,khane-mod,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2800,کروماکی,kromaki,Kromaki,kromaki,/brand/kromaki/,kromaki,kromaki,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2803,پاتکان,patkan,Patkan,patkan,/brand/patkan/,patkan,patkan,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2806,"سیی 1966",see1966,see1966,see1966,/brand/see1966/,see1966,see1966,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2808,میسترال,mistral,mistral,mistral,/brand/mistral/,mistral,mistral,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2812,پاپا,papa,Papa,papa,/brand/papa/,papa,papa,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2814,سسیل,cecil,CECIL,cecil,/brand/cecil/,cecil,cecil,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2816,آلبرتینی,albertini,Albertini,albertini,/brand/albertini/,albertini,albertini,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2818,"کفش سعیدی",saeedi-shoe,"saeedi shoe",saeedi-shoe,/brand/saeedi-shoe/,saeedi-shoe,saeedi-shoe,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2821,"های مد",hi-mod,"HI MOD",hi-mod,/brand/hi-mod/,hi-mod,hi-mod,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2823,دشوز,the-shoes,"The Shoes",the-shoes,/brand/the-shoes/,the-shoes,the-shoes,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2825,شهپر,shahpar,Shahpar,shahpar,/brand/shahpar/,shahpar,shahpar,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2828,"آرمانی اکسچنج",armani-exchange,"Armani Exchange",armani-exchange,/brand/armani-exchange/,armani-exchange,armani-exchange,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2830,آرمیس,armis,armis,armis,/brand/armis/,armis,armis,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2832,"جی وان",j-one,j.one,j-one,/brand/j-one/,j-one,j-one,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2835,روویکس,rovix,Rovix,rovix,/brand/rovix/,rovix,rovix,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2840,اسکچرز,skechers,Skechers,skechers,/brand/skechers/,skechers,skechers,no,74,74,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2842,ارکه,erke,Erke,erke,/brand/erke/,erke,erke,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2845,پوما,puma,Puma,puma,/brand/puma/,puma,puma,no,41,41,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2848,"ایر جردن",air-jordan,"Air Jordan",air-jordan,/brand/air-jordan/,air-jordan,air-jordan,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2850,سالومون,salomon,Salomon,salomon,/brand/salomon/,salomon,salomon,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2852,اسیکس,asics,Asics,asics,/brand/asics/,asics,asics,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2854,میشانشا,mishansha,mishansha,mishansha,/brand/mishansha/,mishansha,mishansha,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2856,"اسنو هاوک",snow-hawk,"snow hawk",snow-hawk,/brand/snow-hawk/,snow-hawk,snow-hawk,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2860,بروکس,brooks,Brooks,brooks,/brand/brooks/,brooks,brooks,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2863,هوکا,hoka,HOKA,hoka,/brand/hoka/,hoka,hoka,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2865,راکی,rocky,ROCKY,rocky,/brand/rocky/,rocky,rocky,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2869,"آن رانینگ",on-runing,"ON RUNING",on-runing,/brand/on-runing/,on-runing,on-runing,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2872,"ال استار",all-star,"All Star",all-star,/brand/all-star/,all-star,all-star,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2874,بالنسیاگا,balenciaga,Balenciaga,balenciaga,/brand/balenciaga/,balenciaga,balenciaga,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2878,کلارتس,clorts,clorts,clorts,/brand/clorts/,clorts,clorts,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2880,"کفش سنگام",sangam,Sangam,sangam,/brand/sangam/,sangam,sangam,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2888,"شهرام طب",shahram-teb,"shahram teb",shahram-teb,/brand/shahram-teb/,shahram-teb,shahram-teb,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2894,"پرو استپ",pro-step,"pro step",pro-step,/brand/pro-step/,pro-step,pro-step,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2901,"اسپورت لند",sportland,SPORTLAND,sportland,/brand/sportland/,sportland,sportland,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2905,دنزا,denxa,denxa,denxa,/brand/denxa/,denxa,denxa,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2907,"هوبی بر",hobi-bear,"hobi bear",hobi-bear,/brand/hobi-bear/,hobi-bear,hobi-bear,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2910,لامبرجک,lumberjack,Lumberjack,lumberjack,/brand/lumberjack/,lumberjack,lumberjack,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2914,مرل,merrell,Merrell,merrell,/brand/merrell/,merrell,merrell,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2916,هد,head,Head,head,/brand/head/,head,head,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2919,اسکارپا,scarpa,scarpa,scarpa,/brand/scarpa/,scarpa,scarpa,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2922,اویشو,oysho,Oysho,oysho,/brand/oysho/,oysho,oysho,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2924,گورنورنی,gornornie,Gornornie,gornornie,/brand/gornornie/,gornornie,gornornie,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2926,کینتیکس,kinetix,Kinetix,kinetix,/brand/kinetix/,kinetix,kinetix,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2928,لتون,letoon,Letoon,letoon,/brand/letoon/,letoon,letoon,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2930,میزانو,mizuno,Mizuno,mizuno,/brand/mizuno/,mizuno,mizuno,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2934,کاراکال,caracal,caracal,caracal,/brand/caracal/,caracal,caracal,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2936,"تونی بلک",tonny-black,"Tonny Black",tonny-black,/brand/tonny-black/,tonny-black,tonny-black,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2938,بورژ,bourge,Bourge,bourge,/brand/bourge/,bourge,bourge,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2940,لاگوست,lacoste,LACOSTE,lacoste,/brand/lacoste/,lacoste,lacoste,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2942,لولولمون,lululemon,Lululemon,lululemon,/brand/lululemon/,lululemon,lululemon,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2945,لوتو,lotto,LOTTO,lotto,/brand/lotto/,lotto,lotto,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2949,"جی اوکس",geox,Geox,geox,/brand/geox/,geox,geox,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2952,استرادیواریوس,stradivarius,Stradivarius,stradivarius,/brand/stradivarius/,stradivarius,stradivarius,no,26,26,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2955,واریور,warrior,WARRIOR,warrior,/brand/warrior/,warrior,warrior,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2957,دیزل,diesel,DIESEL,diesel,/brand/diesel/,diesel,diesel,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2959,دیادورا,diadora,Diadora,diadora,/brand/diadora/,diadora,diadora,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2961,کاپا,kappa,kappa,kappa,/brand/kappa/,kappa,kappa,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2963,مانگو,mango,Mango,mango,/brand/mango/,mango,mango,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2966,فشن,fashion,Fashion,fashion,/brand/fashion/,fashion,fashion,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2969,"سی ام پی",cmp,CMP,cmp,/brand/cmp/,cmp,cmp,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2974,بنج,bange,BANGE,bange,/brand/bange/,bange,bange,no,26,26,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2978,پرزیدنت,president,President,president,/brand/president/,president,president,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2983,فیرو,firo,Firo,firo,/brand/firo/,firo,firo,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2986,"رویال چرم",royal-leather,"ROYAL LEATHER",royal-leather,/brand/royal-leather/,royal-leather,royal-leather,no,33,33,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2988,"چرم لانکا",lanka-leather,"Lanka Leather",lanka-leather,/brand/lanka-leather/,lanka-leather,lanka-leather,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2994,بیورا,biora,Biora,biora,/brand/biora/,biora,biora,no,41,41,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2997,جیلشی,jielshi,JIELSHI,jielshi,/brand/jielshi/,jielshi,jielshi,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+2999,"نشنال جئوگرافیک",national-geographic,"National Geographic",national-geographic,/brand/national-geographic/,national-geographic,national-geographic,no,39,39,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3003,فوروارد,forward,Forward,forward,/brand/forward/,forward,forward,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3005,بوبو,bobo,Bobo,bobo,/brand/bobo/,bobo,bobo,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3007,گابل,gabol,Gabol,gabol,/brand/gabol/,gabol,gabol,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3009,"پیل آرو",pilaro,PILARO,pilaro,/brand/pilaro/,pilaro,pilaro,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3011,"چرم اویس",oveis-laether,"OVEIS Laether",oveis-laether,/brand/oveis-laether/,oveis-laether,oveis-laether,no,32,32,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3016,"دیوید جونز",david-jones,"David Jones",david-jones,/brand/david-jones/,david-jones,david-jones,no,64,64,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3020,"آریا پوینت",aria-point,"aria point",aria-point,/brand/aria-point/,aria-point,aria-point,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3022,گامارو,gamaro,Gamaro,gamaro,/brand/gamaro/,gamaro,gamaro,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3024,تنسر,tancer,Tancer,tancer,/brand/tancer/,tancer,tancer,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3031,بیسراک,bisrak,BISRAK,bisrak,/brand/bisrak/,bisrak,bisrak,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3033,رونکاتو,roncato,Roncato,roncato,/brand/roncato/,roncato,roncato,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3035,"تین بانی",tinbany,Tinbany,tinbany,/brand/tinbany/,tinbany,tinbany,no,13,13,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3037,"نیلپر توریستر",nilper-tourister,"Nilper tourister",nilper-tourister,/brand/nilper-tourister/,nilper-tourister,nilper-tourister,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3040,فوور,fouvor,fouvor,fouvor,/brand/fouvor/,fouvor,fouvor,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3043,هایبورگ,heiburg,HEIBURG,heiburg,/brand/heiburg/,heiburg,heiburg,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3051,دیسکاوری,discovery,discovery,discovery,/brand/discovery/,discovery,discovery,no,25,25,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3053,برتونیکس,berttonix,Berttonix,berttonix,/brand/berttonix/,berttonix,berttonix,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3056,"سانتا باربارا پولو راکت کلاب",santa-barbara-polo-racquet-club,"Santa Barbara Polo & Racquet Club",santa-barbara-polo-racquet-club,/brand/santa-barbara-polo-racquet-club/,santa-barbara-polo-racquet-club,santa-barbara-polo-racquet-club,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3058,جیپ,jeep,Jeep,jeep,/brand/jeep/,jeep,jeep,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3060,یوتاب,youtab,YOUTAB,youtab,/brand/youtab/,youtab,youtab,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3065,ماوی,mavi,Mavi,mavi,/brand/mavi/,mavi,mavi,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3067,"چرم تهران",charm-tehran,"Charm Tehran",charm-tehran,/brand/charm-tehran/,charm-tehran,charm-tehran,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3070,"چرم رادل",charm-radel,"charm radel",charm-radel,/brand/charm-radel/,charm-radel,charm-radel,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3072,"کایا چرم",kaya-leather,"Kaya Leather",kaya-leather,/brand/kaya-leather/,kaya-leather,kaya-leather,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3078,"آناک چرم",anak-leather,"anak leather",anak-leather,/brand/anak-leather/,anak-leather,anak-leather,no,22,22,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3080,ایپول,epol,EPOL,epol,/brand/epol/,epol,epol,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3082,هگزاگونا,hexagona,HEXAGONA,hexagona,/brand/hexagona/,hexagona,hexagona,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3085,شاپرک,shaparak,Shaparak,shaparak,/brand/shaparak/,shaparak,shaparak,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3090,ماتریس,matris,Matris,matris,/brand/matris/,matris,matris,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3093,"چرم ما",charmema,Charmema,charmema,/brand/charmema/,charmema,charmema,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3095,"تالی وایل",tally-weijl,"Tally Weijl",tally-weijl,/brand/tally-weijl/,tally-weijl,tally-weijl,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3098,"وندی گیفت",vandy-gift,"vandy gift",vandy-gift,/brand/vandy-gift/,vandy-gift,vandy-gift,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3100,"هیبا استایل",%d9%87%db%8c%d8%a8%d8%a7-%d8%a7%d8%b3%d8%aa%d8%a7%db%8c%d9%84,,,,,,no,3,3,source_not_verified|missing_source_url,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3102,"فیرو پلاس",firo-plus,"Firo Plus",firo-plus,/brand/firo-plus/,firo-plus,firo-plus,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3104,"ترمه طراحان ایده",terme-tarrahan-ide,"Terme Tarrahan Ide",terme-tarrahan-ide,/brand/terme-tarrahan-ide/,terme-tarrahan-ide,terme-tarrahan-ide,no,152,152,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3107,دیبا,diba,Diba,diba,/brand/diba/,diba,diba,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3109,شونا,shoona,Shoona,shoona,/brand/shoona/,shoona,shoona,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3111,هورشید,hoorshid,Hoorshid,hoorshid,/brand/hoorshid/,hoorshid,hoorshid,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3113,تینو,tino,tino,tino,/brand/tino/,tino,tino,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3116,فیریسکی,frisky,FRISKY,frisky,/brand/frisky/,frisky,frisky,no,15,15,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3122,کوله,kule,KULE,kule,/brand/kule/,kule,kule,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3124,1860,1860,1860,1860,/brand/1860/,1860,1860,no,24,24,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3126,ماندگار,mandegar,Mandegar,mandegar,/brand/mandegar/,mandegar,mandegar,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3128,مادامرا,madamra,Madamra,madamra,/brand/madamra/,madamra,madamra,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3131,گوگانا,googana,googana,googana,/brand/googana/,googana,googana,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3134,فنسی,fancy,Fancy,fancy,/brand/fancy/,fancy,fancy,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3136,"چرم آمادای",amaday-leather,"Amaday Leather",amaday-leather,/brand/amaday-leather/,amaday-leather,amaday-leather,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3139,هادایز,hadize,hadize,hadize,/brand/hadize/,hadize,hadize,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3142,آلفونسی,alfonsi,Alfonsi,alfonsi,/brand/alfonsi/,alfonsi,alfonsi,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3147,وفس,vefs,Vefs,vefs,/brand/vefs/,vefs,vefs,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3152,نارنج,naranj,Naranj,naranj,/brand/naranj/,naranj,naranj,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3154,پرتیزس,prettyzys,prettyzys,prettyzys,/brand/prettyzys/,prettyzys,prettyzys,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3161,دیکمپ,dicamp,Dicamp,dicamp,/brand/dicamp/,dicamp,dicamp,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3168,هیسکا,hiska,HISKA,hiska,/brand/hiska/,hiska,hiska,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3170,"چرم آسو",aso-leather,"ASO Leather",aso-leather,/brand/aso-leather/,aso-leather,aso-leather,no,18,18,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3173,"چرم رادیس",charm-radis,"Charm Radis",charm-radis,/brand/charm-radis/,charm-radis,charm-radis,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3175,"آلفا بگ",alfa-bag,"ALFA BAG",alfa-bag,/brand/alfa-bag/,alfa-bag,alfa-bag,no,59,59,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3180,"چرم جانتا",janta-charm,"Janta Charm",janta-charm,/brand/janta-charm/,janta-charm,janta-charm,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3183,دلفارد,delphard,Delphard,delphard,/brand/delphard/,delphard,delphard,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3188,"آرتیک هانتر",arctic-hunter,"Arctic Hunter",arctic-hunter,/brand/arctic-hunter/,arctic-hunter,arctic-hunter,no,20,20,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3197,ناتینگ,nothing,Nothing,nothing,/brand/nothing/,nothing,nothing,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3200,ایگلسی,eaglesee,eaglesee,eaglesee,/brand/eaglesee/,eaglesee,eaglesee,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3202,میندسا,mindesa,Mindesa,mindesa,/brand/mindesa/,mindesa,mindesa,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3206,لفتیز,lefties,Lefties,lefties,/brand/lefties/,lefties,lefties,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3213,آیزن,eyezen,Eyezen,eyezen,/brand/eyezen/,eyezen,eyezen,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3215,ورد,verde,Verde,verde,/brand/verde/,verde,verde,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3217,مودو,moodo,Moodo,moodo,/brand/moodo/,moodo,moodo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3223,"الکساندر وانگ",alexander-wang,"Alexander wang",alexander-wang,/brand/alexander-wang/,alexander-wang,alexander-wang,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3225,کوتتسی,coteetci,Coteetci,coteetci,/brand/coteetci/,coteetci,coteetci,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3229,هیماواری,himawari,Himawari,himawari,/brand/himawari/,himawari,himawari,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3231,چیبائو,chibao,chibao,chibao,/brand/chibao/,chibao,chibao,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3233,دلسی,delsey,Delsey,delsey,/brand/delsey/,delsey,delsey,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3237,گارد,guard,Guard,guard,/brand/guard/,guard,guard,no,47,47,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3251,"کالرفول فاکس",colorful-fox,"colorful fox",colorful-fox,/brand/colorful-fox/,colorful-fox,colorful-fox,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3254,والنتیر,volunteer,volunteer,volunteer,/brand/volunteer/,volunteer,volunteer,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3258,نیلپر,nilper,Nilper,nilper,/brand/nilper/,nilper,nilper,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3265,کوتسی,coteci,coteci,coteci,/brand/coteci/,coteci,coteci,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3268,"تام تاک",tomtoc,tomtoc,tomtoc,/brand/tomtoc/,tomtoc,tomtoc,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3271,"چرم وحید",vahid-leather,"vahid leather",vahid-leather,/brand/vahid-leather/,vahid-leather,vahid-leather,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3278,"کارل لاگرفلد",karl-lagerfeld,"Karl Lagerfeld",karl-lagerfeld,/brand/karl-lagerfeld/,karl-lagerfeld,karl-lagerfeld,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3282,دیو,deev,Deev,deev,/brand/deev/,deev,deev,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3284,"هوس برند",housebrand,Housebrand,housebrand,/brand/housebrand/,housebrand,housebrand,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3290,"چرم اکابی",charm-akabi,"Charm akabi",charm-akabi,/brand/charm-akabi/,charm-akabi,charm-akabi,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3295,پیکتت.فاینو,pictet-fino,PICTET.FINO,pictet-fino,/brand/pictet-fino/,pictet-fino,pictet-fino,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3301,"رز مری",rose-merry,"Rose Merry",rose-merry,/brand/rose-merry/,rose-merry,rose-merry,no,11,11,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3303,مهربانو,mehrbano,Mehrbano,mehrbano,/brand/mehrbano/,mehrbano,mehrbano,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3305,باتلی,bateli,BATELI,bateli,/brand/bateli/,bateli,bateli,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3307,فوچاکو,fuchaco,FUCHACO,fuchaco,/brand/fuchaco/,fuchaco,fuchaco,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3310,"شهر چرم",leather-city,"Leather City",leather-city,/brand/leather-city/,leather-city,leather-city,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3314,هدگرن,hedgren,hedgren,hedgren,/brand/hedgren/,hedgren,hedgren,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3320,ریس,rees,Rees,rees,/brand/rees/,rees,rees,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3324,وودسنس,wood-sense,"Wood Sense",wood-sense,/brand/wood-sense/,wood-sense,wood-sense,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3326,رسی,recci,Recci,recci,/brand/recci/,recci,recci,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3328,پرینو,parino,parino,parino,/brand/parino/,parino,parino,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3331,"جانی اند جانی",johnny-and-johnny,"Johnny and Johnny",johnny-and-johnny,/brand/johnny-and-johnny/,johnny-and-johnny,johnny-and-johnny,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3333,تاش,tosh,Tosh,tosh,/brand/tosh/,tosh,tosh,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3344,"چرم فیل",phil-leather,"phil leather",phil-leather,/brand/phil-leather/,phil-leather,phil-leather,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3346,"چرم سی یِنا",siena-leather,"Siena Leather",siena-leather,/brand/siena-leather/,siena-leather,siena-leather,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3351,ژاوا,xava,Xava,xava,/brand/xava/,xava,xava,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3353,"سی یِنا",siena,siena,siena,/brand/siena/,siena,siena,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3359,اسپای,spy,Spy,spy,/brand/spy/,spy,spy,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3364,موسکوت,moscot,moscot,moscot,/brand/moscot/,moscot,moscot,no,105,105,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3366,"جنتل مانستر",gentle-monster,"Gentle Monster",gentle-monster,/brand/gentle-monster/,gentle-monster,gentle-monster,no,44,44,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3368,دیتیای,ditiai,Ditiai,ditiai,/brand/ditiai/,ditiai,ditiai,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3371,"آکوا دی پولو",aqua-di-polo,"Aqua di polo",aqua-di-polo,/brand/aqua-di-polo/,aqua-di-polo,aqua-di-polo,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3374,اکسسورایز,accessorise,accessorise,accessorise,/brand/accessorise/,accessorise,accessorise,no,340,340,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3378,"ایس برلین",ic-berlin,"Ic Berlin",ic-berlin,/brand/ic-berlin/,ic-berlin,ic-berlin,no,71,71,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3380,"دیوید بکهام",david-beckham,"David Beckham",david-beckham,/brand/david-beckham/,david-beckham,david-beckham,no,86,86,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3385,پورشه,porsche,Porsche,porsche,/brand/porsche/,porsche,porsche,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3387,"بی لاین",beeline,BEELINE,beeline,/brand/beeline/,beeline,beeline,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3389,رِن,ren,REN,ren,/brand/ren/,ren,ren,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3393,ماتریکس,matrix,Matrix,matrix,/brand/matrix/,matrix,matrix,no,16,16,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3395,واته,vate,Vate,vate,/brand/vate/,vate,vate,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3399,"ایکس او ایکس او",xoxo,xoxo,xoxo,/brand/xoxo/,xoxo,xoxo,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3402,"امریکن اوپتیکال",american-optical,"American Optical",american-optical,/brand/american-optical/,american-optical,american-optical,no,30,30,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3404,اوگا,oga,ÖGA,oga,/brand/oga/,oga,oga,no,156,156,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3406,کارفیا,carfia,Carfia,carfia,/brand/carfia/,carfia,carfia,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3412,سانکروزر,suncruiser,suncruiser,suncruiser,/brand/suncruiser/,suncruiser,suncruiser,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3414,پروسان,prosun,Prosun,prosun,/brand/prosun/,prosun,prosun,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3416,دیتا,dita,Dita,dita,/brand/dita/,dita,dita,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3418,پرسول,persol,Persol,persol,/brand/persol/,persol,persol,no,61,61,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3420,"بوتگا ونتا",bottega-veneta,"Bottega Veneta",bottega-veneta,/brand/bottega-veneta/,bottega-veneta,bottega-veneta,no,10,10,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3425,"جیمی چو",jimmy-choo,"Jimmy Choo",jimmy-choo,/brand/jimmy-choo/,jimmy-choo,jimmy-choo,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3432,سپوری,sepori,Sepori,sepori,/brand/sepori/,sepori,sepori,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3435,اوپتل,optelli,optelli,optelli,/brand/optelli/,optelli,optelli,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3437,اوکلی,oakley,Oakley,oakley,/brand/oakley/,oakley,oakley,no,41,41,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3442,کرازا,caraza,Caraza,caraza,/brand/caraza/,caraza,caraza,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3445,فراری,ferrari,Ferrari,ferrari,/brand/ferrari/,ferrari,ferrari,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3449,"بای هارمونی",by-harmony,"By Harmony",by-harmony,/brand/by-harmony/,by-harmony,by-harmony,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3451,ایدول,idool,IDOOL,idool,/brand/idool/,idool,idool,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3453,"میو میو",mio-mio,"Mio Mio",mio-mio,/brand/mio-mio/,mio-mio,mio-mio,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3456,آیدل,aedoll,aedoll,aedoll,/brand/aedoll/,aedoll,aedoll,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3458,بولگاری,bvlgari,Bvlgari,bvlgari,/brand/bvlgari/,bvlgari,bvlgari,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3462,"لئو ولنتی",leo-valenti,"Leo Valenti",leo-valenti,/brand/leo-valenti/,leo-valenti,leo-valenti,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3470,تیفانی,tiffany,Tiffany,tiffany,/brand/tiffany/,tiffany,tiffany,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3472,"بی ام دبلیو",bmw,BMW,bmw,/brand/bmw/,bmw,bmw,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3475,لیندبرگ,lindberg,LINDBERG,lindberg,/brand/lindberg/,lindberg,lindberg,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3477,اورسلی,orselli,Orselli,orselli,/brand/orselli/,orselli,orselli,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3479,"دی کی ان وای",dkny,DKNY,dkny,/brand/dkny/,dkny,dkny,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3482,مدمکس,madmax,madmax,madmax,/brand/madmax/,madmax,madmax,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3486,الدورادو,eldorado,eldorado,eldorado,/brand/eldorado/,eldorado,eldorado,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3489,"مستر مانکی",mr-monkey,Mr.Monkey,mr-monkey,/brand/mr-monkey/,mr-monkey,mr-monkey,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3491,هیکمن,hickmann,Hickmann,hickmann,/brand/hickmann/,hickmann,hickmann,no,37,37,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3496,ماتسودا,matsuda,Matsuda,matsuda,/brand/matsuda/,matsuda,matsuda,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3503,کلویی,chloe,Chloe,chloe,/brand/chloe/,chloe,chloe,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3505,لووه,loewe,Loewe,loewe,/brand/loewe/,loewe,loewe,no,18,18,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3508,آناهیکمن,ana-hickmann,"Ana hickmann",ana-hickmann,/brand/ana-hickmann/,ana-hickmann,ana-hickmann,no,17,17,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3510,"چیلی بینز",chilli-beans,"Chilli Beans",chilli-beans,/brand/chilli-beans/,chilli-beans,chilli-beans,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3515,"لیندا فارو",linda-farrow,"Linda Farrow",linda-farrow,/brand/linda-farrow/,linda-farrow,linda-farrow,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3517,"ژاک موریف میج",jacques-marie-mage,"JACQUES MARIE MAGE",jacques-marie-mage,/brand/jacques-marie-mage/,jacques-marie-mage,jacques-marie-mage,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3520,"توری برچ",tory-burch,"Tory Burch",tory-burch,/brand/tory-burch/,tory-burch,tory-burch,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3522,سرتینا,certina,Certina,certina,/brand/certina/,certina,certina,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3524,اسپارکی,sparky,SPARKY,sparky,/brand/sparky/,sparky,sparky,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3526,"سالواتوره فراگامو",salvatore-ferragamo,"Salvatore Ferragamo",salvatore-ferragamo,/brand/salvatore-ferragamo/,salvatore-ferragamo,salvatore-ferragamo,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3530,"مون بلان",mont-blanc,"Mont Blanc",mont-blanc,/brand/mont-blanc/,mont-blanc,mont-blanc,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3533,بولون,bolon,Bolon,bolon,/brand/bolon/,bolon,bolon,no,22,22,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3537,هاوک,hawk-eyewear,"Hawk Eyewear",hawk-eyewear,/brand/hawk-eyewear/,hawk-eyewear,hawk-eyewear,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3543,ال,elle,Elle,elle,/brand/elle/,elle,elle,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3546,رئن,raen,RAEN,raen,/brand/raen/,raen,raen,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3548,صاایران,sairan,sairan,sairan,/brand/sairan/,sairan,sairan,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3550,شوپارد,chopard,Chopard,chopard,/brand/chopard/,chopard,chopard,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3556,"ژاک ماری میج",jaqcues-marie-mage,"Jaqcues marie mage",jaqcues-marie-mage,/brand/jaqcues-marie-mage/,jaqcues-marie-mage,jaqcues-marie-mage,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3559,"تی هنری",t-henri,"T Henri",t-henri,/brand/t-henri/,t-henri,t-henri,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3563,روو,revo,Revo,revo,/brand/revo/,revo,revo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3567,امیری,amiri,AMIRI,amiri,/brand/amiri/,amiri,amiri,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3569,ریزالت,result,Result,result,/brand/result/,result,result,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3571,"مرسدس بنز",mercedes-benz,"Mercedes Benz",mercedes-benz,/brand/mercedes-benz/,mercedes-benz,mercedes-benz,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3575,کومونو,komono,Komono,komono,/brand/komono/,komono,komono,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3577,رندولف,randolph,RANDOLPH,randolph,/brand/randolph/,randolph,randolph,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3579,"لانیا روما",linea-roma,"linea roma",linea-roma,/brand/linea-roma/,linea-roma,linea-roma,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3584,"ماریم اکو",marimekko,Marimekko,marimekko,/brand/marimekko/,marimekko,marimekko,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3587,"تگ هویر",tag-heuer,"Tag Heuer",tag-heuer,/brand/tag-heuer/,tag-heuer,tag-heuer,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3589,مولسیون,molsion,MOLSION,molsion,/brand/molsion/,molsion,molsion,no,21,21,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3591,"جی اف فره",gf-ferre,"GF Ferre",gf-ferre,/brand/gf-ferre/,gf-ferre,gf-ferre,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3593,"الکساندر مک کوئین",alexander-mcqueen,"Alexander McQueen",alexander-mcqueen,/brand/alexander-mcqueen/,alexander-mcqueen,alexander-mcqueen,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3596,پاواروتی,pavarotti,pavarotti,pavarotti,/brand/pavarotti/,pavarotti,pavarotti,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3599,بالمن,balmain,Balmain,balmain,/brand/balmain/,balmain,balmain,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3603,کنزو,kenzo,Kenzo,kenzo,/brand/kenzo/,kenzo,kenzo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3605,مورمایی,mormaii,mormaii,mormaii,/brand/mormaii/,mormaii,mormaii,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3607,بولگت,bulget,Bulget,bulget,/brand/bulget/,bulget,bulget,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3610,"پالم آنجلز",palm-angels,"Palm Angels",palm-angels,/brand/palm-angels/,palm-angels,palm-angels,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3614,"مائوئی جیم",maui-jim,"Maui Jim",maui-jim,/brand/maui-jim/,maui-jim,maui-jim,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3617,اینویو,invu,INVU,invu,/brand/invu/,invu,invu,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3620,پیک,peak,PEAK,peak,/brand/peak/,peak,peak,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3624,هرموسا,hermossa,hermossa,hermossa,/brand/hermossa/,hermossa,hermossa,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3626,اوسه,osse,Osse,osse,/brand/osse/,osse,osse,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3628,مورگان,morgan,Morgan,morgan,/brand/morgan/,morgan,morgan,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3631,"دایان وان فارستنبرگ",diane-von-furstenberg,"Diane Von Furstenberg",diane-von-furstenberg,/brand/diane-von-furstenberg/,diane-von-furstenberg,diane-von-furstenberg,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3635,دسپادا,despada,Despada,despada,/brand/despada/,despada,despada,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3638,بارنر,barner,Barner,barner,/brand/barner/,barner,barner,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3641,"کارن میلن",karen-millen,"Karen Millen",karen-millen,/brand/karen-millen/,karen-millen,karen-millen,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3644,"تد بیکر",ted-baker,"Ted Baker",ted-baker,/brand/ted-baker/,ted-baker,ted-baker,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3646,"جاست کاوالی",just-cavalli,"Just Cavalli",just-cavalli,/brand/just-cavalli/,just-cavalli,just-cavalli,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3648,لانستی,lancetti,LANCETTI,lancetti,/brand/lancetti/,lancetti,lancetti,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3650,شارنمون,sharnemon,Sharnemon,sharnemon,/brand/sharnemon/,sharnemon,sharnemon,no,14,14,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3653,"ایتالیا ایندپندنت",italia-independent,"Italia Independent",italia-independent,/brand/italia-independent/,italia-independent,italia-independent,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3659,"تیج سان",tijsan,Tijsan,tijsan,/brand/tijsan/,tijsan,tijsan,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3662,حقی,haghi,HAGHI,haghi,/brand/haghi/,haghi,haghi,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3685,"ضیاکو ترنج",zyaco-toranj,"ZYACO TORANJ",zyaco-toranj,/brand/zyaco-toranj/,zyaco-toranj,zyaco-toranj,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3687,اسمارا,esmara,Esmara,esmara,/brand/esmara/,esmara,esmara,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3690,"شهر شیک",shahr-e-shik,"Shahr e Shik",shahr-e-shik,/brand/shahr-e-shik/,shahr-e-shik,shahr-e-shik,no,26,26,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3692,"توان تن خزر",tavantan-khazar,"Tavantan Khazar",tavantan-khazar,/brand/tavantan-khazar/,tavantan-khazar,tavantan-khazar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3698,جینا,gina,Gina,gina,/brand/gina/,gina,gina,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3702,"آی تمر",ay-temer,"ay temer",ay-temer,/brand/ay-temer/,ay-temer,ay-temer,no,769,769,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3704,آنالیا,analia,Analia,analia,/brand/analia/,analia,analia,no,56,56,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3708,ژانت,zhanet,zhanet,zhanet,/brand/zhanet/,zhanet,zhanet,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3715,لیپو,lepu,lepu,lepu,/brand/lepu/,lepu,lepu,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3721,موریی,moree,moreE,moree,/brand/moree/,moree,moree,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3723,کاملیا,kamelia,KAMELIA,kamelia,/brand/kamelia/,kamelia,kamelia,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3725,آسیا,asia,Asia,asia,/brand/asia/,asia,asia,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3727,شیدخت,shidokht,Shidokht,shidokht,/brand/shidokht/,shidokht,shidokht,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3730,فونم,fonem,Fonem,fonem,/brand/fonem/,fonem,fonem,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3732,"تن یار",tanyar,Tanyar,tanyar,/brand/tanyar/,tanyar,tanyar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3735,اکوسبدکو,ecosabadco,ecosabadco,ecosabadco,/brand/ecosabadco/,ecosabadco,ecosabadco,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3737,ودز,wedze,WEDZE,wedze,/brand/wedze/,wedze,wedze,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3739,دیزنی,disney,Disney,disney,/brand/disney/,disney,disney,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3741,"کول بیت",coolbit,Coolbit,coolbit,/brand/coolbit/,coolbit,coolbit,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3743,"چرم کن ا",can-a-leather,"Can A Leather",can-a-leather,/brand/can-a-leather/,can-a-leather,can-a-leather,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3748,"گورین براز",goorin-bros,"Goorin Bros",goorin-bros,/brand/goorin-bros/,goorin-bros,goorin-bros,no,63,63,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3751,"نیو ارا",new-era,"New Era",new-era,/brand/new-era/,new-era,new-era,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3758,5.11,5-11,5.11,5-11,/brand/5-11/,5-11,5-11,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3762,هووک,huk,huk,huk,/brand/huk/,huk,huk,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3764,"راک براس",rockbros,Rockbros,rockbros,/brand/rockbros/,rockbros,rockbros,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3767,هووی,hooey,hooey,hooey,/brand/hooey/,hooey,hooey,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3769,قایا,gaya,Gaya,gaya,/brand/gaya/,gaya,gaya,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3772,باف,buff,Buff,buff,/brand/buff/,buff,buff,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3775,اوتو,otto,otto,otto,/brand/otto/,otto,otto,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3777,کوتون,koton,Koton,koton,/brand/koton/,koton,koton,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3780,آنتا,anta,Anta,anta,/brand/anta/,anta,anta,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3788,"اوت دور",outdoor,Outdoor,outdoor,/brand/outdoor/,outdoor,outdoor,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3791,"ای ایکس تو",ex2,EX2,ex2,/brand/ex2/,ex2,ex2,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3794,"بیک بوک",bik-bok,"Bik Bok",bik-bok,/brand/bik-bok/,bik-bok,bik-bok,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3796,دیوایدد,divided,Divided,divided,/brand/divided/,divided,divided,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3802,کاست,coast,Coast,coast,/brand/coast/,coast,coast,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3806,بوهو,boohoo,boohoo,boohoo,/brand/boohoo/,boohoo,boohoo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3808,"سالتی کرو",saltycrew,Saltycrew,saltycrew,/brand/saltycrew/,saltycrew,saltycrew,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3810,کوبوس,cubus,Cubus,cubus,/brand/cubus/,cubus,cubus,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3812,فورکاست,forcast,forcast,forcast,/brand/forcast/,forcast,forcast,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3814,فورد,ford,Ford,ford,/brand/ford/,ford,ford,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3816,آتلانتیس,atlantis,Atlantis,atlantis,/brand/atlantis/,atlantis,atlantis,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3824,میرافشن,mirafashion,MiraFashion,mirafashion,/brand/mirafashion/,mirafashion,mirafashion,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3829,ناکسیگو,naxigo,Naxigo,naxigo,/brand/naxigo/,naxigo,naxigo,no,815,815,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3833,یوفا,uefa,UEFA,uefa,/brand/uefa/,uefa,uefa,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3835,"باراج من",baraje-man,"baraje man",baraje-man,/brand/baraje-man/,baraje-man,baraje-man,no,65,65,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3837,"شیک کده",shik-kadeh,"Shik kadeh",shik-kadeh,/brand/shik-kadeh/,shik-kadeh,shik-kadeh,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3840,"استینلس استیل",stainless-steel,"stainless steel",stainless-steel,/brand/stainless-steel/,stainless-steel,stainless-steel,no,51,51,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3842,"مون لایت",moon-light,"Moon Light",moon-light,/brand/moon-light/,moon-light,moon-light,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3846,"وای اس ایکس",ysx,YSX,ysx,/brand/ysx/,ysx,ysx,no,53,53,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3849,"جی دبلیو ال",jwl,JWL,jwl,/brand/jwl/,jwl,jwl,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3852,عود,oood,Oood,oood,/brand/oood/,oood,oood,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3854,گلسو,golsou,Golsou,golsou,/brand/golsou/,golsou,golsou,no,97,97,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3859,"گالری شادونه",shadoone-gallery,"shadoone gallery",shadoone-gallery,/brand/shadoone-gallery/,shadoone-gallery,shadoone-gallery,no,44,44,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3861,زودیکا,zoodika,ZOODIKA,zoodika,/brand/zoodika/,zoodika,zoodika,no,161,161,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3866,آرامیس,aramis,Aramis,aramis,/brand/aramis/,aramis,aramis,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3870,لاچو,lacho,Lacho,lacho,/brand/lacho/,lacho,lacho,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3875,آکو,ako,Ako,ako,/brand/ako/,ako,ako,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3877,چوبین,choobin,Choobin,choobin,/brand/choobin/,choobin,choobin,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3879,لوتوس,lotus,Lotus,lotus,/brand/lotus/,lotus,lotus,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3881,"دنیل ولینگتون",daniel-wellington,"Daniel Wellington",daniel-wellington,/brand/daniel-wellington/,daniel-wellington,daniel-wellington,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3883,ذاریات,zariyat,Zariyat,zariyat,/brand/zariyat/,zariyat,zariyat,no,32,32,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3890,"پونت روما",punt-roma,"Punt Roma",punt-roma,/brand/punt-roma/,punt-roma,punt-roma,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3893,"اسکارلت بیجوکس",scarlet-bijoux,"scarlet bijoux",scarlet-bijoux,/brand/scarlet-bijoux/,scarlet-bijoux,scarlet-bijoux,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3895,ژابیز,xabiz,xabiz,xabiz,/brand/xabiz/,xabiz,xabiz,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3900,وینویز,viennois,Viennois,viennois,/brand/viennois/,viennois,viennois,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3906,کفایتیان,kgi,KGI,kgi,/brand/kgi/,kgi,kgi,no,23,23,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3909,دیمو,dimo,Dimo,dimo,/brand/dimo/,dimo,dimo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3911,"نچرالی ژوژو",naturally-jojo,"NATURALLY JOJO",naturally-jojo,/brand/naturally-jojo/,naturally-jojo,naturally-jojo,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3913,دادفوردیزاین,dad4design,DAD4DESIGN,dad4design,/brand/dad4design/,dad4design,dad4design,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3915,اقلیمه,eghlimeh,Eghlimeh,eghlimeh,/brand/eghlimeh/,eghlimeh,eghlimeh,no,334,334,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3919,مثالین,mesaleen,Mesaleen,mesaleen,/brand/mesaleen/,mesaleen,mesaleen,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3921,"نخل زیور",nakhlzivar,nakhlzivar,nakhlzivar,/brand/nakhlzivar/,nakhlzivar,nakhlzivar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3924,دانژه,danje,Danje,danje,/brand/danje/,danje,danje,no,210,210,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3926,"مارک گلد",mark-gold,"Mark Gold",mark-gold,/brand/mark-gold/,mark-gold,mark-gold,no,159,159,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3928,آدلی,adli-leather,"Adli Leather",adli-leather,/brand/adli-leather/,adli-leather,adli-leather,no,31,31,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3931,زرسام,zarsam,Zarsam,zarsam,/brand/zarsam/,zarsam,zarsam,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3936,تریوا,triwa,Triwa,triwa,/brand/triwa/,triwa,triwa,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3938,الون,alone,Alone,alone,/brand/alone/,alone,alone,no,77,77,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3940,پیلگریم,pilgrim,PILGRIM,pilgrim,/brand/pilgrim/,pilgrim,pilgrim,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3943,"ناز طلا آرا",naz-tala-ara,"Naz tala ara",naz-tala-ara,/brand/naz-tala-ara/,naz-tala-ara,naz-tala-ara,no,19,19,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3945,کلیو,clio,Clio,clio,/brand/clio/,clio,clio,no,37,37,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3949,"پاول هویت",paul-hewitt,"Paul Hewitt",paul-hewitt,/brand/paul-hewitt/,paul-hewitt,paul-hewitt,no,12,12,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3952,اورسای,orsay,orsay,orsay,/brand/orsay/,orsay,orsay,no,3,3,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3955,انزو,enzo,Enzo,enzo,/brand/enzo/,enzo,enzo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3958,"صنایع چرم پیری",sanaye-charm-piri,"Sanaye Charm Piri",sanaye-charm-piri,/brand/sanaye-charm-piri/,sanaye-charm-piri,sanaye-charm-piri,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3961,"جولری باکس تو",jewelry-box-two,"Jewelry Box Two",jewelry-box-two,/brand/jewelry-box-two/,jewelry-box-two,jewelry-box-two,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3963,"پرشین باکس",persian-box,"persian box",persian-box,/brand/persian-box/,persian-box,persian-box,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3970,"پارلا گوهر",parla-gohar,"Parla Gohar",parla-gohar,/brand/parla-gohar/,parla-gohar,parla-gohar,no,24,24,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3972,کیتا,kita,kita,kita,/brand/kita/,kita,kita,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3974,"آریا کریستال",arya-crystal,"Arya Crystal",arya-crystal,/brand/arya-crystal/,arya-crystal,arya-crystal,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3978,سیتیزن,citizen,Citizen,citizen,/brand/citizen/,citizen,citizen,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3982,"کارا دیزاین",kara-design,"Kara Design",kara-design,/brand/kara-design/,kara-design,kara-design,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3985,سیلویا,silvia,Silvia,silvia,/brand/silvia/,silvia,silvia,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3987,افتخار,eftekhaar,Eftekhaar,eftekhaar,/brand/eftekhaar/,eftekhaar,eftekhaar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3989,"استیند گلاس",staind-glass,"staind glass",staind-glass,/brand/staind-glass/,staind-glass,staind-glass,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3992,"گالری شمرون",shemron-gallery,"Shemron Gallery",shemron-gallery,/brand/shemron-gallery/,shemron-gallery,shemron-gallery,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3994,"مایا ماهک",maya-maahak,"Maya Maahak",maya-maahak,/brand/maya-maahak/,maya-maahak,maya-maahak,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+3997,مریخ,merrix,Merrix,merrix,/brand/merrix/,merrix,merrix,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4004,"صنایع دست ساز باربد",barbod-handmade,"Barbod Handmade",barbod-handmade,/brand/barbod-handmade/,barbod-handmade,barbod-handmade,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4007,"سین گالری",sin-gallery,"Sin Gallery",sin-gallery,/brand/sin-gallery/,sin-gallery,sin-gallery,no,5,5,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4011,دریم,dream,Dream,dream,/brand/dream/,dream,dream,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4016,"خط هنر",khate-honar,"khate honar",khate-honar,/brand/khate-honar/,khate-honar,khate-honar,no,8,8,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4021,"فشن جویلری",fashion-jewelry,"Fashion Jewelry",fashion-jewelry,/brand/fashion-jewelry/,fashion-jewelry,fashion-jewelry,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4027,دلبر,delbar,delbar,delbar,/brand/delbar/,delbar,delbar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4030,"سی اند ای",ca,C&A,ca,/brand/ca/,ca,ca,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4040,"کاز استورس",cosstores,Cosstores,cosstores,/brand/cosstores/,cosstores,cosstores,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4043,مگافون,megafone,MEGAFONE,megafone,/brand/megafone/,megafone,megafone,no,34,34,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4048,بانیبو,banibo,Banibo,banibo,/brand/banibo/,banibo,banibo,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4051,ژیلو,zhilo,zhilo,zhilo,/brand/zhilo/,zhilo,zhilo,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4053,نمدیکا,namadika,Namadika,namadika,/brand/namadika/,namadika,namadika,no,29,29,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4061,"دنیای سرگرمی های کمیاب",doniaye-sargarmihaye-kamyab,"DONIAYE SARGARMIHAYE KAMYAB",doniaye-sargarmihaye-kamyab,/brand/doniaye-sargarmihaye-kamyab/,doniaye-sargarmihaye-kamyab,doniaye-sargarmihaye-kamyab,no,9,9,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4065,"طوطی دیزاین",2t-design,"2T Design",2t-design,/brand/2t-design/,2t-design,2t-design,no,22,22,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4071,لوکسار,luxar,LUXAR,luxar,/brand/luxar/,luxar,luxar,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4073,توسن,tosan,TOSAN,tosan,/brand/tosan/,tosan,tosan,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4076,"ام آر جی",mrj,MRJ,mrj,/brand/mrj/,mrj,mrj,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4082,کملیون,camelion,Camelion,camelion,/brand/camelion/,camelion,camelion,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4084,رستا,rasta,Rasta,rasta,/brand/rasta/,rasta,rasta,no,7,7,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4089,ایکسسوری,x-cessories,X-cessories,x-cessories,/brand/x-cessories/,x-cessories,x-cessories,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4094,ویکتورینوکس,victorinox,VICTORINOX,victorinox,/brand/victorinox/,victorinox,victorinox,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4096,اسپیگن,spigen,Spigen,spigen,/brand/spigen/,spigen,spigen,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4099,لگو,lego,Lego,lego,/brand/lego/,lego,lego,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4102,وارتا,varta,Varta,varta,/brand/varta/,varta,varta,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4105,چرماهنگ,charmahang,Charmahang,charmahang,/brand/charmahang/,charmahang,charmahang,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4108,فانکو,funko,Funko,funko,/brand/funko/,funko,funko,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4113,نینو,nino,Nino,nino,/brand/nino/,nino,nino,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4142,"آف ناز",offnaz,Offnaz,offnaz,/brand/offnaz/,offnaz,offnaz,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4145,"النا آراکس",elena-arax,"elena arax",elena-arax,/brand/elena-arax/,elena-arax,elena-arax,no,41,41,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4148,"ماه فام",mahfam,Mahfam,mahfam,/brand/mahfam/,mahfam,mahfam,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4154,"هنری ساز",honarisaz,Honarisaz,honarisaz,/brand/honarisaz/,honarisaz,honarisaz,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4166,هایکا,haika,haika,haika,/brand/haika/,haika,haika,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4184,"ملک زیور",malek-zivar,"MALEK ZIVAR",malek-zivar,/brand/malek-zivar/,malek-zivar,malek-zivar,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4188,"تیپ لند",tipland,Tipland,tipland,/brand/tipland/,tipland,tipland,no,6,6,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4190,"وینگز بایو",wings-byou,"Wings Byou",wings-byou,/brand/wings-byou/,wings-byou,wings-byou,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4195,"کاراکتر کلاب",character-club,"CHARACTER CLUB",character-club,/brand/character-club/,character-club,character-club,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4198,"نقش نگار رضوی",naghsh-negar-razavi,"Naghsh Negar Razavi",naghsh-negar-razavi,/brand/naghsh-negar-razavi/,naghsh-negar-razavi,naghsh-negar-razavi,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4226,مانگون,manguun,manguun,manguun,/brand/manguun/,manguun,manguun,no,2,2,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4229,اینفینیتی,infinity,Infinity,infinity,/brand/infinity/,infinity,infinity,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4237,"میلا شون",mila-schon,"mila schon",mila-schon,/brand/mila-schon/,mila-schon,mila-schon,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4239,"تاج نیا",tajnia,tajnia,tajnia,/brand/tajnia/,tajnia,tajnia,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4242,آیلار,aylar,Aylar,aylar,/brand/aylar/,aylar,aylar,no,4,4,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4244,دونابل,donnabel,Donnabel,donnabel,/brand/donnabel/,donnabel,donnabel,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4246,ماتیل,mattel,Mattel,mattel,/brand/mattel/,mattel,mattel,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
+4248,هاماگراف,hamagraph,hamagraph,hamagraph,/brand/hamagraph/,hamagraph,hamagraph,no,1,1,source_not_verified,MANUALLY_VERIFY_REAL_DIGIKALA_URL
